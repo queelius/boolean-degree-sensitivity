@@ -1,0 +1,6 @@
+__pycache__/
+.pytest_cache/
+.venv/
+fresh-results/
+replay-results*/
+*.pyc

@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "contribution_id": "boolean-degree-five-exact-spectral-exclusions",
+  "title": "Exact conditional exclusions for degree-five Boolean candidates",
+  "global_problem_status": "OPEN",
+  "scope": "Ten explicitly specified marked-pattern cases in signed geometry 34 of the self-dual empty-pair branch",
+  "case_specification": {
+    "path": "CASES.json",
+    "sha256": "27b06c0833831983ba79e628e7ce2355e6e4871081adf0fea3586ef124099d75"
+  },
+  "case_count": 10,
+  "exact_case_ids": [
+    221,
+    581,
+    178,
+    386,
+    597,
+    599,
+    601,
+    191,
+    626,
+    656
+  ],
+  "actual_boolean_construction": false,
+  "exhaustive_nonexistence_proof": false,
+  "verification": {
+    "local_independent_integer_certificates": true,
+    "source_control_tests": 138,
+    "staged_archive_replay": "IN_PROGRESS",
+    "human_peer_review": "not claimed",
+    "proof_assistant_formalization": false
+  },
+  "publication": {
+    "state": "archive_pending",
+    "version_doi": null,
+    "concept_doi": null,
+    "original_public_disclosures": [],
+    "source_repository": "https://github.com/queelius/boolean-degree-sensitivity"
+  },
+  "novelty": "bounded assessment only; not established",
+  "author": {
+    "name": "Alexander Richard Towell",
+    "orcid": "0000-0001-6443-9897",
+    "affiliation": "Southern Illinois University Edwardsville"
+  },
+  "ai_assistance": "Substantial OpenAI Codex assistance in mathematics, source, experiments, verification and exposition."
+}

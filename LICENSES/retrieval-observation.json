@@ -1,0 +1,14 @@
+[
+  {
+    "file": "HiGHS-1.8.0-MIT.txt",
+    "url": "https://raw.githubusercontent.com/ERGO-Code/HiGHS/v1.8.0/LICENSE.txt",
+    "status": 200,
+    "sha256": "10b39dba7b7731175f0705398b6db4320b64add1bd2ed9f9ec5b512a9ef1bd95"
+  },
+  {
+    "file": "CC-BY-4.0.txt",
+    "url": "https://creativecommons.org/licenses/by/4.0/legalcode.txt",
+    "status": 200,
+    "sha256": "9ba9550ad48438d0836ddab3da480b3b69ffa0aac7b7878b5a0039e7ab429411"
+  }
+]

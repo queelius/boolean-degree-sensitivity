@@ -1,0 +1,17 @@
+{
+  "kind": "verification_entry_point_import_closure",
+  "files": [
+    {
+      "archive_path": "source/.research/attempts/009-parent-analysis/gzip_certificate_io.py",
+      "original_path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/gzip_certificate_io.py",
+      "sha256": "4d273db9541a1eda9db282a1739ad4c06eda4898299d3303fff60c7e64dbf691",
+      "bytes": 732
+    },
+    {
+      "archive_path": "source/.research/attempts/009-parent-analysis/compose_class40_same_b_acceptance.py",
+      "original_path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/compose_class40_same_b_acceptance.py",
+      "sha256": "30aaf57be504f298302ba49aa14c8dc1eda86dff15ddf8fad981e02d90c8c548",
+      "bytes": 6157
+    }
+  ]
+}

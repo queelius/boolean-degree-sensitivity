@@ -1,0 +1,53 @@
+{
+  "kind": "additional_control_source_manifest",
+  "files": [
+    {
+      "archive_path": "source/.research/attempts/009-parent-analysis/joint_core_moments.py",
+      "original_path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/joint_core_moments.py",
+      "sha256": "d6eda8f88ca048e700908d60a67b7747286c71a8b219f56ad90bb0fdb090bb62",
+      "bytes": 3896
+    },
+    {
+      "archive_path": "source/.research/attempts/009-parent-analysis/two_positive_three_cubes.py",
+      "original_path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/two_positive_three_cubes.py",
+      "sha256": "578573e789414b4662d8392675060fd92b4bba8858ba39ebbd254bab2cc56825",
+      "bytes": 3982
+    },
+    {
+      "archive_path": "source/.research/attempts/009-parent-analysis/two_positive_pair_domains.py",
+      "original_path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/two_positive_pair_domains.py",
+      "sha256": "b92227e6250fab8e0b833fc0d014d18e62a85c4af8d78eed7fc8a9d99662ffb4",
+      "bytes": 3188
+    },
+    {
+      "archive_path": "source/.research/attempts/009-parent-analysis/baseline_full_truth_model.py",
+      "original_path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/baseline_full_truth_model.py",
+      "sha256": "3ae35b16c85ceb806718fdd75a122a00428ecc8a651dd0ac6099856fbb17646b",
+      "bytes": 4881
+    },
+    {
+      "archive_path": "source/.research/attempts/009-parent-analysis/diagnostic_box_ipm_nocrossover.py",
+      "original_path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/diagnostic_box_ipm_nocrossover.py",
+      "sha256": "bf2c6ad46a351c9a291c4fd5b1d5f791bed5d20a3e600bae4975610f0ce850dd",
+      "bytes": 5460
+    },
+    {
+      "archive_path": "source/.research/attempts/009-parent-analysis/test_core_slice_degree_lp.py",
+      "original_path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_core_slice_degree_lp.py",
+      "sha256": "19e8b3f9e33ddf91fb10b7a82e45b09d11045c09d0ddacfd7709ea77f90bd890",
+      "bytes": 5446
+    },
+    {
+      "archive_path": "source/.research/attempts/009-parent-analysis/condition_core_word_scores.py",
+      "original_path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/condition_core_word_scores.py",
+      "sha256": "feee7bd34e540096729224747df2f6674042c935262b4782b43c45e9f0616aeb",
+      "bytes": 770
+    },
+    {
+      "archive_path": "source/.research/attempts/009-parent-analysis/test_condition_core_word_scores.py",
+      "original_path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_condition_core_word_scores.py",
+      "sha256": "f4453b0c2b51526ad5b8c4ad779257235675bf90b1798594e01890d159a6dd5a",
+      "bytes": 946
+    }
+  ]
+}

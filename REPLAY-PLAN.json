@@ -1,0 +1,717 @@
+{
+  "original_root": "/home/spinoza/github/math-theory",
+  "workdir": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis",
+  "tests": [
+    "test_condition_core_word_scores.py",
+    "test_conditioned_spectrum_bounds.py",
+    "test_first_case_spectrum_exclusion.py",
+    "test_first_case_spectrum_scope.py",
+    "test_literal_bounded_core_spectrum_rows.py",
+    "test_literal_primitive_rows.py",
+    "test_propagated_spectrum_minimum.py",
+    "test_simplex_row_reconstruction.py",
+    "test_spectrum_dual_functional.py",
+    "test_transfer_spectrum_row_weights.py",
+    "test_transferred_spectrum_certificate.py"
+  ],
+  "expected_test_count": 138,
+  "propagation": "matched-g34-ranked-family-propagation-cycle643.json",
+  "expected_deletions": 137004,
+  "cases": [
+    {
+      "first_row": 221,
+      "stages": [
+        {
+          "cycle": 647,
+          "argv": [
+            "verify_first_case_full_spectrum_inputs.py",
+            "--source",
+            "matched-g34-first221-full-spectrum-inputs-cycle646.json",
+            "--output",
+            "matched-g34-first221-full-spectrum-inputs-independent-manifest-cycle647.json"
+          ],
+          "expected": {
+            "complete_original_pattern_cover": true,
+            "complete_word_pool_cover": true,
+            "complete_projected_coefficient_cover": true,
+            "whole_first_case_necessary_cover": true,
+            "core_truth_tables_checked": 65536,
+            "word_variables": 36580,
+            "pattern_variables": 27485,
+            "projected_coefficients": 1406,
+            "free_coefficient_flags": 1405,
+            "empty_points": []
+          },
+          "scope": {
+            "kind": "complete_first_case",
+            "geometry_index": 34,
+            "first_row": 221,
+            "quotient_authority": {
+              "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/matched-g34-first-row-quotient-independent-manifest-cycle278.json",
+              "sha256": "a5a7e7fe72762fa26580b05cf79db2b6a303ddca2c24ad3183679bcd3f91513e"
+            }
+          }
+        },
+        {
+          "cycle": 651,
+          "argv": [
+            "verify_first_case_spectrum_lp.py",
+            "--model",
+            "matched-g34-first221-spectrum-model-cycle648.json",
+            "--run",
+            "matched-g34-first221-transferred-spectrum-certificate-cycle650.json",
+            "--output",
+            "matched-g34-first221-transferred-spectrum-independent-manifest-cycle651.json",
+            "--memory-mib",
+            "4096"
+          ],
+          "expected": {
+            "all_original_rows_and_divisors_rebuilt": true,
+            "saved_primitive_matrix_equal_literal_rows": true,
+            "complete_distribution_partitions_rebuilt": true,
+            "all_projected_coefficient_domains_rebuilt": true,
+            "all_value_moment_and_budget_rows_rebuilt": true,
+            "exact_integer_rhs": -2611936416576,
+            "exact_certificate_verified": true,
+            "whole_first_case_excluded": true
+          },
+          "scope": {
+            "kind": "complete_first_case",
+            "geometry_index": 34,
+            "first_row": 221,
+            "quotient_authority": {
+              "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/matched-g34-first-row-quotient-independent-manifest-cycle278.json",
+              "sha256": "a5a7e7fe72762fa26580b05cf79db2b6a303ddca2c24ad3183679bcd3f91513e"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "first_row": 581,
+      "stages": [
+        {
+          "cycle": 647,
+          "argv": [
+            "verify_first_case_full_spectrum_inputs.py",
+            "--source",
+            "matched-g34-first581-full-spectrum-inputs-cycle646.json",
+            "--output",
+            "matched-g34-first581-full-spectrum-inputs-independent-manifest-cycle647.json"
+          ],
+          "expected": {
+            "complete_original_pattern_cover": true,
+            "complete_word_pool_cover": true,
+            "complete_projected_coefficient_cover": true,
+            "whole_first_case_necessary_cover": true,
+            "core_truth_tables_checked": 65536,
+            "word_variables": 34050,
+            "pattern_variables": 26271,
+            "projected_coefficients": 1406,
+            "free_coefficient_flags": 1405,
+            "empty_points": []
+          },
+          "scope": {
+            "kind": "complete_first_case",
+            "geometry_index": 34,
+            "first_row": 581,
+            "quotient_authority": {
+              "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/matched-g34-first-row-quotient-independent-manifest-cycle278.json",
+              "sha256": "a5a7e7fe72762fa26580b05cf79db2b6a303ddca2c24ad3183679bcd3f91513e"
+            }
+          }
+        },
+        {
+          "cycle": 651,
+          "argv": [
+            "verify_first_case_spectrum_lp.py",
+            "--model",
+            "matched-g34-first581-spectrum-model-cycle648.json",
+            "--run",
+            "matched-g34-first581-transferred-spectrum-certificate-cycle650.json",
+            "--output",
+            "matched-g34-first581-transferred-spectrum-independent-manifest-cycle651.json",
+            "--memory-mib",
+            "4096"
+          ],
+          "expected": {
+            "all_original_rows_and_divisors_rebuilt": true,
+            "saved_primitive_matrix_equal_literal_rows": true,
+            "complete_distribution_partitions_rebuilt": true,
+            "all_projected_coefficient_domains_rebuilt": true,
+            "all_value_moment_and_budget_rows_rebuilt": true,
+            "exact_integer_rhs": -2074094571968,
+            "exact_certificate_verified": true,
+            "whole_first_case_excluded": true
+          },
+          "scope": {
+            "kind": "complete_first_case",
+            "geometry_index": 34,
+            "first_row": 581,
+            "quotient_authority": {
+              "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/matched-g34-first-row-quotient-independent-manifest-cycle278.json",
+              "sha256": "a5a7e7fe72762fa26580b05cf79db2b6a303ddca2c24ad3183679bcd3f91513e"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "first_row": 178,
+      "stages": [
+        {
+          "cycle": 647,
+          "argv": [
+            "verify_first_case_full_spectrum_inputs.py",
+            "--source",
+            "matched-g34-first178-full-spectrum-inputs-cycle646.json",
+            "--output",
+            "matched-g34-first178-full-spectrum-inputs-independent-manifest-cycle647.json"
+          ],
+          "expected": {
+            "complete_original_pattern_cover": true,
+            "complete_word_pool_cover": true,
+            "complete_projected_coefficient_cover": true,
+            "whole_first_case_necessary_cover": true,
+            "core_truth_tables_checked": 65536,
+            "word_variables": 36032,
+            "pattern_variables": 27641,
+            "projected_coefficients": 1406,
+            "free_coefficient_flags": 1405,
+            "empty_points": []
+          },
+          "scope": {
+            "kind": "complete_first_case",
+            "geometry_index": 34,
+            "first_row": 178,
+            "quotient_authority": {
+              "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/matched-g34-first-row-quotient-independent-manifest-cycle278.json",
+              "sha256": "a5a7e7fe72762fa26580b05cf79db2b6a303ddca2c24ad3183679bcd3f91513e"
+            }
+          }
+        },
+        {
+          "cycle": 651,
+          "argv": [
+            "verify_first_case_spectrum_lp.py",
+            "--model",
+            "matched-g34-first178-spectrum-model-cycle648.json",
+            "--run",
+            "matched-g34-first178-transferred-spectrum-certificate-cycle650.json",
+            "--output",
+            "matched-g34-first178-transferred-spectrum-independent-manifest-cycle651.json",
+            "--memory-mib",
+            "4096"
+          ],
+          "expected": {
+            "all_original_rows_and_divisors_rebuilt": true,
+            "saved_primitive_matrix_equal_literal_rows": true,
+            "complete_distribution_partitions_rebuilt": true,
+            "all_projected_coefficient_domains_rebuilt": true,
+            "all_value_moment_and_budget_rows_rebuilt": true,
+            "exact_integer_rhs": -1517971125184,
+            "exact_certificate_verified": true,
+            "whole_first_case_excluded": true
+          },
+          "scope": {
+            "kind": "complete_first_case",
+            "geometry_index": 34,
+            "first_row": 178,
+            "quotient_authority": {
+              "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/matched-g34-first-row-quotient-independent-manifest-cycle278.json",
+              "sha256": "a5a7e7fe72762fa26580b05cf79db2b6a303ddca2c24ad3183679bcd3f91513e"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "first_row": 386,
+      "stages": [
+        {
+          "cycle": 647,
+          "argv": [
+            "verify_first_case_full_spectrum_inputs.py",
+            "--source",
+            "matched-g34-first386-full-spectrum-inputs-cycle646.json",
+            "--output",
+            "matched-g34-first386-full-spectrum-inputs-independent-manifest-cycle647.json"
+          ],
+          "expected": {
+            "complete_original_pattern_cover": true,
+            "complete_word_pool_cover": true,
+            "complete_projected_coefficient_cover": true,
+            "whole_first_case_necessary_cover": true,
+            "core_truth_tables_checked": 65536,
+            "word_variables": 35763,
+            "pattern_variables": 29488,
+            "projected_coefficients": 1406,
+            "free_coefficient_flags": 1405,
+            "empty_points": []
+          },
+          "scope": {
+            "kind": "complete_first_case",
+            "geometry_index": 34,
+            "first_row": 386,
+            "quotient_authority": {
+              "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/matched-g34-first-row-quotient-independent-manifest-cycle278.json",
+              "sha256": "a5a7e7fe72762fa26580b05cf79db2b6a303ddca2c24ad3183679bcd3f91513e"
+            }
+          }
+        },
+        {
+          "cycle": 651,
+          "argv": [
+            "verify_first_case_spectrum_lp.py",
+            "--model",
+            "matched-g34-first386-spectrum-model-cycle648.json",
+            "--run",
+            "matched-g34-first386-transferred-spectrum-certificate-cycle650.json",
+            "--output",
+            "matched-g34-first386-transferred-spectrum-independent-manifest-cycle651.json",
+            "--memory-mib",
+            "4096"
+          ],
+          "expected": {
+            "all_original_rows_and_divisors_rebuilt": true,
+            "saved_primitive_matrix_equal_literal_rows": true,
+            "complete_distribution_partitions_rebuilt": true,
+            "all_projected_coefficient_domains_rebuilt": true,
+            "all_value_moment_and_budget_rows_rebuilt": true,
+            "exact_integer_rhs": -830761159296,
+            "exact_certificate_verified": true,
+            "whole_first_case_excluded": true
+          },
+          "scope": {
+            "kind": "complete_first_case",
+            "geometry_index": 34,
+            "first_row": 386,
+            "quotient_authority": {
+              "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/matched-g34-first-row-quotient-independent-manifest-cycle278.json",
+              "sha256": "a5a7e7fe72762fa26580b05cf79db2b6a303ddca2c24ad3183679bcd3f91513e"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "first_row": 597,
+      "stages": [
+        {
+          "cycle": 647,
+          "argv": [
+            "verify_first_case_full_spectrum_inputs.py",
+            "--source",
+            "matched-g34-first597-full-spectrum-inputs-cycle646.json",
+            "--output",
+            "matched-g34-first597-full-spectrum-inputs-independent-manifest-cycle647.json"
+          ],
+          "expected": {
+            "complete_original_pattern_cover": true,
+            "complete_word_pool_cover": true,
+            "complete_projected_coefficient_cover": true,
+            "whole_first_case_necessary_cover": true,
+            "core_truth_tables_checked": 65536,
+            "word_variables": 36522,
+            "pattern_variables": 28126,
+            "projected_coefficients": 1406,
+            "free_coefficient_flags": 1405,
+            "empty_points": []
+          },
+          "scope": {
+            "kind": "complete_first_case",
+            "geometry_index": 34,
+            "first_row": 597,
+            "quotient_authority": {
+              "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/matched-g34-first-row-quotient-independent-manifest-cycle278.json",
+              "sha256": "a5a7e7fe72762fa26580b05cf79db2b6a303ddca2c24ad3183679bcd3f91513e"
+            }
+          }
+        },
+        {
+          "cycle": 651,
+          "argv": [
+            "verify_first_case_spectrum_lp.py",
+            "--model",
+            "matched-g34-first597-spectrum-model-cycle648.json",
+            "--run",
+            "matched-g34-first597-transferred-spectrum-certificate-cycle650.json",
+            "--output",
+            "matched-g34-first597-transferred-spectrum-independent-manifest-cycle651.json",
+            "--memory-mib",
+            "4096"
+          ],
+          "expected": {
+            "all_original_rows_and_divisors_rebuilt": true,
+            "saved_primitive_matrix_equal_literal_rows": true,
+            "complete_distribution_partitions_rebuilt": true,
+            "all_projected_coefficient_domains_rebuilt": true,
+            "all_value_moment_and_budget_rows_rebuilt": true,
+            "exact_integer_rhs": -945552411648,
+            "exact_certificate_verified": true,
+            "whole_first_case_excluded": true
+          },
+          "scope": {
+            "kind": "complete_first_case",
+            "geometry_index": 34,
+            "first_row": 597,
+            "quotient_authority": {
+              "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/matched-g34-first-row-quotient-independent-manifest-cycle278.json",
+              "sha256": "a5a7e7fe72762fa26580b05cf79db2b6a303ddca2c24ad3183679bcd3f91513e"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "first_row": 599,
+      "stages": [
+        {
+          "cycle": 647,
+          "argv": [
+            "verify_first_case_full_spectrum_inputs.py",
+            "--source",
+            "matched-g34-first599-full-spectrum-inputs-cycle646.json",
+            "--output",
+            "matched-g34-first599-full-spectrum-inputs-independent-manifest-cycle647.json"
+          ],
+          "expected": {
+            "complete_original_pattern_cover": true,
+            "complete_word_pool_cover": true,
+            "complete_projected_coefficient_cover": true,
+            "whole_first_case_necessary_cover": true,
+            "core_truth_tables_checked": 65536,
+            "word_variables": 36439,
+            "pattern_variables": 27403,
+            "projected_coefficients": 1406,
+            "free_coefficient_flags": 1405,
+            "empty_points": []
+          },
+          "scope": {
+            "kind": "complete_first_case",
+            "geometry_index": 34,
+            "first_row": 599,
+            "quotient_authority": {
+              "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/matched-g34-first-row-quotient-independent-manifest-cycle278.json",
+              "sha256": "a5a7e7fe72762fa26580b05cf79db2b6a303ddca2c24ad3183679bcd3f91513e"
+            }
+          }
+        },
+        {
+          "cycle": 651,
+          "argv": [
+            "verify_first_case_spectrum_lp.py",
+            "--model",
+            "matched-g34-first599-spectrum-model-cycle648.json",
+            "--run",
+            "matched-g34-first599-transferred-spectrum-certificate-cycle650.json",
+            "--output",
+            "matched-g34-first599-transferred-spectrum-independent-manifest-cycle651.json",
+            "--memory-mib",
+            "4096"
+          ],
+          "expected": {
+            "all_original_rows_and_divisors_rebuilt": true,
+            "saved_primitive_matrix_equal_literal_rows": true,
+            "complete_distribution_partitions_rebuilt": true,
+            "all_projected_coefficient_domains_rebuilt": true,
+            "all_value_moment_and_budget_rows_rebuilt": true,
+            "exact_integer_rhs": -1174144938240,
+            "exact_certificate_verified": true,
+            "whole_first_case_excluded": true
+          },
+          "scope": {
+            "kind": "complete_first_case",
+            "geometry_index": 34,
+            "first_row": 599,
+            "quotient_authority": {
+              "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/matched-g34-first-row-quotient-independent-manifest-cycle278.json",
+              "sha256": "a5a7e7fe72762fa26580b05cf79db2b6a303ddca2c24ad3183679bcd3f91513e"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "first_row": 601,
+      "stages": [
+        {
+          "cycle": 647,
+          "argv": [
+            "verify_first_case_full_spectrum_inputs.py",
+            "--source",
+            "matched-g34-first601-full-spectrum-inputs-cycle646.json",
+            "--output",
+            "matched-g34-first601-full-spectrum-inputs-independent-manifest-cycle647.json"
+          ],
+          "expected": {
+            "complete_original_pattern_cover": true,
+            "complete_word_pool_cover": true,
+            "complete_projected_coefficient_cover": true,
+            "whole_first_case_necessary_cover": true,
+            "core_truth_tables_checked": 65536,
+            "word_variables": 36577,
+            "pattern_variables": 28362,
+            "projected_coefficients": 1406,
+            "free_coefficient_flags": 1405,
+            "empty_points": []
+          },
+          "scope": {
+            "kind": "complete_first_case",
+            "geometry_index": 34,
+            "first_row": 601,
+            "quotient_authority": {
+              "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/matched-g34-first-row-quotient-independent-manifest-cycle278.json",
+              "sha256": "a5a7e7fe72762fa26580b05cf79db2b6a303ddca2c24ad3183679bcd3f91513e"
+            }
+          }
+        },
+        {
+          "cycle": 651,
+          "argv": [
+            "verify_first_case_spectrum_lp.py",
+            "--model",
+            "matched-g34-first601-spectrum-model-cycle648.json",
+            "--run",
+            "matched-g34-first601-transferred-spectrum-certificate-cycle650.json",
+            "--output",
+            "matched-g34-first601-transferred-spectrum-independent-manifest-cycle651.json",
+            "--memory-mib",
+            "4096"
+          ],
+          "expected": {
+            "all_original_rows_and_divisors_rebuilt": true,
+            "saved_primitive_matrix_equal_literal_rows": true,
+            "complete_distribution_partitions_rebuilt": true,
+            "all_projected_coefficient_domains_rebuilt": true,
+            "all_value_moment_and_budget_rows_rebuilt": true,
+            "exact_integer_rhs": -895648535744,
+            "exact_certificate_verified": true,
+            "whole_first_case_excluded": true
+          },
+          "scope": {
+            "kind": "complete_first_case",
+            "geometry_index": 34,
+            "first_row": 601,
+            "quotient_authority": {
+              "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/matched-g34-first-row-quotient-independent-manifest-cycle278.json",
+              "sha256": "a5a7e7fe72762fa26580b05cf79db2b6a303ddca2c24ad3183679bcd3f91513e"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "first_row": 191,
+      "stages": [
+        {
+          "cycle": 647,
+          "argv": [
+            "verify_first_case_full_spectrum_inputs.py",
+            "--source",
+            "matched-g34-first191-full-spectrum-inputs-cycle646.json",
+            "--output",
+            "matched-g34-first191-full-spectrum-inputs-independent-manifest-cycle647.json"
+          ],
+          "expected": {
+            "complete_original_pattern_cover": true,
+            "complete_word_pool_cover": true,
+            "complete_projected_coefficient_cover": true,
+            "whole_first_case_necessary_cover": true,
+            "core_truth_tables_checked": 65536,
+            "word_variables": 36693,
+            "pattern_variables": 27490,
+            "projected_coefficients": 1406,
+            "free_coefficient_flags": 1405,
+            "empty_points": []
+          },
+          "scope": {
+            "kind": "complete_first_case",
+            "geometry_index": 34,
+            "first_row": 191,
+            "quotient_authority": {
+              "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/matched-g34-first-row-quotient-independent-manifest-cycle278.json",
+              "sha256": "a5a7e7fe72762fa26580b05cf79db2b6a303ddca2c24ad3183679bcd3f91513e"
+            }
+          }
+        },
+        {
+          "cycle": 651,
+          "argv": [
+            "verify_first_case_spectrum_lp.py",
+            "--model",
+            "matched-g34-first191-spectrum-model-cycle648.json",
+            "--run",
+            "matched-g34-first191-transferred-spectrum-certificate-cycle650.json",
+            "--output",
+            "matched-g34-first191-transferred-spectrum-independent-manifest-cycle651.json",
+            "--memory-mib",
+            "4096"
+          ],
+          "expected": {
+            "all_original_rows_and_divisors_rebuilt": true,
+            "saved_primitive_matrix_equal_literal_rows": true,
+            "complete_distribution_partitions_rebuilt": true,
+            "all_projected_coefficient_domains_rebuilt": true,
+            "all_value_moment_and_budget_rows_rebuilt": true,
+            "exact_integer_rhs": -485603439296,
+            "exact_certificate_verified": true,
+            "whole_first_case_excluded": true
+          },
+          "scope": {
+            "kind": "complete_first_case",
+            "geometry_index": 34,
+            "first_row": 191,
+            "quotient_authority": {
+              "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/matched-g34-first-row-quotient-independent-manifest-cycle278.json",
+              "sha256": "a5a7e7fe72762fa26580b05cf79db2b6a303ddca2c24ad3183679bcd3f91513e"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "first_row": 626,
+      "stages": [
+        {
+          "cycle": 647,
+          "argv": [
+            "verify_first_case_full_spectrum_inputs.py",
+            "--source",
+            "matched-g34-first626-full-spectrum-inputs-cycle646.json",
+            "--output",
+            "matched-g34-first626-full-spectrum-inputs-independent-manifest-cycle647.json"
+          ],
+          "expected": {
+            "complete_original_pattern_cover": true,
+            "complete_word_pool_cover": true,
+            "complete_projected_coefficient_cover": true,
+            "whole_first_case_necessary_cover": true,
+            "core_truth_tables_checked": 65536,
+            "word_variables": 36118,
+            "pattern_variables": 26628,
+            "projected_coefficients": 1406,
+            "free_coefficient_flags": 1405,
+            "empty_points": []
+          },
+          "scope": {
+            "kind": "complete_first_case",
+            "geometry_index": 34,
+            "first_row": 626,
+            "quotient_authority": {
+              "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/matched-g34-first-row-quotient-independent-manifest-cycle278.json",
+              "sha256": "a5a7e7fe72762fa26580b05cf79db2b6a303ddca2c24ad3183679bcd3f91513e"
+            }
+          }
+        },
+        {
+          "cycle": 651,
+          "argv": [
+            "verify_first_case_spectrum_lp.py",
+            "--model",
+            "matched-g34-first626-spectrum-model-cycle648.json",
+            "--run",
+            "matched-g34-first626-transferred-spectrum-certificate-cycle650.json",
+            "--output",
+            "matched-g34-first626-transferred-spectrum-independent-manifest-cycle651.json",
+            "--memory-mib",
+            "4096"
+          ],
+          "expected": {
+            "all_original_rows_and_divisors_rebuilt": true,
+            "saved_primitive_matrix_equal_literal_rows": true,
+            "complete_distribution_partitions_rebuilt": true,
+            "all_projected_coefficient_domains_rebuilt": true,
+            "all_value_moment_and_budget_rows_rebuilt": true,
+            "exact_integer_rhs": -894422217152,
+            "exact_certificate_verified": true,
+            "whole_first_case_excluded": true
+          },
+          "scope": {
+            "kind": "complete_first_case",
+            "geometry_index": 34,
+            "first_row": 626,
+            "quotient_authority": {
+              "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/matched-g34-first-row-quotient-independent-manifest-cycle278.json",
+              "sha256": "a5a7e7fe72762fa26580b05cf79db2b6a303ddca2c24ad3183679bcd3f91513e"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "first_row": 656,
+      "stages": [
+        {
+          "cycle": 647,
+          "argv": [
+            "verify_first_case_full_spectrum_inputs.py",
+            "--source",
+            "matched-g34-first656-full-spectrum-inputs-cycle646.json",
+            "--output",
+            "matched-g34-first656-full-spectrum-inputs-independent-manifest-cycle647.json"
+          ],
+          "expected": {
+            "complete_original_pattern_cover": true,
+            "complete_word_pool_cover": true,
+            "complete_projected_coefficient_cover": true,
+            "whole_first_case_necessary_cover": true,
+            "core_truth_tables_checked": 65536,
+            "word_variables": 36020,
+            "pattern_variables": 26657,
+            "projected_coefficients": 1406,
+            "free_coefficient_flags": 1405,
+            "empty_points": []
+          },
+          "scope": {
+            "kind": "complete_first_case",
+            "geometry_index": 34,
+            "first_row": 656,
+            "quotient_authority": {
+              "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/matched-g34-first-row-quotient-independent-manifest-cycle278.json",
+              "sha256": "a5a7e7fe72762fa26580b05cf79db2b6a303ddca2c24ad3183679bcd3f91513e"
+            }
+          }
+        },
+        {
+          "cycle": 651,
+          "argv": [
+            "verify_first_case_spectrum_lp.py",
+            "--model",
+            "matched-g34-first656-spectrum-model-cycle648.json",
+            "--run",
+            "matched-g34-first656-transferred-spectrum-certificate-cycle650.json",
+            "--output",
+            "matched-g34-first656-transferred-spectrum-independent-manifest-cycle651.json",
+            "--memory-mib",
+            "4096"
+          ],
+          "expected": {
+            "all_original_rows_and_divisors_rebuilt": true,
+            "saved_primitive_matrix_equal_literal_rows": true,
+            "complete_distribution_partitions_rebuilt": true,
+            "all_projected_coefficient_domains_rebuilt": true,
+            "all_value_moment_and_budget_rows_rebuilt": true,
+            "exact_integer_rhs": -1059797406400,
+            "exact_certificate_verified": true,
+            "whole_first_case_excluded": true
+          },
+          "scope": {
+            "kind": "complete_first_case",
+            "geometry_index": 34,
+            "first_row": 656,
+            "quotient_authority": {
+              "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/matched-g34-first-row-quotient-independent-manifest-cycle278.json",
+              "sha256": "a5a7e7fe72762fa26580b05cf79db2b6a303ddca2c24ad3183679bcd3f91513e"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "source_manifests": [
+    "SOURCE-MANIFEST.json",
+    "SUPPLEMENT-MANIFEST.json",
+    "SUPPLEMENT-MANIFEST-v2.json"
+  ]
+}

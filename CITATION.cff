@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "Cite an exact repository commit until the evidence archive has a published version DOI."
+title: "Degree-five Boolean functions with sensitivity fourteen: exact partial exclusions"
+type: software
+authors:
+  - family-names: Towell
+    given-names: Alexander Richard
+    orcid: "https://orcid.org/0000-0001-6443-9897"
+    affiliation: "Southern Illinois University Edwardsville"
+repository-code: "https://github.com/queelius/boolean-degree-sensitivity"
+url: "https://github.com/queelius/boolean-degree-sensitivity"
+license:
+  - MIT
+  - CC-BY-4.0
+keywords:
+  - Boolean functions
+  - sensitivity
+  - polynomial degree
+  - Fourier analysis
+  - exact certificates
+  - computational complexity
+abstract: >-
+  Source code, explicit case definitions, and verification controls for ten
+  conditional spectral exclusions in the search for a 14-variable Boolean
+  function of real degree at most five and full sensitivity at the origin.
+  The global existence question remains open. The work uses exact finite
+  computation and written arguments, with substantial OpenAI Codex assistance;
+  formal verification and human peer review are not claimed.

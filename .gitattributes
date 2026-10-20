@@ -1,0 +1,3 @@
+# Preserve upstream license bytes and intentional Markdown hard line breaks.
+LICENSES/* -whitespace
+*.md whitespace=-blank-at-eol
