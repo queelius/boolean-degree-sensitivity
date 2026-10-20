@@ -35,16 +35,18 @@ and UNKNOWN results are not treated as proofs.
 
 The `source/` tree preserves the research files' bytes and layout, including
 the inherited mathematical notes and verification code. The complete data
-packet also includes the frozen catalogs, arrays and certificates. Those
-large data files will be distributed through the archival deposit rather
-than Git.
+packet also includes the frozen catalogs, arrays and certificates. Download
+the complete packet from the [v1.0.0 release](https://github.com/queelius/boolean-degree-sensitivity/releases/tag/v1.0.0).
 
 The complete staged packet passed an isolated, network-disabled replay:
 all ten case checks, domain deletions, and 138 controls passed. See the
 [verification receipt](verification/REPLAY-RECEIPT.json) and
 [packaging history](verification/REPLAY-HISTORY.json).
-The data archive is uploading to Zenodo. Its DOI will be recorded here
-after publication and public-download verification.
+All eight release assets, including the 667 MB data archive, were downloaded
+without authentication and checked against their SHA-256 hashes. See the
+[public download receipt](verification/PUBLIC-RELEASE.json).
+Zenodo archival publication is pending after upload gateway errors. Its DOI
+will be recorded here after publication and public-download verification.
 [REPRODUCE.md](REPRODUCE.md) describes the full packet's Docker verification;
 it requires the complete data packet, not just this source checkout.
 
@@ -61,16 +63,24 @@ them is distinct from checking the ten large certificates.
 
 ## Citation and public record
 
-Use [CITATION.cff](CITATION.cff) and an exact repository commit while the
-archive is pending. Once deposited, cite the **specific version DOI** of the
-evidence packet. Substantive future updates will use the same archive family.
-There will not be a separate DOI for each experiment.
+Use [CITATION.cff](CITATION.cff) to cite version **1.0.0**, released on
+20 October 2026 at commit `00e60302ac9900530f523b8b43f88fac523302bf`.
+The release includes a separate citation file for this public version.
+The packet's internal archival metadata contains a reserved Zenodo DOI;
+that reservation is not yet a published citation. Once deposited, cite the
+**specific version DOI** of the evidence packet. Substantive future updates
+will use the same archive family. There will not be a separate DOI for each
+experiment.
 
 The cross-project public index is
 [queelius/research-records](https://github.com/queelius/research-records).
 The [project record](https://github.com/queelius/research-records/tree/main/records/boolean-degree-five-spectral-exclusions)
 tracks the source commit, archival status, public disclosure date,
 verification scope and limitations.
+Its stable central ID is `boolean-degree-five-spectral-exclusions`,
+recorded in [CONTRIBUTION.json](CONTRIBUTION.json). Detailed research
+tracking stays with the owning project; the central entry describes the
+frozen ten-case contribution.
 
 The curated source was first publicly verified on 20 October 2026 at
 [commit 43ddb9a](https://github.com/queelius/boolean-degree-sensitivity/commit/43ddb9a8a360bf84451b81a27fb67a001b4c4e16).

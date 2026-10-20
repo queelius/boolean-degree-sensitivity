@@ -36,7 +36,7 @@
     "receipt": "verification/REPLAY-RECEIPT.json"
   },
   "publication": {
-    "state": "source_public_archive_uploading",
+    "state": "source_and_complete_release_public_zenodo_pending",
     "version_doi": null,
     "concept_doi": null,
     "original_public_disclosures": [
@@ -48,7 +48,27 @@
     ],
     "source_repository": "https://github.com/queelius/boolean-degree-sensitivity",
     "journal_submission": null,
-    "preprint_submission": null
+    "preprint_submission": null,
+    "github_release": {
+      "release_url": "https://github.com/queelius/boolean-degree-sensitivity/releases/tag/v1.0.0",
+      "tag": "v1.0.0",
+      "target_commit": "00e60302ac9900530f523b8b43f88fac523302bf",
+      "github_publication_time": "2026-10-20T10:58:40Z",
+      "all_public_downloads_verified": true,
+      "public_asset_count": 8,
+      "evidence_archive": {
+        "filename": "boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz",
+        "bytes": 667127632,
+        "sha256": "261ab260916f459d7390822b44eb5dc3b17afacd8f729ea12c97c828e5fe7899",
+        "public_url": "https://github.com/queelius/boolean-degree-sensitivity/releases/download/v1.0.0/boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz",
+        "verified_without_authentication": true
+      },
+      "verification_receipt": {
+        "path": "verification/PUBLIC-RELEASE.json",
+        "sha256": "944e4e2db0e2313503917f3bf55fe9b6aaedf00059f0be50906e13a1fa9107f8"
+      }
+    },
+    "zenodo_status": "Existing draft is incomplete after HTTP 502 upload errors; no published DOI."
   },
   "novelty": "bounded assessment only; not established",
   "author": {
@@ -56,5 +76,9 @@
     "orcid": "0000-0001-6443-9897",
     "affiliation": "Southern Illinois University Edwardsville"
   },
-  "ai_assistance": "Substantial OpenAI Codex assistance in mathematics, source, experiments, verification and exposition."
+  "ai_assistance": "Substantial OpenAI Codex assistance in mathematics, source, experiments, verification and exposition.",
+  "central_record": {
+    "id": "boolean-degree-five-spectral-exclusions",
+    "url": "https://github.com/queelius/research-records/tree/main/records/boolean-degree-five-spectral-exclusions"
+  }
 }

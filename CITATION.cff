@@ -26,3 +26,6 @@ abstract: >-
   The global existence question remains open. The work uses exact finite
   computation and written arguments, with substantial OpenAI Codex assistance;
   formal verification and human peer review are not claimed.
+version: "1.0.0"
+date-released: "2026-10-20"
+commit: "00e60302ac9900530f523b8b43f88fac523302bf"
