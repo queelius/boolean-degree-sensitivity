@@ -47,10 +47,11 @@ without authentication and checked against their SHA-256 hashes. See the
 [public download receipt](verification/PUBLIC-RELEASE.json).
 The same evidence packet is archived on Zenodo at
 [10.5281/zenodo.23496542](https://doi.org/10.5281/zenodo.23496542).
-All 48 uploaded file checksums and the public metadata are verified.
-Unauthenticated downloads of the 40 archive parts and eight metadata files
-are being checked; [the publication receipt](verification/PUBLIC-ZENODO.json)
-records the completed checks and the remaining verification scope.
+All 48 public files—the 40 archive parts and eight metadata files—were
+downloaded without authentication and verified by SHA-256. Concatenating
+the public parts reproduced the original archive exactly.
+[The publication receipt](verification/PUBLIC-ZENODO.json) records the
+completed metadata, file, and archive checks.
 [REPRODUCE.md](REPRODUCE.md) describes the full packet's Docker verification;
 it requires the complete data packet, not just this source checkout.
 

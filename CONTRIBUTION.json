@@ -36,7 +36,7 @@
     "receipt": "verification/REPLAY-RECEIPT.json"
   },
   "publication": {
-    "state": "published_archive_public_download_verification_in_progress",
+    "state": "published_archive_public_downloads_verified",
     "version_doi": "10.5281/zenodo.23496542",
     "concept_doi": "10.5281/zenodo.23496541",
     "original_public_disclosures": [
@@ -68,18 +68,21 @@
         "sha256": "944e4e2db0e2313503917f3bf55fe9b6aaedf00059f0be50906e13a1fa9107f8"
       }
     },
-    "zenodo_status": "Published; public metadata and uploaded server checksums verified; complete unauthenticated byte-download verification is in progress.",
+    "zenodo_status": "Published; public metadata, all 48 unauthenticated file downloads, and the reassembled archive are verified.",
     "archive_publication_date": "2026-10-20",
     "zenodo_archive": {
       "record_url": "https://zenodo.org/records/23496542",
       "version": "1.0.0",
       "created_at": "2026-10-20T12:57:08.952880+00:00",
       "public_asset_count": 48,
-      "public_download_verification": "IN_PROGRESS",
+      "public_download_verification": "COMPLETE",
       "verification_receipt": {
         "path": "verification/PUBLIC-ZENODO.json",
-        "sha256": "fa2584794c034c88065641d67aa1d5a31d88a7c5210e6d3527543cde241a8e69"
-      }
+        "sha256": "da08fc86cfee43aa2d42baaf4fd2448ea7318160b5c5caf0f9afe9acd8155e74"
+      },
+      "verified_at": "2026-10-20T14:05:28.797934+00:00",
+      "all_public_downloads_match_sha256": true,
+      "reassembled_public_parts_match_original_archive": true
     }
   },
   "novelty": "bounded assessment only; not established",
