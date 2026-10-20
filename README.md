@@ -45,8 +45,12 @@ all ten case checks, domain deletions, and 138 controls passed. See the
 All eight release assets, including the 667 MB data archive, were downloaded
 without authentication and checked against their SHA-256 hashes. See the
 [public download receipt](verification/PUBLIC-RELEASE.json).
-Zenodo archival publication is pending after upload gateway errors. Its DOI
-will be recorded here after publication and public-download verification.
+The same evidence packet is archived on Zenodo at
+[10.5281/zenodo.23496542](https://doi.org/10.5281/zenodo.23496542).
+All 48 uploaded file checksums and the public metadata are verified.
+Unauthenticated downloads of the 40 archive parts and eight metadata files
+are being checked; [the publication receipt](verification/PUBLIC-ZENODO.json)
+records the completed checks and the remaining verification scope.
 [REPRODUCE.md](REPRODUCE.md) describes the full packet's Docker verification;
 it requires the complete data packet, not just this source checkout.
 
@@ -63,14 +67,16 @@ them is distinct from checking the ten large certificates.
 
 ## Citation and public record
 
-Use [CITATION.cff](CITATION.cff) to cite version **1.0.0**, released on
-20 October 2026 at commit `00e60302ac9900530f523b8b43f88fac523302bf`.
-The release includes a separate citation file for this public version.
-The packet's internal archival metadata contains a reserved Zenodo DOI;
-that reservation is not yet a published citation. Once deposited, cite the
-**specific version DOI** of the evidence packet. Substantive future updates
-will use the same archive family. There will not be a separate DOI for each
-experiment.
+Use [CITATION.cff](CITATION.cff) to cite the exact archived version:
+Alexander Richard Towell (2026), *Exact spectral exclusion certificates for
+degree-five Boolean candidates*, version **1.0.0**,
+[doi:10.5281/zenodo.23496542](https://doi.org/10.5281/zenodo.23496542).
+The archive was published on 20 October 2026 and pins source commit
+`43ddb9a8a360bf84451b81a27fb67a001b4c4e16`. The separate GitHub v1.0.0
+release includes later explanatory documentation at commit
+`00e60302ac9900530f523b8b43f88fac523302bf`.
+Substantive future updates will use the same archive family, rather than
+a separate DOI for each experiment.
 
 The cross-project public index is
 [queelius/research-records](https://github.com/queelius/research-records).

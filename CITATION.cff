@@ -1,31 +1,33 @@
 cff-version: 1.2.0
-message: "Cite an exact repository commit until the evidence archive has a published version DOI."
-title: "Degree-five Boolean functions with sensitivity fourteen: exact partial exclusions"
+message: "Please cite this exact archived version for the ten conditional exclusions."
+title: "Exact spectral exclusion certificates for degree-five Boolean candidates"
 type: software
 authors:
   - family-names: Towell
     given-names: Alexander Richard
     orcid: "https://orcid.org/0000-0001-6443-9897"
     affiliation: "Southern Illinois University Edwardsville"
+doi: "10.5281/zenodo.23496542"
+version: "1.0.0"
+date-released: "2026-10-20"
 repository-code: "https://github.com/queelius/boolean-degree-sensitivity"
-url: "https://github.com/queelius/boolean-degree-sensitivity"
+commit: "43ddb9a8a360bf84451b81a27fb67a001b4c4e16"
+url: "https://doi.org/10.5281/zenodo.23496542"
 license:
   - MIT
   - CC-BY-4.0
 keywords:
   - Boolean functions
-  - sensitivity
   - polynomial degree
+  - sensitivity
   - Fourier analysis
   - exact certificates
   - computational complexity
 abstract: >-
-  Source code, explicit case definitions, and verification controls for ten
-  conditional spectral exclusions in the search for a 14-variable Boolean
-  function of real degree at most five and full sensitivity at the origin.
-  The global existence question remains open. The work uses exact finite
-  computation and written arguments, with substantial OpenAI Codex assistance;
-  formal verification and human peer review are not claimed.
-version: "1.0.0"
-date-released: "2026-10-20"
-commit: "00e60302ac9900530f523b8b43f88fac523302bf"
+  Exact certificates and reproducible checks exclude ten specified cases
+  within one signed Fourier geometry in the search for a 14-variable
+  Boolean function of real degree at most five and full origin sensitivity.
+  The full existence question remains open. Isolated replay passed 138
+  controls and all ten case checks; historical reductions remain documented
+  dependencies. Substantial OpenAI Codex assistance is disclosed. Human peer
+  review, proof-assistant formalization and novelty are not established.

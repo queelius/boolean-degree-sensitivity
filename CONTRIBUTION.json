@@ -36,9 +36,9 @@
     "receipt": "verification/REPLAY-RECEIPT.json"
   },
   "publication": {
-    "state": "source_and_complete_release_public_zenodo_pending",
-    "version_doi": null,
-    "concept_doi": null,
+    "state": "published_archive_public_download_verification_in_progress",
+    "version_doi": "10.5281/zenodo.23496542",
+    "concept_doi": "10.5281/zenodo.23496541",
     "original_public_disclosures": [
       {
         "date": "2026-10-20",
@@ -68,7 +68,19 @@
         "sha256": "944e4e2db0e2313503917f3bf55fe9b6aaedf00059f0be50906e13a1fa9107f8"
       }
     },
-    "zenodo_status": "Existing draft is incomplete after HTTP 502 upload errors; no published DOI."
+    "zenodo_status": "Published; public metadata and uploaded server checksums verified; complete unauthenticated byte-download verification is in progress.",
+    "archive_publication_date": "2026-10-20",
+    "zenodo_archive": {
+      "record_url": "https://zenodo.org/records/23496542",
+      "version": "1.0.0",
+      "created_at": "2026-10-20T12:57:08.952880+00:00",
+      "public_asset_count": 48,
+      "public_download_verification": "IN_PROGRESS",
+      "verification_receipt": {
+        "path": "verification/PUBLIC-ZENODO.json",
+        "sha256": "fa2584794c034c88065641d67aa1d5a31d88a7c5210e6d3527543cde241a8e69"
+      }
+    }
   },
   "novelty": "bounded assessment only; not established",
   "author": {

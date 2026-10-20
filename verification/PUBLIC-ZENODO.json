@@ -1,0 +1,109 @@
+{
+  "kind": "published_zenodo_metadata_and_partial_download_verification",
+  "observed_at": "2026-10-20T13:03:17.827637+00:00",
+  "record_id": 23496542,
+  "record_url": "https://zenodo.org/records/23496542",
+  "version_doi": "10.5281/zenodo.23496542",
+  "concept_doi": "10.5281/zenodo.23496541",
+  "version": "1.0.0",
+  "publication_date": "2026-10-20",
+  "zenodo_created_at": "2026-10-20T12:57:08.952880+00:00",
+  "public_metadata_read_without_authentication": true,
+  "all_public_metadata_fields_match": true,
+  "public_asset_count": 48,
+  "prepublication_all_server_checksums_match": true,
+  "public_download_verification": "IN_PROGRESS",
+  "public_downloads_verified": 10,
+  "verified_public_files": [
+    {
+      "filename": "CITATION.cff",
+      "bytes": 1334,
+      "sha256": "feff83df2b27cfb529bbba8c8831e795ae891ed148aab348ab004b66916f7930",
+      "public_url": "https://zenodo.org/api/records/23496542/files/CITATION.cff/content",
+      "status": "PUBLIC_DOWNLOAD_VERIFIED",
+      "verified_without_authentication": true
+    },
+    {
+      "filename": "DOWNLOAD.md",
+      "bytes": 1489,
+      "sha256": "8ccf35a293fb6e94f71f943125a36a786d1b850155ada95ff8caf47486fa18dd",
+      "public_url": "https://zenodo.org/api/records/23496542/files/DOWNLOAD.md/content",
+      "status": "PUBLIC_DOWNLOAD_VERIFIED",
+      "verified_without_authentication": true
+    },
+    {
+      "filename": "CASES.json",
+      "bytes": 74168,
+      "sha256": "27b06c0833831983ba79e628e7ce2355e6e4871081adf0fea3586ef124099d75",
+      "public_url": "https://zenodo.org/api/records/23496542/files/CASES.json/content",
+      "status": "PUBLIC_DOWNLOAD_VERIFIED",
+      "verified_without_authentication": true
+    },
+    {
+      "filename": "RELEASE.json",
+      "bytes": 10742,
+      "sha256": "5e9dc2770f84a21707ecc21b25e70f54d11337eeca19622452390251ec8bc363",
+      "public_url": "https://zenodo.org/api/records/23496542/files/RELEASE.json/content",
+      "status": "PUBLIC_DOWNLOAD_VERIFIED",
+      "verified_without_authentication": true
+    },
+    {
+      "filename": "REPLAY-RECEIPT.json",
+      "bytes": 10285,
+      "sha256": "d985ec2aed75cc6e8d840ccb9cdcf3ea79faf14da37571a621da1627a7d0d06b",
+      "public_url": "https://zenodo.org/api/records/23496542/files/REPLAY-RECEIPT.json/content",
+      "status": "PUBLIC_DOWNLOAD_VERIFIED",
+      "verified_without_authentication": true
+    },
+    {
+      "filename": "REPLAY-HISTORY.json",
+      "bytes": 1066,
+      "sha256": "f43276c4a0c53a200004e32ee9c604b15ac3bc60bbdd5dcdb347c77c472fca94",
+      "public_url": "https://zenodo.org/api/records/23496542/files/REPLAY-HISTORY.json/content",
+      "status": "PUBLIC_DOWNLOAD_VERIFIED",
+      "verified_without_authentication": true
+    },
+    {
+      "filename": "SHA256SUMS",
+      "bytes": 5761,
+      "sha256": "0fb91fdbda5032ba73049aba3d53fff845d6aecd7bb787dfe2f12b78f90c5e3c",
+      "public_url": "https://zenodo.org/api/records/23496542/files/SHA256SUMS/content",
+      "status": "PUBLIC_DOWNLOAD_VERIFIED",
+      "verified_without_authentication": true
+    },
+    {
+      "filename": "REPORT.md",
+      "bytes": 8796,
+      "sha256": "9ffbcd0781fe81628e0e2ee851d97611a798fd805888579f6348940cbb5320e0",
+      "public_url": "https://zenodo.org/api/records/23496542/files/REPORT.md/content",
+      "status": "PUBLIC_DOWNLOAD_VERIFIED",
+      "verified_without_authentication": true
+    },
+    {
+      "filename": "boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0001",
+      "bytes": 16777216,
+      "sha256": "1f13880e2335db84adfbb764a710849eb7a01ca99a7011ef29319b1364824712",
+      "public_url": "https://zenodo.org/api/records/23496542/files/boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0001/content",
+      "status": "PUBLIC_DOWNLOAD_VERIFIED",
+      "verified_without_authentication": true
+    },
+    {
+      "filename": "boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0002",
+      "bytes": 16777216,
+      "sha256": "a6bd72b9ceb2781a2f2e4fc73b4f4365de3ea580fc0681059a3bbef7b25e171d",
+      "public_url": "https://zenodo.org/api/records/23496542/files/boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0002/content",
+      "status": "PUBLIC_DOWNLOAD_VERIFIED",
+      "verified_without_authentication": true
+    }
+  ],
+  "all_public_downloads_match_sha256": false,
+  "reassembled_public_parts_checked": false,
+  "evidence_archive": {
+    "filename": "boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz",
+    "bytes": 667127632,
+    "sha256": "261ab260916f459d7390822b44eb5dc3b17afacd8f729ea12c97c828e5fe7899"
+  },
+  "scope": "Original ten conditional exclusions only; overall existence question remains open",
+  "human_peer_review": "not claimed",
+  "novelty": "not established"
+}
