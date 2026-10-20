@@ -39,10 +39,14 @@ packet also includes the frozen catalogs, arrays and certificates. Those
 large data files will be distributed through the archival deposit rather
 than Git.
 
-The archive is currently being prepared and independently replayed. Its DOI
-will be recorded here when it is public. [REPRODUCE.md](REPRODUCE.md) describes
-the full packet's isolated Docker verification; it requires the complete
-data packet, not just this source checkout.
+The complete staged packet passed an isolated, network-disabled replay:
+all ten case checks, domain deletions, and 138 controls passed. See the
+[verification receipt](verification/REPLAY-RECEIPT.json) and
+[packaging history](verification/REPLAY-HISTORY.json).
+The data archive is uploading to Zenodo. Its DOI will be recorded here
+after publication and public-download verification.
+[REPRODUCE.md](REPRODUCE.md) describes the full packet's Docker verification;
+it requires the complete data packet, not just this source checkout.
 
 For the small exact-arithmetic and scope controls in this checkout:
 
@@ -64,8 +68,13 @@ There will not be a separate DOI for each experiment.
 
 The cross-project public index is
 [queelius/research-records](https://github.com/queelius/research-records).
-The project record will link the source commit, archived evidence, public
-disclosure date, verification scope and limitations.
+The [project record](https://github.com/queelius/research-records/tree/main/records/boolean-degree-five-spectral-exclusions)
+tracks the source commit, archival status, public disclosure date,
+verification scope and limitations.
+
+The curated source was first publicly verified on 20 October 2026 at
+[commit 43ddb9a](https://github.com/queelius/boolean-degree-sensitivity/commit/43ddb9a8a360bf84451b81a27fb67a001b4c4e16).
+No journal or arXiv submission has been made for this contribution.
 
 The broader motivation is Epoch AI's
 [degree–sensitivity problem](https://epoch.ai/frontiermath/open-problems/degree-sensitivity-boolean).

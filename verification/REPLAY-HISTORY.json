@@ -1,0 +1,26 @@
+{
+  "purpose": "Preserve unsuccessful packaging attempts separately from mathematical results.",
+  "attempts": [
+    {
+      "attempt": 1,
+      "status": "FAILED_BEFORE_CONTROLS",
+      "reason": "Results directory was not writable with the initial container UID and dropped capabilities.",
+      "correction": "Run as the invoking host UID and GID."
+    },
+    {
+      "attempt": 2,
+      "status": "FAILED_AFTER_138_CONTROLS",
+      "reason": "Two transitive checker imports were missing from the source supplement.",
+      "correction": "Include gzip_certificate_io.py and compose_class40_same_b_acceptance.py in SUPPLEMENT-MANIFEST-v2.json."
+    },
+    {
+      "attempt": 3,
+      "status": "PASSED_ALL_DECLARED_STAGES",
+      "receipt": "replay-results-attempt3/REPLAY-RECEIPT.json"
+    }
+  ],
+  "source_artifacts_modified": false,
+  "source_hashes_verified_inside_final_container": true,
+  "runtime_image_id": "sha256:57bd6a77378876170da9e956dac79e210c38e3a2b69d05ccfc64cffba3351ee6",
+  "controls_and_certificate_results_do_not_imply_global_solution": true
+}

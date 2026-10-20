@@ -26,16 +26,29 @@
   "verification": {
     "local_independent_integer_certificates": true,
     "source_control_tests": 138,
-    "staged_archive_replay": "IN_PROGRESS",
+    "staged_archive_replay": "PASSED",
     "human_peer_review": "not claimed",
-    "proof_assistant_formalization": false
+    "proof_assistant_formalization": false,
+    "source_file_hashes_verified": 2771,
+    "case_checks_passed": 10,
+    "domain_deletions_replayed": true,
+    "upstream_historical_reductions_all_replayed": false,
+    "receipt": "verification/REPLAY-RECEIPT.json"
   },
   "publication": {
-    "state": "archive_pending",
+    "state": "source_public_archive_uploading",
     "version_doi": null,
     "concept_doi": null,
-    "original_public_disclosures": [],
-    "source_repository": "https://github.com/queelius/boolean-degree-sensitivity"
+    "original_public_disclosures": [
+      {
+        "date": "2026-10-20",
+        "observed_at": "2026-10-20T10:13:44.667044+00:00",
+        "url": "https://github.com/queelius/boolean-degree-sensitivity/commit/43ddb9a8a360bf84451b81a27fb67a001b4c4e16"
+      }
+    ],
+    "source_repository": "https://github.com/queelius/boolean-degree-sensitivity",
+    "journal_submission": null,
+    "preprint_submission": null
   },
   "novelty": "bounded assessment only; not established",
   "author": {

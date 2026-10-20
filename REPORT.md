@@ -100,12 +100,16 @@ research artifacts. The container maps that payload to the historical
 absolute path without mounting the original research workspace. It has no
 network access during verification.
 
-`SOURCE-MANIFEST.json` and `SUPPLEMENT-MANIFEST.json` identify the source
-bytes. Hashes establish identity; the mathematical readers establish the
-reported checks. `REPLAY-PLAN.json` specifies 138 control tests, independent
-domain-deletion replay, and the input and certificate checks for all ten cases.
-The final `replay-results/REPLAY-RECEIPT.json` is produced only after every
-declared stage succeeds. Logs and exact command arguments are retained.
+`SOURCE-MANIFEST.json`, `SUPPLEMENT-MANIFEST.json`, and
+`SUPPLEMENT-MANIFEST-v2.json` identify the source bytes. Hashes establish
+identity; the mathematical readers establish the reported checks.
+`REPLAY-PLAN.json` specifies 138 control tests, independent domain-deletion
+replay, and the input and certificate checks for all ten cases.
+The completed `replay-results-attempt3/REPLAY-RECEIPT.json` records every
+declared stage passing on 20 October 2026. The replay checked hashes of
+2,771 source files before executing the checks. Logs and exact command
+arguments are retained. Earlier failed packaging attempts are recorded
+separately; neither supplied mathematical evidence.
 
 Some large inherited files belong to earlier cases. They are retained
 because the unmodified provenance manifests reference them, not because all
@@ -135,14 +139,17 @@ claimed by this packet.
 
 The primary-source review and the author's existing-record search identified
 no matching archived certificate family. This is a bounded observation, not
-an exhaustive novelty search or proof of priority. No earlier public
-disclosure date is asserted for this packet. An eventual DOI records its
-archival publication date; it does not establish correctness, novelty,
-peer review or legal priority.
+an exhaustive novelty search or proof of priority. The curated source was
+first publicly verified on 20 October 2026 at commit
+[`43ddb9a8a360bf84451b81a27fb67a001b4c4e16`](https://github.com/queelius/boolean-degree-sensitivity/commit/43ddb9a8a360bf84451b81a27fb67a001b4c4e16).
+No earlier public disclosure date is asserted for this contribution.
+A DOI records its separate archival publication date; it does not establish
+correctness, novelty, peer review or legal priority.
 
-The owning research directory has no Git commit to cite. Exact source-byte
-hashes are provided instead. Publication and index metadata must identify the
-exact archived version once a public record exists.
+The original research workspace is not a Git repository. The curated public
+source commit above pins the checking code and initial report; the manifests
+pin all archived evidence bytes, including the large files omitted from Git.
+Citation metadata identifies this exact archival version.
 
 ## License
 

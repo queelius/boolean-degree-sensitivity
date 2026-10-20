@@ -1,0 +1,354 @@
+{
+  "kind": "staged_packet_independent_replay",
+  "started_at": "2026-10-20T10:05:30.509355+00:00",
+  "finished_at": "2026-10-20T10:17:28.880904+00:00",
+  "source_files_hash_verified": 2771,
+  "controls_passed": 138,
+  "domain_deletions_replayed": true,
+  "cases_replayed": 10,
+  "source_mounted_read_only": true,
+  "original_workspace_mounted": false,
+  "upstream_historical_reductions_replayed": false,
+  "all_selected_input_and_certificate_checks_passed": true,
+  "global_question_status": "OPEN",
+  "stages": [
+    {
+      "name": "controls",
+      "argv": [
+        "/usr/local/bin/python",
+        "-m",
+        "pytest",
+        "-q",
+        "-p",
+        "no:cacheprovider",
+        "test_condition_core_word_scores.py",
+        "test_conditioned_spectrum_bounds.py",
+        "test_first_case_spectrum_exclusion.py",
+        "test_first_case_spectrum_scope.py",
+        "test_literal_bounded_core_spectrum_rows.py",
+        "test_literal_primitive_rows.py",
+        "test_propagated_spectrum_minimum.py",
+        "test_simplex_row_reconstruction.py",
+        "test_spectrum_dual_functional.py",
+        "test_transfer_spectrum_row_weights.py",
+        "test_transferred_spectrum_certificate.py",
+        "--junitxml=/results/controls.xml"
+      ],
+      "returncode": 0,
+      "seconds": 5.293777641025372
+    },
+    {
+      "name": "domain-deletions",
+      "argv": [
+        "/usr/local/bin/python",
+        "verify_matched_whole_family.py",
+        "--source",
+        "matched-g34-ranked-family-propagation-cycle643.json",
+        "--output",
+        "/results/domain-deletions.json"
+      ],
+      "returncode": 0,
+      "seconds": 36.27881344698835
+    },
+    {
+      "name": "first-221-stage-647",
+      "argv": [
+        "/usr/local/bin/python",
+        "verify_first_case_full_spectrum_inputs.py",
+        "--source",
+        "matched-g34-first221-full-spectrum-inputs-cycle646.json",
+        "--output",
+        "/results/first-221-stage-647.json"
+      ],
+      "returncode": 0,
+      "seconds": 36.7762092249468
+    },
+    {
+      "name": "first-221-stage-651",
+      "argv": [
+        "/usr/local/bin/python",
+        "verify_first_case_spectrum_lp.py",
+        "--model",
+        "matched-g34-first221-spectrum-model-cycle648.json",
+        "--run",
+        "matched-g34-first221-transferred-spectrum-certificate-cycle650.json",
+        "--output",
+        "/results/first-221-stage-651.json",
+        "--memory-mib",
+        "4096"
+      ],
+      "returncode": 0,
+      "seconds": 70.1954975220142
+    },
+    {
+      "name": "first-581-stage-647",
+      "argv": [
+        "/usr/local/bin/python",
+        "verify_first_case_full_spectrum_inputs.py",
+        "--source",
+        "matched-g34-first581-full-spectrum-inputs-cycle646.json",
+        "--output",
+        "/results/first-581-stage-647.json"
+      ],
+      "returncode": 0,
+      "seconds": 30.489041120978072
+    },
+    {
+      "name": "first-581-stage-651",
+      "argv": [
+        "/usr/local/bin/python",
+        "verify_first_case_spectrum_lp.py",
+        "--model",
+        "matched-g34-first581-spectrum-model-cycle648.json",
+        "--run",
+        "matched-g34-first581-transferred-spectrum-certificate-cycle650.json",
+        "--output",
+        "/results/first-581-stage-651.json",
+        "--memory-mib",
+        "4096"
+      ],
+      "returncode": 0,
+      "seconds": 51.86723874497693
+    },
+    {
+      "name": "first-178-stage-647",
+      "argv": [
+        "/usr/local/bin/python",
+        "verify_first_case_full_spectrum_inputs.py",
+        "--source",
+        "matched-g34-first178-full-spectrum-inputs-cycle646.json",
+        "--output",
+        "/results/first-178-stage-647.json"
+      ],
+      "returncode": 0,
+      "seconds": 26.197973327012733
+    },
+    {
+      "name": "first-178-stage-651",
+      "argv": [
+        "/usr/local/bin/python",
+        "verify_first_case_spectrum_lp.py",
+        "--model",
+        "matched-g34-first178-spectrum-model-cycle648.json",
+        "--run",
+        "matched-g34-first178-transferred-spectrum-certificate-cycle650.json",
+        "--output",
+        "/results/first-178-stage-651.json",
+        "--memory-mib",
+        "4096"
+      ],
+      "returncode": 0,
+      "seconds": 48.258464907994494
+    },
+    {
+      "name": "first-386-stage-647",
+      "argv": [
+        "/usr/local/bin/python",
+        "verify_first_case_full_spectrum_inputs.py",
+        "--source",
+        "matched-g34-first386-full-spectrum-inputs-cycle646.json",
+        "--output",
+        "/results/first-386-stage-647.json"
+      ],
+      "returncode": 0,
+      "seconds": 25.789538773009554
+    },
+    {
+      "name": "first-386-stage-651",
+      "argv": [
+        "/usr/local/bin/python",
+        "verify_first_case_spectrum_lp.py",
+        "--model",
+        "matched-g34-first386-spectrum-model-cycle648.json",
+        "--run",
+        "matched-g34-first386-transferred-spectrum-certificate-cycle650.json",
+        "--output",
+        "/results/first-386-stage-651.json",
+        "--memory-mib",
+        "4096"
+      ],
+      "returncode": 0,
+      "seconds": 49.906313788029365
+    },
+    {
+      "name": "first-597-stage-647",
+      "argv": [
+        "/usr/local/bin/python",
+        "verify_first_case_full_spectrum_inputs.py",
+        "--source",
+        "matched-g34-first597-full-spectrum-inputs-cycle646.json",
+        "--output",
+        "/results/first-597-stage-647.json"
+      ],
+      "returncode": 0,
+      "seconds": 21.72562538506463
+    },
+    {
+      "name": "first-597-stage-651",
+      "argv": [
+        "/usr/local/bin/python",
+        "verify_first_case_spectrum_lp.py",
+        "--model",
+        "matched-g34-first597-spectrum-model-cycle648.json",
+        "--run",
+        "matched-g34-first597-transferred-spectrum-certificate-cycle650.json",
+        "--output",
+        "/results/first-597-stage-651.json",
+        "--memory-mib",
+        "4096"
+      ],
+      "returncode": 0,
+      "seconds": 45.93602085090242
+    },
+    {
+      "name": "first-599-stage-647",
+      "argv": [
+        "/usr/local/bin/python",
+        "verify_first_case_full_spectrum_inputs.py",
+        "--source",
+        "matched-g34-first599-full-spectrum-inputs-cycle646.json",
+        "--output",
+        "/results/first-599-stage-647.json"
+      ],
+      "returncode": 0,
+      "seconds": 20.360229545040056
+    },
+    {
+      "name": "first-599-stage-651",
+      "argv": [
+        "/usr/local/bin/python",
+        "verify_first_case_spectrum_lp.py",
+        "--model",
+        "matched-g34-first599-spectrum-model-cycle648.json",
+        "--run",
+        "matched-g34-first599-transferred-spectrum-certificate-cycle650.json",
+        "--output",
+        "/results/first-599-stage-651.json",
+        "--memory-mib",
+        "4096"
+      ],
+      "returncode": 0,
+      "seconds": 37.191962313023396
+    },
+    {
+      "name": "first-601-stage-647",
+      "argv": [
+        "/usr/local/bin/python",
+        "verify_first_case_full_spectrum_inputs.py",
+        "--source",
+        "matched-g34-first601-full-spectrum-inputs-cycle646.json",
+        "--output",
+        "/results/first-601-stage-647.json"
+      ],
+      "returncode": 0,
+      "seconds": 15.846760598011315
+    },
+    {
+      "name": "first-601-stage-651",
+      "argv": [
+        "/usr/local/bin/python",
+        "verify_first_case_spectrum_lp.py",
+        "--model",
+        "matched-g34-first601-spectrum-model-cycle648.json",
+        "--run",
+        "matched-g34-first601-transferred-spectrum-certificate-cycle650.json",
+        "--output",
+        "/results/first-601-stage-651.json",
+        "--memory-mib",
+        "4096"
+      ],
+      "returncode": 0,
+      "seconds": 35.842105910065584
+    },
+    {
+      "name": "first-191-stage-647",
+      "argv": [
+        "/usr/local/bin/python",
+        "verify_first_case_full_spectrum_inputs.py",
+        "--source",
+        "matched-g34-first191-full-spectrum-inputs-cycle646.json",
+        "--output",
+        "/results/first-191-stage-647.json"
+      ],
+      "returncode": 0,
+      "seconds": 16.699889463023283
+    },
+    {
+      "name": "first-191-stage-651",
+      "argv": [
+        "/usr/local/bin/python",
+        "verify_first_case_spectrum_lp.py",
+        "--model",
+        "matched-g34-first191-spectrum-model-cycle648.json",
+        "--run",
+        "matched-g34-first191-transferred-spectrum-certificate-cycle650.json",
+        "--output",
+        "/results/first-191-stage-651.json",
+        "--memory-mib",
+        "4096"
+      ],
+      "returncode": 0,
+      "seconds": 36.80960642802529
+    },
+    {
+      "name": "first-626-stage-647",
+      "argv": [
+        "/usr/local/bin/python",
+        "verify_first_case_full_spectrum_inputs.py",
+        "--source",
+        "matched-g34-first626-full-spectrum-inputs-cycle646.json",
+        "--output",
+        "/results/first-626-stage-647.json"
+      ],
+      "returncode": 0,
+      "seconds": 17.520654253079556
+    },
+    {
+      "name": "first-626-stage-651",
+      "argv": [
+        "/usr/local/bin/python",
+        "verify_first_case_spectrum_lp.py",
+        "--model",
+        "matched-g34-first626-spectrum-model-cycle648.json",
+        "--run",
+        "matched-g34-first626-transferred-spectrum-certificate-cycle650.json",
+        "--output",
+        "/results/first-626-stage-651.json",
+        "--memory-mib",
+        "4096"
+      ],
+      "returncode": 0,
+      "seconds": 33.58368546201382
+    },
+    {
+      "name": "first-656-stage-647",
+      "argv": [
+        "/usr/local/bin/python",
+        "verify_first_case_full_spectrum_inputs.py",
+        "--source",
+        "matched-g34-first656-full-spectrum-inputs-cycle646.json",
+        "--output",
+        "/results/first-656-stage-647.json"
+      ],
+      "returncode": 0,
+      "seconds": 13.6919283909956
+    },
+    {
+      "name": "first-656-stage-651",
+      "argv": [
+        "/usr/local/bin/python",
+        "verify_first_case_spectrum_lp.py",
+        "--model",
+        "matched-g34-first656-spectrum-model-cycle648.json",
+        "--run",
+        "matched-g34-first656-transferred-spectrum-certificate-cycle650.json",
+        "--output",
+        "/results/first-656-stage-651.json",
+        "--memory-mib",
+        "4096"
+      ],
+      "returncode": 0,
+      "seconds": 30.978639135952108
+    }
+  ]
+}
