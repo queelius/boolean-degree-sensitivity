@@ -29,10 +29,12 @@ and tamper controls. Substantial AI assistance and review are disclosed.
 
 This is a completed component lemma within the still-open investigation. It is
 not a fourteen-variable Boolean construction or a global nonexistence proof.
-The earlier DOI below archives ten conditional exclusions only; this supplement
-currently has source evidence and no assigned archival DOI. Cite its exact source
-commit until a successor archive is published. Novelty and human peer review are
-not established.
+Version **1.1.0**, [10.5281/zenodo.23533427](https://doi.org/10.5281/zenodo.23533427),
+archives this supplement together with the ten earlier exclusions. All 52 public
+files have been downloaded without authentication and verified by exact hashes;
+see [the receipt](verification/PUBLIC-ZENODO-v1.1.0.json). The frozen supplement
+retains its original pre-archive metadata as historical evidence. Novelty and
+human peer review are not established.
 
 ## What is proved
 
@@ -84,7 +86,13 @@ them is distinct from checking the ten large certificates.
 
 ## Citation and public record
 
-Use [CITATION.cff](CITATION.cff) to cite the exact archived version:
+Use [CITATION.cff](CITATION.cff) to cite the current exact archive, version
+**1.1.0**, [10.5281/zenodo.23533427](https://doi.org/10.5281/zenodo.23533427),
+published on 21 October 2026. It pins the singleton source at commit
+`b954f03228c9e5637b4d12b469376a418dabccb4` and retains all v1.0.0 files.
+It does not archive the later ell3 catalog, subsequent research, or a global solution.
+
+For the earlier ten-exclusion-only archive, the exact citation remains:
 Alexander Richard Towell (2026), *Exact spectral exclusion certificates for
 degree-five Boolean candidates*, version **1.0.0**,
 [doi:10.5281/zenodo.23496542](https://doi.org/10.5281/zenodo.23496542).

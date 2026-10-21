@@ -37,7 +37,7 @@
   },
   "publication": {
     "state": "published_archive_public_downloads_verified",
-    "version_doi": "10.5281/zenodo.23496542",
+    "version_doi": "10.5281/zenodo.23533427",
     "concept_doi": "10.5281/zenodo.23496541",
     "original_public_disclosures": [
       {
@@ -68,22 +68,46 @@
         "sha256": "944e4e2db0e2313503917f3bf55fe9b6aaedf00059f0be50906e13a1fa9107f8"
       }
     },
-    "zenodo_status": "Published; public metadata, all 48 unauthenticated file downloads, and the reassembled archive are verified.",
-    "archive_publication_date": "2026-10-20",
+    "zenodo_status": "Published; all52 anonymous public file downloads and reassembled legacy archive verified.",
+    "archive_publication_date": "2026-10-21",
     "zenodo_archive": {
-      "record_url": "https://zenodo.org/records/23496542",
-      "version": "1.0.0",
-      "created_at": "2026-10-20T12:57:08.952880+00:00",
-      "public_asset_count": 48,
+      "record_url": "https://zenodo.org/records/23533427",
+      "version": "1.1.0",
+      "created_at": "2026-10-21T12:02:46.335006+00:00",
+      "public_asset_count": 52,
       "public_download_verification": "COMPLETE",
-      "verification_receipt": {
-        "path": "verification/PUBLIC-ZENODO.json",
-        "sha256": "da08fc86cfee43aa2d42baaf4fd2448ea7318160b5c5caf0f9afe9acd8155e74"
-      },
-      "verified_at": "2026-10-20T14:05:28.797934+00:00",
+      "verified_at": "2026-10-21T13:16:27.004319+00:00",
       "all_public_downloads_match_sha256": true,
-      "reassembled_public_parts_match_original_archive": true
-    }
+      "reassembled_public_parts_match_original_archive": true,
+      "source_commit": "b954f03228c9e5637b4d12b469376a418dabccb4",
+      "scope": "Ten earlier conditional geometry34 exclusions, plus the standalone ten-coordinate ell2 singleton classification. No ell3 catalog or later G25 progress is archived.",
+      "verification_receipt": {
+        "path": "verification/PUBLIC-ZENODO-v1.1.0.json",
+        "sha256": "4f6e9557180d47e96c77f8d73e6c0cb1221e8b0d00d2dc3e8a4bd467d5b8fd2f"
+      }
+    },
+    "prior_archived_versions": [
+      {
+        "version": "1.0.0",
+        "version_doi": "10.5281/zenodo.23496542",
+        "archive_publication_date": "2026-10-20",
+        "zenodo_archive": {
+          "record_url": "https://zenodo.org/records/23496542",
+          "version": "1.0.0",
+          "created_at": "2026-10-20T12:57:08.952880+00:00",
+          "public_asset_count": 48,
+          "public_download_verification": "COMPLETE",
+          "verification_receipt": {
+            "path": "verification/PUBLIC-ZENODO.json",
+            "sha256": "da08fc86cfee43aa2d42baaf4fd2448ea7318160b5c5caf0f9afe9acd8155e74"
+          },
+          "verified_at": "2026-10-20T14:05:28.797934+00:00",
+          "all_public_downloads_match_sha256": true,
+          "reassembled_public_parts_match_original_archive": true
+        },
+        "scope": "Ten conditional geometry34 exclusions only; singleton supplement not included."
+      }
+    ]
   },
   "novelty": "bounded assessment only; not established",
   "author": {
@@ -95,5 +119,66 @@
   "central_record": {
     "id": "boolean-degree-five-spectral-exclusions",
     "url": "https://github.com/queelius/research-records/tree/main/records/boolean-degree-five-spectral-exclusions"
-  }
+  },
+  "public_supplements": [
+    {
+      "id": "singleton-boundary-classification",
+      "title": "A divisible singleton Fourier component on ten coordinates",
+      "claim": "For the exact ten-coordinate component hypotheses in THEOREM.md, the constant is one and every component factors as (1-chi_uv)(1-sum of C5 edge characters). Exactly30240 labeled forms; the second constant case is impossible.",
+      "scope": {
+        "component_variables": 10,
+        "exceptional_singleton_inputs": 2,
+        "actual_fourteen_variable_boolean_function": false,
+        "global_existence_question_solved": false,
+        "written_completeness_proof": true,
+        "finite_catalog_check_alone_proves_completeness": false
+      },
+      "source": {
+        "repository": "https://github.com/queelius/boolean-degree-sensitivity",
+        "commit": "b954f03228c9e5637b4d12b469376a418dabccb4",
+        "packet": "https://github.com/queelius/boolean-degree-sensitivity/tree/b954f03228c9e5637b4d12b469376a418dabccb4/supplements/singleton-boundary-classification",
+        "theorem": "https://github.com/queelius/boolean-degree-sensitivity/blob/b954f03228c9e5637b4d12b469376a418dabccb4/supplements/singleton-boundary-classification/THEOREM.md",
+        "manifest": "https://github.com/queelius/boolean-degree-sensitivity/blob/b954f03228c9e5637b4d12b469376a418dabccb4/supplements/singleton-boundary-classification/MANIFEST.json"
+      },
+      "public_disclosure": {
+        "date": "2026-10-21",
+        "observed_at": "2026-10-21T11:36:38.114778+00:00",
+        "url": "https://github.com/queelius/boolean-degree-sensitivity/tree/b954f03228c9e5637b4d12b469376a418dabccb4/supplements/singleton-boundary-classification",
+        "meaning": "All25 changed source files verified without authentication; no claim of an earlier public disclosure."
+      },
+      "verification": {
+        "forms": 30240,
+        "cube_values": 30965760,
+        "walsh_coefficients": 30965760,
+        "portable_controls_normal": 12,
+        "portable_controls_optimized": 12,
+        "prior_source_controls": 138,
+        "independent_portable_copy_replay": true,
+        "network_isolation_enforced": false,
+        "written_graph_case_split_ai_reviewed": true,
+        "human_peer_review": false,
+        "formal_verification": false,
+        "public_download_receipt": "SINGLETON-SOURCE.json"
+      },
+      "publication": {
+        "state": "published_archive_public_downloads_verified",
+        "version": "1.1.0",
+        "version_doi": "10.5281/zenodo.23533427",
+        "concept_doi": "10.5281/zenodo.23496541",
+        "archive_publication_date": "2026-10-21",
+        "record_url": "https://zenodo.org/records/23533427",
+        "all_public_downloads_verified": true,
+        "public_asset_count": 52,
+        "earlier_version_doi": "10.5281/zenodo.23496542",
+        "earlier_version_archives_this_supplement": false,
+        "journal_submission": null,
+        "preprint_server_submission": null
+      },
+      "license": {
+        "code": "MIT",
+        "proof_notes_data": "CC-BY-4.0"
+      },
+      "attribution": "Alexander Richard Towell, with substantial OpenAI Codex assistance; Fourier/Mobius and graph-parity techniques and earlier project work retain credit. No novelty or human review established."
+    }
+  ]
 }

@@ -1,33 +1,31 @@
 cff-version: 1.2.0
-message: "Please cite this exact archived version for the ten conditional exclusions."
-title: "Exact spectral exclusion certificates for degree-five Boolean candidates"
+message: "Cite this exact published version for the ten retained exclusions and singleton classification."
+title: "Exact spectral exclusions and singleton component classification for degree-five Boolean candidates"
 type: software
 authors:
   - family-names: Towell
     given-names: Alexander Richard
     orcid: "https://orcid.org/0000-0001-6443-9897"
     affiliation: "Southern Illinois University Edwardsville"
-doi: "10.5281/zenodo.23496542"
-version: "1.0.0"
-date-released: "2026-10-20"
+doi: "10.5281/zenodo.23533427"
+version: "1.1.0"
+date-released: "2026-10-21"
 repository-code: "https://github.com/queelius/boolean-degree-sensitivity"
-commit: "43ddb9a8a360bf84451b81a27fb67a001b4c4e16"
-url: "https://doi.org/10.5281/zenodo.23496542"
+commit: "b954f03228c9e5637b4d12b469376a418dabccb4"
+url: "https://doi.org/10.5281/zenodo.23533427"
 license:
   - MIT
   - CC-BY-4.0
 keywords:
   - Boolean functions
+  - Fourier analysis
   - polynomial degree
   - sensitivity
-  - Fourier analysis
-  - exact certificates
-  - computational complexity
+  - exact verification
+  - component classification
 abstract: >-
-  Exact certificates and reproducible checks exclude ten specified cases
-  within one signed Fourier geometry in the search for a 14-variable
-  Boolean function of real degree at most five and full origin sensitivity.
-  The full existence question remains open. Isolated replay passed 138
-  controls and all ten case checks; historical reductions remain documented
-  dependencies. Substantial OpenAI Codex assistance is disclosed. Human peer
-  review, proof-assistant formalization and novelty are not established.
+  A self-contained written singleton-component classification and exact catalog
+  of30240 ten-coordinate five-cycle forms, with full cube and Walsh checks,
+  supplements the retained ten conditional degree-five Boolean exclusions.
+  The fourteen-variable existence problem remains open. Substantial AI
+  assistance and review; no formal verification, human review or novelty claimed.
