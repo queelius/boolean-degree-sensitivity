@@ -1,0 +1,225 @@
+{
+  "schema_version": 2,
+  "author": {
+    "name": "Alexander Richard Towell",
+    "orcid": "0000-0001-6443-9897"
+  },
+  "global_goal_complete": false,
+  "assumptions": [
+    {
+      "id": "OLD_LOCAL_012",
+      "bundled_proof_complete": false,
+      "statement": "In the13-coordinate ordinary derivative setting, c in{1,2}, all a in{-1,0} except at most two cost2 pair departures {-2,+1}, and all b in{0,1} except at most two departures2, with at most two departures in total, is impossible. Distinct pair supports; all adjacent/disjoint and sign cases included.",
+      "accepted_source_pins": [
+        {
+          "path": ".research/attempts/009-parent-analysis/low-residual-derivative-complete-manifest.json",
+          "sha256": "813b9f1f4b7a90a01dd4f2e32922d5bac28d5380cb1761bd2a057402f3154ec3",
+          "accepted_status": "ACCEPTED_UNIFORM_RESIDUAL_AT_MOST_TWO_DERIVATIVE_THEOREM"
+        },
+        {
+          "path": ".research/attempts/009-parent-analysis/local-audits-cycle64-manifest.json",
+          "sha256": "430bdd2b07be5d3ffc85dd36dad92f06ce9f91c2d56b2eabc01e0f116b5f6dda",
+          "accepted_status": "INDEPENDENTLY_ACCEPTED_LOCAL_THEOREMS"
+        },
+        {
+          "path": ".research/attempts/009-parent-analysis/two-exception-positive-quartic-special-edge-manifest.json",
+          "sha256": "b15a041cfd9928607362244290fc0818ce9dfe3ba82e628a89ad99b26a0d63d8",
+          "accepted_status": "ACCEPTED_INDEPENDENTLY_VERIFIED"
+        },
+        {
+          "path": ".research/attempts/006-solver-resume/two-adjacent-negative-cubic-accepted-manifest.json",
+          "sha256": "47a0c56e5d0f345d02d7a095dd6fb4de49a802935fe0d80cb2cfa8e42eb2b94b",
+          "accepted_status": "INDEPENDENTLY_ACCEPTED_LOCAL_THEOREM"
+        },
+        {
+          "path": ".research/attempts/006-solver-resume/two-mixed-cubic-accepted-manifest.json",
+          "sha256": "de4f4eb792ee5da3c984ceb72ee214442de3ef7bad52b12bb92a5cd7a7375d79",
+          "accepted_status": "INDEPENDENTLY_ACCEPTED_LOCAL_THEOREM"
+        },
+        {
+          "path": ".research/attempts/006-solver-resume/two-disjoint-cubic-ordinary-accepted-manifest.json",
+          "sha256": "3645332fc57bf0c953717433f5e5e63a2e3b92971ca6c3e7755fd429d9af577a",
+          "accepted_status": "INDEPENDENTLY_ACCEPTED_COMPLETE_DISJOINT_ORDINARY_LOCAL_EXCLUSION"
+        }
+      ],
+      "external_prerequisites": [
+        "Frick2015 Theorem3.10 complete4787 small-valence manifold catalog",
+        "Recorded small-sphere coverage and exact finite certificate leaves; not replayed by this packet"
+      ],
+      "constants": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "NORMALIZATION",
+      "bundled_proof_complete": false,
+      "statement": "Accepted selfdual-empty existence representative and exact odd Fourier numerators k=16*g_hat for g=1-2f; integer coefficients; full empty-profile defect identity28. The displayed derivative inversion is proved and basis-checked in this packet; the original existence-preserving reduction and full-budget derivation are inherited.",
+      "source_pins": [
+        {
+          "original_relative_path": ".research/attempts/009-parent-analysis/residual-six-independent-review-cycle1386.md",
+          "sha256": "cfb8b6cd8262e6104119c73726753bc1020a11a2b09d241d725505ff1bee297c",
+          "bytes": 11210
+        }
+      ]
+    },
+    {
+      "id": "DISCONNECTED_GRAPH",
+      "bundled_proof_complete": false,
+      "statement": "For exact negative quintic pattern(3,1,1,1,1,1), disconnected Johnson-four support configurations are excluded under the accepted H130/defect/capacity bridge. This includes its graph classification/restoration prerequisites.",
+      "source_pins": [
+        {
+          "original_relative_path": ".research/attempts/009-parent-analysis/connected-support-necessity-authority-cycle1363.json",
+          "sha256": "4f1a7974ec2be18833630c8b8132239e1f6e19dfaab837ddec987b39c5c82fad",
+          "bytes": 2339
+        }
+      ]
+    },
+    {
+      "id": "BASELINE_LE3",
+      "statement": "No13-coordinate baseline ordinary derivative with c<=3, a in{-1,0}, b in{0,1}, ternary range, origin1, units0 and ordinary quadratic0/1. This includes c0/3 fallback, not two-exception transfer.",
+      "constant_upper_bound": 3,
+      "bundled_proof_complete": false,
+      "source_pin": {
+        "original_relative_path": ".research/attempts/008-sparse-spectrum-proof/negative-free-derivative-catalog-audit.md",
+        "sha256": "cd0eb88ebf522ccaaecd8277e5f8403af4cc358e0ef7175d3af476cd82414360"
+      },
+      "external_premise": "Frick2015 Theorem3.10 complete4787small-valence manifold catalog and recorded finite scan; not rerun."
+    }
+  ],
+  "claims": [
+    {
+      "id": "TRIPLED",
+      "statement": "A single tripled positive quartic is impossible under the explicit thirteen-coordinate ordinary derivative hypotheses. No constant bound.",
+      "depends_on": [],
+      "written_proof_bundled": true,
+      "conditional_on_inherited_theorems": false,
+      "full_dependency_closure_bundled": true,
+      "proof_path": "THEOREM.md"
+    },
+    {
+      "id": "PRIVATE_TIP",
+      "statement": "A private incident doubled positive quartic is impossible under the explicit local ordinary derivative hypotheses, even with exceptions avoiding the tip.",
+      "depends_on": [],
+      "written_proof_bundled": true,
+      "conditional_on_inherited_theorems": false,
+      "full_dependency_closure_bundled": true,
+      "proof_path": "THEOREM.md"
+    },
+    {
+      "id": "COUPLED",
+      "statement": "Residual Fourier defect<=6 implies negative quintic support union>=11 in the exact14-coordinate selfdual-empty representative.",
+      "depends_on": [
+        "TRIPLED",
+        "PRIVATE_TIP",
+        "OLD_LOCAL_012",
+        "NORMALIZATION"
+      ],
+      "written_proof_bundled": true,
+      "conditional_on_inherited_theorems": true,
+      "full_dependency_closure_bundled": false,
+      "proof_path": "THEOREM.md"
+    },
+    {
+      "id": "APPLICATION",
+      "statement": "The whole magnitude pattern(3,1,1,1,1,1) is excluded by the coupled connected-case contradiction plus the inherited disconnected-case result.",
+      "depends_on": [
+        "COUPLED",
+        "DISCONNECTED_GRAPH"
+      ],
+      "written_proof_bundled": true,
+      "full_Boolean_application_self_contained": false,
+      "parent_acceptance": {
+        "original_relative_path": ".research/attempts/009-parent-analysis/whole-pattern-exclusion-authority-cycle1388.json",
+        "sha256": "7bb621ae85318027c46e2691e1bb6e77ec77a6f79546087e71fa00a90578d3ed",
+        "bytes": 32412
+      },
+      "conditional_on_inherited_theorems": true,
+      "full_dependency_closure_bundled": false,
+      "proof_path": "APPLICATION.md"
+    },
+    {
+      "id": "THREE_FREE",
+      "statement": "At least three negative-free coordinates at residual<=6 forces exactlythree F and soleexception k_F=-3.",
+      "depends_on": [
+        "TRIPLED",
+        "PRIVATE_TIP",
+        "OLD_LOCAL_012",
+        "BASELINE_LE3",
+        "NORMALIZATION"
+      ],
+      "written_proof_bundled": true,
+      "proof_path": "THREE-FREE.md",
+      "conditional_on_inherited_theorems": true,
+      "full_dependency_closure_bundled": false
+    },
+    {
+      "id": "C7_ENDPOINT",
+      "statement": "The common physical exceptional link is C7, f(F)=1, and exceptionalendpointlinks are spheres of order9..12; no fullKmanifold claim.",
+      "depends_on": [
+        "THREE_FREE"
+      ],
+      "written_proof_bundled": true,
+      "proof_path": "ENDPOINT.md",
+      "conditional_on_inherited_theorems": true,
+      "full_dependency_closure_bundled": false
+    },
+    {
+      "id": "THREE_DISKS",
+      "statement": "The three physical pair disks have commonC7boundary; each of4offcycle coordinates occurs in exactly1or2disks, hence totalinteriorincidences<=8.",
+      "depends_on": [
+        "THREE_FREE",
+        "C7_ENDPOINT"
+      ],
+      "written_proof_bundled": true,
+      "proof_path": "CORE-DISKS.md",
+      "conditional_on_inherited_theorems": true,
+      "full_dependency_closure_bundled": false
+    },
+    {
+      "id": "DISK_MIN",
+      "statement": "A triangulated disk with7boundaryvertices ofdegree3/4 andinteriorvertices ofdegree4/5 has at least3interiorvertices.",
+      "depends_on": [],
+      "written_proof_bundled": true,
+      "proof_path": "DISK-LEMMA.md",
+      "conditional_on_inherited_theorems": false,
+      "full_dependency_closure_bundled": true
+    },
+    {
+      "id": "UNION12",
+      "statement": "Residual<=6 forces negativequintics to cover at least12 of14coordinates, under explicit inherited premises.",
+      "depends_on": [
+        "THREE_FREE",
+        "C7_ENDPOINT",
+        "THREE_DISKS",
+        "DISK_MIN"
+      ],
+      "written_proof_bundled": true,
+      "proof_path": "UNION12.md",
+      "negative_union_lower_bound": 12,
+      "acceptance_source": {
+        "path": "provenance/source/three-disks-independent-authority-cycle1401.json",
+        "sha256": "5911fc936300b9ddaed17c02038416b305a0e8cba95ac5dc6115c5385a192692"
+      },
+      "conditional_on_inherited_theorems": true,
+      "full_dependency_closure_bundled": false
+    }
+  ],
+  "finite_control_scope": {
+    "allocations": 61,
+    "conservative_incidence_cases": 54411,
+    "impossible_literal_aliases_discarded": 1784,
+    "old_theorem_routes": 54409,
+    "tripled_routes": 1,
+    "private_tip_routes": 1,
+    "Boolean_realizability_decided": false
+  },
+  "human_peer_review": false,
+  "formal_verification": false,
+  "novelty_established": false,
+  "excluded_future_claims": [
+    "two-freecubicstarclassification",
+    "allpositivestarrefinement",
+    "allnegativeendpointcatalog"
+  ]
+}

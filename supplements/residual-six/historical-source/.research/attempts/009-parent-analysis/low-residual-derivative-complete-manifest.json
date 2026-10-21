@@ -1,0 +1,64 @@
+{
+  "status": "ACCEPTED_UNIFORM_RESIDUAL_AT_MOST_TWO_DERIVATIVE_THEOREM",
+  "global_status": "UNRESOLVED",
+  "scope": "Every negative-free nonendpoint extends the zero pair positively; in the no-zero-pair case negative supports cover all14 coordinates. Residual Fourier defect at most2 is essential.",
+  "external_theorem": "Frick2015 Theorem3.10: complete small-valence three-manifold catalog. Its historical completeness computation was not independently regenerated.",
+  "artifacts": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/low-residual-negative-free-derivative.md",
+      "sha256": "93f60166f7b786868a9e1fcc6c9a3d1db80b4a0b92689a0e830ac62525d6e24f"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/negative-free-derivative-audit-manifest.json",
+      "sha256": "e4998f157965405c79cd82ad15986768b6bbca7dee43e2f5856bc5a7c2ac5b4c"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/derivative-exception-audits-manifest.json",
+      "sha256": "daa06603482bfaf0579514b00c0650b23213e0fae6ca16f84feff02705735103"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/one-negative-quadratic-derivative-independent-audit.md",
+      "sha256": "f9731af805e47e061ad8a8c6c8429ff13c50c8b6ab82d36d8b59a2ec0d7ffc48"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/one-six-edge-vertex-links-independent-verification.json",
+      "sha256": "dd75c4d0959dc3e54ff94f248154a22b9343ea9c19f2f9f772db20d3a54be1cf"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/one-six-edge-interval-independent-verification.json",
+      "sha256": "d6f599da99da316ae706cbc6926636aa6ef856e6fec3ba7427782ac339307a27"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/one-six-edge-compact-independent-verification.json",
+      "sha256": "248fe064fe70d38086c7cc16034c47836f1ce81a4598aa75847a157cc4775edc"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/one-negative-quadratic-compact-exclusion-audit.md",
+      "sha256": "873a4c020d7b3c728dde55ff2c2cb184ef9d4ac09b8d708bec22596ea95cd586"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/one-negative-quadratic-derivative.md",
+      "sha256": "d27d696cff4d74a12ab61012f307bbceeb0262187743b8265b8fa076cb5383ff"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/one-six-edge-compact-proofs.json",
+      "sha256": "16885890e8b3afbfb6fdc9f15dd3b1a66489405e96ccf360b4ca2ef0e922bc29"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/one_six_edge_compact_proofs.py",
+      "sha256": "9ae19eb8fe629d0ca7fd6788f81cd0fe0b0440c9ae06b08d02d8339ec7759128"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/exact_binary_row_propagation.py",
+      "sha256": "6f01e230b88384aa0142798639aeae602d74e0473cd26c6e1df54cc2d183e491"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/validation-cycle61.json",
+      "sha256": "a4e9844a2ecd9b8c70d10348041700842d3e916d0eda575a656cef06e3a17336"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/coverage-cycle61.json",
+      "sha256": "b54dcbd3611499e8baa849aa400c4b57fc4c76f4a2fcbfa050593a5081474bde"
+    }
+  ]
+}

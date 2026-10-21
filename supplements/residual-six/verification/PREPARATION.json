@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "status": "LOCAL_NORMAL_OPTIMIZED_CONTROLS_PASS; FRESH_COPY_REPLAY_RECORDED_IN_OWNING_HANDOFF",
+  "unit_controls_normal": 9,
+  "unit_controls_optimized": 9,
+  "CPU_price": "Original independent complete core2.7373CPU; current units about1wall second per mode; bounded fresh copied replay authorized by cycle1394.",
+  "pure_stdlib_runtime_import_inventory": [
+    {
+      "file": "controls.py",
+      "imports": [
+        "argparse",
+        "collections",
+        "dataclasses",
+        "fractions",
+        "functools",
+        "itertools",
+        "json",
+        "pathlib",
+        "sys",
+        "time"
+      ]
+    },
+    {
+      "file": "verify_packet.py",
+      "imports": [
+        "argparse",
+        "controls",
+        "dataclasses",
+        "hashlib",
+        "json",
+        "pathlib",
+        "time"
+      ]
+    },
+    {
+      "file": "test_packet.py",
+      "imports": [
+        "controls",
+        "copy",
+        "itertools",
+        "json",
+        "pathlib",
+        "tempfile",
+        "unittest",
+        "verify_packet"
+      ]
+    }
+  ],
+  "old_historical_sources_executed": false,
+  "old_local_theorems_replayed": false,
+  "third_party_PDF_or_raw_dataset_bodies_in_packet": false,
+  "independent_packaging_review": "PENDING_PARENT",
+  "new_version_doi": null,
+  "public_release": false,
+  "CFF_schema_1_2_validation": {
+    "validator": "cffconvert2.0.0",
+    "exit_code": 0,
+    "log": "verification/cff-validation.log"
+  },
+  "coverage": {
+    "statements": 330,
+    "covered_statements": 315,
+    "branches": 156,
+    "covered_branches": 140,
+    "adapter_coverage": "verify_packet.py100% statements and branches in controls+covered full replay",
+    "limitation": "controls.py has15 uncovered internal failure-guard lines and16 uncovered branches; no100% whole-kernel claim.",
+    "old_historical_sources_coverage_claimed": false
+  }
+}

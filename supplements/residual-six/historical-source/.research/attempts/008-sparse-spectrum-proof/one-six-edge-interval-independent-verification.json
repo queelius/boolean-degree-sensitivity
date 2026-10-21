@@ -1,0 +1,251 @@
+{
+  "status": "PASS",
+  "global_status": "UNRESOLVED",
+  "scope": "All six single-negative-quadratic derivative cases with constant1/2 excluded; no conclusion for constant3 or the whole original existence problem.",
+  "producer_imports": false,
+  "cases": [
+    {
+      "steps": 720,
+      "final_reason": "downward",
+      "final_interval": [
+        1,
+        1
+      ],
+      "final_allowed": [
+        -1,
+        0
+      ],
+      "link_order": 9,
+      "link_index": 22,
+      "constant": 1,
+      "variables": 1079,
+      "rows": 15686,
+      "row_sha256": "18815dac007e17d816b9f97e7e727eb103923d098dc3e0b4c121695152890420",
+      "row_counts": {
+        "downward": 3718,
+        "triangle_two_tetrahedra": 286,
+        "minimum_degree": 13,
+        "vertex_link_faces": 13,
+        "vertex_link_edges": 13,
+        "face_count": 3,
+        "root_link": 298,
+        "induced_euler": 8100,
+        "ordinary_edge_four_or_five": 77,
+        "exceptional_edge_present": 1,
+        "exceptional_edge_valence_six": 1,
+        "degree_at_least_six": 13,
+        "ordinary_vertex_link_flag": 2860,
+        "no_independent_triple": 286,
+        "root_nonneighbors_clique": 3,
+        "other_endpoint_small_sphere_degree": 1
+      }
+    },
+    {
+      "steps": 720,
+      "final_reason": "downward",
+      "final_interval": [
+        1,
+        1
+      ],
+      "final_allowed": [
+        -1,
+        0
+      ],
+      "link_order": 9,
+      "link_index": 22,
+      "constant": 2,
+      "variables": 1079,
+      "rows": 15686,
+      "row_sha256": "3b3ec18f2d8c19321dc4b8d84fb734ca400789a3c81620c34209e0a79c3caee5",
+      "row_counts": {
+        "downward": 3718,
+        "triangle_two_tetrahedra": 286,
+        "minimum_degree": 13,
+        "vertex_link_faces": 13,
+        "vertex_link_edges": 13,
+        "face_count": 3,
+        "root_link": 298,
+        "induced_euler": 8100,
+        "ordinary_edge_four_or_five": 77,
+        "exceptional_edge_present": 1,
+        "exceptional_edge_valence_six": 1,
+        "degree_at_least_six": 13,
+        "ordinary_vertex_link_flag": 2860,
+        "no_independent_triple": 286,
+        "root_nonneighbors_clique": 3,
+        "other_endpoint_small_sphere_degree": 1
+      }
+    },
+    {
+      "steps": 654,
+      "final_reason": "induced_euler",
+      "final_interval": [
+        0,
+        0
+      ],
+      "final_allowed": [
+        -3,
+        -1
+      ],
+      "link_order": 10,
+      "link_index": 185,
+      "constant": 1,
+      "variables": 1079,
+      "rows": 15684,
+      "row_sha256": "a25a3465816756a625ac87d106221943601ba0843c0d52dc92f8d4cdaeb653c8",
+      "row_counts": {
+        "downward": 3718,
+        "triangle_two_tetrahedra": 286,
+        "minimum_degree": 13,
+        "vertex_link_faces": 13,
+        "vertex_link_edges": 13,
+        "face_count": 3,
+        "root_link": 298,
+        "induced_euler": 8100,
+        "ordinary_edge_four_or_five": 77,
+        "exceptional_edge_present": 1,
+        "exceptional_edge_valence_six": 1,
+        "degree_at_least_six": 13,
+        "ordinary_vertex_link_flag": 2860,
+        "no_independent_triple": 286,
+        "root_nonneighbors_clique": 1,
+        "other_endpoint_small_sphere_degree": 1
+      }
+    },
+    {
+      "steps": 654,
+      "final_reason": "induced_euler",
+      "final_interval": [
+        0,
+        0
+      ],
+      "final_allowed": [
+        -3,
+        -1
+      ],
+      "link_order": 10,
+      "link_index": 185,
+      "constant": 2,
+      "variables": 1079,
+      "rows": 15684,
+      "row_sha256": "ccbb5213536fc5aaef4a5516d46b2c08820131c397d451f43ac6a797858db1ba",
+      "row_counts": {
+        "downward": 3718,
+        "triangle_two_tetrahedra": 286,
+        "minimum_degree": 13,
+        "vertex_link_faces": 13,
+        "vertex_link_edges": 13,
+        "face_count": 3,
+        "root_link": 298,
+        "induced_euler": 8100,
+        "ordinary_edge_four_or_five": 77,
+        "exceptional_edge_present": 1,
+        "exceptional_edge_valence_six": 1,
+        "degree_at_least_six": 13,
+        "ordinary_vertex_link_flag": 2860,
+        "no_independent_triple": 286,
+        "root_nonneighbors_clique": 1,
+        "other_endpoint_small_sphere_degree": 1
+      }
+    },
+    {
+      "steps": 791,
+      "final_reason": "other_endpoint_small_sphere_degree",
+      "final_interval": [
+        7,
+        8
+      ],
+      "final_allowed": [
+        9,
+        11
+      ],
+      "link_order": 11,
+      "link_index": 762,
+      "constant": 1,
+      "variables": 1079,
+      "rows": 15683,
+      "row_sha256": "772f680c7d9c2b765268821e881f1bdd6aa0cf93afc963f876d185f384269cb7",
+      "row_counts": {
+        "downward": 3718,
+        "triangle_two_tetrahedra": 286,
+        "minimum_degree": 13,
+        "vertex_link_faces": 13,
+        "vertex_link_edges": 13,
+        "face_count": 3,
+        "root_link": 298,
+        "induced_euler": 8100,
+        "ordinary_edge_four_or_five": 77,
+        "exceptional_edge_present": 1,
+        "exceptional_edge_valence_six": 1,
+        "degree_at_least_six": 13,
+        "ordinary_vertex_link_flag": 2860,
+        "no_independent_triple": 286,
+        "other_endpoint_small_sphere_degree": 1
+      }
+    },
+    {
+      "steps": 791,
+      "final_reason": "other_endpoint_small_sphere_degree",
+      "final_interval": [
+        7,
+        8
+      ],
+      "final_allowed": [
+        9,
+        11
+      ],
+      "link_order": 11,
+      "link_index": 762,
+      "constant": 2,
+      "variables": 1079,
+      "rows": 15683,
+      "row_sha256": "1554b30a1265120e1bb961afdcbef5e3116f9e36ddcab10bb578cb64b6107bf9",
+      "row_counts": {
+        "downward": 3718,
+        "triangle_two_tetrahedra": 286,
+        "minimum_degree": 13,
+        "vertex_link_faces": 13,
+        "vertex_link_edges": 13,
+        "face_count": 3,
+        "root_link": 298,
+        "induced_euler": 8100,
+        "ordinary_edge_four_or_five": 77,
+        "exceptional_edge_present": 1,
+        "exceptional_edge_valence_six": 1,
+        "degree_at_least_six": 13,
+        "ordinary_vertex_link_flag": 2860,
+        "no_independent_triple": 286,
+        "other_endpoint_small_sphere_degree": 1
+      }
+    }
+  ],
+  "total_rows": 94106,
+  "total_forced_values": 4330,
+  "seconds": 10.997795400005998,
+  "sources": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/one-six-edge-interval-proofs.json",
+      "sha256": "486a6ca403407278837e50ca6f33668b469151328a7e029ac7ff3a0c8c5122dd"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/one-six-edge-vertex-links.json",
+      "sha256": "32a4abdfc5870482dcafa9ebe4bd42a140d693bf00107d0f122f65c222567f45"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/audit_one_six_edge_interval_proofs.py",
+      "sha256": "b042a9f66596b5f72daba47778c2966c548e16435725e64d30b75040e3a4133b"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/one-six-edge-vertex-links-independent-verification.json",
+      "sha256": "dd75c4d0959dc3e54ff94f248154a22b9343ea9c19f2f9f772db20d3a54be1cf"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/one-negative-quadratic-derivative-independent-audit.md",
+      "sha256": "f9731af805e47e061ad8a8c6c8429ff13c50c8b6ab82d36d8b59a2ec0d7ffc48"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/one-negative-quadratic-derivative.md",
+      "sha256": "d27d696cff4d74a12ab61012f307bbceeb0262187743b8265b8fa076cb5383ff"
+    }
+  ]
+}

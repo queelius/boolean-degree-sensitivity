@@ -1,0 +1,143 @@
+{
+  "actual_control_cpu_seconds": 2.737255952,
+  "actual_control_exit_code": 0,
+  "actual_log": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/residual-six-independent-actual-cycle1386.log",
+    "sha256": "cee6a4bea67cd3d22ba081492adc7bbca8f715865f0aae03ec3dd67bc66c3a1d"
+  },
+  "authority": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/residual-six-independent-authority-cycle1386.json",
+    "sha256": "e9b7294d6df2e8c8cb3b74f73077cd213fcb0d39ce4f9104e7acba493d429d9a"
+  },
+  "cli_optimized_O_and_OO_rejected_pre_IO": true,
+  "coverage": {
+    "explanation": "Ten internal mathematical-invariant failure branches were not artificially forced; all substantive enumerations, input/scope tamper controls, and CLI paths ran.",
+    "reference": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/residual-six-independent-final-coverage-cycle1386.json",
+      "sha256": "94e3470ab43183f9f76ddc2d5cc56203206b772969ebd9180e5be24c448af8a5"
+    },
+    "totals": {
+      "covered_branches": 152,
+      "covered_lines": 269,
+      "excluded_lines": 0,
+      "missing_branches": 10,
+      "missing_lines": 10,
+      "num_branches": 162,
+      "num_partial_branches": 10,
+      "num_statements": 279,
+      "percent_branches_covered": 93.82716049382717,
+      "percent_branches_covered_display": "94",
+      "percent_covered": 95.46485260770974,
+      "percent_covered_display": "95",
+      "percent_statements_covered": 96.415770609319,
+      "percent_statements_covered_display": "96"
+    },
+    "unexecuted_branches": [
+      [
+        126,
+        127
+      ],
+      [
+        143,
+        144
+      ],
+      [
+        147,
+        150
+      ],
+      [
+        208,
+        210
+      ],
+      [
+        236,
+        237
+      ],
+      [
+        240,
+        241
+      ],
+      [
+        280,
+        281
+      ],
+      [
+        332,
+        333
+      ],
+      [
+        338,
+        339
+      ],
+      [
+        349,
+        350
+      ]
+    ],
+    "unexecuted_lines": [
+      127,
+      144,
+      150,
+      210,
+      237,
+      241,
+      281,
+      333,
+      339,
+      350
+    ]
+  },
+  "failed_initial_runs_preserved": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/residual-six-independent-red-cycle1386.log",
+      "sha256": "f98c58d604a22ba493587cd72c6ee38ec496ea097a5bc2f101ade759257edfeb"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/residual-six-proposal-reader-red-cycle1386.log",
+      "sha256": "476696a37985e1c2c002d1c8349faac021ccf581f05b2d9ce09f87e0bfa951ba"
+    }
+  ],
+  "no_producer_mathematical_imports": true,
+  "normal_tests": {
+    "log": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/residual-six-independent-final-normal-cycle1386.log",
+      "sha256": "5b15eb0c9a8b2fb5b12d06e92452bf0e18d57f5ba49ce3191dbc5da0b3d97a7a"
+    },
+    "passed": 11,
+    "subtests_passed": 26
+  },
+  "operational_note": "An initial coverage-report request preceded completion of its test process and found no data; after observing exit 0 the report was generated. Final coverage used a fresh data file.",
+  "optimized_unit_tests": {
+    "log": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/residual-six-independent-final-optimized-cycle1386.log",
+      "sha256": "509be65a51a0b8b04dc51447f2b49d3717555d3dc143e6a418ceb92376d27ee2"
+    },
+    "passed": 11,
+    "subtests_passed": 26
+  },
+  "project_tests": {
+    "log": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/residual-six-independent-project-tests-cycle1386.log",
+      "sha256": "9ced990d8fab992bbeefe1ee84883e6d85413bb4afebf59610594a1aa1e15689"
+    },
+    "passed": 13
+  },
+  "scope": {
+    "all_negative_quintics_fixed_before_residual_budget": true,
+    "all_singleton_and_pair_truths": 1,
+    "conclusion_negative_union_size_at_least": 11,
+    "f_origin": 0,
+    "global_goal_complete": false,
+    "n": 14,
+    "original_function_selfduality_assumed": false,
+    "real_degree_at_most": 5,
+    "representative": "selfdual_empty",
+    "residual_fourier_defect_at_most": 6,
+    "whole_pattern_excluded": false
+  },
+  "source_audit": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/residual-six-independent-source-audit-cycle1386.json",
+    "sha256": "86c07186380d34f19df9d35d3c3bd0c555ae125889830100374320bcf4d9410c"
+  },
+  "status": "PASS_FINAL_WRITTEN_REVIEW_AND_INDEPENDENT_CONTROLS"
+}

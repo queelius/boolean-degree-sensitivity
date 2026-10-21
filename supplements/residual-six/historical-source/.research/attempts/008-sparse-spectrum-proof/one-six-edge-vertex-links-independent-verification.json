@@ -1,0 +1,773 @@
+{
+  "status": "PASS",
+  "global_status": "UNRESOLVED",
+  "scope": "Conditional structural reduction and complete endpoint-link filter, not a derivative nonexistence proof.",
+  "scanned": 9148,
+  "targets": [
+    {
+      "order": 9,
+      "index": 22,
+      "exceptional_vertex": 8,
+      "degree_vector": [
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        6
+      ],
+      "face_masks": [
+        19,
+        44,
+        81,
+        104,
+        112,
+        146,
+        164,
+        176,
+        259,
+        268,
+        321,
+        328,
+        386,
+        388
+      ],
+      "flag": true
+    },
+    {
+      "order": 10,
+      "index": 185,
+      "exceptional_vertex": 9,
+      "degree_vector": [
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        6
+      ],
+      "face_masks": [
+        56,
+        74,
+        84,
+        88,
+        148,
+        161,
+        176,
+        266,
+        289,
+        296,
+        578,
+        580,
+        641,
+        644,
+        769,
+        770
+      ],
+      "flag": true
+    },
+    {
+      "order": 11,
+      "index": 762,
+      "exceptional_vertex": 10,
+      "degree_vector": [
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        6
+      ],
+      "face_masks": [
+        28,
+        44,
+        81,
+        88,
+        145,
+        148,
+        290,
+        292,
+        388,
+        546,
+        552,
+        584,
+        1089,
+        1153,
+        1282,
+        1408,
+        1538,
+        1600
+      ],
+      "flag": true
+    }
+  ],
+  "boundary_controls": [
+    {
+      "selected": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "edges": 4,
+      "degree_sequence": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "components": [
+        4
+      ],
+      "is_c6": false
+    },
+    {
+      "selected": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        6
+      ],
+      "edges": 4,
+      "degree_sequence": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "components": [
+        4
+      ],
+      "is_c6": false
+    },
+    {
+      "selected": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        7
+      ],
+      "edges": 6,
+      "degree_sequence": [
+        2,
+        2,
+        2,
+        2,
+        4
+      ],
+      "components": [
+        5
+      ],
+      "is_c6": false
+    },
+    {
+      "selected": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        6
+      ],
+      "edges": 6,
+      "degree_sequence": [
+        2,
+        2,
+        2,
+        2,
+        4
+      ],
+      "components": [
+        5
+      ],
+      "is_c6": false
+    },
+    {
+      "selected": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        7
+      ],
+      "edges": 4,
+      "degree_sequence": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "components": [
+        4
+      ],
+      "is_c6": false
+    },
+    {
+      "selected": [
+        0,
+        1,
+        2,
+        3,
+        6,
+        7
+      ],
+      "edges": 4,
+      "degree_sequence": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "components": [
+        4
+      ],
+      "is_c6": false
+    },
+    {
+      "selected": [
+        0,
+        1,
+        2,
+        4,
+        5,
+        6
+      ],
+      "edges": 4,
+      "degree_sequence": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "components": [
+        4
+      ],
+      "is_c6": false
+    },
+    {
+      "selected": [
+        0,
+        1,
+        2,
+        4,
+        5,
+        7
+      ],
+      "edges": 6,
+      "degree_sequence": [
+        2,
+        2,
+        2,
+        2,
+        4
+      ],
+      "components": [
+        5
+      ],
+      "is_c6": false
+    },
+    {
+      "selected": [
+        0,
+        1,
+        2,
+        4,
+        6,
+        7
+      ],
+      "edges": 6,
+      "degree_sequence": [
+        2,
+        2,
+        2,
+        2,
+        4
+      ],
+      "components": [
+        5
+      ],
+      "is_c6": false
+    },
+    {
+      "selected": [
+        0,
+        1,
+        2,
+        5,
+        6,
+        7
+      ],
+      "edges": 6,
+      "degree_sequence": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "components": [
+        3,
+        3
+      ],
+      "is_c6": false
+    },
+    {
+      "selected": [
+        0,
+        1,
+        3,
+        4,
+        5,
+        6
+      ],
+      "edges": 6,
+      "degree_sequence": [
+        2,
+        2,
+        2,
+        2,
+        4
+      ],
+      "components": [
+        5
+      ],
+      "is_c6": false
+    },
+    {
+      "selected": [
+        0,
+        1,
+        3,
+        4,
+        5,
+        7
+      ],
+      "edges": 4,
+      "degree_sequence": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "components": [
+        4
+      ],
+      "is_c6": false
+    },
+    {
+      "selected": [
+        0,
+        1,
+        3,
+        4,
+        6,
+        7
+      ],
+      "edges": 6,
+      "degree_sequence": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "components": [
+        3,
+        3
+      ],
+      "is_c6": false
+    },
+    {
+      "selected": [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7
+      ],
+      "edges": 6,
+      "degree_sequence": [
+        2,
+        2,
+        2,
+        2,
+        4
+      ],
+      "components": [
+        5
+      ],
+      "is_c6": false
+    },
+    {
+      "selected": [
+        0,
+        1,
+        4,
+        5,
+        6,
+        7
+      ],
+      "edges": 4,
+      "degree_sequence": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "components": [
+        4
+      ],
+      "is_c6": false
+    },
+    {
+      "selected": [
+        0,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "edges": 6,
+      "degree_sequence": [
+        2,
+        2,
+        2,
+        2,
+        4
+      ],
+      "components": [
+        5
+      ],
+      "is_c6": false
+    },
+    {
+      "selected": [
+        0,
+        2,
+        3,
+        4,
+        5,
+        7
+      ],
+      "edges": 6,
+      "degree_sequence": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "components": [
+        3,
+        3
+      ],
+      "is_c6": false
+    },
+    {
+      "selected": [
+        0,
+        2,
+        3,
+        4,
+        6,
+        7
+      ],
+      "edges": 4,
+      "degree_sequence": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "components": [
+        4
+      ],
+      "is_c6": false
+    },
+    {
+      "selected": [
+        0,
+        2,
+        3,
+        5,
+        6,
+        7
+      ],
+      "edges": 6,
+      "degree_sequence": [
+        2,
+        2,
+        2,
+        2,
+        4
+      ],
+      "components": [
+        5
+      ],
+      "is_c6": false
+    },
+    {
+      "selected": [
+        0,
+        2,
+        4,
+        5,
+        6,
+        7
+      ],
+      "edges": 4,
+      "degree_sequence": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "components": [
+        4
+      ],
+      "is_c6": false
+    },
+    {
+      "selected": [
+        0,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "edges": 6,
+      "degree_sequence": [
+        2,
+        2,
+        2,
+        2,
+        4
+      ],
+      "components": [
+        5
+      ],
+      "is_c6": false
+    },
+    {
+      "selected": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "edges": 6,
+      "degree_sequence": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "components": [
+        3,
+        3
+      ],
+      "is_c6": false
+    },
+    {
+      "selected": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7
+      ],
+      "edges": 6,
+      "degree_sequence": [
+        2,
+        2,
+        2,
+        2,
+        4
+      ],
+      "components": [
+        5
+      ],
+      "is_c6": false
+    },
+    {
+      "selected": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7
+      ],
+      "edges": 6,
+      "degree_sequence": [
+        2,
+        2,
+        2,
+        2,
+        4
+      ],
+      "components": [
+        5
+      ],
+      "is_c6": false
+    },
+    {
+      "selected": [
+        1,
+        2,
+        3,
+        5,
+        6,
+        7
+      ],
+      "edges": 4,
+      "degree_sequence": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "components": [
+        4
+      ],
+      "is_c6": false
+    },
+    {
+      "selected": [
+        1,
+        2,
+        4,
+        5,
+        6,
+        7
+      ],
+      "edges": 6,
+      "degree_sequence": [
+        2,
+        2,
+        2,
+        2,
+        4
+      ],
+      "components": [
+        5
+      ],
+      "is_c6": false
+    },
+    {
+      "selected": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "edges": 4,
+      "degree_sequence": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "components": [
+        4
+      ],
+      "is_c6": false
+    },
+    {
+      "selected": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "edges": 4,
+      "degree_sequence": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "components": [
+        4
+      ],
+      "is_c6": false
+    }
+  ],
+  "completeness_dependency": "Previously independently checked inverse-contraction sphere catalog coverage in006.",
+  "sources": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-06.json",
+      "sha256": "e02f1965d9c0e1e4d4ce0e95907b6af53af1e590d8fc32e4d10b95178798b9e9"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-07.json",
+      "sha256": "b6f27899b2b9830758119abb9f38d92705663852cbc1e54c56e5ffe7cda0aec7"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-08.json",
+      "sha256": "df2dd7cc5c4ba26a5dde0736c3ec8c6d9f33292dfdd66f067badb0d67ea0e879"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-09.json",
+      "sha256": "8c707c48b4daecbf613fa5d31152e5c0606206a9f8543a8a37dd60f955349eff"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-10.json",
+      "sha256": "0884454b75c491e2c47a14e9eea4e34752f24a0a3f59ddcf4b54ae5010bd690a"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-11.json",
+      "sha256": "120a8e03f8ca63a5432275be5ca65ec705062e2937a5e8b71eb401924b369ce2"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-12.json",
+      "sha256": "0f783e580e0555f85cf42ff460a947082d37e5699bdbf9feb4aa1da85150b04c"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/one-six-edge-vertex-links.json",
+      "sha256": "32a4abdfc5870482dcafa9ebe4bd42a140d693bf00107d0f122f65c222567f45"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/audit_one_six_edge_vertex_links.py",
+      "sha256": "abbbc872b962652f100e0c6242ecbed160b6674563367c1da1b716a10ebae46a"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/one-negative-quadratic-derivative.md",
+      "sha256": "d27d696cff4d74a12ab61012f307bbceeb0262187743b8265b8fa076cb5383ff"
+    }
+  ]
+}

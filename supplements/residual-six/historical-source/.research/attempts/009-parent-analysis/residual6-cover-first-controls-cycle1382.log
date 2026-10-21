@@ -1,0 +1,12 @@
+test_every_allocation_has_explicit_coupled_reason (test_residual6_cover_cycle1382.ResidualSixTests) ... ok
+test_exact_residual_types_and_complete_small_allocations (test_residual6_cover_cycle1382.ResidualSixTests) ... ok
+test_old_constant_and_coefficient_guards_remain_strict (test_residual6_cover_cycle1382.ResidualSixTests) ... ok
+test_private_tips_and_no_duplicate_supports (test_residual6_cover_cycle1382.ResidualSixTests) ... ok
+test_shared_tetrahedron_faces_refute_independent_charging (test_residual6_cover_cycle1382.ResidualSixTests) ... ok
+test_surface_private_curvature_controls (test_residual6_cover_cycle1382.ResidualSixTests) ... ok
+test_tripled_weight_link_paths_and_forbidden_triangle (test_residual6_cover_cycle1382.ResidualSixTests) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.020s
+
+OK

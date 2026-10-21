@@ -1,0 +1,50 @@
+{
+  "status": "FROZEN_LOCAL_PROOF_PENDING_PARENT_INDEPENDENT_AUDIT",
+  "global_status": "UNRESOLVED",
+  "theorem": "Baseline negative-free endpoint cannot have zero-pair codegree11 when its singleton numerator is at most3.",
+  "external_completeness_dependency": "Published4787 closed small-valence3-manifold catalog; historical completeness not regenerated.",
+  "tests": {
+    "passed": 5,
+    "command": "python -m pytest -q .research/attempts/008-sparse-spectrum-proof/test_negative_free_endpoint_d11_catalog.py",
+    "coverage": {
+      "covered_lines": 127,
+      "num_statements": 134,
+      "percent_covered": 94.77611940298507,
+      "percent_covered_display": "95",
+      "missing_lines": 7,
+      "excluded_lines": 0,
+      "percent_statements_covered": 94.77611940298507,
+      "percent_statements_covered_display": "95"
+    }
+  },
+  "finite_result": {
+    "catalog_records": 4787,
+    "order14": 111,
+    "minimum_valence4": 19,
+    "eligible_pairs": 4,
+    "explicit_negative_two_witnesses": 4,
+    "survivors": 0
+  },
+  "files": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/negative-free-endpoint-codegree-eleven.md",
+      "sha256": "0c1cefbae04629e0f6c91922b0f5ab2cf9937c5a4ed59e6eccab525860cc0de6"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/negative_free_endpoint_d11_catalog.py",
+      "sha256": "5942b78d664aef3c411aaf3228cf7e8db0d5cb810f1c77dc799b3ec90b02eac0"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/test_negative_free_endpoint_d11_catalog.py",
+      "sha256": "94163f7ed500d56eab660bfb033e8f7604e732e260c30be3690ed41559484b3d"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/negative-free-endpoint-d11-catalog-verification.json",
+      "sha256": "f3402e91eee1026c3ea38500cdb22f4c9a6bf6692a51c59700f8bf61036f8cfc"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/negative-free-endpoint-d11-coverage.json",
+      "sha256": "b6c1d01355bb8ac077f1555829b3ee90f390e6b20606de91708dccb804a5dddc"
+    }
+  ]
+}

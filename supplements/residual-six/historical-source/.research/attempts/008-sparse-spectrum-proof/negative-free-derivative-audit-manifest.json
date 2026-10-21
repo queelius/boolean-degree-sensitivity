@@ -1,0 +1,87 @@
+{
+  "status": "INDEPENDENT_MATHEMATICAL_AND_LITERAL_AUDIT_COMPLETE",
+  "global_status": "UNRESOLVED",
+  "scope": "Abstract derivative obstruction for c<=3, and shared-pair2222 reduction to disjoint tails. Historical catalog completeness is an explicitly cited external theorem.",
+  "artifacts": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/negative-free-derivative-catalog-audit.md",
+      "sha256": "cd0eb88ebf522ccaaecd8277e5f8403af4cc358e0ef7175d3af476cd82414360"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/negative-free-vertex-manifold-audit.md",
+      "sha256": "74a8bd396c9b33ed7068a891a1e04520d3b29deb2c78bdc34de5d1e9eb4977bc"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/negative_free_vertex_manifold.py",
+      "sha256": "29ec316ecf28db265ffd0b2ff22272f2aca5764c167cac25d6242e049f99d5e5"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/test_negative_free_vertex_manifold.py",
+      "sha256": "bd6a9a4ac57e32ff4ada1bf21dfd813c9b42b98f9230bdacd5f21db79005a47a"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/negative-free-vertex-manifold-controls.json",
+      "sha256": "cef6662480fa5b05d63a7c4aaf34317bed374affcd74942721342ff22f229800"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/audit_small_valence_catalog.py",
+      "sha256": "6184b21506a7485e5be85ac86227b3235c17f4ffdd953018091c2736959aff7f"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/test_small_valence_catalog.py",
+      "sha256": "8fd34f878a1a8280e0fc8c709d3b3441f2e3f1cbabeb30923f473a526889a946"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/small-valence-catalog-independent-verification.json",
+      "sha256": "a79723d2d9d6fc0b7b61698511d6a38a5a070f987a108c07a7b9790a2d77a35c"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/audit_small_valence_euler.py",
+      "sha256": "8e608f6e5ba4e54c5071c2b8fa76f7f065d3d61bd6e879a12d7b00adc54e4c59"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/test_small_valence_euler.py",
+      "sha256": "1dd93d078b4cedd82aac997200f80fa338e0083b4a73f484f2114f8a7ded921b"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/small-valence-euler-independent-verification.json",
+      "sha256": "f97253a25b8f851c2402c70b9a1d2cf04fc1c59d8ccfb902f6aee08d46eb26de"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/frick2015-combinatorial-restrictions.pdf",
+      "sha256": "0ff12e3638b45cb27a3fc491637bf829918b502438b7d019ee6d21566c47dd59"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/frick2015-theorem310.txt",
+      "sha256": "b2c77da3b0cf557abdef37b8e48aabada01cd4f5449be3311b1e5eb45a2c0601"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/frick2015-source.json",
+      "sha256": "5a85153ad8db5f1a02a60344481a71547ead787031c3ba35419c6fb95b056b27"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/empty-2222-common-pair-disjoint-tails.md",
+      "sha256": "7d2ccaa16a8ae57a038c0f94e82b183ca02965b3aec2bcf670d6cbd15015f783"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/empty-four-doubles-baseline-accepted.md",
+      "sha256": "1ab481110072dedbb9037d913f144a137004ec4ab7aa83daac706f79aeefc1dd"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/empty-four-doubles-baseline-accepted-manifest.json",
+      "sha256": "1c831ee6e5c0aea7ffab759c3614c5a84265c358120635a00566c9b795ca2759"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/negative-free-audit-coverage.json",
+      "sha256": "47c985dd35c915eecf156daa8238749972fd20dffbc4d6fb84a7a02a9d62b48e"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/manifolds_lex_d3_deg5.txt.gz",
+      "sha256": "41071b36a731396d5273c60748aea7937c876136684ac479971e87e27e2fbb59"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/small-valence-catalog-scan.json",
+      "sha256": "563ca112205a73398265fbc3265a6fd10be2e93775861eaec840e788e46048b5"
+    }
+  ]
+}

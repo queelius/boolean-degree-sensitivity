@@ -1,0 +1,43 @@
+{
+  "status": "INDEPENDENTLY_ACCEPTED_EMPTY_RESIDUAL_AT_MOST_FOUR_NEGATIVE_SUPPORT_COVER",
+  "global_status": "UNRESOLVED",
+  "claim": "For the self-dual empty-pair representative, residual Fourier defect at most four after fixing every negative quintic forces their union to contain all fourteen coordinates.",
+  "whole_patterns_excluded": 0,
+  "newly_covered_open_patterns": 6,
+  "covered_open_patterns": 19,
+  "external_dependency": "Accepted local derivative theorems retain the published complete small-valence manifold and small-sphere catalogs; historical enumerations not regenerated.",
+  "files": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/audit_empty_residual_four.py",
+      "sha256": "5094df34355aafb46156831ecb83c38dffcab3002fc2fc9f24af2f7dd64ffaf3"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_audit_empty_residual_four.py",
+      "sha256": "97f786103f49b006d4c8ecfd14ead17f14b5afcf52922661745efb0a41e5748b"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/empty-residual-four-independent-audit.json",
+      "sha256": "95469ff87a45b159cd1ca8470010cebeaa79f1986f6909983e88b9134f3bebbd"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/empty-residual-four-parent-coverage.json",
+      "sha256": "8490c216848a0cf0bb57f171444210e29d940bac66fdea2ac5424d9f0bdee1d8"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/empty-residual-four-parent-audit.md",
+      "sha256": "07ea8968bffaf794b27e6873a93797f3f4b3da1818c96014858181ca78b3a64e"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/empty-residual-four-cover-proposed-manifest.json",
+      "sha256": "5150e34a52aefacc902bd00bd4ff6859905cd2dda3e8fa825b8fbbada4208a17"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/empty-residual-four-cover.md",
+      "sha256": "9f4b2438e2ffc87d1eac4c8f217c102e3acc73355a566f5e07d74ead7a7e96cd"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/empty-residual-four-cover.json",
+      "sha256": "80d6888251d7bbcb762f4eb7ccb9518425f4ddac3ac6f0d01aa672163d74d501"
+    }
+  ]
+}

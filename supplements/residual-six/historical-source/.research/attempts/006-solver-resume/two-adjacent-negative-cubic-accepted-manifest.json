@@ -1,0 +1,20 @@
+{
+  "status": "INDEPENDENTLY_ACCEPTED_LOCAL_THEOREM",
+  "scope": "Ordinary quadratic coefficients0/1; constant1/2; two adjacent pair numerators-2; binary positive quartics; no special coefficient-two transfer claimed.",
+  "cases": 9,
+  "literal_rows": 945,
+  "exact_deductions": 1111,
+  "files": {
+    ".research/attempts/006-solver-resume/two-negative-cubic-ordinary-derivative.md": "e73a62e521f5514c55a8b732c2072efb01e3a0f65fbdea4b5c689ab7ecbe2a14",
+    ".research/attempts/006-solver-resume/two-negative-cubic-ordinary-compact-proofs.json": "d98b5ca81b5b848dd36977b637c658284edc9138aa093132ac88ceae6d1e7d50",
+    ".research/attempts/006-solver-resume/two-negative-cubic-ordinary-interval-probe.json": "4d27d95314001e3d4aa98578a5d9679fc2e32b278ba945494a681d0ff91b4a2d",
+    ".research/attempts/006-solver-resume/two_negative_cubic_complex.py": "da4395368f6b0d3790b0a362615f7aecbd5b7e07304626a181142137bfa054ba",
+    ".research/attempts/006-solver-resume/compact_two_negative_cubic.py": "a60237a71db7af2d70e3769ca1db0f5ec2509f10aae72cf25a3fcd689849b5cf",
+    ".research/attempts/006-solver-resume/independent-math-audit/two-adjacent-negative-cubic-audit.md": "546e79961ae26f13c72b2f2e947ea9e9cc47a7945e0462d53d9773dd50dd4094",
+    ".research/attempts/006-solver-resume/independent-math-audit/two-adjacent-negative-cubic-independent-verification.json": "12f650e0fcfc141de7195d46641342704cea93255093c20e43dbfaea4db6c090",
+    ".research/attempts/006-solver-resume/independent-math-audit/verify_two_adjacent_negative_cubic.py": "6db23989679164111afdc5507ad08de8070a79ddf49311e054f94e2eb816a854",
+    ".research/attempts/009-parent-analysis/two-adjacent-negative-cubic-structural-audit.md": "2cb774d0cc4b21cfde077038ca9fd5f64b63c2e4dff7b275cd65821ce1c4d9ca",
+    ".research/attempts/009-parent-analysis/two-adjacent-negative-cubic-link-filter-independent.json": "cf39d1bf9f5d27bd3e25213fbb693d5c6b7dfb953d8979242f3c684a0915c3d9"
+  },
+  "global_goal": "OPEN"
+}

@@ -1,0 +1,4047 @@
+{
+  "status": "VERIFIED_COMPLETE_DISJOINT_CUBIC_ORDINARY_ROOT_LINK_COVER",
+  "global_goal": "OPEN",
+  "coverage_scope": "Ordinary quadratic coefficients0/1, c1/2, binary quartics, two disjoint exceptional Fourier pairs with at least one -2 and other -2/+1.",
+  "root_covers": [
+    {
+      "order": 9,
+      "index": 22,
+      "literal_pairs": 55,
+      "link_automorphisms": 4,
+      "full_group_order": 24,
+      "backtracking_nodes": 30,
+      "marked_orbits": 14,
+      "orbit_sizes": {
+        "6": 2,
+        "10": 2,
+        "12": 2,
+        "34": 4,
+        "40": 4,
+        "96": 1,
+        "130": 4,
+        "132": 4,
+        "160": 4,
+        "384": 1,
+        "1026": 12,
+        "1056": 6,
+        "1152": 6,
+        "3072": 3
+      },
+      "discovery_label_to_pair": {
+        "0": 6,
+        "1": 10,
+        "2": 12,
+        "3": 34,
+        "4": 40,
+        "5": 130,
+        "6": 132,
+        "7": 1026,
+        "8": 96,
+        "9": 160,
+        "10": 1056,
+        "11": 384,
+        "12": 1152,
+        "13": 3072
+      },
+      "sorted_representative_pairs": [
+        6,
+        10,
+        12,
+        34,
+        40,
+        96,
+        130,
+        132,
+        160,
+        384,
+        1026,
+        1056,
+        1152,
+        3072
+      ]
+    },
+    {
+      "order": 10,
+      "index": 185,
+      "literal_pairs": 55,
+      "link_automorphisms": 6,
+      "full_group_order": 12,
+      "backtracking_nodes": 47,
+      "marked_orbits": 13,
+      "orbit_sizes": {
+        "6": 3,
+        "18": 6,
+        "20": 3,
+        "48": 3,
+        "130": 3,
+        "132": 6,
+        "144": 6,
+        "192": 3,
+        "384": 3,
+        "2050": 6,
+        "2064": 6,
+        "2176": 6,
+        "6144": 1
+      },
+      "discovery_label_to_pair": {
+        "0": 6,
+        "1": 18,
+        "2": 20,
+        "3": 130,
+        "4": 132,
+        "5": 2050,
+        "6": 48,
+        "7": 144,
+        "8": 192,
+        "9": 2064,
+        "10": 384,
+        "11": 2176,
+        "12": 6144
+      },
+      "sorted_representative_pairs": [
+        6,
+        18,
+        20,
+        48,
+        130,
+        132,
+        144,
+        192,
+        384,
+        2050,
+        2064,
+        2176,
+        6144
+      ]
+    },
+    {
+      "order": 11,
+      "index": 762,
+      "literal_pairs": 55,
+      "link_automorphisms": 4,
+      "full_group_order": 4,
+      "backtracking_nodes": 34,
+      "marked_orbits": 20,
+      "orbit_sizes": {
+        "6": 1,
+        "10": 4,
+        "24": 1,
+        "34": 2,
+        "36": 2,
+        "40": 4,
+        "96": 1,
+        "130": 4,
+        "132": 4,
+        "136": 4,
+        "144": 4,
+        "160": 4,
+        "192": 4,
+        "384": 2,
+        "640": 2,
+        "768": 2,
+        "4098": 2,
+        "4104": 2,
+        "4128": 2,
+        "4224": 4
+      },
+      "discovery_label_to_pair": {
+        "0": 6,
+        "1": 10,
+        "2": 34,
+        "3": 36,
+        "4": 130,
+        "5": 132,
+        "6": 4098,
+        "7": 24,
+        "8": 40,
+        "9": 136,
+        "10": 144,
+        "11": 4104,
+        "12": 96,
+        "13": 160,
+        "14": 192,
+        "15": 4128,
+        "16": 384,
+        "17": 640,
+        "18": 768,
+        "19": 4224
+      },
+      "sorted_representative_pairs": [
+        6,
+        10,
+        24,
+        34,
+        36,
+        40,
+        96,
+        130,
+        132,
+        136,
+        144,
+        160,
+        192,
+        384,
+        640,
+        768,
+        4098,
+        4104,
+        4128,
+        4224
+      ]
+    }
+  ],
+  "total_literal_pairs": 165,
+  "total_marked_types": 47,
+  "total_signed_cases": 94,
+  "cases": [
+    {
+      "case_index": 0,
+      "root_index": 0,
+      "second_pair": 6,
+      "second_value": -2,
+      "negative_endpoints": [
+        0,
+        1,
+        2,
+        9
+      ],
+      "positive_endpoints": [],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 1,
+      "root_index": 0,
+      "second_pair": 6,
+      "second_value": 1,
+      "negative_endpoints": [
+        0,
+        9
+      ],
+      "positive_endpoints": [
+        1,
+        2
+      ],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 2,
+      "root_index": 0,
+      "second_pair": 10,
+      "second_value": -2,
+      "negative_endpoints": [
+        0,
+        1,
+        3,
+        9
+      ],
+      "positive_endpoints": [],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 3,
+      "root_index": 0,
+      "second_pair": 10,
+      "second_value": 1,
+      "negative_endpoints": [
+        0,
+        9
+      ],
+      "positive_endpoints": [
+        1,
+        3
+      ],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        2,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 4,
+      "root_index": 0,
+      "second_pair": 12,
+      "second_value": -2,
+      "negative_endpoints": [
+        0,
+        2,
+        3,
+        9
+      ],
+      "positive_endpoints": [],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 5,
+      "root_index": 0,
+      "second_pair": 12,
+      "second_value": 1,
+      "negative_endpoints": [
+        0,
+        9
+      ],
+      "positive_endpoints": [
+        2,
+        3
+      ],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 6,
+      "root_index": 0,
+      "second_pair": 34,
+      "second_value": -2,
+      "negative_endpoints": [
+        0,
+        1,
+        5,
+        9
+      ],
+      "positive_endpoints": [],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 7,
+      "root_index": 0,
+      "second_pair": 34,
+      "second_value": 1,
+      "negative_endpoints": [
+        0,
+        9
+      ],
+      "positive_endpoints": [
+        1,
+        5
+      ],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 8,
+      "root_index": 0,
+      "second_pair": 40,
+      "second_value": -2,
+      "negative_endpoints": [
+        0,
+        3,
+        5,
+        9
+      ],
+      "positive_endpoints": [],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 9,
+      "root_index": 0,
+      "second_pair": 40,
+      "second_value": 1,
+      "negative_endpoints": [
+        0,
+        9
+      ],
+      "positive_endpoints": [
+        3,
+        5
+      ],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        4,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 10,
+      "root_index": 0,
+      "second_pair": 96,
+      "second_value": -2,
+      "negative_endpoints": [
+        0,
+        5,
+        6,
+        9
+      ],
+      "positive_endpoints": [],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 11,
+      "root_index": 0,
+      "second_pair": 96,
+      "second_value": 1,
+      "negative_endpoints": [
+        0,
+        9
+      ],
+      "positive_endpoints": [
+        5,
+        6
+      ],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 12,
+      "root_index": 0,
+      "second_pair": 130,
+      "second_value": -2,
+      "negative_endpoints": [
+        0,
+        1,
+        7,
+        9
+      ],
+      "positive_endpoints": [],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 13,
+      "root_index": 0,
+      "second_pair": 130,
+      "second_value": 1,
+      "negative_endpoints": [
+        0,
+        9
+      ],
+      "positive_endpoints": [
+        1,
+        7
+      ],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 14,
+      "root_index": 0,
+      "second_pair": 132,
+      "second_value": -2,
+      "negative_endpoints": [
+        0,
+        2,
+        7,
+        9
+      ],
+      "positive_endpoints": [],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 15,
+      "root_index": 0,
+      "second_pair": 132,
+      "second_value": 1,
+      "negative_endpoints": [
+        0,
+        9
+      ],
+      "positive_endpoints": [
+        2,
+        7
+      ],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 16,
+      "root_index": 0,
+      "second_pair": 160,
+      "second_value": -2,
+      "negative_endpoints": [
+        0,
+        5,
+        7,
+        9
+      ],
+      "positive_endpoints": [],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 17,
+      "root_index": 0,
+      "second_pair": 160,
+      "second_value": 1,
+      "negative_endpoints": [
+        0,
+        9
+      ],
+      "positive_endpoints": [
+        5,
+        7
+      ],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        6,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 18,
+      "root_index": 0,
+      "second_pair": 384,
+      "second_value": -2,
+      "negative_endpoints": [
+        0,
+        7,
+        8,
+        9
+      ],
+      "positive_endpoints": [],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 19,
+      "root_index": 0,
+      "second_pair": 384,
+      "second_value": 1,
+      "negative_endpoints": [
+        0,
+        9
+      ],
+      "positive_endpoints": [
+        7,
+        8
+      ],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 20,
+      "root_index": 0,
+      "second_pair": 1026,
+      "second_value": -2,
+      "negative_endpoints": [
+        0,
+        1,
+        9,
+        10
+      ],
+      "positive_endpoints": [],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 21,
+      "root_index": 0,
+      "second_pair": 1026,
+      "second_value": 1,
+      "negative_endpoints": [
+        0,
+        9
+      ],
+      "positive_endpoints": [
+        1,
+        10
+      ],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 22,
+      "root_index": 0,
+      "second_pair": 1056,
+      "second_value": -2,
+      "negative_endpoints": [
+        0,
+        5,
+        9,
+        10
+      ],
+      "positive_endpoints": [],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 23,
+      "root_index": 0,
+      "second_pair": 1056,
+      "second_value": 1,
+      "negative_endpoints": [
+        0,
+        9
+      ],
+      "positive_endpoints": [
+        5,
+        10
+      ],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        9,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 24,
+      "root_index": 0,
+      "second_pair": 1152,
+      "second_value": -2,
+      "negative_endpoints": [
+        0,
+        7,
+        9,
+        10
+      ],
+      "positive_endpoints": [],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 25,
+      "root_index": 0,
+      "second_pair": 1152,
+      "second_value": 1,
+      "negative_endpoints": [
+        0,
+        9
+      ],
+      "positive_endpoints": [
+        7,
+        10
+      ],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 26,
+      "root_index": 0,
+      "second_pair": 3072,
+      "second_value": -2,
+      "negative_endpoints": [
+        0,
+        9,
+        10,
+        11
+      ],
+      "positive_endpoints": [],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 27,
+      "root_index": 0,
+      "second_pair": 3072,
+      "second_value": 1,
+      "negative_endpoints": [
+        0,
+        9
+      ],
+      "positive_endpoints": [
+        10,
+        11
+      ],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        12
+      ]
+    },
+    {
+      "case_index": 28,
+      "root_index": 1,
+      "second_pair": 6,
+      "second_value": -2,
+      "negative_endpoints": [
+        0,
+        1,
+        2,
+        10
+      ],
+      "positive_endpoints": [],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 29,
+      "root_index": 1,
+      "second_pair": 6,
+      "second_value": 1,
+      "negative_endpoints": [
+        0,
+        10
+      ],
+      "positive_endpoints": [
+        1,
+        2
+      ],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 30,
+      "root_index": 1,
+      "second_pair": 18,
+      "second_value": -2,
+      "negative_endpoints": [
+        0,
+        1,
+        4,
+        10
+      ],
+      "positive_endpoints": [],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 31,
+      "root_index": 1,
+      "second_pair": 18,
+      "second_value": 1,
+      "negative_endpoints": [
+        0,
+        10
+      ],
+      "positive_endpoints": [
+        1,
+        4
+      ],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        2,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 32,
+      "root_index": 1,
+      "second_pair": 20,
+      "second_value": -2,
+      "negative_endpoints": [
+        0,
+        2,
+        4,
+        10
+      ],
+      "positive_endpoints": [],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 33,
+      "root_index": 1,
+      "second_pair": 20,
+      "second_value": 1,
+      "negative_endpoints": [
+        0,
+        10
+      ],
+      "positive_endpoints": [
+        2,
+        4
+      ],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 34,
+      "root_index": 1,
+      "second_pair": 48,
+      "second_value": -2,
+      "negative_endpoints": [
+        0,
+        4,
+        5,
+        10
+      ],
+      "positive_endpoints": [],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 35,
+      "root_index": 1,
+      "second_pair": 48,
+      "second_value": 1,
+      "negative_endpoints": [
+        0,
+        10
+      ],
+      "positive_endpoints": [
+        4,
+        5
+      ],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 36,
+      "root_index": 1,
+      "second_pair": 130,
+      "second_value": -2,
+      "negative_endpoints": [
+        0,
+        1,
+        7,
+        10
+      ],
+      "positive_endpoints": [],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 37,
+      "root_index": 1,
+      "second_pair": 130,
+      "second_value": 1,
+      "negative_endpoints": [
+        0,
+        10
+      ],
+      "positive_endpoints": [
+        1,
+        7
+      ],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 38,
+      "root_index": 1,
+      "second_pair": 132,
+      "second_value": -2,
+      "negative_endpoints": [
+        0,
+        2,
+        7,
+        10
+      ],
+      "positive_endpoints": [],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 39,
+      "root_index": 1,
+      "second_pair": 132,
+      "second_value": 1,
+      "negative_endpoints": [
+        0,
+        10
+      ],
+      "positive_endpoints": [
+        2,
+        7
+      ],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 40,
+      "root_index": 1,
+      "second_pair": 144,
+      "second_value": -2,
+      "negative_endpoints": [
+        0,
+        4,
+        7,
+        10
+      ],
+      "positive_endpoints": [],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 41,
+      "root_index": 1,
+      "second_pair": 144,
+      "second_value": 1,
+      "negative_endpoints": [
+        0,
+        10
+      ],
+      "positive_endpoints": [
+        4,
+        7
+      ],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        6,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 42,
+      "root_index": 1,
+      "second_pair": 192,
+      "second_value": -2,
+      "negative_endpoints": [
+        0,
+        6,
+        7,
+        10
+      ],
+      "positive_endpoints": [],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 43,
+      "root_index": 1,
+      "second_pair": 192,
+      "second_value": 1,
+      "negative_endpoints": [
+        0,
+        10
+      ],
+      "positive_endpoints": [
+        6,
+        7
+      ],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 44,
+      "root_index": 1,
+      "second_pair": 384,
+      "second_value": -2,
+      "negative_endpoints": [
+        0,
+        7,
+        8,
+        10
+      ],
+      "positive_endpoints": [],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 45,
+      "root_index": 1,
+      "second_pair": 384,
+      "second_value": 1,
+      "negative_endpoints": [
+        0,
+        10
+      ],
+      "positive_endpoints": [
+        7,
+        8
+      ],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 46,
+      "root_index": 1,
+      "second_pair": 2050,
+      "second_value": -2,
+      "negative_endpoints": [
+        0,
+        1,
+        10,
+        11
+      ],
+      "positive_endpoints": [],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 47,
+      "root_index": 1,
+      "second_pair": 2050,
+      "second_value": 1,
+      "negative_endpoints": [
+        0,
+        10
+      ],
+      "positive_endpoints": [
+        1,
+        11
+      ],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        12
+      ]
+    },
+    {
+      "case_index": 48,
+      "root_index": 1,
+      "second_pair": 2064,
+      "second_value": -2,
+      "negative_endpoints": [
+        0,
+        4,
+        10,
+        11
+      ],
+      "positive_endpoints": [],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 49,
+      "root_index": 1,
+      "second_pair": 2064,
+      "second_value": 1,
+      "negative_endpoints": [
+        0,
+        10
+      ],
+      "positive_endpoints": [
+        4,
+        11
+      ],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        12
+      ]
+    },
+    {
+      "case_index": 50,
+      "root_index": 1,
+      "second_pair": 2176,
+      "second_value": -2,
+      "negative_endpoints": [
+        0,
+        7,
+        10,
+        11
+      ],
+      "positive_endpoints": [],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 51,
+      "root_index": 1,
+      "second_pair": 2176,
+      "second_value": 1,
+      "negative_endpoints": [
+        0,
+        10
+      ],
+      "positive_endpoints": [
+        7,
+        11
+      ],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10,
+        12
+      ]
+    },
+    {
+      "case_index": 52,
+      "root_index": 1,
+      "second_pair": 6144,
+      "second_value": -2,
+      "negative_endpoints": [
+        0,
+        10,
+        11,
+        12
+      ],
+      "positive_endpoints": [],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 53,
+      "root_index": 1,
+      "second_pair": 6144,
+      "second_value": 1,
+      "negative_endpoints": [
+        0,
+        10
+      ],
+      "positive_endpoints": [
+        11,
+        12
+      ],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "case_index": 54,
+      "root_index": 2,
+      "second_pair": 6,
+      "second_value": -2,
+      "negative_endpoints": [
+        0,
+        1,
+        2,
+        11
+      ],
+      "positive_endpoints": [],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 55,
+      "root_index": 2,
+      "second_pair": 6,
+      "second_value": 1,
+      "negative_endpoints": [
+        0,
+        11
+      ],
+      "positive_endpoints": [
+        1,
+        2
+      ],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 56,
+      "root_index": 2,
+      "second_pair": 10,
+      "second_value": -2,
+      "negative_endpoints": [
+        0,
+        1,
+        3,
+        11
+      ],
+      "positive_endpoints": [],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 57,
+      "root_index": 2,
+      "second_pair": 10,
+      "second_value": 1,
+      "negative_endpoints": [
+        0,
+        11
+      ],
+      "positive_endpoints": [
+        1,
+        3
+      ],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        2,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 58,
+      "root_index": 2,
+      "second_pair": 24,
+      "second_value": -2,
+      "negative_endpoints": [
+        0,
+        3,
+        4,
+        11
+      ],
+      "positive_endpoints": [],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 59,
+      "root_index": 2,
+      "second_pair": 24,
+      "second_value": 1,
+      "negative_endpoints": [
+        0,
+        11
+      ],
+      "positive_endpoints": [
+        3,
+        4
+      ],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 60,
+      "root_index": 2,
+      "second_pair": 34,
+      "second_value": -2,
+      "negative_endpoints": [
+        0,
+        1,
+        5,
+        11
+      ],
+      "positive_endpoints": [],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 61,
+      "root_index": 2,
+      "second_pair": 34,
+      "second_value": 1,
+      "negative_endpoints": [
+        0,
+        11
+      ],
+      "positive_endpoints": [
+        1,
+        5
+      ],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 62,
+      "root_index": 2,
+      "second_pair": 36,
+      "second_value": -2,
+      "negative_endpoints": [
+        0,
+        2,
+        5,
+        11
+      ],
+      "positive_endpoints": [],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 63,
+      "root_index": 2,
+      "second_pair": 36,
+      "second_value": 1,
+      "negative_endpoints": [
+        0,
+        11
+      ],
+      "positive_endpoints": [
+        2,
+        5
+      ],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        3,
+        4,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 64,
+      "root_index": 2,
+      "second_pair": 40,
+      "second_value": -2,
+      "negative_endpoints": [
+        0,
+        3,
+        5,
+        11
+      ],
+      "positive_endpoints": [],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 65,
+      "root_index": 2,
+      "second_pair": 40,
+      "second_value": 1,
+      "negative_endpoints": [
+        0,
+        11
+      ],
+      "positive_endpoints": [
+        3,
+        5
+      ],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        4,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 66,
+      "root_index": 2,
+      "second_pair": 96,
+      "second_value": -2,
+      "negative_endpoints": [
+        0,
+        5,
+        6,
+        11
+      ],
+      "positive_endpoints": [],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 67,
+      "root_index": 2,
+      "second_pair": 96,
+      "second_value": 1,
+      "negative_endpoints": [
+        0,
+        11
+      ],
+      "positive_endpoints": [
+        5,
+        6
+      ],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 68,
+      "root_index": 2,
+      "second_pair": 130,
+      "second_value": -2,
+      "negative_endpoints": [
+        0,
+        1,
+        7,
+        11
+      ],
+      "positive_endpoints": [],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 69,
+      "root_index": 2,
+      "second_pair": 130,
+      "second_value": 1,
+      "negative_endpoints": [
+        0,
+        11
+      ],
+      "positive_endpoints": [
+        1,
+        7
+      ],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 70,
+      "root_index": 2,
+      "second_pair": 132,
+      "second_value": -2,
+      "negative_endpoints": [
+        0,
+        2,
+        7,
+        11
+      ],
+      "positive_endpoints": [],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 71,
+      "root_index": 2,
+      "second_pair": 132,
+      "second_value": 1,
+      "negative_endpoints": [
+        0,
+        11
+      ],
+      "positive_endpoints": [
+        2,
+        7
+      ],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 72,
+      "root_index": 2,
+      "second_pair": 136,
+      "second_value": -2,
+      "negative_endpoints": [
+        0,
+        3,
+        7,
+        11
+      ],
+      "positive_endpoints": [],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 73,
+      "root_index": 2,
+      "second_pair": 136,
+      "second_value": 1,
+      "negative_endpoints": [
+        0,
+        11
+      ],
+      "positive_endpoints": [
+        3,
+        7
+      ],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 74,
+      "root_index": 2,
+      "second_pair": 144,
+      "second_value": -2,
+      "negative_endpoints": [
+        0,
+        4,
+        7,
+        11
+      ],
+      "positive_endpoints": [],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 75,
+      "root_index": 2,
+      "second_pair": 144,
+      "second_value": 1,
+      "negative_endpoints": [
+        0,
+        11
+      ],
+      "positive_endpoints": [
+        4,
+        7
+      ],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        6,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 76,
+      "root_index": 2,
+      "second_pair": 160,
+      "second_value": -2,
+      "negative_endpoints": [
+        0,
+        5,
+        7,
+        11
+      ],
+      "positive_endpoints": [],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 77,
+      "root_index": 2,
+      "second_pair": 160,
+      "second_value": 1,
+      "negative_endpoints": [
+        0,
+        11
+      ],
+      "positive_endpoints": [
+        5,
+        7
+      ],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        6,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 78,
+      "root_index": 2,
+      "second_pair": 192,
+      "second_value": -2,
+      "negative_endpoints": [
+        0,
+        6,
+        7,
+        11
+      ],
+      "positive_endpoints": [],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 79,
+      "root_index": 2,
+      "second_pair": 192,
+      "second_value": 1,
+      "negative_endpoints": [
+        0,
+        11
+      ],
+      "positive_endpoints": [
+        6,
+        7
+      ],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 80,
+      "root_index": 2,
+      "second_pair": 384,
+      "second_value": -2,
+      "negative_endpoints": [
+        0,
+        7,
+        8,
+        11
+      ],
+      "positive_endpoints": [],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 81,
+      "root_index": 2,
+      "second_pair": 384,
+      "second_value": 1,
+      "negative_endpoints": [
+        0,
+        11
+      ],
+      "positive_endpoints": [
+        7,
+        8
+      ],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 82,
+      "root_index": 2,
+      "second_pair": 640,
+      "second_value": -2,
+      "negative_endpoints": [
+        0,
+        7,
+        9,
+        11
+      ],
+      "positive_endpoints": [],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 83,
+      "root_index": 2,
+      "second_pair": 640,
+      "second_value": 1,
+      "negative_endpoints": [
+        0,
+        11
+      ],
+      "positive_endpoints": [
+        7,
+        9
+      ],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 84,
+      "root_index": 2,
+      "second_pair": 768,
+      "second_value": -2,
+      "negative_endpoints": [
+        0,
+        8,
+        9,
+        11
+      ],
+      "positive_endpoints": [],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 85,
+      "root_index": 2,
+      "second_pair": 768,
+      "second_value": 1,
+      "negative_endpoints": [
+        0,
+        11
+      ],
+      "positive_endpoints": [
+        8,
+        9
+      ],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 86,
+      "root_index": 2,
+      "second_pair": 4098,
+      "second_value": -2,
+      "negative_endpoints": [
+        0,
+        1,
+        11,
+        12
+      ],
+      "positive_endpoints": [],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 87,
+      "root_index": 2,
+      "second_pair": 4098,
+      "second_value": 1,
+      "negative_endpoints": [
+        0,
+        11
+      ],
+      "positive_endpoints": [
+        1,
+        12
+      ],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "case_index": 88,
+      "root_index": 2,
+      "second_pair": 4104,
+      "second_value": -2,
+      "negative_endpoints": [
+        0,
+        3,
+        11,
+        12
+      ],
+      "positive_endpoints": [],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 89,
+      "root_index": 2,
+      "second_pair": 4104,
+      "second_value": 1,
+      "negative_endpoints": [
+        0,
+        11
+      ],
+      "positive_endpoints": [
+        3,
+        12
+      ],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "case_index": 90,
+      "root_index": 2,
+      "second_pair": 4128,
+      "second_value": -2,
+      "negative_endpoints": [
+        0,
+        5,
+        11,
+        12
+      ],
+      "positive_endpoints": [],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 91,
+      "root_index": 2,
+      "second_pair": 4128,
+      "second_value": 1,
+      "negative_endpoints": [
+        0,
+        11
+      ],
+      "positive_endpoints": [
+        5,
+        12
+      ],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "case_index": 92,
+      "root_index": 2,
+      "second_pair": 4224,
+      "second_value": -2,
+      "negative_endpoints": [
+        0,
+        7,
+        11,
+        12
+      ],
+      "positive_endpoints": [],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "case_index": 93,
+      "root_index": 2,
+      "second_pair": 4224,
+      "second_value": 1,
+      "negative_endpoints": [
+        0,
+        11
+      ],
+      "positive_endpoints": [
+        7,
+        12
+      ],
+      "allowed_constants": [
+        1,
+        2
+      ],
+      "negative_endpoint_orders": [
+        9,
+        11
+      ],
+      "positive_endpoint_orders": [
+        7,
+        10
+      ],
+      "flag_vertices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10,
+        11
+      ]
+    }
+  ],
+  "probe_outcomes_not_audited": true,
+  "no_derivative_exclusion_claimed": true,
+  "authoritative_case_key": [
+    "root_index",
+    "second_pair",
+    "second_value"
+  ],
+  "discovery_label_warning": "coverage.class_index is the first-encounter label, not an index into sorted second_pairs; every label-to-mask relation is recorded and checked.",
+  "ordinary_flag_sphere_classes": [
+    [
+      6,
+      1
+    ],
+    [
+      7,
+      4
+    ],
+    [
+      8,
+      8
+    ],
+    [
+      9,
+      47
+    ],
+    [
+      10,
+      128
+    ],
+    [
+      12,
+      6286
+    ]
+  ],
+  "positive_endpoint_sphere_classes": [
+    [
+      7,
+      2
+    ]
+  ],
+  "positive_endpoint_flag_assumption": false,
+  "symmetry_of_original_function_assumed": false,
+  "controls": {
+    "missing_literal_pair": "REJECTED",
+    "duplicate_literal_pair": "REJECTED",
+    "nonbijective_witness": "REJECTED",
+    "wrong_orbit_target": "REJECTED",
+    "missing_orbit": "REJECTED",
+    "wrong_root_id": "REJECTED",
+    "tetrahedral_boundary_automorphisms": 24
+  },
+  "producer_imports": false,
+  "research_solver_used": false,
+  "seconds": 0.710514129998046,
+  "dependencies": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/disjoint-cubic-local-reduction.md",
+      "sha256": "27773537a07cc205dcd54fa14c1ce51845a138a2194a842fcf8bf35f06e6c137"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/disjoint-cubic-root-link-cover.json",
+      "sha256": "15f7fe1e9c0258afef6424afecd69c8ecf09d44ff654b0e73ea515e241bff26e"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/disjoint_cubic_complex.py",
+      "sha256": "2e262eca8030973b4bbde641526f00a620abcd8a9e38686cd0b91ff894e66961"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/independent-math-audit/d10-normalization-spheres-independent-verification.json",
+      "sha256": "6ac411bfc80c7fc8002e0f78bb9ef45483d71ff8ba8ce6e06d24079f8e9c7544"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/independent-math-audit/two-adjacent-negative-cubic-independent-verification.json",
+      "sha256": "12f650e0fcfc141de7195d46641342704cea93255093c20e43dbfaea4db6c090"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/independent-math-audit/two-mixed-cubic-audit.md",
+      "sha256": "8aa30e739026c2e9900a63853e0c0e1fb760f5f2bb28fb9b6dab95bcebd4d25c"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/independent-math-audit/two-mixed-cubic-independent-verification.json",
+      "sha256": "15ec69b56db1cacc90a5cbae8e369f0a9c5fee6f20b97d3ea4cd40bdd05a19a4"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/independent-math-audit/verify_disjoint_cubic_cover.py",
+      "sha256": "1e1956d1f30468be20cfe855d9939912f5a65dec5b89e2a673a7391a15ab25b5"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/independent-math-audit/verify_two_adjacent_negative_cubic.py",
+      "sha256": "6db23989679164111afdc5507ad08de8070a79ddf49311e054f94e2eb816a854"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/independent-math-audit/verify_two_mixed_cubic.py",
+      "sha256": "aaf58ec0ab75e6a55dec367d1958f4391f89919eac839c44445f8da59301b20f"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-05.json",
+      "sha256": "71ed49b8f21d0a1efbd78d8e73c7b681e3238020e77d8c6f5ed3bc773c19fb11"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-06.json",
+      "sha256": "e02f1965d9c0e1e4d4ce0e95907b6af53af1e590d8fc32e4d10b95178798b9e9"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-07.json",
+      "sha256": "b6f27899b2b9830758119abb9f38d92705663852cbc1e54c56e5ffe7cda0aec7"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-08.json",
+      "sha256": "df2dd7cc5c4ba26a5dde0736c3ec8c6d9f33292dfdd66f067badb0d67ea0e879"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-09.json",
+      "sha256": "8c707c48b4daecbf613fa5d31152e5c0606206a9f8543a8a37dd60f955349eff"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-10.json",
+      "sha256": "0884454b75c491e2c47a14e9eea4e34752f24a0a3f59ddcf4b54ae5010bd690a"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-11.json",
+      "sha256": "120a8e03f8ca63a5432275be5ca65ec705062e2937a5e8b71eb401924b369ce2"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-12.json",
+      "sha256": "0f783e580e0555f85cf42ff460a947082d37e5699bdbf9feb4aa1da85150b04c"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/one-negative-quadratic-derivative-independent-audit.md",
+      "sha256": "f9731af805e47e061ad8a8c6c8429ff13c50c8b6ab82d36d8b59a2ec0d7ffc48"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/one-negative-quadratic-derivative.md",
+      "sha256": "d27d696cff4d74a12ab61012f307bbceeb0262187743b8265b8fa076cb5383ff"
+    }
+  ]
+}

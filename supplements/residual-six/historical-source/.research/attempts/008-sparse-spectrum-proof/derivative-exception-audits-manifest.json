@@ -1,0 +1,56 @@
+{
+  "status": "INDEPENDENT_AUDIT_PASS",
+  "global_status": "UNRESOLVED",
+  "scope": "Original four-star case transfer and the two conditional derivative exception exclusions; no whole-family conclusion.",
+  "tests_passed": 7,
+  "artifacts": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/four-star-derivative-transfer-independent-audit.md",
+      "sha256": "575f410714c7e03fa03df29a51c3f5b8a3b0ac898dcbb6c8fc80635cb4e4d28e"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/four-star-derivative-transfer-independent-audit.json",
+      "sha256": "2d674344b463e4dac843f6417150f0ffa119d3bc2cdb29cfa20b4096bddc580a"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/audit_four_star_derivative_transfer.py",
+      "sha256": "a4bb86446b6d928f55bf9d17caec1850301ec8de11b368bf3f86979a980c80cf"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/test_four_star_derivative_transfer_audit.py",
+      "sha256": "9033354d2f187571aa5dc4a810775957c53c3772d8fc49e224275e20416852bc"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/one-positive-quadratic-derivative-independent-audit.md",
+      "sha256": "fbf7f709d00aa8aeae3f30f838815a84d875c99a6a2faf3deb1ada83bc8617db"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/one-positive-quadratic-catalog-independent-verification.json",
+      "sha256": "7d4e648095e323276931cd4c30a85a00f6d8cf92586c2c63878526692d272844"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/audit_one_positive_quadratic_catalog.py",
+      "sha256": "3d899c52fb97aa3de1515464aa9372aa331402e327f5b5dbf4489fcef0470385"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/test_one_positive_quadratic_catalog.py",
+      "sha256": "aa97c28305864f53ede7fd94bab2e2cb060163ebd6d9dbe71afe86e7fe7a9f89"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/doubled-positive-quartic-derivative-independent-audit.md",
+      "sha256": "30d5b6adf6133fbf644b25697082561293330fe30f6365b2e6ab051a0d9af90f"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/doubled-quartic-derivative-controls.json",
+      "sha256": "4dfd521b61b807bc3705373ff38e91b98a189fc58451829461fa0b9d67216a7c"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/doubled_quartic_derivative_controls.py",
+      "sha256": "265e70ea9970095dffa8a72b008f9da7a714d23d238fbd68f3b8fb0d929fdda4"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/test_doubled_quartic_derivative.py",
+      "sha256": "cb2715936a0c7f890c3d5ee0befda070d0cdc35c167d4fff998b277ae5c3245f"
+    }
+  ]
+}

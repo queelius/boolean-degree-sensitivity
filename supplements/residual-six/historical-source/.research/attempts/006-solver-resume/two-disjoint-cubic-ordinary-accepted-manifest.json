@@ -1,0 +1,40 @@
+{
+  "status": "INDEPENDENTLY_ACCEPTED_COMPLETE_DISJOINT_ORDINARY_LOCAL_EXCLUSION",
+  "global_goal": "OPEN",
+  "scope": "Thirteen-coordinate ternary derivatives, origin1, units0, constant1/2, all ordinary quadratic coefficients0/1, binary quartic Fourier numerators, exactly two disjoint pair exceptions with values -2,-2 or -2,+1. No function symmetry assumption.",
+  "complete_marked_cases": 94,
+  "constants": [
+    1,
+    2
+  ],
+  "compact_interval_cases": 66,
+  "compact_interval_rows": 4731,
+  "compact_interval_deductions": 4721,
+  "branch_cases": 28,
+  "branch_nodes": 110,
+  "branch_leaves": 69,
+  "branch_rows": 4648,
+  "branch_deductions": 4800,
+  "uses_global_face_count": false,
+  "files": {
+    ".research/attempts/006-solver-resume/two-disjoint-cubic-ordinary-exclusion.md": "a8686d606ee858d02dee1938ea3a576a4a053b3d7c63ac8e0a159875d01e9220",
+    ".research/attempts/006-solver-resume/disjoint-cubic-local-reduction.md": "27773537a07cc205dcd54fa14c1ce51845a138a2194a842fcf8bf35f06e6c137",
+    ".research/attempts/006-solver-resume/disjoint-cubic-root-link-cover.json": "15f7fe1e9c0258afef6424afecd69c8ecf09d44ff654b0e73ea515e241bff26e",
+    ".research/attempts/006-solver-resume/disjoint-cubic-ordinary-compact-proofs.json": "de71d4af214ec702391735981525d7c21fdae5b246acf1c090ffea427745fab6",
+    ".research/attempts/006-solver-resume/disjoint-mixed-constant-independent-branch-proofs.json": "0ab532896e1f95b4fe20c8e6f53fc678d745bd33147fe5b8a546e73e51d6fbeb",
+    ".research/attempts/006-solver-resume/disjoint_cubic_complex.py": "2e262eca8030973b4bbde641526f00a620abcd8a9e38686cd0b91ff894e66961",
+    ".research/attempts/006-solver-resume/compact_disjoint_cubic.py": "a202adfc91c4aa9e6d654e3fcdedf66276c38da5d4b15e4534577dd9e5fa8a2c",
+    ".research/attempts/006-solver-resume/disjoint_mixed_degree_seven.py": "78e48104fbef2a6b080bb6ccca8959d58b39e28f5e87a873e1cefe389a6887fa",
+    ".research/attempts/006-solver-resume/exact_binary_gap_propagation.py": "eb423a01a7bba42767e88493465e0594f9f0210dd1e8496af1ff764e55f2ec76",
+    ".research/attempts/006-solver-resume/binary_branch_certificates.py": "7cf4f784469d9f1149ed6983c9931b8fdf91e408192e121c7204d3bed2e6a270",
+    ".research/attempts/006-solver-resume/run_disjoint_mixed_branches.py": "68def9b91b41f03bd6083b884e87fbb6dcda48e6270eb4d09e7e4291c1c1cced",
+    ".research/attempts/006-solver-resume/independent-math-audit/disjoint-cubic-root-link-cover-audit.md": "3a477598918d6ea3e50de7c19007b72c8df74426820f525e465414667fd25afd",
+    ".research/attempts/006-solver-resume/independent-math-audit/disjoint-cubic-root-link-cover-independent-verification.json": "414f022a2e0c99e37014b935beb50a0d795a60934881092c3f869552c22c19d8",
+    ".research/attempts/006-solver-resume/independent-math-audit/verify_disjoint_cubic_cover.py": "1e1956d1f30468be20cfe855d9939912f5a65dec5b89e2a673a7391a15ab25b5",
+    ".research/attempts/006-solver-resume/independent-math-audit/disjoint-cubic-ordinary-compact-audit.md": "581043fe4bf2d6465ee050826aa04e24702d2cd859c1fc586068355a23d82466",
+    ".research/attempts/006-solver-resume/independent-math-audit/disjoint-cubic-ordinary-compact-independent-verification.json": "705db31832b8118ea364b185f8b52cac701202a7929ace3f046d19667ffcaea6",
+    ".research/attempts/006-solver-resume/independent-math-audit/verify_disjoint_cubic_compact.py": "2f319a248dc0664a176e2f2db4302591ae9cbbc66e2dd536bd169d3e32b4d9c6",
+    ".research/attempts/006-solver-resume/independent-math-audit/disjoint-mixed-branch-independent-verification.json": "0d02be98aaca89984502ec5920e9ba4dbee8bf3c3a3003da44277016d75b21ac",
+    ".research/attempts/006-solver-resume/independent-math-audit/verify_disjoint_mixed_branches.py": "cfc45025481a07ad53fa1994dbab085b200a09b7b8b5646e93be159ebe6f7525"
+  }
+}

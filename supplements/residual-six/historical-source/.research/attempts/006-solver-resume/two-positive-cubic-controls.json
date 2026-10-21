@@ -1,0 +1,80 @@
+{
+  "status": "CANDIDATE_LOCAL_THEOREM_FINITE_CONTROLS",
+  "cycle_roots": [
+    {
+      "vertices": 7,
+      "roots": 1,
+      "ordered_root_pairs": 1,
+      "common_face_edge_histogram": [
+        {
+          "faces": 7,
+          "edges": 7,
+          "count": 1
+        }
+      ],
+      "pairs_with_at_most_two_common_faces": 0,
+      "maximum_shared_edges_in_allowed_pairs": null
+    },
+    {
+      "vertices": 8,
+      "roots": 8,
+      "ordered_root_pairs": 64,
+      "common_face_edge_histogram": [
+        {
+          "faces": 0,
+          "edges": 0,
+          "count": 8
+        },
+        {
+          "faces": 0,
+          "edges": 4,
+          "count": 16
+        },
+        {
+          "faces": 2,
+          "edges": 4,
+          "count": 32
+        },
+        {
+          "faces": 8,
+          "edges": 8,
+          "count": 8
+        }
+      ],
+      "pairs_with_at_most_two_common_faces": 56,
+      "maximum_shared_edges_in_allowed_pairs": 4
+    },
+    {
+      "vertices": 9,
+      "roots": 1,
+      "ordered_root_pairs": 1,
+      "common_face_edge_histogram": [
+        {
+          "faces": 9,
+          "edges": 9,
+          "count": 1
+        }
+      ],
+      "pairs_with_at_most_two_common_faces": 0,
+      "maximum_shared_edges_in_allowed_pairs": null
+    }
+  ],
+  "six_vertex_link_obstruction": {
+    "diagonal_pairs": 10,
+    "noncrossing_positive_controls": 5,
+    "noncrossing_disjoint_pairs": 0
+  },
+  "cross_degree_arithmetic": [
+    {
+      "adjacent_exceptions": false,
+      "minimum_cross_degree_if_no_good_degree_one": 20,
+      "cross_edge_lower_bound_after_universal": 11
+    },
+    {
+      "adjacent_exceptions": true,
+      "minimum_cross_degree_if_no_good_degree_one": 20,
+      "cross_edge_lower_bound_after_universal": 10
+    }
+  ],
+  "scope": "Small finite ingredients only; independent mathematical audit and inherited catalog binding are separate."
+}

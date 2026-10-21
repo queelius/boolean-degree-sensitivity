@@ -1,0 +1,3519 @@
+{
+  "status": "COMPLETE_CANDIDATE_MARKED_ROOT_COVER",
+  "covers": [
+    {
+      "link": {
+        "order": 9,
+        "index": 22,
+        "face_masks": [
+          19,
+          44,
+          81,
+          104,
+          112,
+          146,
+          164,
+          176,
+          259,
+          268,
+          321,
+          328,
+          386,
+          388
+        ],
+        "degree_vector": [
+          4,
+          4,
+          4,
+          4,
+          5,
+          5,
+          5,
+          5,
+          6
+        ],
+        "negative_vertex": 8
+      },
+      "first_exception": 513,
+      "group_order": 24,
+      "second_pairs": [
+        6,
+        10,
+        12,
+        34,
+        40,
+        96,
+        130,
+        132,
+        160,
+        384,
+        1026,
+        1056,
+        1152,
+        3072
+      ],
+      "coverage": [
+        {
+          "pair": 6,
+          "representative_pair": 6,
+          "class_index": 0,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 10,
+          "representative_pair": 10,
+          "class_index": 1,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 18,
+          "representative_pair": 12,
+          "class_index": 2,
+          "permutation": [
+            0,
+            2,
+            1,
+            4,
+            3,
+            5,
+            6,
+            8,
+            7,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 34,
+          "representative_pair": 34,
+          "class_index": 3,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 66,
+          "representative_pair": 40,
+          "class_index": 4,
+          "permutation": [
+            0,
+            3,
+            4,
+            1,
+            2,
+            6,
+            5,
+            8,
+            7,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 130,
+          "representative_pair": 130,
+          "class_index": 5,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 258,
+          "representative_pair": 132,
+          "class_index": 6,
+          "permutation": [
+            0,
+            2,
+            1,
+            4,
+            3,
+            5,
+            6,
+            8,
+            7,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 1026,
+          "representative_pair": 1026,
+          "class_index": 7,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 2050,
+          "representative_pair": 1026,
+          "class_index": 7,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            11,
+            10,
+            12
+          ]
+        },
+        {
+          "pair": 4098,
+          "representative_pair": 1026,
+          "class_index": 7,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            11,
+            12,
+            10
+          ]
+        },
+        {
+          "pair": 12,
+          "representative_pair": 12,
+          "class_index": 2,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 20,
+          "representative_pair": 10,
+          "class_index": 1,
+          "permutation": [
+            0,
+            2,
+            1,
+            4,
+            3,
+            5,
+            6,
+            8,
+            7,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 36,
+          "representative_pair": 34,
+          "class_index": 3,
+          "permutation": [
+            0,
+            2,
+            1,
+            4,
+            3,
+            5,
+            6,
+            8,
+            7,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 68,
+          "representative_pair": 40,
+          "class_index": 4,
+          "permutation": [
+            0,
+            4,
+            3,
+            2,
+            1,
+            6,
+            5,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 132,
+          "representative_pair": 132,
+          "class_index": 6,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 260,
+          "representative_pair": 130,
+          "class_index": 5,
+          "permutation": [
+            0,
+            2,
+            1,
+            4,
+            3,
+            5,
+            6,
+            8,
+            7,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 1028,
+          "representative_pair": 1026,
+          "class_index": 7,
+          "permutation": [
+            0,
+            2,
+            1,
+            4,
+            3,
+            5,
+            6,
+            8,
+            7,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 2052,
+          "representative_pair": 1026,
+          "class_index": 7,
+          "permutation": [
+            0,
+            2,
+            1,
+            4,
+            3,
+            5,
+            6,
+            8,
+            7,
+            9,
+            11,
+            10,
+            12
+          ]
+        },
+        {
+          "pair": 4100,
+          "representative_pair": 1026,
+          "class_index": 7,
+          "permutation": [
+            0,
+            2,
+            1,
+            4,
+            3,
+            5,
+            6,
+            8,
+            7,
+            9,
+            11,
+            12,
+            10
+          ]
+        },
+        {
+          "pair": 24,
+          "representative_pair": 6,
+          "class_index": 0,
+          "permutation": [
+            0,
+            3,
+            4,
+            1,
+            2,
+            6,
+            5,
+            8,
+            7,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 40,
+          "representative_pair": 40,
+          "class_index": 4,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 72,
+          "representative_pair": 34,
+          "class_index": 3,
+          "permutation": [
+            0,
+            3,
+            4,
+            1,
+            2,
+            6,
+            5,
+            8,
+            7,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 136,
+          "representative_pair": 132,
+          "class_index": 6,
+          "permutation": [
+            0,
+            4,
+            3,
+            2,
+            1,
+            6,
+            5,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 264,
+          "representative_pair": 130,
+          "class_index": 5,
+          "permutation": [
+            0,
+            3,
+            4,
+            1,
+            2,
+            6,
+            5,
+            8,
+            7,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 1032,
+          "representative_pair": 1026,
+          "class_index": 7,
+          "permutation": [
+            0,
+            3,
+            4,
+            1,
+            2,
+            6,
+            5,
+            8,
+            7,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 2056,
+          "representative_pair": 1026,
+          "class_index": 7,
+          "permutation": [
+            0,
+            3,
+            4,
+            1,
+            2,
+            6,
+            5,
+            8,
+            7,
+            9,
+            11,
+            10,
+            12
+          ]
+        },
+        {
+          "pair": 4104,
+          "representative_pair": 1026,
+          "class_index": 7,
+          "permutation": [
+            0,
+            3,
+            4,
+            1,
+            2,
+            6,
+            5,
+            8,
+            7,
+            9,
+            11,
+            12,
+            10
+          ]
+        },
+        {
+          "pair": 48,
+          "representative_pair": 40,
+          "class_index": 4,
+          "permutation": [
+            0,
+            2,
+            1,
+            4,
+            3,
+            5,
+            6,
+            8,
+            7,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 80,
+          "representative_pair": 34,
+          "class_index": 3,
+          "permutation": [
+            0,
+            4,
+            3,
+            2,
+            1,
+            6,
+            5,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 144,
+          "representative_pair": 130,
+          "class_index": 5,
+          "permutation": [
+            0,
+            4,
+            3,
+            2,
+            1,
+            6,
+            5,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 272,
+          "representative_pair": 132,
+          "class_index": 6,
+          "permutation": [
+            0,
+            3,
+            4,
+            1,
+            2,
+            6,
+            5,
+            8,
+            7,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 1040,
+          "representative_pair": 1026,
+          "class_index": 7,
+          "permutation": [
+            0,
+            4,
+            3,
+            2,
+            1,
+            6,
+            5,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 2064,
+          "representative_pair": 1026,
+          "class_index": 7,
+          "permutation": [
+            0,
+            4,
+            3,
+            2,
+            1,
+            6,
+            5,
+            7,
+            8,
+            9,
+            11,
+            10,
+            12
+          ]
+        },
+        {
+          "pair": 4112,
+          "representative_pair": 1026,
+          "class_index": 7,
+          "permutation": [
+            0,
+            4,
+            3,
+            2,
+            1,
+            6,
+            5,
+            7,
+            8,
+            9,
+            11,
+            12,
+            10
+          ]
+        },
+        {
+          "pair": 96,
+          "representative_pair": 96,
+          "class_index": 8,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 160,
+          "representative_pair": 160,
+          "class_index": 9,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 288,
+          "representative_pair": 160,
+          "class_index": 9,
+          "permutation": [
+            0,
+            2,
+            1,
+            4,
+            3,
+            5,
+            6,
+            8,
+            7,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 1056,
+          "representative_pair": 1056,
+          "class_index": 10,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 2080,
+          "representative_pair": 1056,
+          "class_index": 10,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            11,
+            10,
+            12
+          ]
+        },
+        {
+          "pair": 4128,
+          "representative_pair": 1056,
+          "class_index": 10,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            11,
+            12,
+            10
+          ]
+        },
+        {
+          "pair": 192,
+          "representative_pair": 160,
+          "class_index": 9,
+          "permutation": [
+            0,
+            4,
+            3,
+            2,
+            1,
+            6,
+            5,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 320,
+          "representative_pair": 160,
+          "class_index": 9,
+          "permutation": [
+            0,
+            3,
+            4,
+            1,
+            2,
+            6,
+            5,
+            8,
+            7,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 1088,
+          "representative_pair": 1056,
+          "class_index": 10,
+          "permutation": [
+            0,
+            3,
+            4,
+            1,
+            2,
+            6,
+            5,
+            8,
+            7,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 2112,
+          "representative_pair": 1056,
+          "class_index": 10,
+          "permutation": [
+            0,
+            3,
+            4,
+            1,
+            2,
+            6,
+            5,
+            8,
+            7,
+            9,
+            11,
+            10,
+            12
+          ]
+        },
+        {
+          "pair": 4160,
+          "representative_pair": 1056,
+          "class_index": 10,
+          "permutation": [
+            0,
+            3,
+            4,
+            1,
+            2,
+            6,
+            5,
+            8,
+            7,
+            9,
+            11,
+            12,
+            10
+          ]
+        },
+        {
+          "pair": 384,
+          "representative_pair": 384,
+          "class_index": 11,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 1152,
+          "representative_pair": 1152,
+          "class_index": 12,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 2176,
+          "representative_pair": 1152,
+          "class_index": 12,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            11,
+            10,
+            12
+          ]
+        },
+        {
+          "pair": 4224,
+          "representative_pair": 1152,
+          "class_index": 12,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            11,
+            12,
+            10
+          ]
+        },
+        {
+          "pair": 1280,
+          "representative_pair": 1152,
+          "class_index": 12,
+          "permutation": [
+            0,
+            2,
+            1,
+            4,
+            3,
+            5,
+            6,
+            8,
+            7,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 2304,
+          "representative_pair": 1152,
+          "class_index": 12,
+          "permutation": [
+            0,
+            2,
+            1,
+            4,
+            3,
+            5,
+            6,
+            8,
+            7,
+            9,
+            11,
+            10,
+            12
+          ]
+        },
+        {
+          "pair": 4352,
+          "representative_pair": 1152,
+          "class_index": 12,
+          "permutation": [
+            0,
+            2,
+            1,
+            4,
+            3,
+            5,
+            6,
+            8,
+            7,
+            9,
+            11,
+            12,
+            10
+          ]
+        },
+        {
+          "pair": 3072,
+          "representative_pair": 3072,
+          "class_index": 13,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 5120,
+          "representative_pair": 3072,
+          "class_index": 13,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            12,
+            11
+          ]
+        },
+        {
+          "pair": 6144,
+          "representative_pair": 3072,
+          "class_index": 13,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            12,
+            10,
+            11
+          ]
+        }
+      ]
+    },
+    {
+      "link": {
+        "order": 10,
+        "index": 185,
+        "face_masks": [
+          56,
+          74,
+          84,
+          88,
+          148,
+          161,
+          176,
+          266,
+          289,
+          296,
+          578,
+          580,
+          641,
+          644,
+          769,
+          770
+        ],
+        "degree_vector": [
+          4,
+          4,
+          4,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          6
+        ],
+        "negative_vertex": 9
+      },
+      "first_exception": 1025,
+      "group_order": 12,
+      "second_pairs": [
+        6,
+        18,
+        20,
+        48,
+        130,
+        132,
+        144,
+        192,
+        384,
+        2050,
+        2064,
+        2176,
+        6144
+      ],
+      "coverage": [
+        {
+          "pair": 6,
+          "representative_pair": 6,
+          "class_index": 0,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 10,
+          "representative_pair": 6,
+          "class_index": 0,
+          "permutation": [
+            0,
+            1,
+            3,
+            2,
+            5,
+            4,
+            6,
+            7,
+            9,
+            8,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 18,
+          "representative_pair": 18,
+          "class_index": 1,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 34,
+          "representative_pair": 18,
+          "class_index": 1,
+          "permutation": [
+            0,
+            1,
+            3,
+            2,
+            5,
+            4,
+            6,
+            7,
+            9,
+            8,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 66,
+          "representative_pair": 20,
+          "class_index": 2,
+          "permutation": [
+            0,
+            2,
+            1,
+            3,
+            6,
+            5,
+            4,
+            8,
+            7,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 130,
+          "representative_pair": 130,
+          "class_index": 3,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 258,
+          "representative_pair": 132,
+          "class_index": 4,
+          "permutation": [
+            0,
+            2,
+            1,
+            3,
+            6,
+            5,
+            4,
+            8,
+            7,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 514,
+          "representative_pair": 132,
+          "class_index": 4,
+          "permutation": [
+            0,
+            2,
+            3,
+            1,
+            5,
+            6,
+            4,
+            8,
+            9,
+            7,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 2050,
+          "representative_pair": 2050,
+          "class_index": 5,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 4098,
+          "representative_pair": 2050,
+          "class_index": 5,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            12,
+            11
+          ]
+        },
+        {
+          "pair": 12,
+          "representative_pair": 6,
+          "class_index": 0,
+          "permutation": [
+            0,
+            3,
+            1,
+            2,
+            6,
+            4,
+            5,
+            9,
+            7,
+            8,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 20,
+          "representative_pair": 20,
+          "class_index": 2,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 36,
+          "representative_pair": 18,
+          "class_index": 1,
+          "permutation": [
+            0,
+            3,
+            1,
+            2,
+            6,
+            4,
+            5,
+            9,
+            7,
+            8,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 68,
+          "representative_pair": 18,
+          "class_index": 1,
+          "permutation": [
+            0,
+            2,
+            1,
+            3,
+            6,
+            5,
+            4,
+            8,
+            7,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 132,
+          "representative_pair": 132,
+          "class_index": 4,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 260,
+          "representative_pair": 130,
+          "class_index": 3,
+          "permutation": [
+            0,
+            2,
+            1,
+            3,
+            6,
+            5,
+            4,
+            8,
+            7,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 516,
+          "representative_pair": 132,
+          "class_index": 4,
+          "permutation": [
+            0,
+            3,
+            2,
+            1,
+            4,
+            6,
+            5,
+            9,
+            8,
+            7,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 2052,
+          "representative_pair": 2050,
+          "class_index": 5,
+          "permutation": [
+            0,
+            2,
+            1,
+            3,
+            6,
+            5,
+            4,
+            8,
+            7,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 4100,
+          "representative_pair": 2050,
+          "class_index": 5,
+          "permutation": [
+            0,
+            2,
+            1,
+            3,
+            6,
+            5,
+            4,
+            8,
+            7,
+            9,
+            10,
+            12,
+            11
+          ]
+        },
+        {
+          "pair": 24,
+          "representative_pair": 18,
+          "class_index": 1,
+          "permutation": [
+            0,
+            3,
+            2,
+            1,
+            4,
+            6,
+            5,
+            9,
+            8,
+            7,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 40,
+          "representative_pair": 20,
+          "class_index": 2,
+          "permutation": [
+            0,
+            1,
+            3,
+            2,
+            5,
+            4,
+            6,
+            7,
+            9,
+            8,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 72,
+          "representative_pair": 18,
+          "class_index": 1,
+          "permutation": [
+            0,
+            2,
+            3,
+            1,
+            5,
+            6,
+            4,
+            8,
+            9,
+            7,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 136,
+          "representative_pair": 132,
+          "class_index": 4,
+          "permutation": [
+            0,
+            1,
+            3,
+            2,
+            5,
+            4,
+            6,
+            7,
+            9,
+            8,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 264,
+          "representative_pair": 132,
+          "class_index": 4,
+          "permutation": [
+            0,
+            3,
+            1,
+            2,
+            6,
+            4,
+            5,
+            9,
+            7,
+            8,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 520,
+          "representative_pair": 130,
+          "class_index": 3,
+          "permutation": [
+            0,
+            2,
+            3,
+            1,
+            5,
+            6,
+            4,
+            8,
+            9,
+            7,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 2056,
+          "representative_pair": 2050,
+          "class_index": 5,
+          "permutation": [
+            0,
+            2,
+            3,
+            1,
+            5,
+            6,
+            4,
+            8,
+            9,
+            7,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 4104,
+          "representative_pair": 2050,
+          "class_index": 5,
+          "permutation": [
+            0,
+            2,
+            3,
+            1,
+            5,
+            6,
+            4,
+            8,
+            9,
+            7,
+            10,
+            12,
+            11
+          ]
+        },
+        {
+          "pair": 48,
+          "representative_pair": 48,
+          "class_index": 6,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 80,
+          "representative_pair": 48,
+          "class_index": 6,
+          "permutation": [
+            0,
+            2,
+            3,
+            1,
+            5,
+            6,
+            4,
+            8,
+            9,
+            7,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 144,
+          "representative_pair": 144,
+          "class_index": 7,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 272,
+          "representative_pair": 192,
+          "class_index": 8,
+          "permutation": [
+            0,
+            2,
+            1,
+            3,
+            6,
+            5,
+            4,
+            8,
+            7,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 528,
+          "representative_pair": 144,
+          "class_index": 7,
+          "permutation": [
+            0,
+            3,
+            2,
+            1,
+            4,
+            6,
+            5,
+            9,
+            8,
+            7,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 2064,
+          "representative_pair": 2064,
+          "class_index": 9,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 4112,
+          "representative_pair": 2064,
+          "class_index": 9,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            12,
+            11
+          ]
+        },
+        {
+          "pair": 96,
+          "representative_pair": 48,
+          "class_index": 6,
+          "permutation": [
+            0,
+            2,
+            1,
+            3,
+            6,
+            5,
+            4,
+            8,
+            7,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 160,
+          "representative_pair": 144,
+          "class_index": 7,
+          "permutation": [
+            0,
+            1,
+            3,
+            2,
+            5,
+            4,
+            6,
+            7,
+            9,
+            8,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 288,
+          "representative_pair": 144,
+          "class_index": 7,
+          "permutation": [
+            0,
+            3,
+            1,
+            2,
+            6,
+            4,
+            5,
+            9,
+            7,
+            8,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 544,
+          "representative_pair": 192,
+          "class_index": 8,
+          "permutation": [
+            0,
+            2,
+            3,
+            1,
+            5,
+            6,
+            4,
+            8,
+            9,
+            7,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 2080,
+          "representative_pair": 2064,
+          "class_index": 9,
+          "permutation": [
+            0,
+            1,
+            3,
+            2,
+            5,
+            4,
+            6,
+            7,
+            9,
+            8,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 4128,
+          "representative_pair": 2064,
+          "class_index": 9,
+          "permutation": [
+            0,
+            1,
+            3,
+            2,
+            5,
+            4,
+            6,
+            7,
+            9,
+            8,
+            10,
+            12,
+            11
+          ]
+        },
+        {
+          "pair": 192,
+          "representative_pair": 192,
+          "class_index": 8,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 320,
+          "representative_pair": 144,
+          "class_index": 7,
+          "permutation": [
+            0,
+            2,
+            1,
+            3,
+            6,
+            5,
+            4,
+            8,
+            7,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 576,
+          "representative_pair": 144,
+          "class_index": 7,
+          "permutation": [
+            0,
+            2,
+            3,
+            1,
+            5,
+            6,
+            4,
+            8,
+            9,
+            7,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 2112,
+          "representative_pair": 2064,
+          "class_index": 9,
+          "permutation": [
+            0,
+            2,
+            1,
+            3,
+            6,
+            5,
+            4,
+            8,
+            7,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 4160,
+          "representative_pair": 2064,
+          "class_index": 9,
+          "permutation": [
+            0,
+            2,
+            1,
+            3,
+            6,
+            5,
+            4,
+            8,
+            7,
+            9,
+            10,
+            12,
+            11
+          ]
+        },
+        {
+          "pair": 384,
+          "representative_pair": 384,
+          "class_index": 10,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 640,
+          "representative_pair": 384,
+          "class_index": 10,
+          "permutation": [
+            0,
+            1,
+            3,
+            2,
+            5,
+            4,
+            6,
+            7,
+            9,
+            8,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 2176,
+          "representative_pair": 2176,
+          "class_index": 11,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 4224,
+          "representative_pair": 2176,
+          "class_index": 11,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            12,
+            11
+          ]
+        },
+        {
+          "pair": 768,
+          "representative_pair": 384,
+          "class_index": 10,
+          "permutation": [
+            0,
+            3,
+            1,
+            2,
+            6,
+            4,
+            5,
+            9,
+            7,
+            8,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 2304,
+          "representative_pair": 2176,
+          "class_index": 11,
+          "permutation": [
+            0,
+            2,
+            1,
+            3,
+            6,
+            5,
+            4,
+            8,
+            7,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 4352,
+          "representative_pair": 2176,
+          "class_index": 11,
+          "permutation": [
+            0,
+            2,
+            1,
+            3,
+            6,
+            5,
+            4,
+            8,
+            7,
+            9,
+            10,
+            12,
+            11
+          ]
+        },
+        {
+          "pair": 2560,
+          "representative_pair": 2176,
+          "class_index": 11,
+          "permutation": [
+            0,
+            2,
+            3,
+            1,
+            5,
+            6,
+            4,
+            8,
+            9,
+            7,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 4608,
+          "representative_pair": 2176,
+          "class_index": 11,
+          "permutation": [
+            0,
+            2,
+            3,
+            1,
+            5,
+            6,
+            4,
+            8,
+            9,
+            7,
+            10,
+            12,
+            11
+          ]
+        },
+        {
+          "pair": 6144,
+          "representative_pair": 6144,
+          "class_index": 12,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "link": {
+        "order": 11,
+        "index": 762,
+        "face_masks": [
+          28,
+          44,
+          81,
+          88,
+          145,
+          148,
+          290,
+          292,
+          388,
+          546,
+          552,
+          584,
+          1089,
+          1153,
+          1282,
+          1408,
+          1538,
+          1600
+        ],
+        "degree_vector": [
+          4,
+          4,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          6
+        ],
+        "negative_vertex": 10
+      },
+      "first_exception": 2049,
+      "group_order": 4,
+      "second_pairs": [
+        6,
+        10,
+        24,
+        34,
+        36,
+        40,
+        96,
+        130,
+        132,
+        136,
+        144,
+        160,
+        192,
+        384,
+        640,
+        768,
+        4098,
+        4104,
+        4128,
+        4224
+      ],
+      "coverage": [
+        {
+          "pair": 6,
+          "representative_pair": 6,
+          "class_index": 0,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 10,
+          "representative_pair": 10,
+          "class_index": 1,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 18,
+          "representative_pair": 10,
+          "class_index": 1,
+          "permutation": [
+            0,
+            1,
+            2,
+            4,
+            3,
+            5,
+            6,
+            8,
+            7,
+            10,
+            9,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 34,
+          "representative_pair": 34,
+          "class_index": 2,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 66,
+          "representative_pair": 36,
+          "class_index": 3,
+          "permutation": [
+            0,
+            2,
+            1,
+            3,
+            4,
+            6,
+            5,
+            10,
+            9,
+            8,
+            7,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 130,
+          "representative_pair": 130,
+          "class_index": 4,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 258,
+          "representative_pair": 130,
+          "class_index": 4,
+          "permutation": [
+            0,
+            1,
+            2,
+            4,
+            3,
+            5,
+            6,
+            8,
+            7,
+            10,
+            9,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 514,
+          "representative_pair": 132,
+          "class_index": 5,
+          "permutation": [
+            0,
+            2,
+            1,
+            4,
+            3,
+            6,
+            5,
+            9,
+            10,
+            7,
+            8,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 1026,
+          "representative_pair": 132,
+          "class_index": 5,
+          "permutation": [
+            0,
+            2,
+            1,
+            3,
+            4,
+            6,
+            5,
+            10,
+            9,
+            8,
+            7,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 4098,
+          "representative_pair": 4098,
+          "class_index": 6,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 12,
+          "representative_pair": 10,
+          "class_index": 1,
+          "permutation": [
+            0,
+            2,
+            1,
+            3,
+            4,
+            6,
+            5,
+            10,
+            9,
+            8,
+            7,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 20,
+          "representative_pair": 10,
+          "class_index": 1,
+          "permutation": [
+            0,
+            2,
+            1,
+            4,
+            3,
+            6,
+            5,
+            9,
+            10,
+            7,
+            8,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 36,
+          "representative_pair": 36,
+          "class_index": 3,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 68,
+          "representative_pair": 34,
+          "class_index": 2,
+          "permutation": [
+            0,
+            2,
+            1,
+            3,
+            4,
+            6,
+            5,
+            10,
+            9,
+            8,
+            7,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 132,
+          "representative_pair": 132,
+          "class_index": 5,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 260,
+          "representative_pair": 132,
+          "class_index": 5,
+          "permutation": [
+            0,
+            1,
+            2,
+            4,
+            3,
+            5,
+            6,
+            8,
+            7,
+            10,
+            9,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 516,
+          "representative_pair": 130,
+          "class_index": 4,
+          "permutation": [
+            0,
+            2,
+            1,
+            4,
+            3,
+            6,
+            5,
+            9,
+            10,
+            7,
+            8,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 1028,
+          "representative_pair": 130,
+          "class_index": 4,
+          "permutation": [
+            0,
+            2,
+            1,
+            3,
+            4,
+            6,
+            5,
+            10,
+            9,
+            8,
+            7,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 4100,
+          "representative_pair": 4098,
+          "class_index": 6,
+          "permutation": [
+            0,
+            2,
+            1,
+            3,
+            4,
+            6,
+            5,
+            10,
+            9,
+            8,
+            7,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 24,
+          "representative_pair": 24,
+          "class_index": 7,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 40,
+          "representative_pair": 40,
+          "class_index": 8,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 72,
+          "representative_pair": 40,
+          "class_index": 8,
+          "permutation": [
+            0,
+            2,
+            1,
+            3,
+            4,
+            6,
+            5,
+            10,
+            9,
+            8,
+            7,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 136,
+          "representative_pair": 136,
+          "class_index": 9,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 264,
+          "representative_pair": 144,
+          "class_index": 10,
+          "permutation": [
+            0,
+            1,
+            2,
+            4,
+            3,
+            5,
+            6,
+            8,
+            7,
+            10,
+            9,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 520,
+          "representative_pair": 144,
+          "class_index": 10,
+          "permutation": [
+            0,
+            2,
+            1,
+            4,
+            3,
+            6,
+            5,
+            9,
+            10,
+            7,
+            8,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 1032,
+          "representative_pair": 136,
+          "class_index": 9,
+          "permutation": [
+            0,
+            2,
+            1,
+            3,
+            4,
+            6,
+            5,
+            10,
+            9,
+            8,
+            7,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 4104,
+          "representative_pair": 4104,
+          "class_index": 11,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 48,
+          "representative_pair": 40,
+          "class_index": 8,
+          "permutation": [
+            0,
+            1,
+            2,
+            4,
+            3,
+            5,
+            6,
+            8,
+            7,
+            10,
+            9,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 80,
+          "representative_pair": 40,
+          "class_index": 8,
+          "permutation": [
+            0,
+            2,
+            1,
+            4,
+            3,
+            6,
+            5,
+            9,
+            10,
+            7,
+            8,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 144,
+          "representative_pair": 144,
+          "class_index": 10,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 272,
+          "representative_pair": 136,
+          "class_index": 9,
+          "permutation": [
+            0,
+            1,
+            2,
+            4,
+            3,
+            5,
+            6,
+            8,
+            7,
+            10,
+            9,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 528,
+          "representative_pair": 136,
+          "class_index": 9,
+          "permutation": [
+            0,
+            2,
+            1,
+            4,
+            3,
+            6,
+            5,
+            9,
+            10,
+            7,
+            8,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 1040,
+          "representative_pair": 144,
+          "class_index": 10,
+          "permutation": [
+            0,
+            2,
+            1,
+            3,
+            4,
+            6,
+            5,
+            10,
+            9,
+            8,
+            7,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 4112,
+          "representative_pair": 4104,
+          "class_index": 11,
+          "permutation": [
+            0,
+            1,
+            2,
+            4,
+            3,
+            5,
+            6,
+            8,
+            7,
+            10,
+            9,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 96,
+          "representative_pair": 96,
+          "class_index": 12,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 160,
+          "representative_pair": 160,
+          "class_index": 13,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 288,
+          "representative_pair": 160,
+          "class_index": 13,
+          "permutation": [
+            0,
+            1,
+            2,
+            4,
+            3,
+            5,
+            6,
+            8,
+            7,
+            10,
+            9,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 544,
+          "representative_pair": 192,
+          "class_index": 14,
+          "permutation": [
+            0,
+            2,
+            1,
+            4,
+            3,
+            6,
+            5,
+            9,
+            10,
+            7,
+            8,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 1056,
+          "representative_pair": 192,
+          "class_index": 14,
+          "permutation": [
+            0,
+            2,
+            1,
+            3,
+            4,
+            6,
+            5,
+            10,
+            9,
+            8,
+            7,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 4128,
+          "representative_pair": 4128,
+          "class_index": 15,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 192,
+          "representative_pair": 192,
+          "class_index": 14,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 320,
+          "representative_pair": 192,
+          "class_index": 14,
+          "permutation": [
+            0,
+            1,
+            2,
+            4,
+            3,
+            5,
+            6,
+            8,
+            7,
+            10,
+            9,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 576,
+          "representative_pair": 160,
+          "class_index": 13,
+          "permutation": [
+            0,
+            2,
+            1,
+            4,
+            3,
+            6,
+            5,
+            9,
+            10,
+            7,
+            8,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 1088,
+          "representative_pair": 160,
+          "class_index": 13,
+          "permutation": [
+            0,
+            2,
+            1,
+            3,
+            4,
+            6,
+            5,
+            10,
+            9,
+            8,
+            7,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 4160,
+          "representative_pair": 4128,
+          "class_index": 15,
+          "permutation": [
+            0,
+            2,
+            1,
+            3,
+            4,
+            6,
+            5,
+            10,
+            9,
+            8,
+            7,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 384,
+          "representative_pair": 384,
+          "class_index": 16,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 640,
+          "representative_pair": 640,
+          "class_index": 17,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 1152,
+          "representative_pair": 768,
+          "class_index": 18,
+          "permutation": [
+            0,
+            1,
+            2,
+            4,
+            3,
+            5,
+            6,
+            8,
+            7,
+            10,
+            9,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 4224,
+          "representative_pair": 4224,
+          "class_index": 19,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 768,
+          "representative_pair": 768,
+          "class_index": 18,
+          "permutation": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 1280,
+          "representative_pair": 640,
+          "class_index": 17,
+          "permutation": [
+            0,
+            1,
+            2,
+            4,
+            3,
+            5,
+            6,
+            8,
+            7,
+            10,
+            9,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 4352,
+          "representative_pair": 4224,
+          "class_index": 19,
+          "permutation": [
+            0,
+            1,
+            2,
+            4,
+            3,
+            5,
+            6,
+            8,
+            7,
+            10,
+            9,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 1536,
+          "representative_pair": 384,
+          "class_index": 16,
+          "permutation": [
+            0,
+            2,
+            1,
+            3,
+            4,
+            6,
+            5,
+            10,
+            9,
+            8,
+            7,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 4608,
+          "representative_pair": 4224,
+          "class_index": 19,
+          "permutation": [
+            0,
+            2,
+            1,
+            4,
+            3,
+            6,
+            5,
+            9,
+            10,
+            7,
+            8,
+            11,
+            12
+          ]
+        },
+        {
+          "pair": 5120,
+          "representative_pair": 4224,
+          "class_index": 19,
+          "permutation": [
+            0,
+            2,
+            1,
+            3,
+            4,
+            6,
+            5,
+            10,
+            9,
+            8,
+            7,
+            11,
+            12
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-06.json",
+      "sha256": "e02f1965d9c0e1e4d4ce0e95907b6af53af1e590d8fc32e4d10b95178798b9e9"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-07.json",
+      "sha256": "b6f27899b2b9830758119abb9f38d92705663852cbc1e54c56e5ffe7cda0aec7"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-08.json",
+      "sha256": "df2dd7cc5c4ba26a5dde0736c3ec8c6d9f33292dfdd66f067badb0d67ea0e879"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-09.json",
+      "sha256": "8c707c48b4daecbf613fa5d31152e5c0606206a9f8543a8a37dd60f955349eff"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-10.json",
+      "sha256": "0884454b75c491e2c47a14e9eea4e34752f24a0a3f59ddcf4b54ae5010bd690a"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-11.json",
+      "sha256": "120a8e03f8ca63a5432275be5ca65ec705062e2937a5e8b71eb401924b369ce2"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-12.json",
+      "sha256": "0f783e580e0555f85cf42ff460a947082d37e5699bdbf9feb4aa1da85150b04c"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/disjoint_cubic_complex.py",
+      "sha256": "2e262eca8030973b4bbde641526f00a620abcd8a9e38686cd0b91ff894e66961"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/disjoint-cubic-local-reduction.md",
+      "sha256": "27773537a07cc205dcd54fa14c1ce51845a138a2194a842fcf8bf35f06e6c137"
+    }
+  ]
+}

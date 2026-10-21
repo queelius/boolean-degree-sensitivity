@@ -1,0 +1,69 @@
+{
+  "status": "PROPOSED_MATHEMATICAL_TRANSFER_OF_ACCEPTED_LOCAL_THEOREMS",
+  "global_status": "OPEN",
+  "claim": "In the self-dual empty-pair profile, residual defect at most four forces the negative quintic supports to cover all fourteen coordinates.",
+  "whole_patterns_excluded": 0,
+  "tests_passed": 6,
+  "global_allocations": 21,
+  "local_cases": 120,
+  "accepted_direct_source_checks": 76,
+  "authorities": [
+    {
+      "path": ".research/attempts/009-parent-analysis/low-residual-derivative-complete-manifest.json",
+      "sha256": "813b9f1f4b7a90a01dd4f2e32922d5bac28d5380cb1761bd2a057402f3154ec3",
+      "accepted_status": "ACCEPTED_UNIFORM_RESIDUAL_AT_MOST_TWO_DERIVATIVE_THEOREM"
+    },
+    {
+      "path": ".research/attempts/009-parent-analysis/two-exception-positive-quartic-special-edge-manifest.json",
+      "sha256": "b15a041cfd9928607362244290fc0818ce9dfe3ba82e628a89ad99b26a0d63d8",
+      "accepted_status": "ACCEPTED_INDEPENDENTLY_VERIFIED"
+    },
+    {
+      "path": ".research/attempts/009-parent-analysis/local-audits-cycle64-manifest.json",
+      "sha256": "430bdd2b07be5d3ffc85dd36dad92f06ce9f91c2d56b2eabc01e0f116b5f6dda",
+      "accepted_status": "INDEPENDENTLY_ACCEPTED_LOCAL_THEOREMS"
+    },
+    {
+      "path": ".research/attempts/006-solver-resume/two-adjacent-negative-cubic-accepted-manifest.json",
+      "sha256": "47a0c56e5d0f345d02d7a095dd6fb4de49a802935fe0d80cb2cfa8e42eb2b94b",
+      "accepted_status": "INDEPENDENTLY_ACCEPTED_LOCAL_THEOREM"
+    },
+    {
+      "path": ".research/attempts/006-solver-resume/two-mixed-cubic-accepted-manifest.json",
+      "sha256": "de4f4eb792ee5da3c984ceb72ee214442de3ef7bad52b12bb92a5cd7a7375d79",
+      "accepted_status": "INDEPENDENTLY_ACCEPTED_LOCAL_THEOREM"
+    },
+    {
+      "path": ".research/attempts/006-solver-resume/two-disjoint-cubic-ordinary-accepted-manifest.json",
+      "sha256": "3645332fc57bf0c953717433f5e5e63a2e3b92971ca6c3e7755fd429d9af577a",
+      "accepted_status": "INDEPENDENTLY_ACCEPTED_COMPLETE_DISJOINT_ORDINARY_LOCAL_EXCLUSION"
+    },
+    {
+      "path": ".research/attempts/009-parent-analysis/negative-support-components-accepted-manifest.json",
+      "sha256": "4861a88ac4d54f70077fcacaabfcf63ed80edb9320d347afe5ee6e2950e9ca7e",
+      "accepted_status": "INDEPENDENTLY_ACCEPTED_NECESSARY_NEGATIVE_SUPPORT_COMPONENT_BOUND"
+    }
+  ],
+  "files": [
+    {
+      "path": ".research/attempts/006-solver-resume/empty-residual-four-cover.md",
+      "sha256": "9f4b2438e2ffc87d1eac4c8f217c102e3acc73355a566f5e07d74ead7a7e96cd"
+    },
+    {
+      "path": ".research/attempts/006-solver-resume/empty-residual-four-cover.json",
+      "sha256": "80d6888251d7bbcb762f4eb7ccb9518425f4ddac3ac6f0d01aa672163d74d501"
+    },
+    {
+      "path": ".research/attempts/006-solver-resume/empty_residual_four_cover.py",
+      "sha256": "025b039bfc96d9eae8edd061ddb3c2bae754d06a0f4a3132f0a94c86cee607ad"
+    },
+    {
+      "path": ".research/attempts/006-solver-resume/test_empty_residual_four_cover.py",
+      "sha256": "f5c075c54eac30dba32b01d288c422737c409a0993465493ceae12c00f33b0c7"
+    },
+    {
+      "path": ".research/attempts/006-solver-resume/empty-residual-four-ledger-input.json",
+      "sha256": "76d6a4c8e2ff10a38494105db6b926a475a15354fb8ce9050b417c31db3392ed"
+    }
+  ]
+}

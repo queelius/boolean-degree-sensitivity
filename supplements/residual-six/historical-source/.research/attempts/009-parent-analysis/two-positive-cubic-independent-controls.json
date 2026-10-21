@@ -1,0 +1,159 @@
+{
+  "status": "INDEPENDENT_FINITE_CONTROLS_PASS",
+  "global_status": "UNRESOLVED",
+  "cycle_roots": [
+    {
+      "vertices": 7,
+      "roots": 1,
+      "histogram": [
+        {
+          "faces": 7,
+          "edges": 7,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "vertices": 8,
+      "roots": 8,
+      "histogram": [
+        {
+          "faces": 0,
+          "edges": 0,
+          "count": 8
+        },
+        {
+          "faces": 0,
+          "edges": 4,
+          "count": 16
+        },
+        {
+          "faces": 2,
+          "edges": 4,
+          "count": 32
+        },
+        {
+          "faces": 8,
+          "edges": 8,
+          "count": 8
+        }
+      ]
+    },
+    {
+      "vertices": 9,
+      "roots": 1,
+      "histogram": [
+        {
+          "faces": 9,
+          "edges": 9,
+          "count": 1
+        }
+      ]
+    }
+  ],
+  "pentagon_disk_positive_controls": [
+    [
+      [
+        0,
+        1,
+        2
+      ],
+      [
+        0,
+        2,
+        3
+      ],
+      [
+        0,
+        3,
+        4
+      ]
+    ],
+    [
+      [
+        0,
+        1,
+        2
+      ],
+      [
+        0,
+        2,
+        4
+      ],
+      [
+        2,
+        3,
+        4
+      ]
+    ],
+    [
+      [
+        0,
+        1,
+        3
+      ],
+      [
+        0,
+        3,
+        4
+      ],
+      [
+        1,
+        2,
+        3
+      ]
+    ],
+    [
+      [
+        0,
+        1,
+        4
+      ],
+      [
+        1,
+        2,
+        3
+      ],
+      [
+        1,
+        3,
+        4
+      ]
+    ],
+    [
+      [
+        0,
+        1,
+        4
+      ],
+      [
+        1,
+        2,
+        4
+      ],
+      [
+        2,
+        3,
+        4
+      ]
+    ]
+  ],
+  "sources": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/audit_two_positive_cubic.py",
+      "sha256": "2004adf0cb05e4a3739d11ae572338212ea7acf7448c399ffec8893047f876b2"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/negative_free_endpoint_strips.py",
+      "sha256": "e6e33ea94a2f9d4cedea4ccec99eb8fd6666822d42266212ff4b64eaf87a9a35"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/two-positive-cubic-free-derivative.md",
+      "sha256": "bdf7c6307902fd1f9297e45237642b98a34932b0a767da3321920cdb2eb56beb"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/two-positive-cubic-controls.json",
+      "sha256": "6c7bf1408b97e47154ae8ac2b86c2fcb863aba0d1d2beb7aeeabbd62f35440f2"
+    }
+  ]
+}

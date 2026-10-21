@@ -1,0 +1,68 @@
+test_every_allocation_has_explicit_coupled_reason (test_residual6_cover_cycle1382.ResidualSixTests) ... FAIL
+test_exact_residual_types_and_complete_small_allocations (test_residual6_cover_cycle1382.ResidualSixTests) ... FAIL
+test_old_constant_and_coefficient_guards_remain_strict (test_residual6_cover_cycle1382.ResidualSixTests) ... FAIL
+test_private_tips_and_no_duplicate_supports (test_residual6_cover_cycle1382.ResidualSixTests) ... FAIL
+test_shared_tetrahedron_faces_refute_independent_charging (test_residual6_cover_cycle1382.ResidualSixTests) ... FAIL
+test_surface_private_curvature_controls (test_residual6_cover_cycle1382.ResidualSixTests) ... FAIL
+test_tripled_weight_link_paths_and_forbidden_triangle (test_residual6_cover_cycle1382.ResidualSixTests) ... FAIL
+
+======================================================================
+FAIL: test_every_allocation_has_explicit_coupled_reason (test_residual6_cover_cycle1382.ResidualSixTests)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_residual6_cover_cycle1382.py", line 6, in setUp
+    def setUp(self):self.assertIsNotNone(r)
+AssertionError: unexpectedly None
+
+======================================================================
+FAIL: test_exact_residual_types_and_complete_small_allocations (test_residual6_cover_cycle1382.ResidualSixTests)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_residual6_cover_cycle1382.py", line 6, in setUp
+    def setUp(self):self.assertIsNotNone(r)
+AssertionError: unexpectedly None
+
+======================================================================
+FAIL: test_old_constant_and_coefficient_guards_remain_strict (test_residual6_cover_cycle1382.ResidualSixTests)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_residual6_cover_cycle1382.py", line 6, in setUp
+    def setUp(self):self.assertIsNotNone(r)
+AssertionError: unexpectedly None
+
+======================================================================
+FAIL: test_private_tips_and_no_duplicate_supports (test_residual6_cover_cycle1382.ResidualSixTests)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_residual6_cover_cycle1382.py", line 6, in setUp
+    def setUp(self):self.assertIsNotNone(r)
+AssertionError: unexpectedly None
+
+======================================================================
+FAIL: test_shared_tetrahedron_faces_refute_independent_charging (test_residual6_cover_cycle1382.ResidualSixTests)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_residual6_cover_cycle1382.py", line 6, in setUp
+    def setUp(self):self.assertIsNotNone(r)
+AssertionError: unexpectedly None
+
+======================================================================
+FAIL: test_surface_private_curvature_controls (test_residual6_cover_cycle1382.ResidualSixTests)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_residual6_cover_cycle1382.py", line 6, in setUp
+    def setUp(self):self.assertIsNotNone(r)
+AssertionError: unexpectedly None
+
+======================================================================
+FAIL: test_tripled_weight_link_paths_and_forbidden_triangle (test_residual6_cover_cycle1382.ResidualSixTests)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_residual6_cover_cycle1382.py", line 6, in setUp
+    def setUp(self):self.assertIsNotNone(r)
+AssertionError: unexpectedly None
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.001s
+
+FAILED (failures=7)

@@ -1,0 +1,96 @@
+{
+  "entries": [
+    {
+      "bytes": 384,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/heptagon-disk-actual-cycle1399.log",
+      "sha256": "904ddd2fa6ae3a62dac4256ce17c340a569103aa694fc8a160a7428eabb900ad"
+    },
+    {
+      "bytes": 742,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/heptagon-disk-controls-cycle1399.log",
+      "sha256": "4f660206c9b1e6ce18a96ad3b8c3a1f29eac8afe61f4e6dfeb3db150b26d0cc8"
+    },
+    {
+      "bytes": 4562,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/heptagon-disk-controls-result-cycle1399.json",
+      "sha256": "868df7630d367d5acec1b7529cc425503d9671d7ff4e5062bd32fc6e4f83f4be"
+    },
+    {
+      "bytes": 11606,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/heptagon-disk-coverage-cycle1399.json",
+      "sha256": "d452c736c44aa0ef5cd4a95ae7655ad326450aefab1bece810be63958bd3ac77"
+    },
+    {
+      "bytes": 383,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/heptagon-disk-covered-actual-cycle1399.log",
+      "sha256": "cbafb2e100c810d5f35c5dfa86c43d3030d4daebfccc0ca4034c108401e42490"
+    },
+    {
+      "bytes": 4561,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/heptagon-disk-covered-result-cycle1399.json",
+      "sha256": "9e3cd71a50823f5390ff3366ceb4ed0c369a0531dd3d6bd7d003c4e1db6ad1e6"
+    },
+    {
+      "bytes": 2065,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/heptagon-disk-failed-positive-attempts-cycle1399.md",
+      "sha256": "9a37a658f35217e8c4a6d534d39b09b00e6dce67126a0d11e66c313ce41d7b9c"
+    },
+    {
+      "bytes": 8444,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/heptagon-disk-interiors-proof-cycle1399.md",
+      "sha256": "8d7f8b0061dd7eb1ffe3300b26523d18060c910b8b917e87b6dc32057efbf711"
+    },
+    {
+      "bytes": 742,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/heptagon-disk-optimized-OO-controls-cycle1399.log",
+      "sha256": "235276061fd22e10ff0d9bbc0da32b0e2d81d6f8169487ba45009e8329922f52"
+    },
+    {
+      "bytes": 742,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/heptagon-disk-optimized-controls-cycle1399.log",
+      "sha256": "66b2cefdaa97b6dcd851d6cb07ee39161c75c15c1afc322550728026d8f7c9f5"
+    },
+    {
+      "bytes": 99,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/heptagon-disk-project-tests-cycle1399.log",
+      "sha256": "f3590a2500131c319f31260590123aaab8006c49d111aa4bd4fe02dfbb2e7ea7"
+    },
+    {
+      "bytes": 4119,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/heptagon-disk-red-cycle1399.log",
+      "sha256": "69391bf5795b74e69cbfe9821e263375f71b0d82180569211fb72f45c04e5457"
+    },
+    {
+      "bytes": 4062,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/heptagon-disk-validation-cycle1399.json",
+      "sha256": "9b88933c24bcd3085818ef14913cb6ec5b3573ef96546e149aeb878916c02b33"
+    },
+    {
+      "bytes": 6795,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/heptagon_disk_controls_cycle1399.py",
+      "sha256": "f31fbe391da1a4c5cada9092c5251e2d81321722013b0021431e5cf8f4cf9d2d"
+    },
+    {
+      "bytes": 2273,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_heptagon_disk_cycle1399.py",
+      "sha256": "327b008d2c5c11c4f16092d8947f79e0aea790056235263e9357f9100a8dde42"
+    }
+  ],
+  "global_goal_complete": false,
+  "historical_control_attempt_source_not_a_lemma_premise": [
+    {
+      "bytes": 6816,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/one-six-edge-vertex-links.json",
+      "sha256": "32a4abdfc5870482dcafa9ebe4bd42a140d693bf00107d0f122f65c222567f45"
+    }
+  ],
+  "independent_review": "PENDING1401",
+  "observed_at": "2026-10-21T18:57:38.831714+00:00",
+  "proof_has_no_catalog_or_Boolean_premise": true,
+  "status": "FROZEN1399_PROPOSED_DISK_LEMMA_NO_GLOBAL_PROMOTION",
+  "validation": {
+    "bytes": 4062,
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/heptagon-disk-validation-cycle1399.json",
+    "sha256": "9b88933c24bcd3085818ef14913cb6ec5b3573ef96546e149aeb878916c02b33"
+  }
+}

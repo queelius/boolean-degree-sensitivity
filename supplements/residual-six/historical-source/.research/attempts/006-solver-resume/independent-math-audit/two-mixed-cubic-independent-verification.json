@@ -1,0 +1,342 @@
+{
+  "status": "VERIFIED_ADJACENT_MIXED_CUBIC_ORDINARY_AND_SPECIAL_EDGE_OBSTRUCTIONS",
+  "global_function_status": "UNRESOLVED",
+  "ordinary_scope": "n13; c in {1,2}; p(0)=1 and units0; pair numerators +1 at ax and -2 at bx, all others -1/0; binary quartic numerators; all ordinary quadratic coefficients0/1.",
+  "special_scope": "Same exception placement, with only ordinary coefficient ab=2; independent curvature contradiction, no finite extension model.",
+  "root_links": [
+    {
+      "order": 8,
+      "index": 6,
+      "face_masks": [
+        49,
+        70,
+        74,
+        88,
+        100,
+        112,
+        134,
+        138,
+        145,
+        152,
+        161,
+        164
+      ],
+      "degree_vector": [
+        3,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        6
+      ],
+      "positive_vertex": 0,
+      "negative_vertex": 7
+    },
+    {
+      "order": 9,
+      "index": 10,
+      "face_masks": [
+        49,
+        56,
+        70,
+        74,
+        104,
+        134,
+        138,
+        152,
+        273,
+        289,
+        324,
+        352,
+        388,
+        400
+      ],
+      "degree_vector": [
+        3,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        6
+      ],
+      "positive_vertex": 0,
+      "negative_vertex": 8
+    }
+  ],
+  "ordinary_flag_link_classes": [
+    [
+      6,
+      1
+    ],
+    [
+      7,
+      4
+    ],
+    [
+      8,
+      8
+    ],
+    [
+      9,
+      47
+    ],
+    [
+      10,
+      128
+    ],
+    [
+      12,
+      6286
+    ]
+  ],
+  "negative_private_flag_link_classes": [
+    [
+      9,
+      22
+    ],
+    [
+      10,
+      185
+    ],
+    [
+      11,
+      762
+    ]
+  ],
+  "positive_private_link_classes": [
+    [
+      7,
+      2
+    ]
+  ],
+  "positive_and_root_flag_rows_used": 0,
+  "cases": [
+    {
+      "order": 8,
+      "index": 6,
+      "full_rows": 15243,
+      "compact_rows": 46,
+      "deductions": 45,
+      "contradiction_interval": [
+        0,
+        0
+      ],
+      "allowed_interval": [
+        -3,
+        -1
+      ]
+    },
+    {
+      "order": 9,
+      "index": 10,
+      "full_rows": 15243,
+      "compact_rows": 86,
+      "deductions": 86,
+      "contradiction_interval": [
+        -25,
+        -7
+      ],
+      "allowed_interval": [
+        -6,
+        -4
+      ]
+    }
+  ],
+  "compact_rows": 132,
+  "exact_integer_deductions": 131,
+  "selected_row_reasons": {
+    "root_link": 71,
+    "induced_euler": 11,
+    "ordinary_edge_four_or_five": 20,
+    "ordinary_vertex_link_flag": 20,
+    "negative_private_endpoint_flag": 5,
+    "downward": 5
+  },
+  "original_model_digests_bound": 4,
+  "global_face_count_rows_used": 0,
+  "constant_independent_selected_rows": true,
+  "controls": {
+    "curvature": {
+      "integer_profiles_checked": 132,
+      "special_chi_one_survivors": 0,
+      "relaxed_chi_two_profiles": [
+        [
+          8,
+          8,
+          4
+        ],
+        [
+          8,
+          9,
+          3
+        ],
+        [
+          8,
+          10,
+          2
+        ],
+        [
+          8,
+          11,
+          1
+        ],
+        [
+          9,
+          9,
+          4
+        ],
+        [
+          9,
+          10,
+          3
+        ],
+        [
+          9,
+          11,
+          2
+        ]
+      ],
+      "ordinary_projective_bounds": [
+        4,
+        5
+      ],
+      "projective_minimum_vertices": 6
+    },
+    "cycle4_join_cycle4": {
+      "vertices": 8,
+      "edges": 24,
+      "tetrahedra": 16,
+      "geometric_rows": 902,
+      "ranged_rows": 1177,
+      "range_failures": {}
+    },
+    "cycle3_join_cycle6": {
+      "vertices": 9,
+      "edges": 27,
+      "tetrahedra": 18,
+      "geometric_rows": 1007,
+      "ranged_rows": 1557,
+      "range_failures": {
+        "induced_euler": 4,
+        "no_independent_triple": 2
+      }
+    },
+    "corruption_checks": {
+      "wrong_sign_marking": "REJECTED",
+      "wrong_row_coefficient": "REJECTED",
+      "wrong_original_row_index": "REJECTED",
+      "wrong_forced_assignment": "REJECTED",
+      "noncontradictory_terminal_row": "REJECTED",
+      "omitted_link_case": "REJECTED",
+      "duplicated_link_case": "REJECTED",
+      "flag_at_positive_endpoint": "REJECTED"
+    }
+  },
+  "producer_imports": false,
+  "research_solver_used": false,
+  "sphere_completeness": "Previously independently verified inverse-contraction coverage through order12, hashes and literal filters checked again.",
+  "seconds": 2.3652398729973356,
+  "dependencies": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/compact_two_mixed_cubic.py",
+      "sha256": "a3722dbd505769bb0233c20102ac69a3c4f044522cca9a4f853c4dd8feaa284f"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/independent-math-audit/d10-normalization-spheres-independent-verification.json",
+      "sha256": "6ac411bfc80c7fc8002e0f78bb9ef45483d71ff8ba8ce6e06d24079f8e9c7544"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/independent-math-audit/generic-d10-normalization-audit.md",
+      "sha256": "d412f6c4c141f30ae5f2d3e9b7916b2d5c5edf545c9d43c80d40598dd04415f1"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/independent-math-audit/two-adjacent-negative-cubic-audit.md",
+      "sha256": "546e79961ae26f13c72b2f2e947ea9e9cc47a7945e0462d53d9773dd50dd4094"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/independent-math-audit/two-adjacent-negative-cubic-independent-verification.json",
+      "sha256": "12f650e0fcfc141de7195d46641342704cea93255093c20e43dbfaea4db6c090"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/independent-math-audit/verify_two_adjacent_negative_cubic.py",
+      "sha256": "6db23989679164111afdc5507ad08de8070a79ddf49311e054f94e2eb816a854"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/independent-math-audit/verify_two_mixed_cubic.py",
+      "sha256": "aaf58ec0ab75e6a55dec367d1958f4391f89919eac839c44445f8da59301b20f"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-05.json",
+      "sha256": "71ed49b8f21d0a1efbd78d8e73c7b681e3238020e77d8c6f5ed3bc773c19fb11"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-06.json",
+      "sha256": "e02f1965d9c0e1e4d4ce0e95907b6af53af1e590d8fc32e4d10b95178798b9e9"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-07.json",
+      "sha256": "b6f27899b2b9830758119abb9f38d92705663852cbc1e54c56e5ffe7cda0aec7"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-08.json",
+      "sha256": "df2dd7cc5c4ba26a5dde0736c3ec8c6d9f33292dfdd66f067badb0d67ea0e879"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-09.json",
+      "sha256": "8c707c48b4daecbf613fa5d31152e5c0606206a9f8543a8a37dd60f955349eff"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-10.json",
+      "sha256": "0884454b75c491e2c47a14e9eea4e34752f24a0a3f59ddcf4b54ae5010bd690a"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-11.json",
+      "sha256": "120a8e03f8ca63a5432275be5ca65ec705062e2937a5e8b71eb401924b369ce2"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-12.json",
+      "sha256": "0f783e580e0555f85cf42ff460a947082d37e5699bdbf9feb4aa1da85150b04c"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/two-mixed-cubic-derivative.md",
+      "sha256": "ee65ee15218069eaec4eb6fafdc968452ce21d87e5927bb286ee682c4f0a9e9b"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/two-mixed-cubic-ordinary-compact-proofs.json",
+      "sha256": "cb86d8699f906bd850d50dfc93bcd1b8985a363c204ef0f899440122e88c1eee"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/two-mixed-cubic-ordinary-interval-probe.json",
+      "sha256": "1555841911e063e89afd867e73eb3fd6e386725f4c4f05f06708c8f5e82fa433"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/two_mixed_cubic_complex.py",
+      "sha256": "63b9b226a2b6179269ca90cc8dc0f394800df386905734ddec2b000c2d37e09a"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/one-negative-quadratic-derivative-independent-audit.md",
+      "sha256": "f9731af805e47e061ad8a8c6c8429ff13c50c8b6ab82d36d8b59a2ec0d7ffc48"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/exact_binary_row_propagation.py",
+      "sha256": "6f01e230b88384aa0142798639aeae602d74e0473cd26c6e1df54cc2d183e491"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/negative_free_complex.py",
+      "sha256": "30006bb886877ece47da8a1c1bd159fdefd939fa5fb714539ad2b7f8afb5d22a"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/one-negative-quadratic-derivative.md",
+      "sha256": "d27d696cff4d74a12ab61012f307bbceeb0262187743b8265b8fa076cb5383ff"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/one_six_edge_compact_proofs.py",
+      "sha256": "9ae19eb8fe629d0ca7fd6788f81cd0fe0b0440c9ae06b08d02d8339ec7759128"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "status": "INDEPENDENTLY_ACCEPTED_LOCAL_THEOREMS",
+  "global_status": "UNRESOLVED",
+  "theorems": [
+    "Baseline negative-free zero endpoint codegree11 impossible for k_a<=3.",
+    "Negative-free nonendpoint derivative with exactly two positive cubic exceptions impossible for c<=2, including one special ordinary coefficient2."
+  ],
+  "external_dependency": "Published complete4787 small-valence manifold catalog (Frick2015 Theorem3.10); historical enumeration not regenerated.",
+  "tests": {
+    "passed": 4,
+    "seconds": 2.19,
+    "coverage": {
+      "covered_lines": 152,
+      "num_statements": 163,
+      "percent_covered": 93.48837209302326,
+      "percent_covered_display": "93",
+      "missing_lines": 11,
+      "excluded_lines": 0,
+      "percent_statements_covered": 93.25153374233129,
+      "percent_statements_covered_display": "93",
+      "num_branches": 52,
+      "num_partial_branches": 3,
+      "covered_branches": 49,
+      "missing_branches": 3,
+      "percent_branches_covered": 94.23076923076923,
+      "percent_branches_covered_display": "94"
+    },
+    "note": "Initial coverage invocation used an invalid source selector; corrected include selector and reran all four controls successfully."
+  },
+  "nested_hash_checks": 14,
+  "files": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/audit_endpoint_d11.py",
+      "sha256": "4886a5d44ded3532971ba30d548115f24752c29bb5615f45e41fe16f10bbcb16"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/endpoint-d11-independent-verification.json",
+      "sha256": "18e1ac0972d340ad20b0a592f4c76d5b15c0a87199a80c1b298e80c197c7bac8"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/endpoint-d11-parent-audit.md",
+      "sha256": "457071a9ac43a380e5a15b9f9d1262545c1ade6f0837a552201b5c10ad0d1119"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/audit_two_positive_cubic.py",
+      "sha256": "2004adf0cb05e4a3739d11ae572338212ea7acf7448c399ffec8893047f876b2"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/two-positive-cubic-independent-controls.json",
+      "sha256": "6093680f7bf7278863b9ef5d59bfbdc5c0a03b5702f8f529a564e97aa8b9670c"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/two-positive-cubic-parent-audit.md",
+      "sha256": "613cde67c46709d284be1a5c7e1d1ba51413b61d0b1bb68ab4c477d7c467bab5"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_local_proof_audits_cycle64.py",
+      "sha256": "112ec6408521c06a27d196c587d9ff4442e002fb4788394eecf874f230504640"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/coverage-cycle64-local-audits.json",
+      "sha256": "868ddc88947ff15df86a4bf377dec4b859448c96180998ed000c5dc822c0e0de"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/small-valence-all-euler-obstructions.json",
+      "sha256": "ed47ae6f9807f378274d45ed2cd1b5826d8d5de0c0695ca89a557c5f4f8ad3ed"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/negative-free-endpoint-d11-manifest.json",
+      "sha256": "710f4401c3d444e1336d6d8645dce69e91e89c1899def8e59663efe7d0149166"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/small-valence-euler-independent-verification.json",
+      "sha256": "f97253a25b8f851c2402c70b9a1d2cf04fc1c59d8ccfb902f6aee08d46eb26de"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/two-positive-cubic-free-derivative.md",
+      "sha256": "bdf7c6307902fd1f9297e45237642b98a34932b0a767da3321920cdb2eb56beb"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/two-positive-cubic-controls.json",
+      "sha256": "6c7bf1408b97e47154ae8ac2b86c2fcb863aba0d1d2beb7aeeabbd62f35440f2"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/two_positive_cubic_controls.py",
+      "sha256": "a4a2c5cacbf081bd3b37f1bea2e6688469fb709f9091cb120057f6a3c1984e56"
+    }
+  ]
+}

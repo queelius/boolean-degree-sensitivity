@@ -1,0 +1,72 @@
+{
+  "status": "PASS",
+  "global_status": "UNRESOLVED",
+  "command": [
+    "/home/spinoza/venv/bin/python",
+    "-m",
+    "coverage",
+    "run",
+    "--branch",
+    "--data-file=/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/coverage-cycle61.data",
+    "--include=/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/negative_free_complex.py,/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/negative_free_complex_strengthened.py,/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/negative_free_complex_proof.py,/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/small_valence_catalog.py,/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/four_star_derivative_transfer.py,/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/small_valence_euler_obstructions.py,/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/one_six_edge_vertex_links.py,/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/one_six_edge_complex.py,/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/exact_binary_row_propagation.py,/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/one_six_edge_compact_proofs.py",
+    "-m",
+    "pytest",
+    "-q",
+    "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_negative_free_complex.py",
+    "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_negative_free_complex_strengthened.py",
+    "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_negative_free_complex_proof.py",
+    "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_small_valence_catalog.py",
+    "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_four_star_derivative_transfer.py",
+    "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_small_valence_euler_obstructions.py",
+    "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_one_six_edge_vertex_links.py",
+    "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_one_six_edge_complex.py",
+    "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_exact_binary_row_propagation.py",
+    "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_one_six_edge_compact_proofs.py"
+  ],
+  "exit_code": 0,
+  "seconds": 2.779424783999275,
+  "output": "..............                                                           [100%]\n14 passed in 2.43s\n",
+  "scope": "Focused root topology, finite-catalog, transfer, and exact-proof controls. Complete CLI catalog/model/certificate replays are recorded separately.",
+  "sources": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_negative_free_complex.py",
+      "sha256": "ce7bdab5b28b2ecdddc264cc551cc0b8e671ae6e46447892d0d08bc96f78b515"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_negative_free_complex_strengthened.py",
+      "sha256": "c0fe089ba91c9220d477f4e09b9f14429a62506e2db349d3f0881d8c67f2df1e"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_negative_free_complex_proof.py",
+      "sha256": "1041124c52d1d90a1f6d4b7765aa2ba87123e10e3a7d461f1d709c4b1a579993"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_small_valence_catalog.py",
+      "sha256": "b9c1dc3de9ac82c0a7c62c1cde6a93c378d9532e9c563c8cb82c704c5407c0cc"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_four_star_derivative_transfer.py",
+      "sha256": "388b2d3292769c95559885972a1a2ecc751adf4d52ac027a46d4fca3ccf7609a"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_small_valence_euler_obstructions.py",
+      "sha256": "f80578d8e8b808bb848cc219ee1af9a753f443efc16b2f4bbfcab6a8171ebe74"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_one_six_edge_vertex_links.py",
+      "sha256": "e777aac86704f333ff268f7f3f62f7a80e5cb48a7203e5ce9dd335f06ab3f763"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_one_six_edge_complex.py",
+      "sha256": "da372ef4d41a27ad2c6ec6d255f4c0655f21967fafe197491e3bd0797ce1c71c"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_exact_binary_row_propagation.py",
+      "sha256": "001f63292d2165473a06581aaa18707d9328dc0aec0dbae318435b04f7c13078"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_one_six_edge_compact_proofs.py",
+      "sha256": "ef591aeaf67b57f2eb97bff5699f343b8baeafc6f43eb90e47cfa3e9b958f0f5"
+    }
+  ]
+}

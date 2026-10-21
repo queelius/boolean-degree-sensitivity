@@ -1,0 +1,32 @@
+{
+  "schema_version": 2,
+  "state": "LOCAL_STAGING",
+  "title": "Residual-six derivative lemmas and conditional negative-quintic support bounds",
+  "version": "1.4.0",
+  "prepared_on": "2026-10-21",
+  "as_of": "2026-10-21",
+  "canonical_source": "https://github.com/queelius/boolean-degree-sensitivity",
+  "central_id": "boolean-degree-five-spectral-exclusions",
+  "concept_doi": "10.5281/zenodo.23496541",
+  "predecessor_version_doi": "10.5281/zenodo.23539867",
+  "predecessor_archives_this_new_proof": false,
+  "archive": {
+    "doi": null,
+    "reserved_on": null,
+    "reservation_evidence": null,
+    "published_on": null,
+    "publication_evidence": null
+  },
+  "source_disclosure": {
+    "commit": null,
+    "url": null,
+    "observed_on": null,
+    "evidence": null
+  },
+  "old_disclosure_dates_preserved": "See retained predecessor archive/source receipts; dates here apply only to new1.4source/archive events.",
+  "external_event_truth_established_by_this_consistency_validator": false,
+  "pending_parent_independent_packaging_gate": false,
+  "external_operations_performed": false,
+  "archive_built": false,
+  "publication_preparation_note": "This snapshot precedes its public source observation and DOI reservation. Actual events are recorded separately and incorporated in a successor metadata snapshot."
+}

@@ -1,0 +1,88 @@
+{
+  "CLI_O_and_OO_rejected_before_IO": true,
+  "actual_CPU_seconds": 0.08622877300000001,
+  "actual_exit_code": 0,
+  "authority": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/three-disks-independent-authority-cycle1401.json",
+    "sha256": "5911fc936300b9ddaed17c02038416b305a0e8cba95ac5dc6115c5385a192692"
+  },
+  "coverage": {
+    "coverage_is_not_formal_proof": true,
+    "reference": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/three-disks-independent-coverage-cycle1401.json",
+      "sha256": "5da1992f2f7266990b413b0febe00ccb10b25a114069a215c2062a75b83e133e"
+    },
+    "totals": {
+      "covered_branches": 42,
+      "covered_lines": 149,
+      "excluded_lines": 0,
+      "missing_branches": 0,
+      "missing_lines": 0,
+      "num_branches": 42,
+      "num_partial_branches": 0,
+      "num_statements": 149,
+      "percent_branches_covered": 100.0,
+      "percent_branches_covered_display": "100",
+      "percent_covered": 100.0,
+      "percent_covered_display": "100",
+      "percent_statements_covered": 100.0,
+      "percent_statements_covered_display": "100"
+    }
+  },
+  "logs": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/three-disks-independent-first-controls-cycle1401.log",
+      "sha256": "12f7d539ddf20e2a2a26391ec594cca0f915bb8e7969a63916e36544ea561161"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/three-disks-independent-covered-controls-cycle1401.log",
+      "sha256": "64d6e57cc00e9c6185cba12e0c3c7e33921c59bf2fa3ab3f23208b970274614b"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/three-disks-independent-optimized-controls-cycle1401.log",
+      "sha256": "93d756e7fd2b1086f6c1f580e234ddef70e56aac1ff006b2a7d2a1f8a0b3e5b9"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/three-disks-independent-project-tests-cycle1401.log",
+      "sha256": "b3e826576c2cef99e5d9253afe1a7ea7d96d9d72d7a1fe17e6f03b850f73b33d"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/three-disks-independent-actual-cycle1401.log",
+      "sha256": "11f49da7d782223f7909c1d7df21a2002421272e83be3610711209c7a8a9fd30"
+    }
+  ],
+  "normal_unit_tests_passed": 10,
+  "optimized_unit_tests_passed": 10,
+  "project_tests_passed": 13,
+  "publication_performed": false,
+  "publication_readiness": "Scoped written theorem plus independent elementary proof and reproducible controls; inherited premises explicit.",
+  "scope": {
+    "Walkup_or_flagness_used": false,
+    "actual_boolean_function_constructed": false,
+    "all_negative_quintic_cost_removed_before_residual_budget": true,
+    "all_singleton_and_pair_truths": 1,
+    "canonical_ledgers_changed": false,
+    "conclusion_negative_free_coordinates_at_most": 2,
+    "conclusion_negative_union_size_at_least": 12,
+    "f_origin": 0,
+    "global_goal_complete": false,
+    "original_function_selfduality_assumed": false,
+    "real_degree_at_most": 5,
+    "representative": "selfdual_empty",
+    "residual_fourier_defect_at_most": 6,
+    "target_solver_or_catalog_filter_used": false,
+    "two_free_classification_accepted": false,
+    "variables": 14,
+    "whole_K_manifold_or_connectivity_needed": false,
+    "whole_pattern_excluded": false
+  },
+  "source_audit": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/three-disks-independent-source-audit-cycle1401.json",
+    "sha256": "4e3871dfabab465a36c7e859d52a854fa0a36b3d13697944156df37cd12e1448"
+  },
+  "status": "INDEPENDENT_THREE_DISK_PROOF_AND_CONTROLS_PASS",
+  "test_first_failure_preserved": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/three-disks-independent-red-cycle1401.log",
+    "sha256": "3fee7178b1daf1961107bf398eb3db783654e49024b16ccf25f4de68059340c2"
+  }
+}

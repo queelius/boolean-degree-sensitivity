@@ -1,0 +1,93 @@
+{
+  "1398_accepted_portion": [
+    "exact full-core normalization",
+    "off-cycle six truth words",
+    "pair inversion and actual off-cycle interior incidence"
+  ],
+  "1399_pure_disk_lemma_independently_accepted": true,
+  "classification_authority": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/three-free-independent-authority-cycle1393.json",
+    "sha256": "25038a992790c16673a96709f8f7a3da0f650b5b8089f9cac6f74df7b74c981c"
+  },
+  "common_core_handoff": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/common-core-truth-handoff-cycle1398.json",
+    "sha256": "46cb42ed0a7f9d5b0fdf32d97e55d581d4a3884fb83406b8a6c55e9a033fa720"
+  },
+  "common_core_proof": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/common-core-truth-review-cycle1398.md",
+    "sha256": "c1218394933bacf1fb90adec3f0842b69961f5cb74dba9662e5186df50e8eab2"
+  },
+  "controls": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/three-disks-independent-controls-cycle1401.json",
+    "sha256": "be6e4167893dc0911c9358115b0e1b80f9f707f463e545ffed6b414fd97dde26"
+  },
+  "disk_manifest": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/heptagon-disk-manifest-cycle1399.json",
+    "sha256": "cee89dfcc7640b51f481d233ff41f98abd50c66fbf02f7e33c5b2855b7a8d3b4"
+  },
+  "disk_proof": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/heptagon-disk-interiors-proof-cycle1399.md",
+    "sha256": "8d7f8b0061dd7eb1ffe3300b26523d18060c910b8b917e87b6dc32057efbf711"
+  },
+  "endpoint_authority": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/minus-three-links-independent-authority-cycle1395.json",
+    "sha256": "02706b0f91065e9bdec12a3f74e103f53603f8597d01e826154371f24e714c08"
+  },
+  "endpoint_final_validation": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/minus-three-links-independent-final-validation-cycle1395.json",
+    "sha256": "9968b97775d39356c0d95dbf2419fcd887559162448b88a7c048139947f9229d"
+  },
+  "formal_verification": false,
+  "global_goal_complete": false,
+  "historical_classification_computations_freshly_replayed": false,
+  "human_peer_review": false,
+  "mathematical_novelty_assessed": false,
+  "proof_checks": {
+    "actual_antistar_disks_and_disk_degree_guards": true,
+    "all_three_disks_share_actual_coordinate_labels": true,
+    "empty_side_ear_is_global_degree_two": true,
+    "negative_sign_and_scale_four_from_eight_point_core_Walsh": true,
+    "nine_required_exceeds_eight_allowed": true,
+    "off_cycle_core_three_quintics_absent": true,
+    "pair_truth_iff_disk_interior_incidence": true,
+    "two_interior_vertices_all_chord_cases_complete": true
+  },
+  "reader": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/three_disks_independent_cycle1401.py",
+    "sha256": "d773fcd3fbf7663cc37876b32b72c7674cc33d2634b60ee760988f4469913237"
+  },
+  "review": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/three-disks-independent-review-cycle1401.md",
+    "sha256": "00a05e782fc5376981c0c3df3422c7d53f9bc683872cbf4a03b3fb435d99cc58"
+  },
+  "schema_version": 1,
+  "scope": {
+    "Walkup_or_flagness_used": false,
+    "actual_boolean_function_constructed": false,
+    "all_negative_quintic_cost_removed_before_residual_budget": true,
+    "all_singleton_and_pair_truths": 1,
+    "canonical_ledgers_changed": false,
+    "conclusion_negative_free_coordinates_at_most": 2,
+    "conclusion_negative_union_size_at_least": 12,
+    "f_origin": 0,
+    "global_goal_complete": false,
+    "original_function_selfduality_assumed": false,
+    "real_degree_at_most": 5,
+    "representative": "selfdual_empty",
+    "residual_fourier_defect_at_most": 6,
+    "target_solver_or_catalog_filter_used": false,
+    "two_free_classification_accepted": false,
+    "variables": 14,
+    "whole_K_manifold_or_connectivity_needed": false,
+    "whole_pattern_excluded": false
+  },
+  "source": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/three-disks-union12-proof-cycle1404.md",
+    "sha256": "622ee562e447fe9d2ca9f4a49de9931575e2b058972ec7717b0a0b64a94e83f9"
+  },
+  "source_audit": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/three-disks-independent-source-audit-cycle1401.json",
+    "sha256": "4e3871dfabab465a36c7e859d52a854fa0a36b3d13697944156df37cd12e1448"
+  },
+  "status": "INDEPENDENTLY_ACCEPTED_RESIDUAL6_NEGATIVE_UNION_AT_LEAST12"
+}

@@ -1,0 +1,54 @@
+{
+  "status": "INDEPENDENT_RESIDUAL_FOUR_SCOPE_ACCOUNTING_PASS",
+  "global_status": "UNRESOLVED",
+  "counts": {
+    "global_allocations": 21,
+    "local_cases": 120,
+    "covered_open_patterns": 19,
+    "new_patterns": 6
+  },
+  "immediate_source_hashes_checked": 76,
+  "limitation": "Mathematical transfer relies on the explicitly accepted local derivative theorems; no historical census regenerated.",
+  "sources": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/audit_empty_residual_four.py",
+      "sha256": "5094df34355aafb46156831ecb83c38dffcab3002fc2fc9f24af2f7dd64ffaf3"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/empty-residual-four-cover.json",
+      "sha256": "80d6888251d7bbcb762f4eb7ccb9518425f4ddac3ac6f0d01aa672163d74d501"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/empty-residual-four-ledger-input.json",
+      "sha256": "76d6a4c8e2ff10a38494105db6b926a475a15354fb8ce9050b417c31db3392ed"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/low-residual-derivative-complete-manifest.json",
+      "sha256": "813b9f1f4b7a90a01dd4f2e32922d5bac28d5380cb1761bd2a057402f3154ec3"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/two-exception-positive-quartic-special-edge-manifest.json",
+      "sha256": "b15a041cfd9928607362244290fc0818ce9dfe3ba82e628a89ad99b26a0d63d8"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/local-audits-cycle64-manifest.json",
+      "sha256": "430bdd2b07be5d3ffc85dd36dad92f06ce9f91c2d56b2eabc01e0f116b5f6dda"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/two-adjacent-negative-cubic-accepted-manifest.json",
+      "sha256": "47a0c56e5d0f345d02d7a095dd6fb4de49a802935fe0d80cb2cfa8e42eb2b94b"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/two-mixed-cubic-accepted-manifest.json",
+      "sha256": "de4f4eb792ee5da3c984ceb72ee214442de3ef7bad52b12bb92a5cd7a7375d79"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/two-disjoint-cubic-ordinary-accepted-manifest.json",
+      "sha256": "3645332fc57bf0c953717433f5e5e63a2e3b92971ca6c3e7755fd429d9af577a"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/negative-support-components-accepted-manifest.json",
+      "sha256": "4861a88ac4d54f70077fcacaabfcf63ed80edb9320d347afe5ee6e2950e9ca7e"
+    }
+  ]
+}

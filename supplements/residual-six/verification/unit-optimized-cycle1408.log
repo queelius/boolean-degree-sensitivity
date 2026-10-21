@@ -1,0 +1,21 @@
+test_claim_scope_and_dependency_omission_rejected (test_packet.PacketTests) ... ok
+test_complete_incidence_and_expected_data_tampers (test_packet.PacketTests) ... ok
+test_exact_cost_types_allocations_and_aliases (test_packet.PacketTests) ... ok
+test_exact_normalization_and_shared_cost_countercontrol (test_packet.PacketTests) ... ok
+test_heavy_paths_and_essential_link_guards (test_packet.PacketTests) ... ok
+test_manifest_rejects_omission_digest_and_path_tampers (test_packet.PacketTests) ... ok
+test_old_local_guards_are_assumptions_and_not_extended (test_packet.PacketTests) ... ok
+test_private_tip_locality_and_tampers (test_packet.PacketTests) ... ok
+test_surface_positive_negative_and_pinched_controls (test_packet.PacketTests) ... ok
+test_complete_new_payload_and_omission_rejection (test_successor.SuccessorTests) ... ok
+test_disk_guards_omissions_and_noninvolution (test_successor.SuccessorTests) ... ok
+test_endpoint_pure_functions_and_preserved_original_cli_policy (test_successor.SuccessorTests) ... ok
+test_false_archival_identifiers_dates_and_citation_mismatch_rejected (test_successor.SuccessorTests) ... ok
+test_math_dag_requires_baseline_le3_and_inherited_premises (test_successor.SuccessorTests) ... ok
+test_retained_kernel_definitions_have_exact_normalized_ast (test_successor.SuccessorTests) ... ok
+test_staging_reserved_published_metadata_do_not_change_math (test_successor.SuccessorTests) ... ok
+
+----------------------------------------------------------------------
+Ran 16 tests in 3.201s
+
+OK

@@ -1,0 +1,158 @@
+{
+  "status": "INDEPENDENT_PASS",
+  "global_status": "UNRESOLVED",
+  "counts": {
+    "all_records": 4787,
+    "order14": 111,
+    "minimum_valence4": 19
+  },
+  "selected_records": [
+    395,
+    404,
+    410,
+    414,
+    428,
+    436,
+    445,
+    453,
+    454,
+    456,
+    467,
+    470,
+    2814,
+    2815,
+    2816,
+    2817,
+    2818,
+    2822,
+    2901
+  ],
+  "witnesses": [
+    {
+      "index": 436,
+      "split_endpoints": [
+        1,
+        12
+      ],
+      "common_neighbor": 2,
+      "independent_triple": [
+        7,
+        8,
+        11
+      ],
+      "induced_f_vector": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "derivative_value": -2
+    },
+    {
+      "index": 454,
+      "split_endpoints": [
+        1,
+        12
+      ],
+      "common_neighbor": 2,
+      "independent_triple": [
+        6,
+        9,
+        13
+      ],
+      "induced_f_vector": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "derivative_value": -2
+    },
+    {
+      "index": 467,
+      "split_endpoints": [
+        1,
+        12
+      ],
+      "common_neighbor": 2,
+      "independent_triple": [
+        7,
+        9,
+        10
+      ],
+      "induced_f_vector": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "derivative_value": -2
+    },
+    {
+      "index": 470,
+      "split_endpoints": [
+        12,
+        7
+      ],
+      "common_neighbor": 14,
+      "independent_triple": [
+        1,
+        8,
+        11
+      ],
+      "induced_f_vector": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "derivative_value": -2
+    }
+  ],
+  "strip_controls": [
+    {
+      "form": "rim",
+      "boundary_lengths": [
+        4,
+        4
+      ],
+      "normalized_sphere_links": 8,
+      "f_vector": [
+        10,
+        24,
+        16
+      ]
+    },
+    {
+      "form": "apex",
+      "boundary_lengths": [
+        4,
+        5
+      ],
+      "excluded": true
+    }
+  ],
+  "external_dependency": "Frick2015 Theorem3.10 completeness; enumeration not regenerated.",
+  "sources": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/manifolds_lex_d3_deg5.txt.gz",
+      "sha256": "41071b36a731396d5273c60748aea7937c876136684ac479971e87e27e2fbb59"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/audit_endpoint_d11.py",
+      "sha256": "4886a5d44ded3532971ba30d548115f24752c29bb5615f45e41fe16f10bbcb16"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/small_valence_catalog.py",
+      "sha256": "dc6e0afb6a0e5ed08927097292c63d344209f2cb4805e61894e44e318889ba28"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/negative_free_endpoint_strips.py",
+      "sha256": "e6e33ea94a2f9d4cedea4ccec99eb8fd6666822d42266212ff4b64eaf87a9a35"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/negative-free-endpoint-d11-manifest.json",
+      "sha256": "710f4401c3d444e1336d6d8645dce69e91e89c1899def8e59663efe7d0149166"
+    }
+  ]
+}

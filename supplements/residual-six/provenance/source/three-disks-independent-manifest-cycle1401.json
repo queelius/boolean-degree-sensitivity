@@ -1,0 +1,84 @@
+{
+  "authority": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/three-disks-independent-authority-cycle1401.json",
+    "sha256": "5911fc936300b9ddaed17c02038416b305a0e8cba95ac5dc6115c5385a192692"
+  },
+  "files": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/finalize_three_disks_cycle1401.py",
+      "sha256": "7c2f6d67c880a7c34b3a244f6b529ec7bee8ac4e2e88249953487b43dcba4423"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_three_disks_independent_cycle1401.py",
+      "sha256": "2892e6017af16cd803f1ad45ade91c177ff3edd76cdd0b03aca83779b998ab2a"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/three-disks-independent-actual-cycle1401.log",
+      "sha256": "11f49da7d782223f7909c1d7df21a2002421272e83be3610711209c7a8a9fd30"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/three-disks-independent-authority-cycle1401.json",
+      "sha256": "5911fc936300b9ddaed17c02038416b305a0e8cba95ac5dc6115c5385a192692"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/three-disks-independent-controls-cycle1401.json",
+      "sha256": "be6e4167893dc0911c9358115b0e1b80f9f707f463e545ffed6b414fd97dde26"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/three-disks-independent-coverage-cycle1401.data",
+      "sha256": "ce6a9e4dd5b73824e2f61d1ec860dc8dbf2abc2b83493e4350e68d51d66d23c2"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/three-disks-independent-coverage-cycle1401.json",
+      "sha256": "5da1992f2f7266990b413b0febe00ccb10b25a114069a215c2062a75b83e133e"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/three-disks-independent-covered-controls-cycle1401.log",
+      "sha256": "64d6e57cc00e9c6185cba12e0c3c7e33921c59bf2fa3ab3f23208b970274614b"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/three-disks-independent-first-controls-cycle1401.log",
+      "sha256": "12f7d539ddf20e2a2a26391ec594cca0f915bb8e7969a63916e36544ea561161"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/three-disks-independent-optimized-controls-cycle1401.log",
+      "sha256": "93d756e7fd2b1086f6c1f580e234ddef70e56aac1ff006b2a7d2a1f8a0b3e5b9"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/three-disks-independent-project-tests-cycle1401.log",
+      "sha256": "b3e826576c2cef99e5d9253afe1a7ea7d96d9d72d7a1fe17e6f03b850f73b33d"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/three-disks-independent-red-cycle1401.log",
+      "sha256": "3fee7178b1daf1961107bf398eb3db783654e49024b16ccf25f4de68059340c2"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/three-disks-independent-review-cycle1401.md",
+      "sha256": "00a05e782fc5376981c0c3df3422c7d53f9bc683872cbf4a03b3fb435d99cc58"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/three-disks-independent-source-audit-cycle1401.json",
+      "sha256": "4e3871dfabab465a36c7e859d52a854fa0a36b3d13697944156df37cd12e1448"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/three-disks-independent-validation-cycle1401.json",
+      "sha256": "f1d4bab74d48b5b856457157cefd324852d8fa1385bcf9f10364531713dab284"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/three_disks_independent_cycle1401.py",
+      "sha256": "d773fcd3fbf7663cc37876b32b72c7674cc33d2634b60ee760988f4469913237"
+    }
+  ],
+  "global_goal_complete": false,
+  "no_live_stdout_log_is_a_dependency": true,
+  "publication_performed": false,
+  "source_audit": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/three-disks-independent-source-audit-cycle1401.json",
+    "sha256": "4e3871dfabab465a36c7e859d52a854fa0a36b3d13697944156df37cd12e1448"
+  },
+  "status": "FROZEN_INDEPENDENT_THREE_DISK_UNION12_PACKET",
+  "validation": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/three-disks-independent-validation-cycle1401.json",
+    "sha256": "f1d4bab74d48b5b856457157cefd324852d8fa1385bcf9f10364531713dab284"
+  }
+}

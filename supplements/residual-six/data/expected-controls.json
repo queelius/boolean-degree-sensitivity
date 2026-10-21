@@ -1,0 +1,1279 @@
+{
+  "actual_boolean_function": false,
+  "global_goal_complete": false,
+  "incidence": {
+    "allocation_rows": [
+      {
+        "incidence_cases": 1,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 1
+        },
+        "types": []
+      },
+      {
+        "incidence_cases": 5,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 5
+        },
+        "types": [
+          {
+            "cost": 6,
+            "level": 1,
+            "value": -1
+          }
+        ]
+      },
+      {
+        "incidence_cases": 5,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 5
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 0
+          }
+        ]
+      },
+      {
+        "incidence_cases": 5,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 5
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 3
+          }
+        ]
+      },
+      {
+        "incidence_cases": 5,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 5
+        },
+        "types": [
+          {
+            "cost": 6,
+            "level": 1,
+            "value": 4
+          }
+        ]
+      },
+      {
+        "incidence_cases": 15,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 15
+        },
+        "types": [
+          {
+            "cost": 6,
+            "level": 3,
+            "value": -3
+          }
+        ]
+      },
+      {
+        "incidence_cases": 15,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 15
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 3,
+            "value": -2
+          }
+        ]
+      },
+      {
+        "incidence_cases": 15,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 15
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 3,
+            "value": 1
+          }
+        ]
+      },
+      {
+        "incidence_cases": 15,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 15
+        },
+        "types": [
+          {
+            "cost": 6,
+            "level": 3,
+            "value": 2
+          }
+        ]
+      },
+      {
+        "incidence_cases": 16,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 16
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 5,
+            "value": 2
+          }
+        ]
+      },
+      {
+        "incidence_cases": 16,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 15,
+          "TRIPLED_QUARTIC": 1
+        },
+        "types": [
+          {
+            "cost": 6,
+            "level": 5,
+            "value": 3
+          }
+        ]
+      },
+      {
+        "incidence_cases": 21,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 21
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 0
+          },
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 0
+          }
+        ]
+      },
+      {
+        "incidence_cases": 21,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 21
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 0
+          },
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 3
+          }
+        ]
+      },
+      {
+        "incidence_cases": 75,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 75
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 0
+          },
+          {
+            "cost": 2,
+            "level": 3,
+            "value": -2
+          }
+        ]
+      },
+      {
+        "incidence_cases": 75,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 75
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 0
+          },
+          {
+            "cost": 2,
+            "level": 3,
+            "value": 1
+          }
+        ]
+      },
+      {
+        "incidence_cases": 80,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 80
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 0
+          },
+          {
+            "cost": 2,
+            "level": 5,
+            "value": 2
+          }
+        ]
+      },
+      {
+        "incidence_cases": 21,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 21
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 3
+          },
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 3
+          }
+        ]
+      },
+      {
+        "incidence_cases": 75,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 75
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 3
+          },
+          {
+            "cost": 2,
+            "level": 3,
+            "value": -2
+          }
+        ]
+      },
+      {
+        "incidence_cases": 75,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 75
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 3
+          },
+          {
+            "cost": 2,
+            "level": 3,
+            "value": 1
+          }
+        ]
+      },
+      {
+        "incidence_cases": 80,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 80
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 3
+          },
+          {
+            "cost": 2,
+            "level": 5,
+            "value": 2
+          }
+        ]
+      },
+      {
+        "incidence_cases": 221,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 221
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 3,
+            "value": -2
+          },
+          {
+            "cost": 2,
+            "level": 3,
+            "value": -2
+          }
+        ]
+      },
+      {
+        "incidence_cases": 221,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 221
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 3,
+            "value": -2
+          },
+          {
+            "cost": 2,
+            "level": 3,
+            "value": 1
+          }
+        ]
+      },
+      {
+        "incidence_cases": 240,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 240
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 3,
+            "value": -2
+          },
+          {
+            "cost": 2,
+            "level": 5,
+            "value": 2
+          }
+        ]
+      },
+      {
+        "incidence_cases": 221,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 221
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 3,
+            "value": 1
+          },
+          {
+            "cost": 2,
+            "level": 3,
+            "value": 1
+          }
+        ]
+      },
+      {
+        "incidence_cases": 240,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 240
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 3,
+            "value": 1
+          },
+          {
+            "cost": 2,
+            "level": 5,
+            "value": 2
+          }
+        ]
+      },
+      {
+        "incidence_cases": 256,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 256
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 5,
+            "value": 2
+          },
+          {
+            "cost": 2,
+            "level": 5,
+            "value": 2
+          }
+        ]
+      },
+      {
+        "incidence_cases": 73,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 73
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 0
+          },
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 0
+          },
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 0
+          }
+        ]
+      },
+      {
+        "incidence_cases": 73,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 73
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 0
+          },
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 0
+          },
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 3
+          }
+        ]
+      },
+      {
+        "incidence_cases": 315,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 315
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 0
+          },
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 0
+          },
+          {
+            "cost": 2,
+            "level": 3,
+            "value": -2
+          }
+        ]
+      },
+      {
+        "incidence_cases": 315,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 315
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 0
+          },
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 0
+          },
+          {
+            "cost": 2,
+            "level": 3,
+            "value": 1
+          }
+        ]
+      },
+      {
+        "incidence_cases": 336,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 336
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 0
+          },
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 0
+          },
+          {
+            "cost": 2,
+            "level": 5,
+            "value": 2
+          }
+        ]
+      },
+      {
+        "incidence_cases": 73,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 73
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 0
+          },
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 3
+          },
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 3
+          }
+        ]
+      },
+      {
+        "incidence_cases": 315,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 315
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 0
+          },
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 3
+          },
+          {
+            "cost": 2,
+            "level": 3,
+            "value": -2
+          }
+        ]
+      },
+      {
+        "incidence_cases": 315,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 315
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 0
+          },
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 3
+          },
+          {
+            "cost": 2,
+            "level": 3,
+            "value": 1
+          }
+        ]
+      },
+      {
+        "incidence_cases": 336,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 336
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 0
+          },
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 3
+          },
+          {
+            "cost": 2,
+            "level": 5,
+            "value": 2
+          }
+        ]
+      },
+      {
+        "incidence_cases": 1105,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 1105
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 0
+          },
+          {
+            "cost": 2,
+            "level": 3,
+            "value": -2
+          },
+          {
+            "cost": 2,
+            "level": 3,
+            "value": -2
+          }
+        ]
+      },
+      {
+        "incidence_cases": 1105,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 1105
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 0
+          },
+          {
+            "cost": 2,
+            "level": 3,
+            "value": -2
+          },
+          {
+            "cost": 2,
+            "level": 3,
+            "value": 1
+          }
+        ]
+      },
+      {
+        "incidence_cases": 1200,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 1200
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 0
+          },
+          {
+            "cost": 2,
+            "level": 3,
+            "value": -2
+          },
+          {
+            "cost": 2,
+            "level": 5,
+            "value": 2
+          }
+        ]
+      },
+      {
+        "incidence_cases": 1105,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 1105
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 0
+          },
+          {
+            "cost": 2,
+            "level": 3,
+            "value": 1
+          },
+          {
+            "cost": 2,
+            "level": 3,
+            "value": 1
+          }
+        ]
+      },
+      {
+        "incidence_cases": 1200,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 1200
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 0
+          },
+          {
+            "cost": 2,
+            "level": 3,
+            "value": 1
+          },
+          {
+            "cost": 2,
+            "level": 5,
+            "value": 2
+          }
+        ]
+      },
+      {
+        "incidence_cases": 1280,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 1280
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 0
+          },
+          {
+            "cost": 2,
+            "level": 5,
+            "value": 2
+          },
+          {
+            "cost": 2,
+            "level": 5,
+            "value": 2
+          }
+        ]
+      },
+      {
+        "incidence_cases": 73,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 73
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 3
+          },
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 3
+          },
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 3
+          }
+        ]
+      },
+      {
+        "incidence_cases": 315,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 315
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 3
+          },
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 3
+          },
+          {
+            "cost": 2,
+            "level": 3,
+            "value": -2
+          }
+        ]
+      },
+      {
+        "incidence_cases": 315,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 315
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 3
+          },
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 3
+          },
+          {
+            "cost": 2,
+            "level": 3,
+            "value": 1
+          }
+        ]
+      },
+      {
+        "incidence_cases": 336,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 336
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 3
+          },
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 3
+          },
+          {
+            "cost": 2,
+            "level": 5,
+            "value": 2
+          }
+        ]
+      },
+      {
+        "incidence_cases": 1105,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 1105
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 3
+          },
+          {
+            "cost": 2,
+            "level": 3,
+            "value": -2
+          },
+          {
+            "cost": 2,
+            "level": 3,
+            "value": -2
+          }
+        ]
+      },
+      {
+        "incidence_cases": 1105,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 1105
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 3
+          },
+          {
+            "cost": 2,
+            "level": 3,
+            "value": -2
+          },
+          {
+            "cost": 2,
+            "level": 3,
+            "value": 1
+          }
+        ]
+      },
+      {
+        "incidence_cases": 1200,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 1200
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 3
+          },
+          {
+            "cost": 2,
+            "level": 3,
+            "value": -2
+          },
+          {
+            "cost": 2,
+            "level": 5,
+            "value": 2
+          }
+        ]
+      },
+      {
+        "incidence_cases": 1105,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 1105
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 3
+          },
+          {
+            "cost": 2,
+            "level": 3,
+            "value": 1
+          },
+          {
+            "cost": 2,
+            "level": 3,
+            "value": 1
+          }
+        ]
+      },
+      {
+        "incidence_cases": 1200,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 1200
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 3
+          },
+          {
+            "cost": 2,
+            "level": 3,
+            "value": 1
+          },
+          {
+            "cost": 2,
+            "level": 5,
+            "value": 2
+          }
+        ]
+      },
+      {
+        "incidence_cases": 1280,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 1280
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 1,
+            "value": 3
+          },
+          {
+            "cost": 2,
+            "level": 5,
+            "value": 2
+          },
+          {
+            "cost": 2,
+            "level": 5,
+            "value": 2
+          }
+        ]
+      },
+      {
+        "incidence_cases": 3203,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 3203
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 3,
+            "value": -2
+          },
+          {
+            "cost": 2,
+            "level": 3,
+            "value": -2
+          },
+          {
+            "cost": 2,
+            "level": 3,
+            "value": -2
+          }
+        ]
+      },
+      {
+        "incidence_cases": 3203,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 3203
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 3,
+            "value": -2
+          },
+          {
+            "cost": 2,
+            "level": 3,
+            "value": -2
+          },
+          {
+            "cost": 2,
+            "level": 3,
+            "value": 1
+          }
+        ]
+      },
+      {
+        "incidence_cases": 3536,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 3536
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 3,
+            "value": -2
+          },
+          {
+            "cost": 2,
+            "level": 3,
+            "value": -2
+          },
+          {
+            "cost": 2,
+            "level": 5,
+            "value": 2
+          }
+        ]
+      },
+      {
+        "incidence_cases": 3203,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 3203
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 3,
+            "value": -2
+          },
+          {
+            "cost": 2,
+            "level": 3,
+            "value": 1
+          },
+          {
+            "cost": 2,
+            "level": 3,
+            "value": 1
+          }
+        ]
+      },
+      {
+        "incidence_cases": 3536,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 3536
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 3,
+            "value": -2
+          },
+          {
+            "cost": 2,
+            "level": 3,
+            "value": 1
+          },
+          {
+            "cost": 2,
+            "level": 5,
+            "value": 2
+          }
+        ]
+      },
+      {
+        "incidence_cases": 3840,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 3840
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 3,
+            "value": -2
+          },
+          {
+            "cost": 2,
+            "level": 5,
+            "value": 2
+          },
+          {
+            "cost": 2,
+            "level": 5,
+            "value": 2
+          }
+        ]
+      },
+      {
+        "incidence_cases": 3203,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 3203
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 3,
+            "value": 1
+          },
+          {
+            "cost": 2,
+            "level": 3,
+            "value": 1
+          },
+          {
+            "cost": 2,
+            "level": 3,
+            "value": 1
+          }
+        ]
+      },
+      {
+        "incidence_cases": 3536,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 3536
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 3,
+            "value": 1
+          },
+          {
+            "cost": 2,
+            "level": 3,
+            "value": 1
+          },
+          {
+            "cost": 2,
+            "level": 5,
+            "value": 2
+          }
+        ]
+      },
+      {
+        "incidence_cases": 3840,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 3840
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 3,
+            "value": 1
+          },
+          {
+            "cost": 2,
+            "level": 5,
+            "value": 2
+          },
+          {
+            "cost": 2,
+            "level": 5,
+            "value": 2
+          }
+        ]
+      },
+      {
+        "incidence_cases": 4096,
+        "routes": {
+          "OLD_LOCAL_BASELINE_CONSTANT": 4095,
+          "THREE_DOUBLES_PRIVATE_TIP": 1
+        },
+        "types": [
+          {
+            "cost": 2,
+            "level": 5,
+            "value": 2
+          },
+          {
+            "cost": 2,
+            "level": 5,
+            "value": 2
+          },
+          {
+            "cost": 2,
+            "level": 5,
+            "value": 2
+          }
+        ]
+      }
+    ],
+    "allocations": 61,
+    "impossible_full_support_aliases_discarded": 1784,
+    "incidence_cases": 54411,
+    "interpretation": "Conservative incidence cover; no Boolean realizability claim.",
+    "route_counts": {
+      "OLD_LOCAL_BASELINE_CONSTANT": 54409,
+      "THREE_DOUBLES_PRIVATE_TIP": 1,
+      "TRIPLED_QUARTIC": 1
+    },
+    "three_double_common_four_cases": 1
+  },
+  "inherited_local_theorems_replayed": false,
+  "normalization": {
+    "character_derivative_cases": 2560,
+    "ordinary_quadratic_cases": 20,
+    "quadratic_and_cubic_inversion_basis_cases": 30
+  },
+  "quartic_forcing": {
+    "labelled_cases": 2520,
+    "outside_pair_link_size": 3
+  },
+  "schema_version": 1,
+  "status": "INDEPENDENT_SMALL_CONTROLS_ONLY",
+  "surface": {
+    "chi_one_curvature_options": [
+      [
+        0,
+        0,
+        6
+      ]
+    ],
+    "closed_surfaces": 0,
+    "degree_sequence_graphs": 20,
+    "eight_face_candidates": 900,
+    "scope": "Elementary small-surface arithmetic; no manifold/sphere catalog imports.",
+    "sphere_with_three_degree3_options": [
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        1
+      ]
+    ]
+  },
+  "triangle_completion": {
+    "even_completions": 0,
+    "scope": "All triangle plus one or two distinct unit edges up to seven vertices.",
+    "tested_completions": 171
+  },
+  "tripled_link": {
+    "every_valid_residual_is_endpoint_path": true,
+    "scope": "All heavy-edge plus at most two unit-edge configurations up to six vertices.",
+    "tested_links": 1590,
+    "valid_links": 60
+  },
+  "whole_pattern_excluded": false
+}

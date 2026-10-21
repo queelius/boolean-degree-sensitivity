@@ -1,0 +1,70 @@
+{
+  "classification_authority": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/three-free-independent-authority-cycle1393.json",
+    "sha256": "25038a992790c16673a96709f8f7a3da0f650b5b8089f9cac6f74df7b74c981c"
+  },
+  "classification_validation": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/three-free-independent-validation-cycle1393.json",
+    "sha256": "3f3efd0249a1c811057218bbf80a7c3fb31040f005452fa7d681d167341e7a95"
+  },
+  "formal_verification": false,
+  "global_goal_complete": false,
+  "historical_catalogs_freshly_replayed": false,
+  "human_peer_review": false,
+  "independent_controls": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/minus-three-links-independent-controls-cycle1395.json",
+    "sha256": "f3164252b9c3fbd5dedfcacfe0dda53c2728a14fe6ccb381c882bd8457b47892"
+  },
+  "mathematical_novelty_assessed": false,
+  "proof_checks": {
+    "common_graph_without_function_symmetry": true,
+    "endpoint_only_C7_connectedness_and_order_bounds": true,
+    "literal_coefficient_normalization": true,
+    "pre_split_complex_singularity_explicit": true,
+    "splitting_preserves_edges_faces_and_other_links": true,
+    "surface_curvature_and_small_order_obstructions": true,
+    "triangle_coface_two_guard": true
+  },
+  "reader": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/minus_three_links_independent_cycle1395.py",
+    "sha256": "dc499a80f13479f5fa1ec9bce36d21d881e2cbff21fe0c0baea6a2bfd753050a"
+  },
+  "review": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/minus-three-links-independent-review-cycle1395.md",
+    "sha256": "493f918da500ed13fef16d398d75f8fccb10456cf255eee8adaf0b242ca5f81e"
+  },
+  "schema_version": 1,
+  "scope": {
+    "C3_plus_C4_case_excluded": true,
+    "Walkup_or_endpoint_flagness_used": false,
+    "actual_boolean_function_constructed": false,
+    "canonical_ledgers_changed": false,
+    "catalog_filter_performed": false,
+    "common_exceptional_link": "C7",
+    "disk_interaction_or_shared_core_truth_claims_accepted": false,
+    "endpoint_sphere_orders": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "exceptional_endpoint_links_connected_spheres": true,
+    "existence_of_remaining_derivative_asserted": false,
+    "f_at_free_triple_equals_one": true,
+    "global_goal_complete": false,
+    "inherits_exact_three_free_residual6_classification": true,
+    "m0_case_excluded": true,
+    "whole_K_manifold_or_connectivity_accepted": false,
+    "whole_derivative_excluded": false,
+    "whole_pattern_excluded": false
+  },
+  "source": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/three-free-minus3-structure-proposed-cycle1391.md",
+    "sha256": "4407c71f800f0abcd87c49199f5bbc806ebf3fdb816fc5f6435c24e96d859232"
+  },
+  "source_audit": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/minus-three-links-independent-source-audit-cycle1395.json",
+    "sha256": "3102b7f14e8bed03698236d3ed5b353c4c3bdbfa2eb4af141da0dd2d11f6a65f"
+  },
+  "status": "INDEPENDENTLY_ACCEPTED_MINUS3_ENDPOINT_LINK_REDUCTION"
+}

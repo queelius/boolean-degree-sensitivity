@@ -1,0 +1,896 @@
+{
+  "schema_version": 1,
+  "algorithm": "sha256",
+  "files": [
+    {
+      "path": "APPLICATION.md",
+      "bytes": 3067,
+      "sha256": "54d4f67eb4f992809d74a82061fde5ccce801abb643deab936cafaa077a5044a"
+    },
+    {
+      "path": "CITATION.cff",
+      "bytes": 1166,
+      "sha256": "daefd1ad17142d9acc8bd02f213a2d1ab6a333963e1dba6892ce8c53e923df33"
+    },
+    {
+      "path": "CLAIMS.json",
+      "bytes": 9679,
+      "sha256": "5a2e42136d10435a54794e3b0e521e836e7872cc9dad5111f211a8ad5a26a458"
+    },
+    {
+      "path": "CORE-DISKS.md",
+      "bytes": 4809,
+      "sha256": "e8fda4be83d2d21a787ec28e296e30b9a2ae40a6479726a93f0202aa6a5be92c"
+    },
+    {
+      "path": "DISK-LEMMA.md",
+      "bytes": 8595,
+      "sha256": "8bcbb9aaa4f57166d47ce54d5b8ee7f3a6f12f20e4f422dfae3fd4772cbc08c4"
+    },
+    {
+      "path": "ENDPOINT.md",
+      "bytes": 14497,
+      "sha256": "df7df089d29fb0a5336f06e69484f7736153c5365ae33934bd1341df2f07a10b"
+    },
+    {
+      "path": "LICENSE.md",
+      "bytes": 875,
+      "sha256": "cb950171a0167a39cd37f9c02626e5c142338f7d06e61c0982ca259a4d9b30ab"
+    },
+    {
+      "path": "LICENSES/CC-BY-4.0.txt",
+      "bytes": 18657,
+      "sha256": "9ba9550ad48438d0836ddab3da480b3b69ffa0aac7b7878b5a0039e7ab429411"
+    },
+    {
+      "path": "LICENSES/Original-code-MIT.txt",
+      "bytes": 1081,
+      "sha256": "0bc7f950be7c67cd218b910b42527e71099c9ef3cf9bc1c1bf77e99468fda2ec"
+    },
+    {
+      "path": "PROVENANCE.json",
+      "bytes": 68170,
+      "sha256": "250a540dc421cbaf38d8077d14b592b0987b67f3c0cd8b21c3255cff3f29b5a4"
+    },
+    {
+      "path": "PUBLICATION-PLAN.json",
+      "bytes": 1119,
+      "sha256": "ad4286651850da722636723925691894ea66f23585a4ff800b7261687292a440"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3629,
+      "sha256": "36ce1a828c7b1677b295fa6dcd3e4fd20e481f12fdedd7bc72336e9e0f7be55e"
+    },
+    {
+      "path": "REFERENCES.bib",
+      "bytes": 584,
+      "sha256": "fca38d08c39367eba64535364cc501fb4912981434d662cffbab26a4940f9479"
+    },
+    {
+      "path": "RETRIEVAL.md",
+      "bytes": 2350,
+      "sha256": "9472cb8a104de750d6223eb657010bc97605a952ca506d108b5832a6d825696e"
+    },
+    {
+      "path": "THEOREM.md",
+      "bytes": 14734,
+      "sha256": "529f7bd04e2bc52ad796c946bdc5ea66645081b4089c952fb0e1735a0e80158a"
+    },
+    {
+      "path": "THREE-FREE.md",
+      "bytes": 4425,
+      "sha256": "e083cf3eb72ec355b38c2d8f9d2b7440df2cef57df340459c363ee897883eb78"
+    },
+    {
+      "path": "UNION12.md",
+      "bytes": 2883,
+      "sha256": "ba02b6d1a998d723e6639ffb2e2da512bda91d296a62b657ed419561e33071d3"
+    },
+    {
+      "path": "controls.py",
+      "bytes": 13892,
+      "sha256": "84393847467522fa27359735c3086519bbd36c2177f8671308b76ea58c7c056e"
+    },
+    {
+      "path": "data/expected-controls.json",
+      "bytes": 24891,
+      "sha256": "93d211fd50eb463a5269f54c3a7e7e023812606419fa98bb0ae64e66e9f03b9f"
+    },
+    {
+      "path": "data/expected-new-controls.json",
+      "bytes": 10932,
+      "sha256": "30f148f3b1bba9e936038f8c237c1e992dc821756ac1c278a72c4f3ea4b1dd6d"
+    },
+    {
+      "path": "historical-source/.research/attempts/006-solver-resume/binary_branch_certificates.py",
+      "bytes": 5680,
+      "sha256": "7cf4f784469d9f1149ed6983c9931b8fdf91e408192e121c7204d3bed2e6a270"
+    },
+    {
+      "path": "historical-source/.research/attempts/006-solver-resume/compact_disjoint_cubic.py",
+      "bytes": 3922,
+      "sha256": "a202adfc91c4aa9e6d654e3fcdedf66276c38da5d4b15e4534577dd9e5fa8a2c"
+    },
+    {
+      "path": "historical-source/.research/attempts/006-solver-resume/compact_two_mixed_cubic.py",
+      "bytes": 1854,
+      "sha256": "a3722dbd505769bb0233c20102ac69a3c4f044522cca9a4f853c4dd8feaa284f"
+    },
+    {
+      "path": "historical-source/.research/attempts/006-solver-resume/compact_two_negative_cubic.py",
+      "bytes": 2131,
+      "sha256": "a60237a71db7af2d70e3769ca1db0f5ec2509f10aae72cf25a3fcd689849b5cf"
+    },
+    {
+      "path": "historical-source/.research/attempts/006-solver-resume/disjoint-cubic-local-reduction.md",
+      "bytes": 2278,
+      "sha256": "27773537a07cc205dcd54fa14c1ce51845a138a2194a842fcf8bf35f06e6c137"
+    },
+    {
+      "path": "historical-source/.research/attempts/006-solver-resume/disjoint-cubic-ordinary-compact-proofs.json",
+      "bytes": 4292786,
+      "sha256": "de71d4af214ec702391735981525d7c21fdae5b246acf1c090ffea427745fab6"
+    },
+    {
+      "path": "historical-source/.research/attempts/006-solver-resume/disjoint-cubic-root-link-cover.json",
+      "bytes": 61767,
+      "sha256": "15f7fe1e9c0258afef6424afecd69c8ecf09d44ff654b0e73ea515e241bff26e"
+    },
+    {
+      "path": "historical-source/.research/attempts/006-solver-resume/disjoint-mixed-constant-independent-branch-proofs.json",
+      "bytes": 5696626,
+      "sha256": "0ab532896e1f95b4fe20c8e6f53fc678d745bd33147fe5b8a546e73e51d6fbeb"
+    },
+    {
+      "path": "historical-source/.research/attempts/006-solver-resume/disjoint_cubic_complex.py",
+      "bytes": 6916,
+      "sha256": "2e262eca8030973b4bbde641526f00a620abcd8a9e38686cd0b91ff894e66961"
+    },
+    {
+      "path": "historical-source/.research/attempts/006-solver-resume/disjoint_mixed_degree_seven.py",
+      "bytes": 4767,
+      "sha256": "78e48104fbef2a6b080bb6ccca8959d58b39e28f5e87a873e1cefe389a6887fa"
+    },
+    {
+      "path": "historical-source/.research/attempts/006-solver-resume/empty-residual-four-cover-proposed-manifest.json",
+      "bytes": 3267,
+      "sha256": "5150e34a52aefacc902bd00bd4ff6859905cd2dda3e8fa825b8fbbada4208a17"
+    },
+    {
+      "path": "historical-source/.research/attempts/006-solver-resume/empty-residual-four-cover.json",
+      "bytes": 59927,
+      "sha256": "80d6888251d7bbcb762f4eb7ccb9518425f4ddac3ac6f0d01aa672163d74d501"
+    },
+    {
+      "path": "historical-source/.research/attempts/006-solver-resume/empty-residual-four-cover.md",
+      "bytes": 5680,
+      "sha256": "9f4b2438e2ffc87d1eac4c8f217c102e3acc73355a566f5e07d74ead7a7e96cd"
+    },
+    {
+      "path": "historical-source/.research/attempts/006-solver-resume/exact_binary_gap_propagation.py",
+      "bytes": 2510,
+      "sha256": "eb423a01a7bba42767e88493465e0594f9f0210dd1e8496af1ff764e55f2ec76"
+    },
+    {
+      "path": "historical-source/.research/attempts/006-solver-resume/independent-math-audit/disjoint-cubic-ordinary-compact-audit.md",
+      "bytes": 5005,
+      "sha256": "581043fe4bf2d6465ee050826aa04e24702d2cd859c1fc586068355a23d82466"
+    },
+    {
+      "path": "historical-source/.research/attempts/006-solver-resume/independent-math-audit/disjoint-cubic-ordinary-compact-independent-verification.json",
+      "bytes": 34620,
+      "sha256": "705db31832b8118ea364b185f8b52cac701202a7929ace3f046d19667ffcaea6"
+    },
+    {
+      "path": "historical-source/.research/attempts/006-solver-resume/independent-math-audit/disjoint-cubic-root-link-cover-audit.md",
+      "bytes": 5043,
+      "sha256": "3a477598918d6ea3e50de7c19007b72c8df74426820f525e465414667fd25afd"
+    },
+    {
+      "path": "historical-source/.research/attempts/006-solver-resume/independent-math-audit/disjoint-cubic-root-link-cover-independent-verification.json",
+      "bytes": 64705,
+      "sha256": "414f022a2e0c99e37014b935beb50a0d795a60934881092c3f869552c22c19d8"
+    },
+    {
+      "path": "historical-source/.research/attempts/006-solver-resume/independent-math-audit/disjoint-mixed-branch-independent-verification.json",
+      "bytes": 17221,
+      "sha256": "0d02be98aaca89984502ec5920e9ba4dbee8bf3c3a3003da44277016d75b21ac"
+    },
+    {
+      "path": "historical-source/.research/attempts/006-solver-resume/independent-math-audit/two-adjacent-negative-cubic-audit.md",
+      "bytes": 7627,
+      "sha256": "546e79961ae26f13c72b2f2e947ea9e9cc47a7945e0462d53d9773dd50dd4094"
+    },
+    {
+      "path": "historical-source/.research/attempts/006-solver-resume/independent-math-audit/two-adjacent-negative-cubic-independent-verification.json",
+      "bytes": 17463,
+      "sha256": "12f650e0fcfc141de7195d46641342704cea93255093c20e43dbfaea4db6c090"
+    },
+    {
+      "path": "historical-source/.research/attempts/006-solver-resume/independent-math-audit/two-exception-special-edge-audit.md",
+      "bytes": 6002,
+      "sha256": "d79cfe9dd3732867a2efa970eee6aa5e2e4981a9f1c792a15182adf6387f0a15"
+    },
+    {
+      "path": "historical-source/.research/attempts/006-solver-resume/independent-math-audit/two-exception-special-edge-independent-verification.json",
+      "bytes": 6386,
+      "sha256": "c960564db64093aeb28d2409efd4c5e8afdb8eb7cdd43738a27458f8b1229a38"
+    },
+    {
+      "path": "historical-source/.research/attempts/006-solver-resume/independent-math-audit/two-mixed-cubic-audit.md",
+      "bytes": 6913,
+      "sha256": "8aa30e739026c2e9900a63853e0c0e1fb760f5f2bb28fb9b6dab95bcebd4d25c"
+    },
+    {
+      "path": "historical-source/.research/attempts/006-solver-resume/independent-math-audit/two-mixed-cubic-independent-verification.json",
+      "bytes": 9893,
+      "sha256": "15ec69b56db1cacc90a5cbae8e369f0a9c5fee6f20b97d3ea4cd40bdd05a19a4"
+    },
+    {
+      "path": "historical-source/.research/attempts/006-solver-resume/independent-math-audit/verify_disjoint_cubic_compact.py",
+      "bytes": 14472,
+      "sha256": "2f319a248dc0664a176e2f2db4302591ae9cbbc66e2dd536bd169d3e32b4d9c6"
+    },
+    {
+      "path": "historical-source/.research/attempts/006-solver-resume/independent-math-audit/verify_disjoint_cubic_cover.py",
+      "bytes": 9993,
+      "sha256": "1e1956d1f30468be20cfe855d9939912f5a65dec5b89e2a673a7391a15ab25b5"
+    },
+    {
+      "path": "historical-source/.research/attempts/006-solver-resume/independent-math-audit/verify_disjoint_mixed_branches.py",
+      "bytes": 12924,
+      "sha256": "cfc45025481a07ad53fa1994dbab085b200a09b7b8b5646e93be159ebe6f7525"
+    },
+    {
+      "path": "historical-source/.research/attempts/006-solver-resume/independent-math-audit/verify_two_adjacent_negative_cubic.py",
+      "bytes": 22291,
+      "sha256": "6db23989679164111afdc5507ad08de8070a79ddf49311e054f94e2eb816a854"
+    },
+    {
+      "path": "historical-source/.research/attempts/006-solver-resume/independent-math-audit/verify_two_mixed_cubic.py",
+      "bytes": 14972,
+      "sha256": "aaf58ec0ab75e6a55dec367d1958f4391f89919eac839c44445f8da59301b20f"
+    },
+    {
+      "path": "historical-source/.research/attempts/006-solver-resume/run_disjoint_mixed_branches.py",
+      "bytes": 4224,
+      "sha256": "68def9b91b41f03bd6083b884e87fbb6dcda48e6270eb4d09e7e4291c1c1cced"
+    },
+    {
+      "path": "historical-source/.research/attempts/006-solver-resume/two-adjacent-negative-cubic-accepted-manifest.json",
+      "bytes": 1957,
+      "sha256": "47a0c56e5d0f345d02d7a095dd6fb4de49a802935fe0d80cb2cfa8e42eb2b94b"
+    },
+    {
+      "path": "historical-source/.research/attempts/006-solver-resume/two-disjoint-cubic-ordinary-accepted-manifest.json",
+      "bytes": 3761,
+      "sha256": "3645332fc57bf0c953717433f5e5e63a2e3b92971ca6c3e7755fd429d9af577a"
+    },
+    {
+      "path": "historical-source/.research/attempts/006-solver-resume/two-disjoint-cubic-ordinary-exclusion.md",
+      "bytes": 3831,
+      "sha256": "a8686d606ee858d02dee1938ea3a576a4a053b3d7c63ac8e0a159875d01e9220"
+    },
+    {
+      "path": "historical-source/.research/attempts/006-solver-resume/two-exception-positive-extension.md",
+      "bytes": 5988,
+      "sha256": "99ed5ab7f2c89b4223c355d37135c0db40ef9d2dad5c86e210b5ef78dbfe02fd"
+    },
+    {
+      "path": "historical-source/.research/attempts/006-solver-resume/two-mixed-cubic-accepted-manifest.json",
+      "bytes": 1553,
+      "sha256": "de4f4eb792ee5da3c984ceb72ee214442de3ef7bad52b12bb92a5cd7a7375d79"
+    },
+    {
+      "path": "historical-source/.research/attempts/006-solver-resume/two-mixed-cubic-derivative.md",
+      "bytes": 3937,
+      "sha256": "ee65ee15218069eaec4eb6fafdc968452ce21d87e5927bb286ee682c4f0a9e9b"
+    },
+    {
+      "path": "historical-source/.research/attempts/006-solver-resume/two-mixed-cubic-ordinary-compact-proofs.json",
+      "bytes": 130056,
+      "sha256": "cb86d8699f906bd850d50dfc93bcd1b8985a363c204ef0f899440122e88c1eee"
+    },
+    {
+      "path": "historical-source/.research/attempts/006-solver-resume/two-mixed-cubic-ordinary-interval-probe.json",
+      "bytes": 240595,
+      "sha256": "1555841911e063e89afd867e73eb3fd6e386725f4c4f05f06708c8f5e82fa433"
+    },
+    {
+      "path": "historical-source/.research/attempts/006-solver-resume/two-negative-cubic-ordinary-compact-proofs.json",
+      "bytes": 790659,
+      "sha256": "d98b5ca81b5b848dd36977b637c658284edc9138aa093132ac88ceae6d1e7d50"
+    },
+    {
+      "path": "historical-source/.research/attempts/006-solver-resume/two-negative-cubic-ordinary-derivative.md",
+      "bytes": 4037,
+      "sha256": "e73a62e521f5514c55a8b732c2072efb01e3a0f65fbdea4b5c689ab7ecbe2a14"
+    },
+    {
+      "path": "historical-source/.research/attempts/006-solver-resume/two-negative-cubic-ordinary-interval-probe.json",
+      "bytes": 1234360,
+      "sha256": "4d27d95314001e3d4aa98578a5d9679fc2e32b278ba945494a681d0ff91b4a2d"
+    },
+    {
+      "path": "historical-source/.research/attempts/006-solver-resume/two-positive-cubic-controls.json",
+      "bytes": 1893,
+      "sha256": "6c7bf1408b97e47154ae8ac2b86c2fcb863aba0d1d2beb7aeeabbd62f35440f2"
+    },
+    {
+      "path": "historical-source/.research/attempts/006-solver-resume/two-positive-cubic-free-derivative.md",
+      "bytes": 5647,
+      "sha256": "bdf7c6307902fd1f9297e45237642b98a34932b0a767da3321920cdb2eb56beb"
+    },
+    {
+      "path": "historical-source/.research/attempts/006-solver-resume/two_mixed_cubic_complex.py",
+      "bytes": 5282,
+      "sha256": "63b9b226a2b6179269ca90cc8dc0f394800df386905734ddec2b000c2d37e09a"
+    },
+    {
+      "path": "historical-source/.research/attempts/006-solver-resume/two_negative_cubic_complex.py",
+      "bytes": 4014,
+      "sha256": "da4395368f6b0d3790b0a362615f7aecbd5b7e07304626a181142137bfa054ba"
+    },
+    {
+      "path": "historical-source/.research/attempts/006-solver-resume/two_positive_cubic_controls.py",
+      "bytes": 4299,
+      "sha256": "a4a2c5cacbf081bd3b37f1bea2e6688469fb709f9091cb120057f6a3c1984e56"
+    },
+    {
+      "path": "historical-source/.research/attempts/008-sparse-spectrum-proof/derivative-exception-audits-manifest.json",
+      "bytes": 3094,
+      "sha256": "daa06603482bfaf0579514b00c0650b23213e0fae6ca16f84feff02705735103"
+    },
+    {
+      "path": "historical-source/.research/attempts/008-sparse-spectrum-proof/doubled-positive-quartic-derivative-independent-audit.md",
+      "bytes": 3975,
+      "sha256": "30d5b6adf6133fbf644b25697082561293330fe30f6365b2e6ab051a0d9af90f"
+    },
+    {
+      "path": "historical-source/.research/attempts/008-sparse-spectrum-proof/empty-3211111-connected-odd.md",
+      "bytes": 5516,
+      "sha256": "ee474569950a98a55a7c7d182cf1c1aaf5081178c93e2407ff06a3ff17f82193"
+    },
+    {
+      "path": "historical-source/.research/attempts/008-sparse-spectrum-proof/exact-linear-top-propagation-engine.md",
+      "bytes": 3271,
+      "sha256": "368a2ed166b75cf1257cf51440a766a0fca90ff81df62b2d7daf8761f350d875"
+    },
+    {
+      "path": "historical-source/.research/attempts/008-sparse-spectrum-proof/negative-free-derivative-audit-manifest.json",
+      "bytes": 4841,
+      "sha256": "e4998f157965405c79cd82ad15986768b6bbca7dee43e2f5856bc5a7c2ac5b4c"
+    },
+    {
+      "path": "historical-source/.research/attempts/008-sparse-spectrum-proof/negative-free-derivative-catalog-audit.md",
+      "bytes": 5848,
+      "sha256": "cd0eb88ebf522ccaaecd8277e5f8403af4cc358e0ef7175d3af476cd82414360"
+    },
+    {
+      "path": "historical-source/.research/attempts/008-sparse-spectrum-proof/negative-free-endpoint-d11-manifest.json",
+      "bytes": 2222,
+      "sha256": "710f4401c3d444e1336d6d8645dce69e91e89c1899def8e59663efe7d0149166"
+    },
+    {
+      "path": "historical-source/.research/attempts/008-sparse-spectrum-proof/one-negative-quadratic-compact-exclusion-audit.md",
+      "bytes": 1631,
+      "sha256": "873a4c020d7b3c728dde55ff2c2cb184ef9d4ac09b8d708bec22596ea95cd586"
+    },
+    {
+      "path": "historical-source/.research/attempts/008-sparse-spectrum-proof/one-negative-quadratic-derivative-independent-audit.md",
+      "bytes": 3253,
+      "sha256": "f9731af805e47e061ad8a8c6c8429ff13c50c8b6ab82d36d8b59a2ec0d7ffc48"
+    },
+    {
+      "path": "historical-source/.research/attempts/008-sparse-spectrum-proof/one-positive-quadratic-derivative-independent-audit.md",
+      "bytes": 4815,
+      "sha256": "fbf7f709d00aa8aeae3f30f838815a84d875c99a6a2faf3deb1ada83bc8617db"
+    },
+    {
+      "path": "historical-source/.research/attempts/008-sparse-spectrum-proof/one-six-edge-compact-independent-verification.json",
+      "bytes": 3383,
+      "sha256": "248fe064fe70d38086c7cc16034c47836f1ce81a4598aa75847a157cc4775edc"
+    },
+    {
+      "path": "historical-source/.research/attempts/008-sparse-spectrum-proof/one-six-edge-interval-independent-verification.json",
+      "bytes": 7634,
+      "sha256": "d6f599da99da316ae706cbc6926636aa6ef856e6fec3ba7427782ac339307a27"
+    },
+    {
+      "path": "historical-source/.research/attempts/008-sparse-spectrum-proof/one-six-edge-vertex-links-independent-verification.json",
+      "bytes": 11687,
+      "sha256": "dd75c4d0959dc3e54ff94f248154a22b9343ea9c19f2f9f772db20d3a54be1cf"
+    },
+    {
+      "path": "historical-source/.research/attempts/008-sparse-spectrum-proof/small-valence-euler-independent-verification.json",
+      "bytes": 4548,
+      "sha256": "f97253a25b8f851c2402c70b9a1d2cf04fc1c59d8ccfb902f6aee08d46eb26de"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/audit_empty_residual_four.py",
+      "bytes": 5997,
+      "sha256": "5094df34355aafb46156831ecb83c38dffcab3002fc2fc9f24af2f7dd64ffaf3"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/audit_endpoint_d11.py",
+      "bytes": 6898,
+      "sha256": "4886a5d44ded3532971ba30d548115f24752c29bb5615f45e41fe16f10bbcb16"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/audit_two_positive_cubic.py",
+      "bytes": 3330,
+      "sha256": "2004adf0cb05e4a3739d11ae572338212ea7acf7448c399ffec8893047f876b2"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/coverage-cycle61.json",
+      "bytes": 52663,
+      "sha256": "b54dcbd3611499e8baa849aa400c4b57fc4c76f4a2fcbfa050593a5081474bde"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/coverage-cycle64-local-audits.json",
+      "bytes": 10569,
+      "sha256": "868ddc88947ff15df86a4bf377dec4b859448c96180998ed000c5dc822c0e0de"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/doubled-positive-quartic-derivative.md",
+      "bytes": 3925,
+      "sha256": "602fac80139058fef5bcf476fa2a4a7fd3fd2ed4462b35852b98c42c004f8c1b"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/empty-residual-four-accepted-manifest.json",
+      "bytes": 2379,
+      "sha256": "ccd297c7413f38f1de78ef8c8dd30d5550a3fc17aa2bba7cf8a23eda8aa43bf6"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/empty-residual-four-independent-audit.json",
+      "bytes": 2693,
+      "sha256": "95469ff87a45b159cd1ca8470010cebeaa79f1986f6909983e88b9134f3bebbd"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/empty-residual-four-parent-audit.md",
+      "bytes": 3670,
+      "sha256": "07ea8968bffaf794b27e6873a93797f3f4b3da1818c96014858181ca78b3a64e"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/empty-residual-four-parent-coverage.json",
+      "bytes": 6432,
+      "sha256": "8490c216848a0cf0bb57f171444210e29d940bac66fdea2ac5424d9f0bdee1d8"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/endpoint-d11-independent-verification.json",
+      "bytes": 3113,
+      "sha256": "18e1ac0972d340ad20b0a592f4c76d5b15c0a87199a80c1b298e80c197c7bac8"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/endpoint-d11-parent-audit.md",
+      "bytes": 2878,
+      "sha256": "457071a9ac43a380e5a15b9f9d1262545c1ade6f0837a552201b5c10ad0d1119"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/exact_binary_row_propagation.py",
+      "bytes": 3058,
+      "sha256": "6f01e230b88384aa0142798639aeae602d74e0473cd26c6e1df54cc2d183e491"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/local-audits-cycle64-manifest.json",
+      "bytes": 4377,
+      "sha256": "430bdd2b07be5d3ffc85dd36dad92f06ce9f91c2d56b2eabc01e0f116b5f6dda"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/low-residual-derivative-complete-manifest.json",
+      "bytes": 3697,
+      "sha256": "813b9f1f4b7a90a01dd4f2e32922d5bac28d5380cb1761bd2a057402f3154ec3"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/low-residual-negative-free-derivative.md",
+      "bytes": 3922,
+      "sha256": "93f60166f7b786868a9e1fcc6c9a3d1db80b4a0b92689a0e830ac62525d6e24f"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/one-exception-special-edge-manifest.json",
+      "bytes": 2679,
+      "sha256": "af1cfe24049984dbe7a5d19fb09aa157b6d8007b7bdf203da512a362a58ded0e"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/one-negative-quadratic-derivative.md",
+      "bytes": 5226,
+      "sha256": "d27d696cff4d74a12ab61012f307bbceeb0262187743b8265b8fa076cb5383ff"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/one-six-edge-compact-proofs.json",
+      "bytes": 212509,
+      "sha256": "16885890e8b3afbfb6fdc9f15dd3b1a66489405e96ccf360b4ca2ef0e922bc29"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/one_six_edge_compact_proofs.py",
+      "bytes": 4295,
+      "sha256": "9ae19eb8fe629d0ca7fd6788f81cd0fe0b0440c9ae06b08d02d8339ec7759128"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/residual-six-independent-authority-cycle1386.json",
+      "bytes": 6018,
+      "sha256": "e9b7294d6df2e8c8cb3b74f73077cd213fcb0d39ce4f9104e7acba493d429d9a"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/residual-six-independent-review-cycle1386.md",
+      "bytes": 11210,
+      "sha256": "cfb8b6cd8262e6104119c73726753bc1020a11a2b09d241d725505ff1bee297c"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/residual-six-independent-validation-cycle1386.json",
+      "bytes": 4632,
+      "sha256": "524336dc0a8de0b7bc8679d09a40cac0d41858b4e059b24d72eef46c7e0b1658"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/residual6-adversarial-review-cycle1385.md",
+      "bytes": 10344,
+      "sha256": "d621cbaad0c68b2ded6e3fa4828a72ac1836736105cb3546880890104cdfa734"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/residual6-cover-covered-controls-cycle1382.log",
+      "bytes": 105,
+      "sha256": "c6a2ab0390d670babdd6a68b373e01149704c25246292c46ca045763125d66a6"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/residual6-cover-final-covered-controls-cycle1382.log",
+      "bytes": 105,
+      "sha256": "bba69393211f4e9c0af4bc3ed09a15509753129438f4a83e1fe47a01ef65333e"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/residual6-cover-final-normal-cycle1382.log",
+      "bytes": 855,
+      "sha256": "25409dd7726c591f9c0f13e52034b98afeb05e5a4dded98430fc0cd514261239"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/residual6-cover-final-optimized-cycle1382.log",
+      "bytes": 855,
+      "sha256": "25409dd7726c591f9c0f13e52034b98afeb05e5a4dded98430fc0cd514261239"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/residual6-cover-first-controls-cycle1382.log",
+      "bytes": 855,
+      "sha256": "37af8f6317903b6bcc891f8a5934b8a5a2a8de29efc8fd76a4dc60f9a9409021"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/residual6-cover-optimized-cycle1382.log",
+      "bytes": 855,
+      "sha256": "25409dd7726c591f9c0f13e52034b98afeb05e5a4dded98430fc0cd514261239"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/residual6-cover-red-cycle1382.log",
+      "bytes": 4359,
+      "sha256": "54f8167984827982a2426e842d0fecda191a29ddbd7ba5120b678a2066a37e51"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/residual6-four-free-derivative-draft-cycle1382.md",
+      "bytes": 8993,
+      "sha256": "b85d2e49a1b410d1af8c66e9a020dc0aa2e29479f077bac0f509b237c34003c2"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/residual6-negative-union-theorem-cycle1382.md",
+      "bytes": 11378,
+      "sha256": "677297733b1df5fb132ab7752f4a5c613ac73c818ff293387212dd8a687fea6f"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/residual6-source-guard-audit-cycle1382.md",
+      "bytes": 4048,
+      "sha256": "1c09f388f04824c33deb13ffbc3a46501e93fc396b85b102a82a4250e62f1c79"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/residual6-type-cover-actual-cycle1382.log",
+      "bytes": 1036,
+      "sha256": "9b389c3e9cf238e3f0bf4c40cd557def2b41d945ab29b00e338c5b5551a50f86"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/residual6-type-cover-controls-cycle1382.json",
+      "bytes": 390309,
+      "sha256": "e2917ff50e25da25689a7ccb3f69e6ce4e0a778140b3516f9416733077d2bc21"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/residual6-type-cover-coverage-cycle1382.json",
+      "bytes": 17671,
+      "sha256": "015f4ce5d9d072fc2036f3861cfadbc9752d083710a786912fd477393241dbdc"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/residual6-type-cover-covered-actual-cycle1382.log",
+      "bytes": 1036,
+      "sha256": "584c5bb958634cad149d8ed7c4c761f13c56d4cc7ffc35d061a9d082af5a543c"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/residual6-type-cover-covered-controls-cycle1382.json",
+      "bytes": 390309,
+      "sha256": "2a790e96ee65624ac26d341eb0e668623d8063bf4895c83ab1735cefc08cf129"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/residual6-type-cover-final-actual-cycle1382.log",
+      "bytes": 1049,
+      "sha256": "cedeb8bf16329f9f13d2efa841b377bc32226da9617a233a63fd6664e63146d1"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/residual6-type-cover-final-controls-cycle1382.json",
+      "bytes": 390560,
+      "sha256": "88e982c7798d1d9fa465e5cd8fb38b7bd90ccf479bb3dacd048577f93168b8d9"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/residual6-type-cover-final-coverage-cycle1382.json",
+      "bytes": 17671,
+      "sha256": "5e74ea09485a3ee85030bc6c5d35095c73b6293bbbd9506bd45a5b74c9c7db47"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/residual6-type-cover-final-covered-actual-cycle1382.log",
+      "bytes": 1049,
+      "sha256": "464fc5cc618c80a209daa8028f7ea3aa295ede00670f4ef1bdb95145a1d45f0a"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/residual6-type-cover-final-covered-controls-cycle1382.json",
+      "bytes": 390560,
+      "sha256": "40fa5beb4b895a7ec068cba35fb57f6acedd59511730f18944f19b20f6b85e9b"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/residual6_type_cover_cycle1382.py",
+      "bytes": 13330,
+      "sha256": "c85b56b2db8d3355e9039eb1fb0c91d116260893fe5dd4b0e76d898d0d78bbf7"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/residual6_type_cover_initial_cycle1382.py",
+      "bytes": 13213,
+      "sha256": "034d5f230c0cb7e44110278076f458d57f7d52fcf8414dac769615f5118aae2b"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/small-valence-all-euler-obstructions.json",
+      "bytes": 31316,
+      "sha256": "ed47ae6f9807f378274d45ed2cd1b5826d8d5de0c0695ca89a557c5f4f8ad3ed"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/test_audit_empty_residual_four.py",
+      "bytes": 681,
+      "sha256": "97f786103f49b006d4c8ecfd14ead17f14b5afcf52922661745efb0a41e5748b"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/test_local_proof_audits_cycle64.py",
+      "bytes": 1404,
+      "sha256": "112ec6408521c06a27d196c587d9ff4442e002fb4788394eecf874f230504640"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/test_residual6_cover_cycle1382.py",
+      "bytes": 3102,
+      "sha256": "ce6f45806a503713c7513a03c81606386ee0d19e8a0b4145d301c5a3e54f7786"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/two-adjacent-negative-cubic-link-filter-independent.json",
+      "bytes": 7023,
+      "sha256": "cf39d1bf9f5d27bd3e25213fbb693d5c6b7dfb953d8979242f3c684a0915c3d9"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/two-adjacent-negative-cubic-structural-audit.md",
+      "bytes": 3575,
+      "sha256": "2cb774d0cc4b21cfde077038ca9fd5f64b63c2e4dff7b275cd65821ce1c4d9ca"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/two-exception-positive-quartic-special-edge-manifest.json",
+      "bytes": 1702,
+      "sha256": "b15a041cfd9928607362244290fc0818ce9dfe3ba82e628a89ad99b26a0d63d8"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/two-exception-positive-quartic-special-edge.md",
+      "bytes": 7815,
+      "sha256": "5dd72bba928bb856d48f8336b08cf950d3563fb760c2370180d14c7d7ff07cfa"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/two-positive-cubic-independent-controls.json",
+      "bytes": 2590,
+      "sha256": "6093680f7bf7278863b9ef5d59bfbdc5c0a03b5702f8f529a564e97aa8b9670c"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/two-positive-cubic-parent-audit.md",
+      "bytes": 2954,
+      "sha256": "613cde67c46709d284be1a5c7e1d1ba51413b61d0b1bb68ab4c477d7c467bab5"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/validation-cycle61.json",
+      "bytes": 5048,
+      "sha256": "a4e9844a2ecd9b8c70d10348041700842d3e916d0eda575a656cef06e3a17336"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/whole-pattern-exclusion-authority-cycle1388.json",
+      "bytes": 32412,
+      "sha256": "7bb621ae85318027c46e2691e1bb6e77ec77a6f79546087e71fa00a90578d3ed"
+    },
+    {
+      "path": "historical-source/.research/attempts/009-parent-analysis/whole-pattern-exclusion-cycle1388.md",
+      "bytes": 3768,
+      "sha256": "b1da9f800672a132dee9a0577cb4e5d223b71dcc0dcc386df232c8f077659425"
+    },
+    {
+      "path": "historical-source/.research/findings/negative-free-derivative-support-refinements.md",
+      "bytes": 2273,
+      "sha256": "1e509f6ab2e41bf412f94d0b664e75d3abcc98becf4ccdccbaca7d0457b2a382"
+    },
+    {
+      "path": "kernels/__init__.py",
+      "bytes": 53,
+      "sha256": "ee04e4ffc500fc051830a62913e9592f5ddc2af90ce40b97e05c86e18301f3dd"
+    },
+    {
+      "path": "kernels/core.py",
+      "bytes": 6847,
+      "sha256": "b6c818366317cde7e3bc88f24ff8c47734a166a03b6f7a2a2d9fec8bbab697f4"
+    },
+    {
+      "path": "kernels/disk.py",
+      "bytes": 6295,
+      "sha256": "aadb8add0dfb779747cf2298daeb01eaa877108831f57a1c4974959ff435a3ec"
+    },
+    {
+      "path": "kernels/endpoint.py",
+      "bytes": 7635,
+      "sha256": "72aa6790be3ea16b9d9d7fc4ab7e6449c9b1d7719a87ddd9c1ccf839d1641c96"
+    },
+    {
+      "path": "provenance/source/common-core-truth-controls-cycle1398.json",
+      "bytes": 4753,
+      "sha256": "a8b906409f2afd5ab45c8f63db8b9fe8c88d10da59f36496abcbc3295efdd59b"
+    },
+    {
+      "path": "provenance/source/common-core-truth-review-cycle1398.md",
+      "bytes": 10121,
+      "sha256": "c1218394933bacf1fb90adec3f0842b69961f5cb74dba9662e5186df50e8eab2"
+    },
+    {
+      "path": "provenance/source/common_core_truth_cycle1398.py",
+      "bytes": 7678,
+      "sha256": "6e9add5bd97402a3e63a8df1269f9ea7bf26b173368b31981ecde0542a0367d2"
+    },
+    {
+      "path": "provenance/source/heptagon-disk-interiors-proof-cycle1399.md",
+      "bytes": 8444,
+      "sha256": "8d7f8b0061dd7eb1ffe3300b26523d18060c910b8b917e87b6dc32057efbf711"
+    },
+    {
+      "path": "provenance/source/heptagon-disk-manifest-cycle1399.json",
+      "bytes": 4516,
+      "sha256": "cee89dfcc7640b51f481d233ff41f98abd50c66fbf02f7e33c5b2855b7a8d3b4"
+    },
+    {
+      "path": "provenance/source/heptagon_disk_controls_cycle1399.py",
+      "bytes": 6795,
+      "sha256": "f31fbe391da1a4c5cada9092c5251e2d81321722013b0021431e5cf8f4cf9d2d"
+    },
+    {
+      "path": "provenance/source/minus-three-links-independent-authority-cycle1395.json",
+      "bytes": 3226,
+      "sha256": "02706b0f91065e9bdec12a3f74e103f53603f8597d01e826154371f24e714c08"
+    },
+    {
+      "path": "provenance/source/minus-three-links-independent-controls-cycle1395.json",
+      "bytes": 1244,
+      "sha256": "f3164252b9c3fbd5dedfcacfe0dda53c2728a14fe6ccb381c882bd8457b47892"
+    },
+    {
+      "path": "provenance/source/minus-three-links-independent-final-validation-cycle1395.json",
+      "bytes": 1812,
+      "sha256": "9968b97775d39356c0d95dbf2419fcd887559162448b88a7c048139947f9229d"
+    },
+    {
+      "path": "provenance/source/minus-three-links-independent-review-cycle1395.md",
+      "bytes": 13964,
+      "sha256": "493f918da500ed13fef16d398d75f8fccb10456cf255eee8adaf0b242ca5f81e"
+    },
+    {
+      "path": "provenance/source/minus_three_links_independent_cycle1395.py",
+      "bytes": 8922,
+      "sha256": "dc499a80f13479f5fa1ec9bce36d21d881e2cbff21fe0c0baea6a2bfd753050a"
+    },
+    {
+      "path": "provenance/source/parent-heptagon_disk_controls_cycle1399-actual-cycle1404.json",
+      "bytes": 4562,
+      "sha256": "8c4302618d5477f71569021bd3a2fc652e6714e3780c3ad4bf1f324fb43ee156"
+    },
+    {
+      "path": "provenance/source/residual_six_independent_cycle1386.py",
+      "bytes": 17407,
+      "sha256": "70ef5f853b0ba64d8536a30325567d7de71b29096a263ca466ea78f76a291b7d"
+    },
+    {
+      "path": "provenance/source/three-disks-independent-authority-cycle1401.json",
+      "bytes": 4667,
+      "sha256": "5911fc936300b9ddaed17c02038416b305a0e8cba95ac5dc6115c5385a192692"
+    },
+    {
+      "path": "provenance/source/three-disks-independent-manifest-cycle1401.json",
+      "bytes": 4634,
+      "sha256": "3be7cbd1fef10eb4f02f5923227be9c5294f673b41d470d2891b3c01c4f1d712"
+    },
+    {
+      "path": "provenance/source/three-disks-independent-review-cycle1401.md",
+      "bytes": 12664,
+      "sha256": "00a05e782fc5376981c0c3df3422c7d53f9bc683872cbf4a03b3fb435d99cc58"
+    },
+    {
+      "path": "provenance/source/three-disks-independent-validation-cycle1401.json",
+      "bytes": 3997,
+      "sha256": "f1d4bab74d48b5b856457157cefd324852d8fa1385bcf9f10364531713dab284"
+    },
+    {
+      "path": "provenance/source/three-disks-union12-proof-cycle1404.md",
+      "bytes": 7079,
+      "sha256": "622ee562e447fe9d2ca9f4a49de9931575e2b058972ec7717b0a0b64a94e83f9"
+    },
+    {
+      "path": "provenance/source/three-free-classification-proof-cycle1391.md",
+      "bytes": 6425,
+      "sha256": "def65653ecc206d3a77de9c180b85dcad6095eadbe87341b750932cc22200299"
+    },
+    {
+      "path": "provenance/source/three-free-independent-authority-cycle1393.json",
+      "bytes": 5960,
+      "sha256": "25038a992790c16673a96709f8f7a3da0f650b5b8089f9cac6f74df7b74c981c"
+    },
+    {
+      "path": "provenance/source/three-free-independent-review-cycle1393.md",
+      "bytes": 8628,
+      "sha256": "e2f5ffac3ddd4a088e16885547354e819e5d17840ec8345bbd2b20406f8b39fe"
+    },
+    {
+      "path": "test_packet.py",
+      "bytes": 7455,
+      "sha256": "bb4c6e3a59b17c503cac85079e96f33c49bf1e7233a39b4d9397c3b7af01a101"
+    },
+    {
+      "path": "test_successor.py",
+      "bytes": 7547,
+      "sha256": "7d911e2a8d5966e8a92da1be051d6a4b9162616e0721561f8301185218163d2e"
+    },
+    {
+      "path": "verification/PREPARATION-cycle1408.json",
+      "bytes": 6048,
+      "sha256": "c4560a79477e6f77996d58d5940cd4762eab646a097f428faa2943e791772bd8"
+    },
+    {
+      "path": "verification/PREPARATION.json",
+      "bytes": 1890,
+      "sha256": "1cfdca53bca724c7ddd6dfd8d6bb43d88f35441d92fdcaa5432fe1c9004393cd"
+    },
+    {
+      "path": "verification/cff-validation.log",
+      "bytes": 63,
+      "sha256": "93a42b6051d6501eb23ca963eb296b814aa8c4e63b94d3010df91e650f43fe85"
+    },
+    {
+      "path": "verification/controls-covered.log",
+      "bytes": 840,
+      "sha256": "7081c1f2839eb19f72122219f87a8b52693ed72df0a48ba77212d035a0b611a7"
+    },
+    {
+      "path": "verification/controls-normal.log",
+      "bytes": 840,
+      "sha256": "55a624a5b7953168d39263c4f98c0c9c023a41ed0510865fdf100632d94cc172"
+    },
+    {
+      "path": "verification/controls-optimized.log",
+      "bytes": 840,
+      "sha256": "0fc3c4eb1f47416199d5b5b9420d67b22b3c367fb5ae16393d17750f5032f520"
+    },
+    {
+      "path": "verification/coverage.json",
+      "bytes": 30106,
+      "sha256": "43353e6f225779cd21ffa600ec1c34b8f79000a1d70a9f381166a272393abf0f"
+    },
+    {
+      "path": "verification/unit-normal-cycle1408.log",
+      "bytes": 1518,
+      "sha256": "eca405a596f01ff940168d667d8f370b83ec4d5b67fc2d5deb15f69d9a7a99ab"
+    },
+    {
+      "path": "verification/unit-optimized-cycle1408.log",
+      "bytes": 1518,
+      "sha256": "2d1259c8908332b78b9b6a6a04a2c49ec37b9fdd0a8f8d2ddd1ec2eea77745a8"
+    },
+    {
+      "path": "verify_packet.py",
+      "bytes": 12030,
+      "sha256": "c42204e49cdc070a3550eb7c4c7611f54d8e8764e516cacb8eefdae8a9d8f582"
+    }
+  ]
+}

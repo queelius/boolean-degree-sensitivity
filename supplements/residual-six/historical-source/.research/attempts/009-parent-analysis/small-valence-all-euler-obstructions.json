@@ -1,0 +1,2158 @@
+{
+  "status": "ALL_SMALL_VALENCE_TARGETS_HAVE_EULER_OBSTRUCTIONS",
+  "global_status": "UNRESOLVED",
+  "scope": "All published closed three-manifolds on13 vertices with at most52 edges and edge valences3,4,5; external enumeration completeness is explicit.",
+  "catalog_count": 4787,
+  "target_count": 76,
+  "surviving_targets": 0,
+  "degree_three_edge_histogram": {
+    "0": 9,
+    "1": 6,
+    "2": 15,
+    "3": 12,
+    "4": 14,
+    "5": 8,
+    "6": 6,
+    "7": 3,
+    "8": 2,
+    "9": 1
+  },
+  "sources": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/manifolds_lex_d3_deg5.txt.gz",
+      "sha256": "41071b36a731396d5273c60748aea7937c876136684ac479971e87e27e2fbb59"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/small_valence_euler_obstructions.py",
+      "sha256": "270f35041dfa3d217a6c173c64121b998f8a87321b07b5df8e4cb36ee8be843d"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/small_valence_catalog.py",
+      "sha256": "dc6e0afb6a0e5ed08927097292c63d344209f2cb4805e61894e44e318889ba28"
+    }
+  ],
+  "targets": [
+    {
+      "index": 20,
+      "f_vector": [
+        13,
+        47,
+        68,
+        34
+      ],
+      "edge_valences": {
+        "3": 8,
+        "4": 15,
+        "5": 24
+      },
+      "obstruction": {
+        "vertices": [
+          1,
+          9,
+          10
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 22,
+      "f_vector": [
+        13,
+        49,
+        72,
+        36
+      ],
+      "edge_valences": {
+        "3": 7,
+        "4": 15,
+        "5": 27
+      },
+      "obstruction": {
+        "vertices": [
+          1,
+          9,
+          10
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 24,
+      "f_vector": [
+        13,
+        48,
+        70,
+        35
+      ],
+      "edge_valences": {
+        "3": 9,
+        "4": 12,
+        "5": 27
+      },
+      "obstruction": {
+        "vertices": [
+          1,
+          9,
+          10
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 32,
+      "f_vector": [
+        13,
+        50,
+        74,
+        37
+      ],
+      "edge_valences": {
+        "3": 8,
+        "4": 12,
+        "5": 30
+      },
+      "obstruction": {
+        "vertices": [
+          1,
+          9,
+          10
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 62,
+      "f_vector": [
+        13,
+        49,
+        72,
+        36
+      ],
+      "edge_valences": {
+        "3": 5,
+        "4": 19,
+        "5": 25
+      },
+      "obstruction": {
+        "vertices": [
+          1,
+          9,
+          11
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 84,
+      "f_vector": [
+        13,
+        50,
+        74,
+        37
+      ],
+      "edge_valences": {
+        "3": 2,
+        "4": 24,
+        "5": 24
+      },
+      "obstruction": {
+        "vertices": [
+          1,
+          8,
+          9
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 86,
+      "f_vector": [
+        13,
+        50,
+        74,
+        37
+      ],
+      "edge_valences": {
+        "3": 4,
+        "4": 20,
+        "5": 26
+      },
+      "obstruction": {
+        "vertices": [
+          1,
+          8,
+          9
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 89,
+      "f_vector": [
+        13,
+        50,
+        74,
+        37
+      ],
+      "edge_valences": {
+        "3": 5,
+        "4": 18,
+        "5": 27
+      },
+      "obstruction": {
+        "vertices": [
+          1,
+          8,
+          9
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 91,
+      "f_vector": [
+        13,
+        52,
+        78,
+        39
+      ],
+      "edge_valences": {
+        "3": 4,
+        "4": 18,
+        "5": 30
+      },
+      "obstruction": {
+        "vertices": [
+          1,
+          8,
+          9
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 92,
+      "f_vector": [
+        13,
+        51,
+        76,
+        38
+      ],
+      "edge_valences": {
+        "3": 3,
+        "4": 21,
+        "5": 27
+      },
+      "obstruction": {
+        "vertices": [
+          1,
+          8,
+          9
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 112,
+      "f_vector": [
+        13,
+        48,
+        70,
+        35
+      ],
+      "edge_valences": {
+        "3": 6,
+        "4": 18,
+        "5": 24
+      },
+      "obstruction": {
+        "vertices": [
+          1,
+          8,
+          9
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 115,
+      "f_vector": [
+        13,
+        49,
+        72,
+        36
+      ],
+      "edge_valences": {
+        "3": 6,
+        "4": 17,
+        "5": 26
+      },
+      "obstruction": {
+        "vertices": [
+          1,
+          8,
+          9
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 116,
+      "f_vector": [
+        13,
+        49,
+        72,
+        36
+      ],
+      "edge_valences": {
+        "3": 3,
+        "4": 23,
+        "5": 23
+      },
+      "obstruction": {
+        "vertices": [
+          1,
+          8,
+          9
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 123,
+      "f_vector": [
+        13,
+        49,
+        72,
+        36
+      ],
+      "edge_valences": {
+        "3": 2,
+        "4": 25,
+        "5": 22
+      },
+      "obstruction": {
+        "vertices": [
+          1,
+          8,
+          9
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 124,
+      "f_vector": [
+        13,
+        50,
+        74,
+        37
+      ],
+      "edge_valences": {
+        "3": 5,
+        "4": 18,
+        "5": 27
+      },
+      "obstruction": {
+        "vertices": [
+          1,
+          8,
+          9
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 125,
+      "f_vector": [
+        13,
+        50,
+        74,
+        37
+      ],
+      "edge_valences": {
+        "3": 3,
+        "4": 22,
+        "5": 25
+      },
+      "obstruction": {
+        "vertices": [
+          1,
+          8,
+          9
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 126,
+      "f_vector": [
+        13,
+        51,
+        76,
+        38
+      ],
+      "edge_valences": {
+        "3": 5,
+        "4": 17,
+        "5": 29
+      },
+      "obstruction": {
+        "vertices": [
+          1,
+          8,
+          9
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 127,
+      "f_vector": [
+        13,
+        49,
+        72,
+        36
+      ],
+      "edge_valences": {
+        "3": 4,
+        "4": 21,
+        "5": 24
+      },
+      "obstruction": {
+        "vertices": [
+          1,
+          8,
+          9
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 128,
+      "f_vector": [
+        13,
+        50,
+        74,
+        37
+      ],
+      "edge_valences": {
+        "3": 2,
+        "4": 24,
+        "5": 24
+      },
+      "obstruction": {
+        "vertices": [
+          1,
+          8,
+          9
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 130,
+      "f_vector": [
+        13,
+        50,
+        74,
+        37
+      ],
+      "edge_valences": {
+        "3": 4,
+        "4": 20,
+        "5": 26
+      },
+      "obstruction": {
+        "vertices": [
+          1,
+          8,
+          9
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 131,
+      "f_vector": [
+        13,
+        50,
+        74,
+        37
+      ],
+      "edge_valences": {
+        "3": 3,
+        "4": 22,
+        "5": 25
+      },
+      "obstruction": {
+        "vertices": [
+          1,
+          8,
+          9
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 132,
+      "f_vector": [
+        13,
+        49,
+        72,
+        36
+      ],
+      "edge_valences": {
+        "3": 2,
+        "4": 25,
+        "5": 22
+      },
+      "obstruction": {
+        "vertices": [
+          1,
+          8,
+          9
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 183,
+      "f_vector": [
+        13,
+        49,
+        72,
+        36
+      ],
+      "edge_valences": {
+        "3": 6,
+        "4": 17,
+        "5": 26
+      },
+      "obstruction": {
+        "vertices": [
+          1,
+          8,
+          9
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 185,
+      "f_vector": [
+        13,
+        49,
+        72,
+        36
+      ],
+      "edge_valences": {
+        "3": 5,
+        "4": 19,
+        "5": 25
+      },
+      "obstruction": {
+        "vertices": [
+          1,
+          8,
+          9
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 186,
+      "f_vector": [
+        13,
+        50,
+        74,
+        37
+      ],
+      "edge_valences": {
+        "3": 5,
+        "4": 18,
+        "5": 27
+      },
+      "obstruction": {
+        "vertices": [
+          1,
+          8,
+          9
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 202,
+      "f_vector": [
+        13,
+        49,
+        72,
+        36
+      ],
+      "edge_valences": {
+        "3": 4,
+        "4": 21,
+        "5": 24
+      },
+      "obstruction": {
+        "vertices": [
+          1,
+          8,
+          9
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 203,
+      "f_vector": [
+        13,
+        50,
+        74,
+        37
+      ],
+      "edge_valences": {
+        "3": 3,
+        "4": 22,
+        "5": 25
+      },
+      "obstruction": {
+        "vertices": [
+          1,
+          8,
+          9
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 393,
+      "f_vector": [
+        13,
+        51,
+        76,
+        38
+      ],
+      "edge_valences": {
+        "3": 2,
+        "4": 23,
+        "5": 26
+      },
+      "obstruction": {
+        "vertices": [
+          1,
+          11,
+          12
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 394,
+      "f_vector": [
+        13,
+        51,
+        76,
+        38
+      ],
+      "edge_valences": {
+        "4": 27,
+        "5": 24
+      },
+      "obstruction": {
+        "vertices": [
+          1,
+          9,
+          10
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 402,
+      "f_vector": [
+        13,
+        51,
+        76,
+        38
+      ],
+      "edge_valences": {
+        "3": 1,
+        "4": 25,
+        "5": 25
+      },
+      "obstruction": {
+        "vertices": [
+          1,
+          11,
+          12
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 403,
+      "f_vector": [
+        13,
+        51,
+        76,
+        38
+      ],
+      "edge_valences": {
+        "4": 27,
+        "5": 24
+      },
+      "obstruction": {
+        "vertices": [
+          1,
+          9,
+          10
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 405,
+      "f_vector": [
+        13,
+        51,
+        76,
+        38
+      ],
+      "edge_valences": {
+        "3": 1,
+        "4": 25,
+        "5": 25
+      },
+      "obstruction": {
+        "vertices": [
+          1,
+          11,
+          12
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 406,
+      "f_vector": [
+        13,
+        51,
+        76,
+        38
+      ],
+      "edge_valences": {
+        "3": 2,
+        "4": 23,
+        "5": 26
+      },
+      "obstruction": {
+        "vertices": [
+          1,
+          11,
+          12
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 407,
+      "f_vector": [
+        13,
+        50,
+        74,
+        37
+      ],
+      "edge_valences": {
+        "3": 1,
+        "4": 26,
+        "5": 23
+      },
+      "obstruction": {
+        "vertices": [
+          1,
+          9,
+          10
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 408,
+      "f_vector": [
+        13,
+        50,
+        74,
+        37
+      ],
+      "edge_valences": {
+        "4": 28,
+        "5": 22
+      },
+      "obstruction": {
+        "vertices": [
+          1,
+          9,
+          10
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 409,
+      "f_vector": [
+        13,
+        50,
+        74,
+        37
+      ],
+      "edge_valences": {
+        "4": 28,
+        "5": 22
+      },
+      "obstruction": {
+        "vertices": [
+          1,
+          9,
+          10
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 434,
+      "f_vector": [
+        13,
+        50,
+        74,
+        37
+      ],
+      "edge_valences": {
+        "4": 28,
+        "5": 22
+      },
+      "obstruction": {
+        "vertices": [
+          1,
+          9,
+          10
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 439,
+      "f_vector": [
+        13,
+        50,
+        74,
+        37
+      ],
+      "edge_valences": {
+        "3": 1,
+        "4": 26,
+        "5": 23
+      },
+      "obstruction": {
+        "vertices": [
+          1,
+          9,
+          10
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 442,
+      "f_vector": [
+        13,
+        50,
+        74,
+        37
+      ],
+      "edge_valences": {
+        "4": 28,
+        "5": 22
+      },
+      "obstruction": {
+        "vertices": [
+          1,
+          9,
+          10
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 444,
+      "f_vector": [
+        13,
+        49,
+        72,
+        36
+      ],
+      "edge_valences": {
+        "4": 29,
+        "5": 20
+      },
+      "obstruction": {
+        "vertices": [
+          1,
+          9,
+          10
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 1075,
+      "f_vector": [
+        13,
+        50,
+        74,
+        37
+      ],
+      "edge_valences": {
+        "3": 2,
+        "4": 24,
+        "5": 24
+      },
+      "obstruction": {
+        "vertices": [
+          1,
+          10,
+          11
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 1076,
+      "f_vector": [
+        13,
+        51,
+        76,
+        38
+      ],
+      "edge_valences": {
+        "3": 3,
+        "4": 21,
+        "5": 27
+      },
+      "obstruction": {
+        "vertices": [
+          1,
+          10,
+          11
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 1079,
+      "f_vector": [
+        13,
+        51,
+        76,
+        38
+      ],
+      "edge_valences": {
+        "3": 4,
+        "4": 19,
+        "5": 28
+      },
+      "obstruction": {
+        "vertices": [
+          4,
+          7,
+          12
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 1080,
+      "f_vector": [
+        13,
+        51,
+        76,
+        38
+      ],
+      "edge_valences": {
+        "3": 4,
+        "4": 19,
+        "5": 28
+      },
+      "obstruction": {
+        "vertices": [
+          1,
+          10,
+          11
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 1092,
+      "f_vector": [
+        13,
+        51,
+        76,
+        38
+      ],
+      "edge_valences": {
+        "3": 5,
+        "4": 17,
+        "5": 29
+      },
+      "obstruction": {
+        "vertices": [
+          1,
+          11,
+          12
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 1094,
+      "f_vector": [
+        13,
+        51,
+        76,
+        38
+      ],
+      "edge_valences": {
+        "3": 4,
+        "4": 19,
+        "5": 28
+      },
+      "obstruction": {
+        "vertices": [
+          3,
+          7,
+          10
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 1095,
+      "f_vector": [
+        13,
+        51,
+        76,
+        38
+      ],
+      "edge_valences": {
+        "3": 2,
+        "4": 23,
+        "5": 26
+      },
+      "obstruction": {
+        "vertices": [
+          3,
+          7,
+          10
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 1100,
+      "f_vector": [
+        13,
+        50,
+        74,
+        37
+      ],
+      "edge_valences": {
+        "3": 6,
+        "4": 16,
+        "5": 28
+      },
+      "obstruction": {
+        "vertices": [
+          3,
+          7,
+          10
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 1101,
+      "f_vector": [
+        13,
+        51,
+        76,
+        38
+      ],
+      "edge_valences": {
+        "3": 3,
+        "4": 21,
+        "5": 27
+      },
+      "obstruction": {
+        "vertices": [
+          3,
+          7,
+          10
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 1102,
+      "f_vector": [
+        13,
+        51,
+        76,
+        38
+      ],
+      "edge_valences": {
+        "3": 2,
+        "4": 23,
+        "5": 26
+      },
+      "obstruction": {
+        "vertices": [
+          3,
+          7,
+          10
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 1103,
+      "f_vector": [
+        13,
+        51,
+        76,
+        38
+      ],
+      "edge_valences": {
+        "3": 3,
+        "4": 21,
+        "5": 27
+      },
+      "obstruction": {
+        "vertices": [
+          3,
+          7,
+          10
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 1105,
+      "f_vector": [
+        13,
+        50,
+        74,
+        37
+      ],
+      "edge_valences": {
+        "3": 3,
+        "4": 22,
+        "5": 25
+      },
+      "obstruction": {
+        "vertices": [
+          3,
+          7,
+          10
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 1106,
+      "f_vector": [
+        13,
+        50,
+        74,
+        37
+      ],
+      "edge_valences": {
+        "3": 2,
+        "4": 24,
+        "5": 24
+      },
+      "obstruction": {
+        "vertices": [
+          3,
+          7,
+          10
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 1151,
+      "f_vector": [
+        13,
+        51,
+        76,
+        38
+      ],
+      "edge_valences": {
+        "3": 4,
+        "4": 19,
+        "5": 28
+      },
+      "obstruction": {
+        "vertices": [
+          3,
+          7,
+          10
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 1152,
+      "f_vector": [
+        13,
+        51,
+        76,
+        38
+      ],
+      "edge_valences": {
+        "3": 4,
+        "4": 19,
+        "5": 28
+      },
+      "obstruction": {
+        "vertices": [
+          3,
+          7,
+          10
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 1203,
+      "f_vector": [
+        13,
+        51,
+        76,
+        38
+      ],
+      "edge_valences": {
+        "3": 3,
+        "4": 21,
+        "5": 27
+      },
+      "obstruction": {
+        "vertices": [
+          4,
+          7,
+          9
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 1204,
+      "f_vector": [
+        13,
+        51,
+        76,
+        38
+      ],
+      "edge_valences": {
+        "3": 2,
+        "4": 23,
+        "5": 26
+      },
+      "obstruction": {
+        "vertices": [
+          4,
+          7,
+          9
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 1206,
+      "f_vector": [
+        13,
+        50,
+        74,
+        37
+      ],
+      "edge_valences": {
+        "3": 4,
+        "4": 20,
+        "5": 26
+      },
+      "obstruction": {
+        "vertices": [
+          4,
+          7,
+          9
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 1207,
+      "f_vector": [
+        13,
+        50,
+        74,
+        37
+      ],
+      "edge_valences": {
+        "3": 2,
+        "4": 24,
+        "5": 24
+      },
+      "obstruction": {
+        "vertices": [
+          4,
+          7,
+          9
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 1221,
+      "f_vector": [
+        13,
+        50,
+        74,
+        37
+      ],
+      "edge_valences": {
+        "3": 3,
+        "4": 22,
+        "5": 25
+      },
+      "obstruction": {
+        "vertices": [
+          4,
+          7,
+          9
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 1222,
+      "f_vector": [
+        13,
+        51,
+        76,
+        38
+      ],
+      "edge_valences": {
+        "3": 4,
+        "4": 19,
+        "5": 28
+      },
+      "obstruction": {
+        "vertices": [
+          4,
+          7,
+          9
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 1224,
+      "f_vector": [
+        13,
+        50,
+        74,
+        37
+      ],
+      "edge_valences": {
+        "3": 3,
+        "4": 22,
+        "5": 25
+      },
+      "obstruction": {
+        "vertices": [
+          4,
+          7,
+          9
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 1225,
+      "f_vector": [
+        13,
+        51,
+        76,
+        38
+      ],
+      "edge_valences": {
+        "3": 4,
+        "4": 19,
+        "5": 28
+      },
+      "obstruction": {
+        "vertices": [
+          4,
+          7,
+          9
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 1230,
+      "f_vector": [
+        13,
+        48,
+        70,
+        35
+      ],
+      "edge_valences": {
+        "3": 5,
+        "4": 20,
+        "5": 23
+      },
+      "obstruction": {
+        "vertices": [
+          4,
+          7,
+          9
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 1232,
+      "f_vector": [
+        13,
+        49,
+        72,
+        36
+      ],
+      "edge_valences": {
+        "3": 6,
+        "4": 17,
+        "5": 26
+      },
+      "obstruction": {
+        "vertices": [
+          3,
+          7,
+          10
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 1233,
+      "f_vector": [
+        13,
+        49,
+        72,
+        36
+      ],
+      "edge_valences": {
+        "3": 7,
+        "4": 15,
+        "5": 27
+      },
+      "obstruction": {
+        "vertices": [
+          3,
+          7,
+          10
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 1235,
+      "f_vector": [
+        13,
+        49,
+        72,
+        36
+      ],
+      "edge_valences": {
+        "3": 6,
+        "4": 17,
+        "5": 26
+      },
+      "obstruction": {
+        "vertices": [
+          4,
+          7,
+          9
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 1236,
+      "f_vector": [
+        13,
+        49,
+        72,
+        36
+      ],
+      "edge_valences": {
+        "3": 7,
+        "4": 15,
+        "5": 27
+      },
+      "obstruction": {
+        "vertices": [
+          4,
+          7,
+          9
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 1836,
+      "f_vector": [
+        13,
+        51,
+        76,
+        38
+      ],
+      "edge_valences": {
+        "3": 1,
+        "4": 25,
+        "5": 25
+      },
+      "obstruction": {
+        "vertices": [
+          3,
+          8,
+          11
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 1860,
+      "f_vector": [
+        13,
+        51,
+        76,
+        38
+      ],
+      "edge_valences": {
+        "3": 2,
+        "4": 23,
+        "5": 26
+      },
+      "obstruction": {
+        "vertices": [
+          5,
+          6,
+          9
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 1861,
+      "f_vector": [
+        13,
+        51,
+        76,
+        38
+      ],
+      "edge_valences": {
+        "3": 2,
+        "4": 23,
+        "5": 26
+      },
+      "obstruction": {
+        "vertices": [
+          5,
+          6,
+          9
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 1862,
+      "f_vector": [
+        13,
+        51,
+        76,
+        38
+      ],
+      "edge_valences": {
+        "3": 1,
+        "4": 25,
+        "5": 25
+      },
+      "obstruction": {
+        "vertices": [
+          5,
+          6,
+          9
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 1863,
+      "f_vector": [
+        13,
+        51,
+        76,
+        38
+      ],
+      "edge_valences": {
+        "3": 2,
+        "4": 23,
+        "5": 26
+      },
+      "obstruction": {
+        "vertices": [
+          5,
+          6,
+          9
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 1914,
+      "f_vector": [
+        13,
+        52,
+        78,
+        39
+      ],
+      "edge_valences": {
+        "3": 4,
+        "4": 18,
+        "5": 30
+      },
+      "obstruction": {
+        "vertices": [
+          3,
+          7,
+          11
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 2813,
+      "f_vector": [
+        13,
+        51,
+        76,
+        38
+      ],
+      "edge_valences": {
+        "4": 27,
+        "5": 24
+      },
+      "obstruction": {
+        "vertices": [
+          5,
+          6,
+          9
+        ],
+        "f_vector": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "euler": 3
+      }
+    },
+    {
+      "index": 3804,
+      "f_vector": [
+        13,
+        52,
+        78,
+        39
+      ],
+      "edge_valences": {
+        "4": 26,
+        "5": 26
+      },
+      "obstruction": {
+        "vertices": [
+          3,
+          5,
+          6,
+          7,
+          8,
+          10
+        ],
+        "f_vector": [
+          6,
+          9,
+          2,
+          0
+        ],
+        "euler": -1
+      }
+    }
+  ]
+}

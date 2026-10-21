@@ -1,0 +1,29 @@
+{
+  "cff-version": "1.2.0",
+  "message": "Prepared1.4.0 source supplement. Archive publication is pending; cite the exact canonical source commit until an exact version DOI is observed.",
+  "type": "software",
+  "title": "Residual-six derivative lemmas and conditional negative-quintic support bounds",
+  "version": "1.4.0",
+  "authors": [
+    {
+      "family-names": "Towell",
+      "given-names": "Alexander Richard",
+      "orcid": "https://orcid.org/0000-0001-6443-9897",
+      "affiliation": "Southern Illinois University Edwardsville"
+    }
+  ],
+  "license": [
+    "MIT",
+    "CC-BY-4.0"
+  ],
+  "abstract": "Written tripled-quartic, private-tip, three-free classification, C7endpoint, corethree-disk and puredisk proofs establish a conditional negativequintic unionbound12 at residualdefect<=6. Explicit inherited derivative/normalization premises remain; the whole Boolean pattern application has further unbundledgraphpremises. Standard-library controls corroborate mechanisms, not Boolean realizability. SubstantialAIassistance; globalproblemOPEN; nohumanpeerreview, formalverification ornovelty established.",
+  "repository-code": "https://github.com/queelius/boolean-degree-sensitivity",
+  "keywords": [
+    "Boolean functions",
+    "polynomial degree",
+    "sensitivity",
+    "sparse Fourier analysis",
+    "triangulated disks",
+    "exact verification"
+  ]
+}

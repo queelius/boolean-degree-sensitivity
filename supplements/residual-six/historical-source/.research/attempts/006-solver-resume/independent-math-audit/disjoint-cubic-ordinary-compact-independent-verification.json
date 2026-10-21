@@ -1,0 +1,1639 @@
+{
+  "status": "VERIFIED_ALL_DISJOINT_MINUS_MINUS_ORDINARY_AND_19_MIXED_CONTRADICTIONS",
+  "global_goal": "OPEN",
+  "authoritative_case_key": [
+    "root_index",
+    "second_pair",
+    "second_value"
+  ],
+  "scope": "Thirteen-coordinate ternary derivative with c1/2, unit values zero, binary quartics, all ordinary quadratics0/1, exactly two disjoint Fourier-pair exceptions -2/-2 or -2/+1.",
+  "complete_minus_minus_cases": 47,
+  "certified_mixed_cases": 19,
+  "unresolved_mixed_cases": [
+    [
+      0,
+      34,
+      1
+    ],
+    [
+      0,
+      96,
+      1
+    ],
+    [
+      0,
+      130,
+      1
+    ],
+    [
+      0,
+      160,
+      1
+    ],
+    [
+      0,
+      384,
+      1
+    ],
+    [
+      0,
+      1056,
+      1
+    ],
+    [
+      1,
+      48,
+      1
+    ],
+    [
+      1,
+      130,
+      1
+    ],
+    [
+      1,
+      132,
+      1
+    ],
+    [
+      1,
+      144,
+      1
+    ],
+    [
+      1,
+      192,
+      1
+    ],
+    [
+      1,
+      384,
+      1
+    ],
+    [
+      1,
+      2176,
+      1
+    ],
+    [
+      2,
+      24,
+      1
+    ],
+    [
+      2,
+      34,
+      1
+    ],
+    [
+      2,
+      36,
+      1
+    ],
+    [
+      2,
+      40,
+      1
+    ],
+    [
+      2,
+      130,
+      1
+    ],
+    [
+      2,
+      132,
+      1
+    ],
+    [
+      2,
+      136,
+      1
+    ],
+    [
+      2,
+      144,
+      1
+    ],
+    [
+      2,
+      160,
+      1
+    ],
+    [
+      2,
+      192,
+      1
+    ],
+    [
+      2,
+      384,
+      1
+    ],
+    [
+      2,
+      640,
+      1
+    ],
+    [
+      2,
+      768,
+      1
+    ],
+    [
+      2,
+      4128,
+      1
+    ],
+    [
+      2,
+      4224,
+      1
+    ]
+  ],
+  "cases": [
+    {
+      "root_index": 0,
+      "second_pair": 6,
+      "second_value": -2,
+      "full_rows": 15683,
+      "c1_full_row_sha256": "aec3f8494b9a8b692400928cc9833de5f4c9997d4c4257f9ad06c8b93336e002",
+      "compact_rows": 71,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 71,
+      "contradiction_interval": [
+        1,
+        1
+      ],
+      "allowed_interval": [
+        -1,
+        0
+      ]
+    },
+    {
+      "root_index": 0,
+      "second_pair": 10,
+      "second_value": -2,
+      "full_rows": 15683,
+      "c1_full_row_sha256": "ab8685ecaec10dd4b3e291af23a7c0a3c70368646f88b12373892aebce72a151",
+      "compact_rows": 80,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 80,
+      "contradiction_interval": [
+        1,
+        1
+      ],
+      "allowed_interval": [
+        -1,
+        0
+      ]
+    },
+    {
+      "root_index": 0,
+      "second_pair": 12,
+      "second_value": -2,
+      "full_rows": 15683,
+      "c1_full_row_sha256": "2b6c9782a33da4a382ae8bb86dc428700256e5a82d36f65d275fc2e51bf72e29",
+      "compact_rows": 81,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 81,
+      "contradiction_interval": [
+        1,
+        1
+      ],
+      "allowed_interval": [
+        -1,
+        0
+      ]
+    },
+    {
+      "root_index": 0,
+      "second_pair": 34,
+      "second_value": -2,
+      "full_rows": 15683,
+      "c1_full_row_sha256": "6e6d95a85382035c27550aac4f36756a4e5192d6334bcd735330d131681979a3",
+      "compact_rows": 71,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 71,
+      "contradiction_interval": [
+        1,
+        1
+      ],
+      "allowed_interval": [
+        -1,
+        0
+      ]
+    },
+    {
+      "root_index": 0,
+      "second_pair": 40,
+      "second_value": -2,
+      "full_rows": 15683,
+      "c1_full_row_sha256": "842940f2f4629d497421efbc1dd9bcc02b56f14cee7cc2722c3a0aa5a7c39fe0",
+      "compact_rows": 71,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 70,
+      "contradiction_interval": [
+        -12,
+        -6
+      ],
+      "allowed_interval": [
+        -5,
+        -3
+      ]
+    },
+    {
+      "root_index": 0,
+      "second_pair": 96,
+      "second_value": -2,
+      "full_rows": 15683,
+      "c1_full_row_sha256": "d26633d0fe7e94a31ceb5309f6c279aec9be593526e05fe3a98918a310d79d30",
+      "compact_rows": 71,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 71,
+      "contradiction_interval": [
+        1,
+        1
+      ],
+      "allowed_interval": [
+        -1,
+        0
+      ]
+    },
+    {
+      "root_index": 0,
+      "second_pair": 130,
+      "second_value": -2,
+      "full_rows": 15683,
+      "c1_full_row_sha256": "7057b6e3892cd511c61c62c89afdfe50ce995ab0660ffc51d915e3e770aa47c6",
+      "compact_rows": 71,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 71,
+      "contradiction_interval": [
+        1,
+        1
+      ],
+      "allowed_interval": [
+        -1,
+        0
+      ]
+    },
+    {
+      "root_index": 0,
+      "second_pair": 132,
+      "second_value": -2,
+      "full_rows": 15683,
+      "c1_full_row_sha256": "e4b733d16f4cb7d3cab6b67852281a7b91a15ce62720c4a1f7abad8efbf0bb70",
+      "compact_rows": 26,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 25,
+      "contradiction_interval": [
+        -7,
+        -5
+      ],
+      "allowed_interval": [
+        -4,
+        -2
+      ]
+    },
+    {
+      "root_index": 0,
+      "second_pair": 160,
+      "second_value": -2,
+      "full_rows": 15683,
+      "c1_full_row_sha256": "0ef7778d8cc7a659e1f76df7312087d5a250289e52f8bd491a649d347fe63c7d",
+      "compact_rows": 71,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 71,
+      "contradiction_interval": [
+        1,
+        1
+      ],
+      "allowed_interval": [
+        -1,
+        0
+      ]
+    },
+    {
+      "root_index": 0,
+      "second_pair": 384,
+      "second_value": -2,
+      "full_rows": 15683,
+      "c1_full_row_sha256": "e9fdc0058c4ba42807c39242ddedf755d829a6fd9fa4f4163b604d9840cde7eb",
+      "compact_rows": 66,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 65,
+      "contradiction_interval": [
+        -13,
+        -6
+      ],
+      "allowed_interval": [
+        -5,
+        -3
+      ]
+    },
+    {
+      "root_index": 0,
+      "second_pair": 1026,
+      "second_value": -2,
+      "full_rows": 15683,
+      "c1_full_row_sha256": "6843e137d828c5010d7ef9985366f6ea5d05fde49c5b180f3b4b8836a3b0b922",
+      "compact_rows": 71,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 71,
+      "contradiction_interval": [
+        1,
+        1
+      ],
+      "allowed_interval": [
+        -1,
+        0
+      ]
+    },
+    {
+      "root_index": 0,
+      "second_pair": 1056,
+      "second_value": -2,
+      "full_rows": 15683,
+      "c1_full_row_sha256": "55e28ad58411749145104956cef6dab2fe264ff2f1d0c98819c280132d6eaac2",
+      "compact_rows": 71,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 71,
+      "contradiction_interval": [
+        1,
+        1
+      ],
+      "allowed_interval": [
+        -1,
+        0
+      ]
+    },
+    {
+      "root_index": 0,
+      "second_pair": 1152,
+      "second_value": -2,
+      "full_rows": 15683,
+      "c1_full_row_sha256": "a77ea38d02242b16baa6050b5e9ed24f77667f86dfcf8740dd770ecf4b392b22",
+      "compact_rows": 71,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 71,
+      "contradiction_interval": [
+        1,
+        1
+      ],
+      "allowed_interval": [
+        -1,
+        0
+      ]
+    },
+    {
+      "root_index": 0,
+      "second_pair": 3072,
+      "second_value": -2,
+      "full_rows": 15683,
+      "c1_full_row_sha256": "86065c4d86071090c7924ccbe54ad70fcd11b5154a9d86255a47a08ad075d7cc",
+      "compact_rows": 71,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 71,
+      "contradiction_interval": [
+        1,
+        1
+      ],
+      "allowed_interval": [
+        -1,
+        0
+      ]
+    },
+    {
+      "root_index": 1,
+      "second_pair": 6,
+      "second_value": -2,
+      "full_rows": 15683,
+      "c1_full_row_sha256": "6a544050a7e13ed47c39626704a36ba5b051554f90a6b8506c50cc9a9e68c229",
+      "compact_rows": 61,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 60,
+      "contradiction_interval": [
+        0,
+        1
+      ],
+      "allowed_interval": [
+        -3,
+        -1
+      ]
+    },
+    {
+      "root_index": 1,
+      "second_pair": 18,
+      "second_value": -2,
+      "full_rows": 15683,
+      "c1_full_row_sha256": "296f7fb71329a15c9b628089d45c6f3fd11d4a6430b5ca4e16d173c09f80baf7",
+      "compact_rows": 61,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 60,
+      "contradiction_interval": [
+        0,
+        1
+      ],
+      "allowed_interval": [
+        -3,
+        -1
+      ]
+    },
+    {
+      "root_index": 1,
+      "second_pair": 20,
+      "second_value": -2,
+      "full_rows": 15683,
+      "c1_full_row_sha256": "aef67f0a6ce30262971cdde1cb8f644fc1ba448003649fd5640ccbe300112e1c",
+      "compact_rows": 61,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 60,
+      "contradiction_interval": [
+        0,
+        1
+      ],
+      "allowed_interval": [
+        -3,
+        -1
+      ]
+    },
+    {
+      "root_index": 1,
+      "second_pair": 48,
+      "second_value": -2,
+      "full_rows": 15683,
+      "c1_full_row_sha256": "33460c9aa959b348abd3fb45a7f834a1e37b14249e9bf7a83989e06059ceb5e1",
+      "compact_rows": 61,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 60,
+      "contradiction_interval": [
+        0,
+        1
+      ],
+      "allowed_interval": [
+        -3,
+        -1
+      ]
+    },
+    {
+      "root_index": 1,
+      "second_pair": 130,
+      "second_value": -2,
+      "full_rows": 15683,
+      "c1_full_row_sha256": "8aa37676be3651f12917a3b4609f139975a90b65b76bc3d2096986a198aebca6",
+      "compact_rows": 61,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 60,
+      "contradiction_interval": [
+        0,
+        1
+      ],
+      "allowed_interval": [
+        -3,
+        -1
+      ]
+    },
+    {
+      "root_index": 1,
+      "second_pair": 132,
+      "second_value": -2,
+      "full_rows": 15683,
+      "c1_full_row_sha256": "ec43bb01a2c7f6c29e999aca6a2106f8cf593c555c7321c284237fe100a07f28",
+      "compact_rows": 61,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 60,
+      "contradiction_interval": [
+        0,
+        1
+      ],
+      "allowed_interval": [
+        -3,
+        -1
+      ]
+    },
+    {
+      "root_index": 1,
+      "second_pair": 144,
+      "second_value": -2,
+      "full_rows": 15683,
+      "c1_full_row_sha256": "cc493267729c05a6308ea25347b00f155c73577219348187b2f980de06b428c1",
+      "compact_rows": 60,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 59,
+      "contradiction_interval": [
+        0,
+        1
+      ],
+      "allowed_interval": [
+        -3,
+        -1
+      ]
+    },
+    {
+      "root_index": 1,
+      "second_pair": 192,
+      "second_value": -2,
+      "full_rows": 15683,
+      "c1_full_row_sha256": "f1bd06c87cc817976d4434f2e43e890545674f045e7e8efd8cfc7c94221cb85e",
+      "compact_rows": 61,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 60,
+      "contradiction_interval": [
+        0,
+        1
+      ],
+      "allowed_interval": [
+        -3,
+        -1
+      ]
+    },
+    {
+      "root_index": 1,
+      "second_pair": 384,
+      "second_value": -2,
+      "full_rows": 15683,
+      "c1_full_row_sha256": "8f4c23623d42806c114698a04f5fab97f6b66374ff28816d1fdce6ceae264f93",
+      "compact_rows": 26,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 25,
+      "contradiction_interval": [
+        -7,
+        -5
+      ],
+      "allowed_interval": [
+        -4,
+        -2
+      ]
+    },
+    {
+      "root_index": 1,
+      "second_pair": 2050,
+      "second_value": -2,
+      "full_rows": 15683,
+      "c1_full_row_sha256": "891792d89793c12906be20e079e746248df4c26ac194a03ac5aeb4ed0ffbaca6",
+      "compact_rows": 61,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 60,
+      "contradiction_interval": [
+        0,
+        1
+      ],
+      "allowed_interval": [
+        -3,
+        -1
+      ]
+    },
+    {
+      "root_index": 1,
+      "second_pair": 2064,
+      "second_value": -2,
+      "full_rows": 15683,
+      "c1_full_row_sha256": "2e540b350eef69d7c0750e706ef446dc0267abf213b6f7e900ced3c26ed8a58c",
+      "compact_rows": 61,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 60,
+      "contradiction_interval": [
+        0,
+        1
+      ],
+      "allowed_interval": [
+        -3,
+        -1
+      ]
+    },
+    {
+      "root_index": 1,
+      "second_pair": 2176,
+      "second_value": -2,
+      "full_rows": 15683,
+      "c1_full_row_sha256": "34228e559ef2d97bf422c72d47aee6e5b1b59370f27497ed59c3b808e9a51dc9",
+      "compact_rows": 61,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 60,
+      "contradiction_interval": [
+        0,
+        1
+      ],
+      "allowed_interval": [
+        -3,
+        -1
+      ]
+    },
+    {
+      "root_index": 1,
+      "second_pair": 6144,
+      "second_value": -2,
+      "full_rows": 15683,
+      "c1_full_row_sha256": "e942a29899d7482b71ac1013a9616c371102b366f07a2b8c7d176c40b3b1adaf",
+      "compact_rows": 61,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 60,
+      "contradiction_interval": [
+        0,
+        1
+      ],
+      "allowed_interval": [
+        -3,
+        -1
+      ]
+    },
+    {
+      "root_index": 2,
+      "second_pair": 6,
+      "second_value": -2,
+      "full_rows": 15683,
+      "c1_full_row_sha256": "563d02d78e8c7e679befa55b46b209321dcbe57fad671c5ce7b49611693e7671",
+      "compact_rows": 98,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 97,
+      "contradiction_interval": [
+        5,
+        8
+      ],
+      "allowed_interval": [
+        9,
+        11
+      ]
+    },
+    {
+      "root_index": 2,
+      "second_pair": 10,
+      "second_value": -2,
+      "full_rows": 15683,
+      "c1_full_row_sha256": "20b2eb7646e5316f3c6db46b8be8d0c84614585f2e2c64c024400a7972026153",
+      "compact_rows": 98,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 97,
+      "contradiction_interval": [
+        5,
+        8
+      ],
+      "allowed_interval": [
+        9,
+        11
+      ]
+    },
+    {
+      "root_index": 2,
+      "second_pair": 24,
+      "second_value": -2,
+      "full_rows": 15683,
+      "c1_full_row_sha256": "f36fd7e836a84feb6b873479979d9460780ac73d3c2bc956c90a2680926bd0d4",
+      "compact_rows": 98,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 97,
+      "contradiction_interval": [
+        5,
+        8
+      ],
+      "allowed_interval": [
+        9,
+        11
+      ]
+    },
+    {
+      "root_index": 2,
+      "second_pair": 34,
+      "second_value": -2,
+      "full_rows": 15683,
+      "c1_full_row_sha256": "210192931ce960f428c65d026f6cf2e62da1312357cbb4fced9a4aa5ab263311",
+      "compact_rows": 98,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 97,
+      "contradiction_interval": [
+        5,
+        8
+      ],
+      "allowed_interval": [
+        9,
+        11
+      ]
+    },
+    {
+      "root_index": 2,
+      "second_pair": 36,
+      "second_value": -2,
+      "full_rows": 15683,
+      "c1_full_row_sha256": "b805021165cb9b8dd164adcf625ae4f5b951beead281861d73c994bc698adb97",
+      "compact_rows": 98,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 97,
+      "contradiction_interval": [
+        5,
+        8
+      ],
+      "allowed_interval": [
+        9,
+        11
+      ]
+    },
+    {
+      "root_index": 2,
+      "second_pair": 40,
+      "second_value": -2,
+      "full_rows": 15683,
+      "c1_full_row_sha256": "1e30202418fdcee5874d2fc0f8d99dc63490d27a31fe384aa6047b7e9fd08210",
+      "compact_rows": 98,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 97,
+      "contradiction_interval": [
+        5,
+        8
+      ],
+      "allowed_interval": [
+        9,
+        11
+      ]
+    },
+    {
+      "root_index": 2,
+      "second_pair": 96,
+      "second_value": -2,
+      "full_rows": 15683,
+      "c1_full_row_sha256": "1c9f824ba54fedccc6fb9001f87e3bd923fc2fcc20deacb5e77decd115fa7e37",
+      "compact_rows": 98,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 97,
+      "contradiction_interval": [
+        5,
+        8
+      ],
+      "allowed_interval": [
+        9,
+        11
+      ]
+    },
+    {
+      "root_index": 2,
+      "second_pair": 130,
+      "second_value": -2,
+      "full_rows": 15683,
+      "c1_full_row_sha256": "9740a7cb4daf39570923c2efb1d3668d232de38537b6de54497a6b606dee4af0",
+      "compact_rows": 98,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 97,
+      "contradiction_interval": [
+        5,
+        8
+      ],
+      "allowed_interval": [
+        9,
+        11
+      ]
+    },
+    {
+      "root_index": 2,
+      "second_pair": 132,
+      "second_value": -2,
+      "full_rows": 15683,
+      "c1_full_row_sha256": "a926a6b0522dae23c457301473fed6fbff7c4bbfdc73e2151b2d9a35ddb67c80",
+      "compact_rows": 46,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 47,
+      "contradiction_interval": [
+        1,
+        1
+      ],
+      "allowed_interval": [
+        -1,
+        0
+      ]
+    },
+    {
+      "root_index": 2,
+      "second_pair": 136,
+      "second_value": -2,
+      "full_rows": 15683,
+      "c1_full_row_sha256": "fb0441f19d6d08047899369a8ee5f809bfbaa341ad801e31c350356ac4e383f6",
+      "compact_rows": 40,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 41,
+      "contradiction_interval": [
+        1,
+        1
+      ],
+      "allowed_interval": [
+        -1,
+        0
+      ]
+    },
+    {
+      "root_index": 2,
+      "second_pair": 144,
+      "second_value": -2,
+      "full_rows": 15683,
+      "c1_full_row_sha256": "1b68e8a16c9ba6051232f3d1bf0944ae4a8f47ef1c652c1aa71c93224ef2615e",
+      "compact_rows": 98,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 97,
+      "contradiction_interval": [
+        5,
+        8
+      ],
+      "allowed_interval": [
+        9,
+        11
+      ]
+    },
+    {
+      "root_index": 2,
+      "second_pair": 160,
+      "second_value": -2,
+      "full_rows": 15683,
+      "c1_full_row_sha256": "3967cbee1d7055455629617e8746695b4db0f6d67ee10a312d9dd0eb49c604eb",
+      "compact_rows": 97,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 96,
+      "contradiction_interval": [
+        5,
+        8
+      ],
+      "allowed_interval": [
+        9,
+        11
+      ]
+    },
+    {
+      "root_index": 2,
+      "second_pair": 192,
+      "second_value": -2,
+      "full_rows": 15683,
+      "c1_full_row_sha256": "df908ac0767440c97f54d146a49326adf81dea2e63a69cc0b434ec8160221f03",
+      "compact_rows": 103,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 102,
+      "contradiction_interval": [
+        5,
+        8
+      ],
+      "allowed_interval": [
+        9,
+        11
+      ]
+    },
+    {
+      "root_index": 2,
+      "second_pair": 384,
+      "second_value": -2,
+      "full_rows": 15683,
+      "c1_full_row_sha256": "4465bb4cbd476b99c04717e0a2ce516cf62da3368368953d93ce21b88d161cb3",
+      "compact_rows": 26,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 25,
+      "contradiction_interval": [
+        -7,
+        -5
+      ],
+      "allowed_interval": [
+        -4,
+        -2
+      ]
+    },
+    {
+      "root_index": 2,
+      "second_pair": 640,
+      "second_value": -2,
+      "full_rows": 15683,
+      "c1_full_row_sha256": "ff449e1972d6f6096ca0743deb1b61f4a62997b7f8b996d6ab1a6d949b119ed4",
+      "compact_rows": 40,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 41,
+      "contradiction_interval": [
+        1,
+        1
+      ],
+      "allowed_interval": [
+        -1,
+        0
+      ]
+    },
+    {
+      "root_index": 2,
+      "second_pair": 768,
+      "second_value": -2,
+      "full_rows": 15683,
+      "c1_full_row_sha256": "2f30332e4b407c7f7bbb79a05cd5520a90dc53a025e8e9cb0e4a5fd9e798d877",
+      "compact_rows": 125,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 143,
+      "contradiction_interval": [
+        1,
+        3
+      ],
+      "allowed_interval": [
+        0,
+        0
+      ]
+    },
+    {
+      "root_index": 2,
+      "second_pair": 4098,
+      "second_value": -2,
+      "full_rows": 15683,
+      "c1_full_row_sha256": "7fa9acb8d42f3ec1a44256e26ad1d688604b2939f4126d91fdaaf164dd39dd47",
+      "compact_rows": 98,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 97,
+      "contradiction_interval": [
+        5,
+        8
+      ],
+      "allowed_interval": [
+        9,
+        11
+      ]
+    },
+    {
+      "root_index": 2,
+      "second_pair": 4104,
+      "second_value": -2,
+      "full_rows": 15683,
+      "c1_full_row_sha256": "0f9834b4d332f7e351c8410e3ed764812db6d5de158cecc8f6bfa5b7b3a20f99",
+      "compact_rows": 98,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 97,
+      "contradiction_interval": [
+        5,
+        8
+      ],
+      "allowed_interval": [
+        9,
+        11
+      ]
+    },
+    {
+      "root_index": 2,
+      "second_pair": 4128,
+      "second_value": -2,
+      "full_rows": 15683,
+      "c1_full_row_sha256": "34d8340cee67310fff665178dfe30f4983e6d6f419841152561a8e9923c6f465",
+      "compact_rows": 98,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 97,
+      "contradiction_interval": [
+        5,
+        8
+      ],
+      "allowed_interval": [
+        9,
+        11
+      ]
+    },
+    {
+      "root_index": 2,
+      "second_pair": 4224,
+      "second_value": -2,
+      "full_rows": 15683,
+      "c1_full_row_sha256": "38ed06c84329a2d11464dd27d1e0707f45ac8322ed3d6859fa86567da7a255d2",
+      "compact_rows": 98,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 97,
+      "contradiction_interval": [
+        5,
+        8
+      ],
+      "allowed_interval": [
+        9,
+        11
+      ]
+    },
+    {
+      "root_index": 0,
+      "second_pair": 6,
+      "second_value": 1,
+      "full_rows": 15243,
+      "c1_full_row_sha256": "871e972b1ba4aaef9a6203f6de88b3ab58eca325cdb4663f3f99c2a8fd354d14",
+      "compact_rows": 74,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 74,
+      "contradiction_interval": [
+        -25,
+        -7
+      ],
+      "allowed_interval": [
+        -6,
+        -4
+      ]
+    },
+    {
+      "root_index": 0,
+      "second_pair": 10,
+      "second_value": 1,
+      "full_rows": 15243,
+      "c1_full_row_sha256": "d81adaae2c8feb5f2a3d190262efa105635c91cdd2abc4f509f5bbf255cf71bd",
+      "compact_rows": 76,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 76,
+      "contradiction_interval": [
+        -11,
+        -6
+      ],
+      "allowed_interval": [
+        -5,
+        -3
+      ]
+    },
+    {
+      "root_index": 0,
+      "second_pair": 12,
+      "second_value": 1,
+      "full_rows": 15243,
+      "c1_full_row_sha256": "1952776ceb62c0905b4dec494bdb5ee9a7f2137a8d8d99fea9253e94b7a4239a",
+      "compact_rows": 53,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 54,
+      "contradiction_interval": [
+        1,
+        1
+      ],
+      "allowed_interval": [
+        -1,
+        0
+      ]
+    },
+    {
+      "root_index": 0,
+      "second_pair": 40,
+      "second_value": 1,
+      "full_rows": 15243,
+      "c1_full_row_sha256": "cdcc21891420e5beeb972b2919b7a9eda8acd5a82fe3b01d6107f796edc24545",
+      "compact_rows": 74,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 73,
+      "contradiction_interval": [
+        1,
+        1
+      ],
+      "allowed_interval": [
+        -1,
+        0
+      ]
+    },
+    {
+      "root_index": 0,
+      "second_pair": 132,
+      "second_value": 1,
+      "full_rows": 15243,
+      "c1_full_row_sha256": "62eb5485a48a7c3956c74d799d902792390745abec9db8b8a2731d80dc6829f1",
+      "compact_rows": 43,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 42,
+      "contradiction_interval": [
+        -6,
+        -5
+      ],
+      "allowed_interval": [
+        -4,
+        -2
+      ]
+    },
+    {
+      "root_index": 0,
+      "second_pair": 1026,
+      "second_value": 1,
+      "full_rows": 15243,
+      "c1_full_row_sha256": "d078a036e160011969d57312b774faf4e4e64d866cd02d24e4ec1b8099157201",
+      "compact_rows": 53,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 54,
+      "contradiction_interval": [
+        1,
+        1
+      ],
+      "allowed_interval": [
+        -1,
+        0
+      ]
+    },
+    {
+      "root_index": 0,
+      "second_pair": 1152,
+      "second_value": 1,
+      "full_rows": 15243,
+      "c1_full_row_sha256": "9d479b9cc20e392c79174e8c8901ae6f6607be5533dad99491071ae4d26dae75",
+      "compact_rows": 53,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 54,
+      "contradiction_interval": [
+        1,
+        1
+      ],
+      "allowed_interval": [
+        -1,
+        0
+      ]
+    },
+    {
+      "root_index": 0,
+      "second_pair": 3072,
+      "second_value": 1,
+      "full_rows": 15243,
+      "c1_full_row_sha256": "ebc8eac51a8fdd393dbe482714f7584d9c65f3eab72080f4a3e9fad1890972e1",
+      "compact_rows": 71,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 71,
+      "contradiction_interval": [
+        1,
+        1
+      ],
+      "allowed_interval": [
+        -1,
+        0
+      ]
+    },
+    {
+      "root_index": 1,
+      "second_pair": 6,
+      "second_value": 1,
+      "full_rows": 15243,
+      "c1_full_row_sha256": "aba07e588a23be4cf46dfe2fb90926255b0b6e3771d81117d7c9993f82cb152e",
+      "compact_rows": 61,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 60,
+      "contradiction_interval": [
+        0,
+        1
+      ],
+      "allowed_interval": [
+        -3,
+        -1
+      ]
+    },
+    {
+      "root_index": 1,
+      "second_pair": 18,
+      "second_value": 1,
+      "full_rows": 15243,
+      "c1_full_row_sha256": "fd6d8d58752bd76c087498b69cbd187b66f6e154b2dac34b084fe0d78793fd22",
+      "compact_rows": 53,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 54,
+      "contradiction_interval": [
+        1,
+        1
+      ],
+      "allowed_interval": [
+        -1,
+        0
+      ]
+    },
+    {
+      "root_index": 1,
+      "second_pair": 20,
+      "second_value": 1,
+      "full_rows": 15243,
+      "c1_full_row_sha256": "e64ba5b0fc45d15adec9b80c9768a23d29cee8472b7f05d1805de4198d86695c",
+      "compact_rows": 53,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 54,
+      "contradiction_interval": [
+        1,
+        1
+      ],
+      "allowed_interval": [
+        -1,
+        0
+      ]
+    },
+    {
+      "root_index": 1,
+      "second_pair": 2050,
+      "second_value": 1,
+      "full_rows": 15243,
+      "c1_full_row_sha256": "e56844e90047f3a9f8d674ed892444f70de675ebff3af329f49d5ad353f921e8",
+      "compact_rows": 61,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 60,
+      "contradiction_interval": [
+        0,
+        1
+      ],
+      "allowed_interval": [
+        -3,
+        -1
+      ]
+    },
+    {
+      "root_index": 1,
+      "second_pair": 2064,
+      "second_value": 1,
+      "full_rows": 15243,
+      "c1_full_row_sha256": "51a54a0efa3634a89732c8995ba4e09d5ff932a6f7a8677340267511c5344cec",
+      "compact_rows": 53,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 54,
+      "contradiction_interval": [
+        1,
+        1
+      ],
+      "allowed_interval": [
+        -1,
+        0
+      ]
+    },
+    {
+      "root_index": 1,
+      "second_pair": 6144,
+      "second_value": 1,
+      "full_rows": 15243,
+      "c1_full_row_sha256": "2070bcc04fcf38c2b357f39ff19ec1bd918c86f296dc97eb7b291f28d030e54e",
+      "compact_rows": 61,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 60,
+      "contradiction_interval": [
+        0,
+        1
+      ],
+      "allowed_interval": [
+        -3,
+        -1
+      ]
+    },
+    {
+      "root_index": 2,
+      "second_pair": 6,
+      "second_value": 1,
+      "full_rows": 15243,
+      "c1_full_row_sha256": "a7d0a72a6b56efabbff81211a8715cb2f9a86394fa77e8eb4a21a0438b39d63a",
+      "compact_rows": 81,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 80,
+      "contradiction_interval": [
+        5,
+        8
+      ],
+      "allowed_interval": [
+        9,
+        11
+      ]
+    },
+    {
+      "root_index": 2,
+      "second_pair": 10,
+      "second_value": 1,
+      "full_rows": 15243,
+      "c1_full_row_sha256": "6d143a119be6e4649967fd35ae6d592141ae02eacfdcd71c7dd32413b0322300",
+      "compact_rows": 94,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 95,
+      "contradiction_interval": [
+        1,
+        1
+      ],
+      "allowed_interval": [
+        -1,
+        0
+      ]
+    },
+    {
+      "root_index": 2,
+      "second_pair": 96,
+      "second_value": 1,
+      "full_rows": 15243,
+      "c1_full_row_sha256": "f58b2cb838707596dae9999eac116096a64199236cb0a59d03a0e56d8d6c7cd9",
+      "compact_rows": 71,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 71,
+      "contradiction_interval": [
+        1,
+        8
+      ],
+      "allowed_interval": [
+        9,
+        11
+      ]
+    },
+    {
+      "root_index": 2,
+      "second_pair": 4098,
+      "second_value": 1,
+      "full_rows": 15243,
+      "c1_full_row_sha256": "747f78c211169989aeec33ebde6afce046d1004a9157cbdaa8055da6ec193755",
+      "compact_rows": 81,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 80,
+      "contradiction_interval": [
+        5,
+        8
+      ],
+      "allowed_interval": [
+        9,
+        11
+      ]
+    },
+    {
+      "root_index": 2,
+      "second_pair": 4104,
+      "second_value": 1,
+      "full_rows": 15243,
+      "c1_full_row_sha256": "9f4165fea21a2850897e0f0a4cac7d1997a60f823ffbdfea35a44179032e800a",
+      "compact_rows": 94,
+      "constants_verified": [
+        1,
+        2
+      ],
+      "deductions": 95,
+      "contradiction_interval": [
+        1,
+        1
+      ],
+      "allowed_interval": [
+        -1,
+        0
+      ]
+    }
+  ],
+  "compact_rows": 4731,
+  "exact_deductions": 4721,
+  "selected_reason_counts": {
+    "downward": 215,
+    "root_link": 2633,
+    "induced_euler": 286,
+    "ordinary_edge_four_or_five": 641,
+    "ordinary_vertex_link_flag": 478,
+    "negative_endpoint_flag": 275,
+    "exceptional_edge_present": 20,
+    "triangle_two_tetrahedra": 162,
+    "vertex_link_order": 20,
+    "exceptional_edge_valence": 1
+  },
+  "constants_verified": [
+    1,
+    2
+  ],
+  "face_count_used": false,
+  "positive_endpoint_flag_assumed": false,
+  "symmetry_of_original_function_assumed": false,
+  "controls": {
+    "copied_proof_under_wrong_case_key": "REJECTED",
+    "altered_coefficient": "REJECTED",
+    "wrong_original_row_index": "REJECTED",
+    "missing_c2_coverage": "REJECTED",
+    "flipped_deduction": "REJECTED",
+    "missing_case": "REJECTED",
+    "duplicate_case": "REJECTED",
+    "positive_endpoint_falsely_declared_flag": "REJECTED"
+  },
+  "positive_and_range_negative_controls": [
+    {
+      "vertices": 8,
+      "edges": 24,
+      "tetrahedra": 16,
+      "geometric_rows": 902,
+      "ranged_rows": 1177,
+      "range_failures": {}
+    },
+    {
+      "vertices": 9,
+      "edges": 27,
+      "tetrahedra": 18,
+      "geometric_rows": 1007,
+      "ranged_rows": 1557,
+      "range_failures": {
+        "induced_euler": 4,
+        "no_independent_triple": 2
+      }
+    }
+  ],
+  "producer_imports": false,
+  "research_solver_used": false,
+  "seconds": 18.91886467600125,
+  "dependencies": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/independent-math-audit/verify_disjoint_cubic_compact.py",
+      "sha256": "2f319a248dc0664a176e2f2db4302591ae9cbbc66e2dd536bd169d3e32b4d9c6"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/independent-math-audit/verify_two_adjacent_negative_cubic.py",
+      "sha256": "6db23989679164111afdc5507ad08de8070a79ddf49311e054f94e2eb816a854"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/independent-math-audit/verify_two_mixed_cubic.py",
+      "sha256": "aaf58ec0ab75e6a55dec367d1958f4391f89919eac839c44445f8da59301b20f"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/independent-math-audit/disjoint-cubic-root-link-cover-independent-verification.json",
+      "sha256": "414f022a2e0c99e37014b935beb50a0d795a60934881092c3f869552c22c19d8"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/disjoint-cubic-ordinary-compact-proofs.json",
+      "sha256": "de71d4af214ec702391735981525d7c21fdae5b246acf1c090ffea427745fab6"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/disjoint-cubic-ordinary-full-interval-probe.json",
+      "sha256": "e1b2405fde137233d340621c18d1c134ffb0a96122901a4934a063b703bb1afe"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/disjoint-cubic-root-link-cover.json",
+      "sha256": "15f7fe1e9c0258afef6424afecd69c8ecf09d44ff654b0e73ea515e241bff26e"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/disjoint-cubic-local-reduction.md",
+      "sha256": "27773537a07cc205dcd54fa14c1ce51845a138a2194a842fcf8bf35f06e6c137"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/disjoint_cubic_complex.py",
+      "sha256": "2e262eca8030973b4bbde641526f00a620abcd8a9e38686cd0b91ff894e66961"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/compact_disjoint_cubic.py",
+      "sha256": "a202adfc91c4aa9e6d654e3fcdedf66276c38da5d4b15e4534577dd9e5fa8a2c"
+    }
+  ]
+}

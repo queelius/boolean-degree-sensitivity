@@ -165,3 +165,16 @@ Third-party notices are retained. See [LICENSE.md](LICENSE.md).
 ## Positive-obstruction locality graph supplement
 
 The [verified portable graph supplement](supplements/g124-positive-locality/README.md) proves the positive-locality lemma for free124-edge fourteen-vertex3-graphs, relative to the explicitly cited Markström–Talbot75-class count, and the minimum-six-repair corollary. Two distinct standard-library algorithms and literal75-graph data are included. The Boolean application has additional unbundled premises; the original existence problem remains open. The graph supplement is archived in exact version1.3.0, [10.5281/zenodo.23539867](https://doi.org/10.5281/zenodo.23539867). Four new files were fully downloaded anonymously and both verifiers reran from the public archive;56 retained entries passed predecessor-body rehash and successor MD5/size continuity. [The public receipt](verification/PUBLIC-ZENODO-v1.3.0.json) states this scope without claiming60 fresh downloads. Earlier versions and their original disclosure dates remain preserved.
+
+
+## Residual-six derivative and disk supplement
+
+The [residual-six supplement](supplements/residual-six/README.md) contains new
+written tripled-quartic/private-tip and disk lemmas, a three-free-coordinate
+classification, and a conditional support-union bound12 when residual Fourier
+defect is at most6. Its normalization and older local derivative classifications
+remain explicit inherited premises. The dependent whole-pattern application
+has further graph premises. A relative standard-library replay and failure
+controls are included. The fourteen-variable question remains open; no two-free
+extension, formal verification, human peer review or novelty is asserted here.
+Archival publication of this1.4.0 supplement is pending.

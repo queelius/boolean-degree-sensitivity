@@ -1,0 +1,127 @@
+{
+  "accepted_local_premises": [
+    {
+      "accepted_status": "ACCEPTED_UNIFORM_RESIDUAL_AT_MOST_TWO_DERIVATIVE_THEOREM",
+      "historical_certificate_or_catalog_replayed_here": false,
+      "reference": {
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/low-residual-derivative-complete-manifest.json",
+        "sha256": "813b9f1f4b7a90a01dd4f2e32922d5bac28d5380cb1761bd2a057402f3154ec3"
+      }
+    },
+    {
+      "accepted_status": "INDEPENDENTLY_ACCEPTED_LOCAL_THEOREMS",
+      "historical_certificate_or_catalog_replayed_here": false,
+      "reference": {
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/local-audits-cycle64-manifest.json",
+        "sha256": "430bdd2b07be5d3ffc85dd36dad92f06ce9f91c2d56b2eabc01e0f116b5f6dda"
+      }
+    },
+    {
+      "accepted_status": "ACCEPTED_INDEPENDENTLY_VERIFIED",
+      "historical_certificate_or_catalog_replayed_here": false,
+      "reference": {
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/two-exception-positive-quartic-special-edge-manifest.json",
+        "sha256": "b15a041cfd9928607362244290fc0818ce9dfe3ba82e628a89ad99b26a0d63d8"
+      }
+    },
+    {
+      "accepted_status": "INDEPENDENTLY_ACCEPTED_LOCAL_THEOREM",
+      "historical_certificate_or_catalog_replayed_here": false,
+      "reference": {
+        "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/two-adjacent-negative-cubic-accepted-manifest.json",
+        "sha256": "47a0c56e5d0f345d02d7a095dd6fb4de49a802935fe0d80cb2cfa8e42eb2b94b"
+      }
+    },
+    {
+      "accepted_status": "INDEPENDENTLY_ACCEPTED_LOCAL_THEOREM",
+      "historical_certificate_or_catalog_replayed_here": false,
+      "reference": {
+        "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/two-mixed-cubic-accepted-manifest.json",
+        "sha256": "de4f4eb792ee5da3c984ceb72ee214442de3ef7bad52b12bb92a5cd7a7375d79"
+      }
+    },
+    {
+      "accepted_status": "INDEPENDENTLY_ACCEPTED_COMPLETE_DISJOINT_ORDINARY_LOCAL_EXCLUSION",
+      "historical_certificate_or_catalog_replayed_here": false,
+      "reference": {
+        "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/two-disjoint-cubic-ordinary-accepted-manifest.json",
+        "sha256": "3645332fc57bf0c953717433f5e5e63a2e3b92971ca6c3e7755fd429d9af577a"
+      }
+    }
+  ],
+  "actual_boolean_function": false,
+  "canonical_ledgers_changed": false,
+  "conditional_connected_magnitude_311111_branch": {
+    "connected_johnson_four_union_upper_bound": 10,
+    "connected_support_classification_catalog_needed": false,
+    "contradiction_with_new_union_lower_bound": true,
+    "negative_cost": 22,
+    "remaining_cost": 6,
+    "supports": 6,
+    "whole_pattern_requires_separate_disconnected_branch_composition": true
+  },
+  "finite_control_scope": {
+    "actual_ternary_feasibility_search_performed": false,
+    "complete_proposed_global_allocation_rows_compared": 61,
+    "exact_global_allocations": 61,
+    "independent_four_coordinate_incidence_cases": 54411,
+    "no_function_realizability_claim_from_incidence_cover": true,
+    "producer_584_local_templates_replayed": false
+  },
+  "formal_verification": false,
+  "global_goal_complete": false,
+  "human_peer_review": false,
+  "independent_finite_controls": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/residual-six-independent-controls-cycle1386.json",
+    "sha256": "7c90d581b6fa6b17ddbb7856293b8399b58216918d57c29b0c2a726ac7400504"
+  },
+  "independent_reader": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/residual_six_independent_cycle1386.py",
+    "sha256": "70ef5f853b0ba64d8536a30325567d7de71b29096a263ca466ea78f76a291b7d"
+  },
+  "inherited_limitations": [
+    "Published complete small-valence manifold classification retained.",
+    "Accepted small-sphere coverage and finite certificate premises retained.",
+    "Historical classifications and certificate leaves were not replayed here."
+  ],
+  "mathematical_novelty_assessed": false,
+  "producer_manifest": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/residual6-cover-manifest-cycle1382.json",
+    "sha256": "9552d0bf34ba97b8a6ab5b10e2d2d4f759fc7cc853f7adccbbec8c07d5de3976"
+  },
+  "schema_version": 1,
+  "scope": {
+    "all_negative_quintics_fixed_before_residual_budget": true,
+    "all_singleton_and_pair_truths": 1,
+    "conclusion_negative_union_size_at_least": 11,
+    "f_origin": 0,
+    "global_goal_complete": false,
+    "n": 14,
+    "original_function_selfduality_assumed": false,
+    "real_degree_at_most": 5,
+    "representative": "selfdual_empty",
+    "residual_fourier_defect_at_most": 6,
+    "whole_pattern_excluded": false
+  },
+  "source": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/residual6-negative-union-theorem-cycle1382.md",
+    "sha256": "677297733b1df5fb132ab7752f4a5c613ac73c818ff293387212dd8a687fea6f"
+  },
+  "source_audit": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/residual-six-independent-source-audit-cycle1386.json",
+    "sha256": "86c07186380d34f19df9d35d3c3bd0c555ae125889830100374320bcf4d9410c"
+  },
+  "status": "INDEPENDENTLY_ACCEPTED_RESIDUAL6_NEGATIVE_UNION_AT_LEAST11",
+  "written_proof_review": {
+    "complete_coupled_allocation_argument": "ACCEPTED",
+    "every_new_old_theorem_use_has_constant_1_or_2": true,
+    "negative_quadratic_structural_constant_guard_retained": true,
+    "private_vertex_locality_and_surface_obstruction": "ACCEPTED",
+    "residual_four_global_theorem_used": false,
+    "tripled_quartic_parity_lemma": "ACCEPTED"
+  },
+  "written_review": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/residual-six-independent-review-cycle1386.md",
+    "sha256": "cfb8b6cd8262e6104119c73726753bc1020a11a2b09d241d725505ff1bee297c"
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "status": "PROPOSED_ELEMENTARY_DISK_I_GE3_WITH_SMALL_CONTROLS",
+  "observed_at": "2026-10-21T18:57:52.675129+00:00",
+  "proof": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/heptagon-disk-interiors-proof-cycle1399.md",
+    "sha256": "8d7f8b0061dd7eb1ffe3300b26523d18060c910b8b917e87b6dc32057efbf711"
+  },
+  "source": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/heptagon_disk_controls_cycle1399.py",
+    "sha256": "f31fbe391da1a4c5cada9092c5251e2d81321722013b0021431e5cf8f4cf9d2d"
+  },
+  "ear_controls": {
+    "orders_checked": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "counts": {
+      "3": 1,
+      "4": 2,
+      "5": 5,
+      "6": 14,
+      "7": 42
+    },
+    "rooted_base_checks": 414,
+    "scope": "Tiny controls of the general rooted-dual-tree ear lemma, not a complete target disk search."
+  },
+  "degree_count_controls": {
+    "I2_nonboundary_edges": 10,
+    "adjacent_no_chord_interior_degree_sum": 11,
+    "nonadjacent_cases": [
+      {
+        "chords": 0,
+        "cross_edges": 10
+      },
+      {
+        "chords": 1,
+        "cross_edges": 9
+      },
+      {
+        "chords": 2,
+        "cross_edges": 8
+      }
+    ],
+    "case_rejections_require_written_planar_disk_proof": true
+  },
+  "valid_hypothesis_countercontrols": {
+    "cone_I1": {
+      "boundary": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "interior": [
+        7
+      ],
+      "faces": [
+        131,
+        134,
+        140,
+        152,
+        176,
+        193,
+        224
+      ],
+      "vertices": 8,
+      "edges": 14,
+      "triangles": 7,
+      "Euler": 1,
+      "boundary_degrees": [
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "interior_degrees": [
+        7
+      ],
+      "all_target_guards": false,
+      "disk_validity_scope": "Connected compact triangular surface with one boundary cycle and chi1; hence a disk."
+    },
+    "one_chord_two_fans_I2": {
+      "boundary": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "interior": [
+        7,
+        8
+      ],
+      "faces": [
+        131,
+        134,
+        137,
+        140,
+        265,
+        280,
+        304,
+        321,
+        352
+      ],
+      "vertices": 9,
+      "edges": 17,
+      "triangles": 9,
+      "Euler": 1,
+      "boundary_degrees": [
+        5,
+        3,
+        3,
+        5,
+        3,
+        3,
+        3
+      ],
+      "interior_degrees": [
+        4,
+        5
+      ],
+      "all_target_guards": false,
+      "disk_validity_scope": "Connected compact triangular surface with one boundary cycle and chi1; hence a disk."
+    },
+    "two_chords_empty_middle_I2": {
+      "boundary": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "interior": [
+        7,
+        8
+      ],
+      "faces": [
+        25,
+        131,
+        134,
+        137,
+        140,
+        273,
+        304,
+        321,
+        352
+      ],
+      "vertices": 9,
+      "edges": 17,
+      "triangles": 9,
+      "Euler": 1,
+      "boundary_degrees": [
+        6,
+        3,
+        3,
+        4,
+        4,
+        3,
+        3
+      ],
+      "interior_degrees": [
+        4,
+        4
+      ],
+      "all_target_guards": false,
+      "disk_validity_scope": "Connected compact triangular surface with one boundary cycle and chi1; hence a disk."
+    },
+    "adjacent_centers_I2": {
+      "boundary": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "interior": [
+        7,
+        8
+      ],
+      "faces": [
+        131,
+        134,
+        140,
+        280,
+        304,
+        321,
+        352,
+        385,
+        392
+      ],
+      "vertices": 9,
+      "edges": 17,
+      "triangles": 9,
+      "Euler": 1,
+      "boundary_degrees": [
+        4,
+        3,
+        3,
+        4,
+        3,
+        3,
+        3
+      ],
+      "interior_degrees": [
+        5,
+        6
+      ],
+      "all_target_guards": false,
+      "disk_validity_scope": "Connected compact triangular surface with one boundary cycle and chi1; hence a disk."
+    }
+  },
+  "valid_all_guard_disk_constructed": false,
+  "target_sphere_catalog_filters": 0,
+  "target_feasibility_queries": 0,
+  "new_solver_runs": 0,
+  "canonical_updates": 0,
+  "whole_pattern_exclusions": 0,
+  "global_goal_complete": false,
+  "global_three_disk_application_not_a_premise": true,
+  "CPU_seconds": 0.014528641000000009
+}

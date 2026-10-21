@@ -1,0 +1,49 @@
+{
+  "status": "ACCEPTED_INDEPENDENTLY_VERIFIED",
+  "global_status": "UNRESOLVED",
+  "claim": "For a negative-free nonendpoint of the zero pair, singleton numerator<=3 and at most one incident cost-two nonsingleton exception are impossible. In particular global residual defect<=2 forces negative-support union together with the zero pair to cover all14 coordinates.",
+  "scope": "The new special-ordinary-coefficient-two cases are elementary. The combined transfer retains the previous ordinary-coefficient-one published manifold catalog and independently covered sphere/certificate dependencies.",
+  "nested_source_hashes_checked": 30,
+  "artifacts": [
+    {
+      "path": ".research/attempts/008-sparse-spectrum-proof/one-exception-special-edge-independent-audit.md",
+      "sha256": "cd7a90ee09ec73ca67c3eaed499987221364ac966f5be80d54d1b8b3eceab6bb"
+    },
+    {
+      "path": ".research/attempts/008-sparse-spectrum-proof/one-exception-special-edge-independent-verification.json",
+      "sha256": "0e11c20c282d046e5a250599342c2d2e7e433de51f320e21b6f5d98e21766fb2"
+    },
+    {
+      "path": ".research/attempts/008-sparse-spectrum-proof/special-edge-adjacent-minus-two-control-audit.md",
+      "sha256": "cdd1d1b5b26ad439d52be94b76eee44f1ab0df7e4532e04ebb940045628dcbfe"
+    },
+    {
+      "path": ".research/attempts/008-sparse-spectrum-proof/special-edge-adjacent-minus-two-controls.json",
+      "sha256": "2bcb68855f29c6fd1f11c327306d7763ac7c952e27e3bfe628d09f6b19f8f9c2"
+    },
+    {
+      "path": ".research/attempts/008-sparse-spectrum-proof/special-edge-adjacent-minus-two-manifest.json",
+      "sha256": "a852a8c2bb8ab383416d10d7e8090e32a9be2192831b0be664860615a7314c41"
+    },
+    {
+      "path": ".research/attempts/008-sparse-spectrum-proof/special-edge-adjacent-minus-two.md",
+      "sha256": "1ac62203a82bba00ab2090a99ca4ad6870fd4e1bd42a29da337beb515d05c46f"
+    },
+    {
+      "path": ".research/attempts/009-parent-analysis/baseline-special-edge-derivative-manifest.json",
+      "sha256": "9364f3a50c6bdae121810e0d6bbb9151d343f508d86ed807356be5a82defbb7c"
+    },
+    {
+      "path": ".research/attempts/009-parent-analysis/low-residual-derivative-complete-manifest.json",
+      "sha256": "813b9f1f4b7a90a01dd4f2e32922d5bac28d5380cb1761bd2a057402f3154ec3"
+    },
+    {
+      "path": ".research/attempts/009-parent-analysis/one-exception-special-edge-derivative.md",
+      "sha256": "b62cc8847aaa48d5ef18621b39549252cf6b5f7a18fb9853fe356a946536e193"
+    },
+    {
+      "path": ".research/attempts/009-parent-analysis/special-edge-adjacent-minus-two-parent-audit.md",
+      "sha256": "334b229b53749f0d414e78f9dfd4adb8f28251c4290d76ee80cd332825d272b8"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "baseline_pair_links": {
+    "accepted_by_edges": {
+      "0": 1,
+      "4": 45,
+      "5": 72
+    },
+    "six_vertex_graphs_tested": 4384
+  },
+  "chi1_degree345": [
+    [
+      0,
+      0,
+      6
+    ]
+  ],
+  "cpu_seconds": 0.912308524,
+  "global_goal_complete": false,
+  "global_manifold_classification_performed": false,
+  "heptagon": {
+    "diagonal_sets_tested": 1001,
+    "ear_histogram": {
+      "2": 28,
+      "3": 14
+    },
+    "minimum_ears": 2,
+    "triangulations": 42
+  },
+  "m0_sphere_candidate_degree_counts": [
+    [
+      1,
+      4,
+      1
+    ]
+  ],
+  "pentagon": {
+    "degree_sequences": [
+      {
+        "count": 60,
+        "degrees": [
+          3,
+          3,
+          4,
+          4,
+          5,
+          5
+        ]
+      }
+    ],
+    "labeled_universal_vertex_links": 12,
+    "surface_completions": 60,
+    "target_degree_sequence_count": 0,
+    "trials": 1440
+  },
+  "source": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/minus_three_links_independent_cycle1395.py",
+    "sha256": "dc499a80f13479f5fa1ec9bce36d21d881e2cbff21fe0c0baea6a2bfd753050a"
+  },
+  "status": "INDEPENDENT_ENDPOINT_LINK_SMALL_CONTROLS_PASS",
+  "target_derivative_search_performed": false
+}

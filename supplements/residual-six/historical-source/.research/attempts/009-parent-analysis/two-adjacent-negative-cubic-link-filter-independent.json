@@ -1,0 +1,400 @@
+{
+  "status": "INDEPENDENT_SPHERE_FILTER_AND_STRUCTURAL_AUDIT_PASS",
+  "global_status": "UNRESOLVED",
+  "scope": "Independent filter of previously accepted complete sphere catalogs. Interval row proofs still require separate independent replay.",
+  "link_types": [
+    {
+      "order": 8,
+      "index": 12,
+      "degree_vector": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        6,
+        6
+      ],
+      "exceptional_vertices": [
+        6,
+        7
+      ],
+      "face_masks": [
+        67,
+        76,
+        82,
+        88,
+        97,
+        100,
+        131,
+        140,
+        146,
+        152,
+        161,
+        164
+      ]
+    },
+    {
+      "order": 9,
+      "index": 32,
+      "degree_vector": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        6,
+        6
+      ],
+      "exceptional_vertices": [
+        7,
+        8
+      ],
+      "face_masks": [
+        35,
+        67,
+        148,
+        152,
+        162,
+        164,
+        194,
+        200,
+        276,
+        280,
+        289,
+        292,
+        321,
+        328
+      ]
+    },
+    {
+      "order": 10,
+      "index": 74,
+      "degree_vector": [
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6
+      ],
+      "exceptional_vertices": [
+        8,
+        9
+      ],
+      "face_masks": [
+        19,
+        44,
+        67,
+        140,
+        274,
+        296,
+        304,
+        322,
+        392,
+        448,
+        529,
+        548,
+        560,
+        577,
+        644,
+        704
+      ]
+    },
+    {
+      "order": 10,
+      "index": 75,
+      "degree_vector": [
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6
+      ],
+      "exceptional_vertices": [
+        8,
+        9
+      ],
+      "face_masks": [
+        74,
+        82,
+        112,
+        133,
+        161,
+        176,
+        266,
+        274,
+        388,
+        400,
+        517,
+        545,
+        584,
+        608,
+        772,
+        776
+      ]
+    },
+    {
+      "order": 10,
+      "index": 168,
+      "degree_vector": [
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6
+      ],
+      "exceptional_vertices": [
+        8,
+        9
+      ],
+      "face_masks": [
+        49,
+        50,
+        81,
+        162,
+        268,
+        289,
+        321,
+        324,
+        392,
+        416,
+        524,
+        530,
+        580,
+        592,
+        642,
+        648
+      ]
+    },
+    {
+      "order": 11,
+      "index": 499,
+      "degree_vector": [
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6
+      ],
+      "exceptional_vertices": [
+        9,
+        10
+      ],
+      "face_masks": [
+        164,
+        196,
+        208,
+        292,
+        296,
+        324,
+        515,
+        521,
+        530,
+        552,
+        656,
+        672,
+        1027,
+        1033,
+        1042,
+        1104,
+        1288,
+        1344
+      ]
+    },
+    {
+      "order": 11,
+      "index": 764,
+      "degree_vector": [
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6
+      ],
+      "exceptional_vertices": [
+        9,
+        10
+      ],
+      "face_masks": [
+        52,
+        74,
+        194,
+        292,
+        416,
+        448,
+        521,
+        522,
+        529,
+        560,
+        642,
+        672,
+        1033,
+        1041,
+        1044,
+        1096,
+        1284,
+        1344
+      ]
+    },
+    {
+      "order": 12,
+      "index": 2537,
+      "degree_vector": [
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6
+      ],
+      "exceptional_vertices": [
+        10,
+        11
+      ],
+      "face_masks": [
+        21,
+        42,
+        81,
+        162,
+        336,
+        672,
+        832,
+        896,
+        1034,
+        1036,
+        1044,
+        1154,
+        1296,
+        1408,
+        2053,
+        2060,
+        2088,
+        2113,
+        2592,
+        2624
+      ]
+    },
+    {
+      "order": 12,
+      "index": 5741,
+      "degree_vector": [
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6
+      ],
+      "exceptional_vertices": [
+        10,
+        11
+      ],
+      "face_masks": [
+        98,
+        100,
+        145,
+        152,
+        268,
+        280,
+        292,
+        524,
+        580,
+        648,
+        1041,
+        1058,
+        1296,
+        1312,
+        2114,
+        2177,
+        2624,
+        2688,
+        3073,
+        3074
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-06.json",
+      "sha256": "e02f1965d9c0e1e4d4ce0e95907b6af53af1e590d8fc32e4d10b95178798b9e9"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-07.json",
+      "sha256": "b6f27899b2b9830758119abb9f38d92705663852cbc1e54c56e5ffe7cda0aec7"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-08.json",
+      "sha256": "df2dd7cc5c4ba26a5dde0736c3ec8c6d9f33292dfdd66f067badb0d67ea0e879"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-09.json",
+      "sha256": "8c707c48b4daecbf613fa5d31152e5c0606206a9f8543a8a37dd60f955349eff"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-10.json",
+      "sha256": "0884454b75c491e2c47a14e9eea4e34752f24a0a3f59ddcf4b54ae5010bd690a"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-11.json",
+      "sha256": "120a8e03f8ca63a5432275be5ca65ec705062e2937a5e8b71eb401924b369ce2"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-12.json",
+      "sha256": "0f783e580e0555f85cf42ff460a947082d37e5699bdbf9feb4aa1da85150b04c"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/two-negative-cubic-ordinary-derivative.md",
+      "sha256": "e73a62e521f5514c55a8b732c2072efb01e3a0f65fbdea4b5c689ab7ecbe2a14"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/two_negative_cubic_complex.py",
+      "sha256": "da4395368f6b0d3790b0a362615f7aecbd5b7e07304626a181142137bfa054ba"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/two-adjacent-negative-cubic-structural-audit.md",
+      "sha256": "2cb774d0cc4b21cfde077038ca9fd5f64b63c2e4dff7b275cd65821ce1c4d9ca"
+    }
+  ]
+}

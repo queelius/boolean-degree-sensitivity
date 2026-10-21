@@ -1,0 +1,108 @@
+{
+  "status": "PASS",
+  "global_status": "UNRESOLVED",
+  "scope": "Single\u22122 quadratic Fourier exception is impossible for every c<=3 covered by the structural manifold lemma.",
+  "cases": [
+    {
+      "steps": 71,
+      "final_reason": "downward",
+      "final_interval": [
+        1,
+        1
+      ],
+      "final_allowed": [
+        -1,
+        0
+      ],
+      "link_order": 9,
+      "link_index": 22,
+      "rows": 71,
+      "row_reasons": [
+        "downward",
+        "induced_euler",
+        "ordinary_edge_four_or_five",
+        "ordinary_vertex_link_flag",
+        "root_link"
+      ],
+      "rows_sha256": "4b5cf88f9334029836487b94cbb3a317bb22c3ab767586da35bed34994e677e5"
+    },
+    {
+      "steps": 60,
+      "final_reason": "induced_euler",
+      "final_interval": [
+        0,
+        1
+      ],
+      "final_allowed": [
+        -3,
+        -1
+      ],
+      "link_order": 10,
+      "link_index": 185,
+      "rows": 61,
+      "row_reasons": [
+        "induced_euler",
+        "ordinary_edge_four_or_five",
+        "ordinary_vertex_link_flag",
+        "root_link"
+      ],
+      "rows_sha256": "848c7ca8cab46f0dcf3d9534c53cb0d2ab3b1aff5f5541124221634db27df60b"
+    },
+    {
+      "steps": 97,
+      "final_reason": "other_endpoint_small_sphere_degree",
+      "final_interval": [
+        5,
+        8
+      ],
+      "final_allowed": [
+        9,
+        11
+      ],
+      "link_order": 11,
+      "link_index": 762,
+      "rows": 98,
+      "row_reasons": [
+        "downward",
+        "induced_euler",
+        "ordinary_edge_four_or_five",
+        "ordinary_vertex_link_flag",
+        "other_endpoint_small_sphere_degree",
+        "root_link",
+        "triangle_two_tetrahedra"
+      ],
+      "rows_sha256": "7b42c8c243a4e8bef3dc72e1d048a4c0392d02a78ee675b1c8b938a8daee85e5"
+    }
+  ],
+  "total_rows": 230,
+  "total_deductions": 228,
+  "no_global_face_count_used": true,
+  "producer_imports": false,
+  "seconds": 10.078869424003642,
+  "sources": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/one-six-edge-compact-proofs.json",
+      "sha256": "16885890e8b3afbfb6fdc9f15dd3b1a66489405e96ccf360b4ca2ef0e922bc29"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/audit_one_six_edge_compact_proofs.py",
+      "sha256": "7fc6b050c887a84222e7feb82240dafadf8e130d4ee72742216cd390d8e150da"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/audit_one_six_edge_interval_proofs.py",
+      "sha256": "b042a9f66596b5f72daba47778c2966c548e16435725e64d30b75040e3a4133b"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/one-six-edge-interval-independent-verification.json",
+      "sha256": "d6f599da99da316ae706cbc6926636aa6ef856e6fec3ba7427782ac339307a27"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/one-six-edge-vertex-links-independent-verification.json",
+      "sha256": "dd75c4d0959dc3e54ff94f248154a22b9343ea9c19f2f9f772db20d3a54be1cf"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/one-negative-quadratic-derivative-independent-audit.md",
+      "sha256": "f9731af805e47e061ad8a8c6c8429ff13c50c8b6ab82d36d8b59a2ec0d7ffc48"
+    }
+  ]
+}

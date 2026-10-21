@@ -1,0 +1,18 @@
+{
+  "status": "INDEPENDENTLY_ACCEPTED_LOCAL_THEOREM",
+  "scope": "Adjacent mixed-sign pair exceptions in an ordinary derivative with constant1/2, plus the specified special ab coefficient-two placement.",
+  "root_links": 2,
+  "literal_rows": 132,
+  "exact_deductions": 131,
+  "files": {
+    ".research/attempts/006-solver-resume/two-mixed-cubic-derivative.md": "ee65ee15218069eaec4eb6fafdc968452ce21d87e5927bb286ee682c4f0a9e9b",
+    ".research/attempts/006-solver-resume/two_mixed_cubic_complex.py": "63b9b226a2b6179269ca90cc8dc0f394800df386905734ddec2b000c2d37e09a",
+    ".research/attempts/006-solver-resume/compact_two_mixed_cubic.py": "a3722dbd505769bb0233c20102ac69a3c4f044522cca9a4f853c4dd8feaa284f",
+    ".research/attempts/006-solver-resume/two-mixed-cubic-ordinary-interval-probe.json": "1555841911e063e89afd867e73eb3fd6e386725f4c4f05f06708c8f5e82fa433",
+    ".research/attempts/006-solver-resume/two-mixed-cubic-ordinary-compact-proofs.json": "cb86d8699f906bd850d50dfc93bcd1b8985a363c204ef0f899440122e88c1eee",
+    ".research/attempts/006-solver-resume/independent-math-audit/two-mixed-cubic-audit.md": "8aa30e739026c2e9900a63853e0c0e1fb760f5f2bb28fb9b6dab95bcebd4d25c",
+    ".research/attempts/006-solver-resume/independent-math-audit/two-mixed-cubic-independent-verification.json": "15ec69b56db1cacc90a5cbae8e369f0a9c5fee6f20b97d3ea4cd40bdd05a19a4",
+    ".research/attempts/006-solver-resume/independent-math-audit/verify_two_mixed_cubic.py": "aaf58ec0ab75e6a55dec367d1958f4391f89919eac839c44445f8da59301b20f"
+  },
+  "global_goal": "OPEN"
+}

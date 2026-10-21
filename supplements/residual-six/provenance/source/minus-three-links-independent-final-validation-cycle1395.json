@@ -1,0 +1,29 @@
+{
+  "authority": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/minus-three-links-independent-authority-cycle1395.json",
+    "sha256": "02706b0f91065e9bdec12a3f74e103f53603f8597d01e826154371f24e714c08"
+  },
+  "completed_mathematical_validation": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/minus-three-links-independent-validation-cycle1395.json",
+    "sha256": "4e4e08f03d5c9319b6e1817e535d3daa7d0435c4bc6b64f57fb353e1e14937ee"
+  },
+  "finalization_log": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/minus-three-links-independent-finalize-cycle1395.log",
+    "sha256": "934c1c200e5135056342ed6167e8b716cc6d9f15b11e84df418e8471b2bc241b"
+  },
+  "global_goal_complete": false,
+  "postrun_all_active_references_rehashed": true,
+  "status": "INDEPENDENT_MINUS3_ENDPOINT_REVIEW_FINAL_VALIDATION_PASS",
+  "superseded_metadata_receipts": [
+    {
+      "old_absolute_path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/minus-three-links-independent-manifest-cycle1395.json",
+      "old_sha256": "b86069eeb5a8aa23ef0d136c47f08a1f7d5e46a35372e38c6fe74fefad108a4b",
+      "reason": "Superseded: first manifest hashed its still-open finalizer stdout log before completion. Mathematical authority and unit validation were unaffected."
+    },
+    {
+      "old_absolute_path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/minus-three-links-independent-postwrite-cycle1395.json",
+      "old_sha256": "2d14bd3c6038147b24d7b529c72fe300218839872bc5c50aec5370ed5100108f",
+      "reason": "Superseded: first manifest hashed its still-open finalizer stdout log before completion. Mathematical authority and unit validation were unaffected."
+    }
+  ]
+}

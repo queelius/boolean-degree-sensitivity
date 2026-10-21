@@ -1,0 +1,29 @@
+{
+  "status": "ACCEPTED_INDEPENDENTLY_VERIFIED",
+  "global_status": "UNRESOLVED",
+  "claim": "A negative-free nonendpoint derivative with two cost-two exceptions including a doubled positive quartic is impossible for either ordinary zero-pair coefficient1 or2. Global residual defect<=4 therefore leaves at most2 negative-free nonendpoints; with a positive doubled quintic among the two exceptions it leaves none.",
+  "scope": "The new special-edge two-exception proof is elementary. Combined transfer retains the accepted one-exception predecessor dependencies. Literal support-family applications are separate.",
+  "independent_source_hashes_checked": 15,
+  "artifacts": [
+    {
+      "path": ".research/attempts/006-solver-resume/independent-math-audit/two-exception-special-edge-audit.md",
+      "sha256": "d79cfe9dd3732867a2efa970eee6aa5e2e4981a9f1c792a15182adf6387f0a15"
+    },
+    {
+      "path": ".research/attempts/006-solver-resume/independent-math-audit/two-exception-special-edge-independent-verification.json",
+      "sha256": "c960564db64093aeb28d2409efd4c5e8afdb8eb7cdd43738a27458f8b1229a38"
+    },
+    {
+      "path": ".research/attempts/009-parent-analysis/doubled-positive-quartic-derivative.md",
+      "sha256": "602fac80139058fef5bcf476fa2a4a7fd3fd2ed4462b35852b98c42c004f8c1b"
+    },
+    {
+      "path": ".research/attempts/009-parent-analysis/one-exception-special-edge-manifest.json",
+      "sha256": "af1cfe24049984dbe7a5d19fb09aa157b6d8007b7bdf203da512a362a58ded0e"
+    },
+    {
+      "path": ".research/attempts/009-parent-analysis/two-exception-positive-quartic-special-edge.md",
+      "sha256": "5dd72bba928bb856d48f8336b08cf950d3563fb760c2370180d14c7d7ff07cfa"
+    }
+  ]
+}

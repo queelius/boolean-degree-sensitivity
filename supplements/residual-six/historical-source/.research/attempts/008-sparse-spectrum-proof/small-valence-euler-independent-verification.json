@@ -1,0 +1,279 @@
+{
+  "status": "INDEPENDENT_INDUCED_EULER_EXCLUSION_PASSED",
+  "global_status": "UNRESOLVED",
+  "scope": "Conditional negative-free derivative obstruction for Fourier constant numerator at most3.",
+  "catalog_count": 4787,
+  "target_count": 9,
+  "target_survivors": 0,
+  "all_subset_evaluations": 73728,
+  "targets": [
+    {
+      "index": 394,
+      "f_vector": [
+        13,
+        51,
+        76,
+        38
+      ],
+      "witness": [
+        1,
+        9,
+        10
+      ],
+      "induced_f_vector": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "euler": 3,
+      "euler_histogram": {
+        "-1": 28,
+        "0": 1480,
+        "1": 6176,
+        "2": 504,
+        "3": 4
+      }
+    },
+    {
+      "index": 403,
+      "f_vector": [
+        13,
+        51,
+        76,
+        38
+      ],
+      "witness": [
+        1,
+        9,
+        10
+      ],
+      "induced_f_vector": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "euler": 3,
+      "euler_histogram": {
+        "-1": 26,
+        "0": 1486,
+        "1": 6170,
+        "2": 506,
+        "3": 4
+      }
+    },
+    {
+      "index": 408,
+      "f_vector": [
+        13,
+        50,
+        74,
+        37
+      ],
+      "witness": [
+        1,
+        9,
+        10
+      ],
+      "induced_f_vector": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "euler": 3,
+      "euler_histogram": {
+        "-1": 10,
+        "0": 1172,
+        "1": 6344,
+        "2": 652,
+        "3": 14
+      }
+    },
+    {
+      "index": 409,
+      "f_vector": [
+        13,
+        50,
+        74,
+        37
+      ],
+      "witness": [
+        1,
+        9,
+        10
+      ],
+      "induced_f_vector": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "euler": 3,
+      "euler_histogram": {
+        "-1": 16,
+        "0": 1154,
+        "1": 6362,
+        "2": 646,
+        "3": 14
+      }
+    },
+    {
+      "index": 434,
+      "f_vector": [
+        13,
+        50,
+        74,
+        37
+      ],
+      "witness": [
+        1,
+        9,
+        10
+      ],
+      "induced_f_vector": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "euler": 3,
+      "euler_histogram": {
+        "-1": 20,
+        "0": 1144,
+        "1": 6368,
+        "2": 648,
+        "3": 12
+      }
+    },
+    {
+      "index": 442,
+      "f_vector": [
+        13,
+        50,
+        74,
+        37
+      ],
+      "witness": [
+        1,
+        9,
+        10
+      ],
+      "induced_f_vector": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "euler": 3,
+      "euler_histogram": {
+        "-1": 16,
+        "0": 1160,
+        "1": 6344,
+        "2": 664,
+        "3": 8
+      }
+    },
+    {
+      "index": 444,
+      "f_vector": [
+        13,
+        49,
+        72,
+        36
+      ],
+      "witness": [
+        1,
+        9,
+        10
+      ],
+      "induced_f_vector": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "euler": 3,
+      "euler_histogram": {
+        "-1": 16,
+        "0": 832,
+        "1": 6496,
+        "2": 832,
+        "3": 16
+      }
+    },
+    {
+      "index": 2813,
+      "f_vector": [
+        13,
+        51,
+        76,
+        38
+      ],
+      "witness": [
+        5,
+        6,
+        9
+      ],
+      "induced_f_vector": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "euler": 3,
+      "euler_histogram": {
+        "-1": 36,
+        "0": 1456,
+        "1": 6200,
+        "2": 496,
+        "3": 4
+      }
+    },
+    {
+      "index": 3804,
+      "f_vector": [
+        13,
+        52,
+        78,
+        39
+      ],
+      "witness": [
+        3,
+        5,
+        6,
+        7,
+        8,
+        10
+      ],
+      "induced_f_vector": [
+        6,
+        9,
+        2,
+        0
+      ],
+      "euler": -1,
+      "euler_histogram": {
+        "-1": 52,
+        "0": 1796,
+        "1": 5980,
+        "2": 364
+      }
+    }
+  ],
+  "sources": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/manifolds_lex_d3_deg5.txt.gz",
+      "sha256": "41071b36a731396d5273c60748aea7937c876136684ac479971e87e27e2fbb59"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/audit_small_valence_euler.py",
+      "sha256": "8e608f6e5ba4e54c5071c2b8fa76f7f065d3d61bd6e879a12d7b00adc54e4c59"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/audit_small_valence_catalog.py",
+      "sha256": "6184b21506a7485e5be85ac86227b3235c17f4ffdd953018091c2736959aff7f"
+    }
+  ]
+}
