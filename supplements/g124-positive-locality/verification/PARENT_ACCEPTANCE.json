@@ -1,0 +1,12 @@
+{
+  "status": "PARENT_ACCEPTED_PORTABLE_GRAPH_LEMMA_AND_SIX_REPAIR_COROLLARY",
+  "observed_at": "2026-10-21T16:54:04.440153+00:00",
+  "historical_parent_gate_sha256": "9e846f3de40c7660847f1433bbcba2a26cf9bbc57ac8b431785271b9afc17ac3",
+  "normal_controls": 10,
+  "optimized_controls": 10,
+  "both_complete_stdlib_replays_passed": true,
+  "invoked_from_unrelated_cwd": true,
+  "dependent_Boolean_application_not_self_contained": true,
+  "original_Boolean_problem_solved": false,
+  "AI_review_not_human_peer_review": true
+}

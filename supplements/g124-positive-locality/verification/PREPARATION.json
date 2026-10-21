@@ -1,0 +1,69 @@
+{
+  "status": "PORTABLE_PREPARATION_REPLAY_PASSED_PENDING_PARENT_REVIEW",
+  "prepared_at": "2026-10-21T16:45:43.773385+00:00",
+  "stdlib_only_replays": 4,
+  "staged_engines": [
+    "union",
+    "quartet"
+  ],
+  "copied_unrelated_cwd_replays": [
+    {
+      "engine": "union",
+      "python_flags": [
+        "-S"
+      ],
+      "cwd": "unrelated filesystem root",
+      "exit_code": 0,
+      "status": "VERIFIED_RELATIVE_TO_EXTERNAL_CLASSIFICATION",
+      "CPU_seconds": 2.666398739,
+      "network_isolation_enforced": false
+    },
+    {
+      "engine": "quartet",
+      "python_flags": [
+        "-S"
+      ],
+      "cwd": "unrelated filesystem root",
+      "exit_code": 0,
+      "status": "VERIFIED_RELATIVE_TO_EXTERNAL_CLASSIFICATION",
+      "CPU_seconds": 0.984063182,
+      "network_isolation_enforced": false
+    }
+  ],
+  "controls_normal": 10,
+  "controls_optimized": 10,
+  "all253_free_five_vertex_graphs_against_literal_edge_restoration": true,
+  "certificate_record_tamper_variants": 8,
+  "maximum_positive_locality": 1,
+  "native_graphs": 75,
+  "positive_locality_incidents": 152,
+  "external_classification_reproved": false,
+  "coverage_controls_only": {
+    "covered_lines": 161,
+    "num_statements": 180,
+    "percent_covered": 90.08620689655173,
+    "percent_covered_display": "90",
+    "missing_lines": 19,
+    "excluded_lines": 0,
+    "percent_statements_covered": 89.44444444444444,
+    "percent_statements_covered_display": "89",
+    "num_branches": 52,
+    "num_partial_branches": 4,
+    "covered_branches": 48,
+    "missing_branches": 4,
+    "percent_branches_covered": 92.3076923076923,
+    "percent_branches_covered_display": "92"
+  },
+  "coverage_limit": "Full staged/copy CLI receipts separately execute completion paths not instrumented by this unit-control coverage run.",
+  "CFF_schema": "1.2.0 validated by cached cffconvert2.0.0 offline",
+  "JSON_files_parsed": 11,
+  "local_data_pins_valid": true,
+  "absolute_private_paths_or_credential_markers_found": false,
+  "existing_tracked_source_files_unchanged": true,
+  "source_baseline_head": "6c5f407879ea1f134f5bea7412d76ae00700ac2b",
+  "parent_packet_gate": "PENDING",
+  "human_review": false,
+  "formal_verification": false,
+  "original_Boolean_problem_solved": false,
+  "published": false
+}

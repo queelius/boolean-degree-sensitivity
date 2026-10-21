@@ -1,0 +1,24 @@
+{
+  "authors": [
+    "Klas Markström",
+    "John Talbot"
+  ],
+  "title": "On the density of 2-colourable 3-graphs in which any four points span at most two edges",
+  "journal": "Journal of Combinatorial Designs",
+  "year": 2010,
+  "volume": 18,
+  "issue": 2,
+  "pages": "105-114",
+  "doi": "10.1002/jcd.20223",
+  "author_manuscript_url": "http://abel.math.umu.se/~klasm/Uppsatser/2colturan.pdf",
+  "manuscript_date": "2008-10-03",
+  "figure": 1,
+  "manuscript_page": 4,
+  "vertices": 14,
+  "extremal_edges": 126,
+  "classes_at_124_edges": 75,
+  "scope": "Unrestricted K4-minus-free 3-graphs; NOT the 2-colourable Figure2 table.",
+  "classification_exhaustive_search_replayed_here": false,
+  "cached_primary_PDF_sha256": "794a97a2f399ab6bc4ad65115826a2363ddb226f5a49ef3aee6e44c546a9bf01",
+  "primary_PDF_redistributed": false
+}

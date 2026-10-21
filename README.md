@@ -151,3 +151,8 @@ review or by obtaining a DOI.
 
 Original code is MIT licensed; original notes and data are CC BY 4.0.
 Third-party notices are retained. See [LICENSE.md](LICENSE.md).
+
+
+## Positive-obstruction locality graph supplement
+
+The [verified portable graph supplement](supplements/g124-positive-locality/README.md) proves the positive-locality lemma for free124-edge fourteen-vertex3-graphs, relative to the explicitly cited Markström–Talbot75-class count, and the minimum-six-repair corollary. Two distinct standard-library algorithms and literal75-graph data are included. The Boolean application has additional unbundled premises; the original existence problem remains open. The supplement citation identifies the intended exact1.3.0 archive in the existing DOI family. Its public state and final publication receipts establish archival completion.

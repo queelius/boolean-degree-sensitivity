@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Cite this exact version for the graph lemma and minimum-six-repair corollary; the Boolean application has additional unbundled premises."
+type: software
+title: "Positive obstruction locality in free 124-edge 3-graphs"
+authors:
+  - family-names: Towell
+    given-names: Alexander Richard
+    orcid: "https://orcid.org/0000-0001-6443-9897"
+repository-code: "https://github.com/queelius/boolean-degree-sensitivity"
+abstract: "A relative finite proof over75 explicit fourteen-vertex graphs, two distinct portable verifiers, and the minimum-six-repair corollary. Completeness inherits Markstrom-Talbot Figure1. The Boolean existence question remains open."
+keywords:
+  - hypergraphs
+  - finite verification
+  - Boolean functions
+  - reproducibility
+license:
+  - MIT
+  - CC-BY-4.0
+
+doi: "10.5281/zenodo.23539867"
+version: "1.3.0"
+date-released: "2026-10-21"
+url: "https://doi.org/10.5281/zenodo.23539867"

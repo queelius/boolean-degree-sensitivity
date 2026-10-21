@@ -1,0 +1,15 @@
+test_actual_tuple_invariants_noninvolution (test_packet.PacketTests) ... ok
+test_all253_free_five_vertex_graphs_against_literal_restoration (test_packet.PacketTests) ... ok
+test_budget_is_incomplete_not_complete (test_packet.PacketTests) ... ok
+test_complete_inventory_scope_alias_and_omission (test_packet.PacketTests) ... ok
+test_copy_entrypoint_unrelated_cwd_stdlib_and_no_overwrite (test_packet.PacketTests) ... ok
+test_first_actual_graph_both_methods_exact_certificate (test_packet.PacketTests) ... ok
+test_graph_alias_duplicate_nonfree_and_wrong_vertex_count (test_packet.PacketTests) ... ok
+test_nonvacuous_counterexample_and_vacuous_exclusion (test_packet.PacketTests) ... ok
+test_path_escape_file_pin_and_manifest_omission (test_packet.PacketTests) ... ok
+test_record_mutations_rejected (test_packet.PacketTests) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 0.773s
+
+OK

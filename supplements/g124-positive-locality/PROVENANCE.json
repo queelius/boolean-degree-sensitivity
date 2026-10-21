@@ -1,0 +1,146 @@
+{
+  "schema_version": 1,
+  "author": {
+    "name": "Alexander Richard Towell",
+    "orcid": "0000-0001-6443-9897",
+    "affiliation": "Southern Illinois University Edwardsville"
+  },
+  "AI_assistance": "Substantial OpenAI Codex assistance in deductions, code, tests, verification and exposition; independent AI implementations are not human peer review.",
+  "classification_credit": "Klas Markström and John Talbot: unrestricted classification and count75; GLPK/nauty exhaustion not rerun.",
+  "older_project_credit": "The stronger locality bound and joint-restoration property predate this smaller-property certificate; no novelty established.",
+  "original_source_pins": [
+    {
+      "logical_id": "union-first-source",
+      "original_file_name": "positive_five_window_cycle1333.py",
+      "sha256": "b42b36618fe06b7b978691f5d880dfc599cb8db5c5efec1cc680a438c5d8e660",
+      "bytes": 6635,
+      "bundled": false
+    },
+    {
+      "logical_id": "quartet-first-source",
+      "original_file_name": "verify_positive_five_window_cycle1334.py",
+      "sha256": "7628ca5d229f4daefbb00244032811adc664dc875d40bd2df732c2fd5857cee9",
+      "bytes": 12519,
+      "bundled": false
+    },
+    {
+      "logical_id": "original-75-witness-catalog",
+      "original_file_name": "g14-size124-vertex-discovery.json",
+      "sha256": "244dc1e500ac6c0e003f1ca709714da229c6f5f62ab7e8c5a2f1241c3e8199cb",
+      "bytes": 559866,
+      "bundled": false
+    },
+    {
+      "logical_id": "original-positive-certificate",
+      "original_file_name": "g124-positive-five-window-certificate-cycle1333.json.gz",
+      "sha256": "ef112d170c50cab305e0936d93c4e2de42f0be236f4e6067aa6a9b958a009d4a",
+      "bytes": 63948,
+      "bundled": false
+    },
+    {
+      "logical_id": "historical-independent-1334-authority",
+      "original_file_name": "positive-five-window-reader-authority-cycle1334.json",
+      "sha256": "f23e9edafabf4394358d17af2699ff320eefc5036c39512b7af66a9393f9263c",
+      "bytes": 5045630,
+      "bundled": false
+    },
+    {
+      "logical_id": "historical-independent-1334-validation",
+      "original_file_name": "positive-five-window-reader-validation-cycle1334.json",
+      "sha256": "06e9714a12047976abc43f41e18ffa44b2b216405ad1bbe9b50d5a3a1b82354b",
+      "bytes": 5293,
+      "bundled": false
+    },
+    {
+      "logical_id": "historical-independent-1335-manifest",
+      "original_file_name": "two-region-locality-manifest-cycle1335.json",
+      "sha256": "914972ca85cd926a2ff70d2eadecf8f48c958a6a5e2aeacd62918e7c1bd308c1",
+      "bytes": 4442,
+      "bundled": false
+    },
+    {
+      "logical_id": "historical-independent-1335-written-review",
+      "original_file_name": "two-region-locality-independent-review-cycle1335.md",
+      "sha256": "0fbca64e9b302582f1bf6f34d91d3a4ab5a44b84dbd69ab3fdfb2ec3eb7b4622",
+      "bytes": 8997,
+      "bundled": false
+    },
+    {
+      "logical_id": "historical-independent-1335-root-binding",
+      "original_file_name": "two-region-locality-root-proof-supplement-cycle1335.md",
+      "sha256": "8315b497dacfd72e4df065e2d9630fe21bb0bc438fc6822934d7bb5536b6e28f",
+      "bytes": 3358,
+      "bundled": false
+    },
+    {
+      "logical_id": "accepted-local-restriction-1307-authority",
+      "original_file_name": "independent-magnitude3-restriction-authority-cycle1307.json",
+      "sha256": "df39bad3d5e27618a49ca7be9b4c3d9149d326e5723d67004a4314578a303cc1",
+      "bytes": 1854,
+      "bundled": false
+    },
+    {
+      "logical_id": "accepted-local-restriction-1307-replay",
+      "original_file_name": "independent-magnitude3-restriction-replay-cycle1307.json",
+      "sha256": "ba82678604b45f61b72e70ab84ce0ee5156f06e29247d9491b8b61051fd49ddd",
+      "bytes": 89057,
+      "bundled": false
+    },
+    {
+      "logical_id": "older-stronger-locality-note",
+      "original_file_name": "g14-size124-locality.md",
+      "sha256": "b791a49a6adda31f898cf5b97ab44f384608ee0e99cc2ed9fc83e07a5a813203",
+      "bytes": 4660,
+      "bundled": false
+    },
+    {
+      "logical_id": "older-stronger-locality-checker",
+      "original_file_name": "verify_g14_size124_catalog.py",
+      "sha256": "a6ff6db3ac7c410cce56c2a8fbd361baade3576b57cc09dcd0b419fb16f494a3",
+      "bytes": 5118,
+      "bundled": false
+    }
+  ],
+  "old_to_new_map": [
+    {
+      "old_logical_id": "union-first-source",
+      "new_path": "verify_union.py",
+      "transformation": "Selected immutable require/subsets/invariant/locality kernels retained; new relative IO/audit/CLI wrapper."
+    },
+    {
+      "old_logical_id": "quartet-first-source",
+      "new_path": "verify_quartet.py",
+      "transformation": "Independent quartet-first and edge-accumulated invariant kernels retained; source bindings made relative; explicit runtime guards remain active under optimization."
+    },
+    {
+      "old_logical_id": "original-75-witness-catalog",
+      "new_path": "data/catalog.json.gz",
+      "transformation": "All75 literal graph rows and original order retained exactly; discovery logs and machine paths omitted."
+    },
+    {
+      "old_logical_id": "original-positive-certificate",
+      "new_path": "data/certificate.json.gz",
+      "transformation": "Every mathematical record retained exactly; machine paths, implementation bindings, historical time/cpu metadata replaced by portable schema and separate provenance."
+    }
+  ],
+  "prepared_locally_on": "2026-10-21",
+  "first_public_disclosure": {
+    "tracked_separately": "Owning-project verification/PUBLIC-G124-SOURCE.json",
+    "meaning": "Exact source commit and first anonymous observation are recorded after push; local preparation is not public disclosure."
+  },
+  "archive_publication": {
+    "version": "1.3.0",
+    "doi": "10.5281/zenodo.23539867",
+    "completion_evidence": "Owning-project verification/PUBLIC-ZENODO-v1.3.0.json",
+    "meaning": "A reserved DOI is not publication; consult the completed public record and receipt."
+  },
+  "independent_portable_packaging_review": "ACCEPTED_PARENT_GATE_CYCLE1348",
+  "human_peer_review": false,
+  "proof_assistant_formalization": false,
+  "novelty": "not established",
+  "graph_lemma_scope": "Complete relative to the cited published75-class count.",
+  "Boolean_application_dependencies_fully_bundled": false,
+  "original_Boolean_problem_solved": false,
+  "parent_gate_sha256": "9e846f3de40c7660847f1433bbcba2a26cf9bbc57ac8b431785271b9afc17ac3",
+  "preparation_manifest_sha256": "743a03b5cd5856d7f2d3c44eb420aa1204274a4dfe697d8adb4f854851b60ded"
+}

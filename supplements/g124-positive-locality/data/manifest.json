@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "files": [
+    {
+      "path": "data/catalog.json.gz",
+      "sha256": "4e791d62cdc6075a94f3f413437d87e02bcf34fb24fb636fe6027cf034c454cd",
+      "bytes": 1704
+    },
+    {
+      "path": "data/certificate.json.gz",
+      "sha256": "3c7de2faced8f504eef9bbce914826c066987c1827fc32f17adad28b48e387e9",
+      "bytes": 63317
+    },
+    {
+      "path": "data/external-classification.json",
+      "sha256": "91b95cec80e1a7bc48fc5d7f31b0c269f7304307d73449de8e18d3881f57d654",
+      "bytes": 828
+    }
+  ]
+}
