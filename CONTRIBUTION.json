@@ -179,6 +179,68 @@
         "proof_notes_data": "CC-BY-4.0"
       },
       "attribution": "Alexander Richard Towell, with substantial OpenAI Codex assistance; Fourier/Mobius and graph-parity techniques and earlier project work retain credit. No novelty or human review established."
+    },
+    {
+      "id": "singleton-ell3-classification",
+      "title": "A complete finite cover for three-exceptional constant-one singleton components",
+      "claim": "Every ten-coordinate component under THEOREM.md hypotheses is a coordinate image of one of17 listed families; all19112 necessary quartet-selection instances are exhausted. This is a complete cover, not a minimal orbit count.",
+      "scope": {
+        "component_variables": 10,
+        "constant": 1,
+        "exceptional_singleton_inputs": 3,
+        "negative_pairs": 8,
+        "positive_quartics": 7,
+        "constant_two_classification": false,
+        "actual_fourteen_variable_boolean_function": false,
+        "global_existence_question_solved": false,
+        "minimal_orbit_count_claimed": false
+      },
+      "source": {
+        "repository": "https://github.com/queelius/boolean-degree-sensitivity",
+        "commit": "54644197be81024d1cfd18f74235a093cbcaf3a4",
+        "packet": "https://github.com/queelius/boolean-degree-sensitivity/tree/54644197be81024d1cfd18f74235a093cbcaf3a4/supplements/singleton-ell3-classification",
+        "theorem": "https://github.com/queelius/boolean-degree-sensitivity/blob/54644197be81024d1cfd18f74235a093cbcaf3a4/supplements/singleton-ell3-classification/THEOREM.md",
+        "manifest": "https://github.com/queelius/boolean-degree-sensitivity/blob/54644197be81024d1cfd18f74235a093cbcaf3a4/supplements/singleton-ell3-classification/MANIFEST.json"
+      },
+      "public_disclosure": {
+        "date": "2026-10-21",
+        "observed_at": "2026-10-21T13:42:59.568173+00:00",
+        "url": "https://github.com/queelius/boolean-degree-sensitivity/tree/54644197be81024d1cfd18f74235a093cbcaf3a4/supplements/singleton-ell3-classification",
+        "meaning": "All41 changed source files verified without authentication; no earlier public disclosure claimed."
+      },
+      "verification": {
+        "written_rank_and_graph_reduction": true,
+        "literal_augmentation_maps": 10720,
+        "uncolored_frame_links": 329,
+        "marked_transports": 39480,
+        "selection_instances_exhausted": 19112,
+        "literal_covering_families": 17,
+        "source_cover_occurrences": 53,
+        "cube_inputs_per_family": 1024,
+        "fourier_coefficients_per_family": 1024,
+        "portable_controls_normal": 11,
+        "portable_controls_optimized": 11,
+        "root_unrelated_copy_replay": true,
+        "standard_library_only": true,
+        "network_isolation_enforced": false,
+        "independent_historical_quota_enumeration": true,
+        "human_peer_review": false,
+        "formal_verification": false,
+        "public_download_receipt": "SINGLETON-ELL3-SOURCE.json"
+      },
+      "publication": {
+        "state": "public_source_exact_commit_citable_archive_pending",
+        "version_doi": null,
+        "existing_v1_1_doi_does_not_archive_this_supplement": true,
+        "candidate_existing_concept_doi": "10.5281/zenodo.23496541",
+        "journal_submission": null,
+        "preprint_server_submission": null
+      },
+      "license": {
+        "code": "MIT",
+        "proof_notes_data": "CC-BY-4.0"
+      },
+      "attribution": "Alexander Richard Towell, with substantial OpenAI Codex assistance. Predecessors and standard incidence, binary rank and graph techniques retain credit; novelty, human review and formal verification are not established."
     }
   ]
 }
