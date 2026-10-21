@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "state": "LOCAL_STAGING",
+  "state": "DOI_RESERVED",
   "title": "Residual-six derivative lemmas and conditional negative-quintic support bounds",
   "version": "1.4.0",
   "prepared_on": "2026-10-21",
@@ -11,22 +11,44 @@
   "predecessor_version_doi": "10.5281/zenodo.23539867",
   "predecessor_archives_this_new_proof": false,
   "archive": {
-    "doi": null,
-    "reserved_on": null,
-    "reservation_evidence": null,
+    "doi": "10.5281/zenodo.23544931",
+    "reserved_on": "2026-10-21",
+    "reservation_evidence": "https://zenodo.org/deposit/23544931",
     "published_on": null,
     "publication_evidence": null
   },
   "source_disclosure": {
-    "commit": null,
-    "url": null,
-    "observed_on": null,
-    "evidence": null
+    "commit": "d72f92fe876e95e2f31fbafbce8b80992b977aa8",
+    "url": "https://github.com/queelius/boolean-degree-sensitivity/tree/d72f92fe876e95e2f31fbafbce8b80992b977aa8/supplements/residual-six",
+    "observed_on": "2026-10-21",
+    "evidence": "https://github.com/queelius/boolean-degree-sensitivity/commit/d72f92fe876e95e2f31fbafbce8b80992b977aa8"
   },
   "old_disclosure_dates_preserved": "See retained predecessor archive/source receipts; dates here apply only to new1.4source/archive events.",
   "external_event_truth_established_by_this_consistency_validator": false,
   "pending_parent_independent_packaging_gate": false,
-  "external_operations_performed": false,
+  "external_operations_performed": true,
   "archive_built": false,
-  "publication_preparation_note": "This snapshot precedes its public source observation and DOI reservation. Actual events are recorded separately and incorporated in a successor metadata snapshot."
+  "publication_preparation_note": "Reservation-stage metadata snapshot after independently accepted copied packaging and observed public mathematical source. A same-family successor DOI is reserved; archive construction, uploads, publication and public archive verification remain separate future steps. Inherited mathematical premises remain unbundled as stated; no global solution is claimed.",
+  "source_disclosure_observation": {
+    "observed_at": "2026-10-21T20:00:04.933829+00:00",
+    "anonymous_public_files_verified": 182,
+    "receipt_sha256": "00842b1c2bf06c8a8c33d59345f2d1ba78f240b054eec50c65908c102b73979c",
+    "source_packet_manifest_at_disclosure_sha256": "3aa4252e32137de66d8e3553fcde85b24bb9bb2cf3fa0bb1715bd5566058157d"
+  },
+  "reservation_observation": {
+    "observed_at": "2026-10-21T20:19:03.810978+00:00",
+    "deposition_id": 23544931,
+    "concept_record": "23496541",
+    "receipt_sha256": "fab5a5efafeb9877d0d5a95618729df4dfa0b519d8633fa7149ddf36967ac569",
+    "evidence_kind": "AUTHENTICATED_GET_AND_READ_ONLY_RECONCILIATION_SANITIZED_RECEIPT",
+    "draft_is_not_publication": true,
+    "reservation_evidence_is_not_anonymous_public_record_verification": true,
+    "all60_inherited_filenames_MD5_sizes_equal": true,
+    "no_fresh60body_download_claim": true,
+    "newversion_POST_attempts": 1,
+    "POST_repeated": false,
+    "new_assets_uploaded": 0,
+    "published": false,
+    "inherited_draft_metadata_version": null
+  }
 }

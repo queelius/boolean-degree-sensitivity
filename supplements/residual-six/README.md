@@ -1,11 +1,19 @@
 # Residual-six derivative lemmas and conditional support bounds
 
-Prepared source supplement **1.4.0** for
-<https://github.com/queelius/boolean-degree-sensitivity>. Archival publication
-is pending. No new version DOI is assigned in this metadata snapshot. The
-predecessor1.3.0 archive, <https://doi.org/10.5281/zenodo.23539867>, does not
-archive these new proofs. The existing concept family is
-<https://doi.org/10.5281/zenodo.23496541>.
+Source supplement **1.4.0** for
+<https://github.com/queelius/boolean-degree-sensitivity>. Its mathematical source
+was publicly observed on21 October2026 at20:00:04UTC, at
+[commit `d72f92f`](https://github.com/queelius/boolean-degree-sensitivity/tree/d72f92fe876e95e2f31fbafbce8b80992b977aa8/supplements/residual-six).
+The same-family successor draft23544931 has reserved DOI
+**10.5281/zenodo.23544931**. This is a reservation-stage metadata snapshot: the DOI reservation
+is **not archival publication**, and no new archive has been published.
+The current published predecessor1.3.0,
+<https://doi.org/10.5281/zenodo.23539867>, does not archive these new proofs.
+The existing concept family is <https://doi.org/10.5281/zenodo.23496541>.
+Until the archive is published and independently downloaded, cite the exact
+public source commit. [PUBLICATION-PLAN.json](PUBLICATION-PLAN.json) records
+separate source-disclosure and authenticated reservation observations; its
+consistency check does not establish the truth of an external event.
 
 Alexander Richard Towell, SIUE, ORCID
 [0000-0001-6443-9897](https://orcid.org/0000-0001-6443-9897), is the author.
@@ -59,7 +67,7 @@ their original scope; PREPARATION-cycle1408.json records this successor's checks
 Original code is MIT; original notes/data are CC-BY 4.0. See
 [LICENSE.md](LICENSE.md), [PROVENANCE.json](PROVENANCE.json) and
 [RETRIEVAL.md](RETRIEVAL.md). Third-party PDF/dataset bodies are excluded.
-A future DOI would supply an archival citation, not correctness or peer review.
+The reserved DOI would supply an archival citation after publication; it does not establish correctness, novelty or peer review.
 
 The [independent copied-packet review](verification/INDEPENDENT-PACKAGING-REVIEW.md)
 accepted the conditional claim boundaries and fresh isolated normal/optimized

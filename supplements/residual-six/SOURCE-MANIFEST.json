@@ -9,8 +9,8 @@
     },
     {
       "path": "CITATION.cff",
-      "bytes": 1372,
-      "sha256": "c5e0cabddc66e2d5ef36bce8a63b6ad6b4e4a400cfa623d5de6a10b0040d7cc0"
+      "bytes": 1722,
+      "sha256": "e137ef17aa3a6517050fd3a5e2eb611efc815e86f3d266ae1e41f8e04fd907f2"
     },
     {
       "path": "CLAIMS.json",
@@ -54,13 +54,13 @@
     },
     {
       "path": "PUBLICATION-PLAN.json",
-      "bytes": 1320,
-      "sha256": "b32c0875a06b7957fe8385d8dcfd696ed575a23f2e6efbb62b774c8a51ee2247"
+      "bytes": 2906,
+      "sha256": "f361aa6f865cc562cf1f3a73a719fd54fed0543d65d28243eb685ccca6fc4028"
     },
     {
       "path": "README.md",
-      "bytes": 4194,
-      "sha256": "41479ad58456179eb4cc5ad373992e7575383e9df13fd3f7856ccd2e0b432360"
+      "bytes": 4903,
+      "sha256": "ed4bb304132a1b7a8ae468c36fb26c8dd4128cc42bcf68e62fcc7fb2f92fb55e"
     },
     {
       "path": "REFERENCES.bib",

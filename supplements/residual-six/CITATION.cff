@@ -1,6 +1,6 @@
 {
   "cff-version": "1.2.0",
-  "message": "Prepared1.4.0 source supplement. Archive publication is pending; cite the exact canonical source commit until an exact version DOI is observed.",
+  "message": "Version1.4.0 DOI 10.5281/zenodo.23544931 is RESERVED, not published. Cite the exact public mathematical source commit d72f92fe876e95e2f31fbafbce8b80992b977aa8 until archival publication is separately verified. The predecessor1.3.0 does not archive this new proof.",
   "type": "software",
   "title": "Residual-six derivative lemmas and conditional negative-quintic support bounds",
   "version": "1.4.0",
@@ -25,5 +25,8 @@
     "sparse Fourier analysis",
     "triangulated disks",
     "exact verification"
-  ]
+  ],
+  "doi": "10.5281/zenodo.23544931",
+  "commit": "d72f92fe876e95e2f31fbafbce8b80992b977aa8",
+  "url": "https://github.com/queelius/boolean-degree-sensitivity/tree/d72f92fe876e95e2f31fbafbce8b80992b977aa8/supplements/residual-six"
 }
