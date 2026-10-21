@@ -1,0 +1,14 @@
+{
+  "status": "PUBLIC_SOURCE_EDITION_REVIEW_PASSED",
+  "observed_at": "2026-10-21T11:35:14.360284+00:00",
+  "unchanged_existing_controls_passed": 138,
+  "supplement_controls_passed": 12,
+  "citation_schema": "CFF1.2.0 validated with cffconvert2.0.0",
+  "public_edition_changes": "Publication status and root review documentation; QA path normalized; mathematical argument unchanged.",
+  "unchanged_executable_catalog_and_tests": true,
+  "human_peer_review": false,
+  "formal_verification": false,
+  "novelty_established": false,
+  "new_doi_assigned": false,
+  "global_problem_status": "OPEN"
+}

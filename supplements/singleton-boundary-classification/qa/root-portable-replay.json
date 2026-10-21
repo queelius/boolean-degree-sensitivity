@@ -1,0 +1,30 @@
+{
+  "status": "ROOT_PORTABLE_COPY_SOURCE_HASH_UNIT_AND_COMPLETE_CATALOG_REPLAY_PASSED",
+  "observed_at": "2026-10-21T11:25:04.012499+00:00",
+  "copied_files": 21,
+  "original_pythonpath_removed": true,
+  "original_source_imports_required": false,
+  "network_calls_required": false,
+  "network_isolation_enforced": false,
+  "catalog_reproduced_byte_identically": true,
+  "verification_mathematical_fields_identical": true,
+  "forms_checked": 30240,
+  "cube_values_checked": 30965760,
+  "walsh_coefficients_checked": 30965760,
+  "root_written_proof_review": "Incidence exhaustion and parity/bipartite degree contradictions reviewed; separate from finite catalog replay.",
+  "formal_verification": false,
+  "human_peer_review": false,
+  "novelty_established": false,
+  "global_goal_complete": false,
+  "staging_manifest_sha256": "8b05117bd7f49684fa0bd57ecb8c1d0e6162ecf72ce31125e0408a13051afc92",
+  "staging_theorem_sha256": "ba41a4bf469bfea896fcdc14fc39a9ebd875c65b07a0977bdf7a9e8953996847",
+  "portable_code_and_catalog_bytes_unchanged": true,
+  "commands": [
+    "python -m unittest -v",
+    "python -O -m unittest -v",
+    "python generate_catalog.py --output root-reproduced-catalog.json",
+    "python verify_catalog.py root-reproduced-catalog.json --output root-reproduced-verification.json"
+  ],
+  "normal_tests_passed": 12,
+  "optimized_tests_passed": 12
+}

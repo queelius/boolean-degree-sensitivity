@@ -1,0 +1,131 @@
+{
+  "schema_version": 1,
+  "kind": "PORTABLE_COMPONENT_CLASSIFICATION_PACKET",
+  "prepared_utc": "2026-10-21T11:33:51.485941+00:00",
+  "files": [
+    {
+      "path": ".coveragerc",
+      "bytes": 83,
+      "sha256": "b655bf1f94041f14cb90b1c16cde5b0dab20260c4d6861c772e005674621500f"
+    },
+    {
+      "path": "CITATION.cff",
+      "bytes": 847,
+      "sha256": "1baa27fd1be8757c50459bcb9f20e9177f925ebb057bca439bf77c02a64a5a92"
+    },
+    {
+      "path": "LICENSE.md",
+      "bytes": 567,
+      "sha256": "53a620fad90708cb13edd0f1bbe0176320d86a29c0f71f1493f9432cb83ed203"
+    },
+    {
+      "path": "LICENSES/CC-BY-4.0.txt",
+      "bytes": 611,
+      "sha256": "464f59784ca5ebf74a79b56c1ade9bd3f12b64e4dde416ed3508007411f50cad"
+    },
+    {
+      "path": "LICENSES/MIT.txt",
+      "bytes": 1080,
+      "sha256": "92a906caa8e443ad8c05921d299d98c78a87b1f13c350a5a1815888db5e437a4"
+    },
+    {
+      "path": "PROVENANCE.json",
+      "bytes": 5043,
+      "sha256": "0de42465e84f91dcdd9691331bb8a942ae7765744825bfd69d1e0ddff6a7286c"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3970,
+      "sha256": "bc0099db031a6667e90004393ef8e04224f12c3aeb978f29d7e6ad2aa021606a"
+    },
+    {
+      "path": "REVIEW_HISTORY.md",
+      "bytes": 2785,
+      "sha256": "a0afec47bea8f93322866b7f707ec3cdb4a94bb37bfd21237efa30ab49d69aef"
+    },
+    {
+      "path": "THEOREM.md",
+      "bytes": 10372,
+      "sha256": "0d48782fda31350c208bf487dfa9b69832871c565c963ceeb1d0ba1320cbd099"
+    },
+    {
+      "path": "catalog.json",
+      "bytes": 1744112,
+      "sha256": "bfd5606974e431d2f562ba7980ca47b076b34b37d09e4c769effac6a7763ef09"
+    },
+    {
+      "path": "generate_catalog.py",
+      "bytes": 1676,
+      "sha256": "8184ad934c0b9cc27df9efb80dda72a6560949e6245861bcf034ecf22120e435"
+    },
+    {
+      "path": "publication-readiness.json",
+      "bytes": 2143,
+      "sha256": "f28321197df3c1475407b3fde9c0f67366d799c8107501590c86e193d2d69e98"
+    },
+    {
+      "path": "qa/coverage.json",
+      "bytes": 13206,
+      "sha256": "8ce57759a891ba6658ecacff191a5c3adc938f727279fe913bc3bd4bff17a357"
+    },
+    {
+      "path": "qa/public-edition-review.json",
+      "bytes": 594,
+      "sha256": "6ab6c9f1ab1f04c311ccd3caf194ea7408f3408a2c961c153fb1b51fbdf6749e"
+    },
+    {
+      "path": "qa/root-portable-replay.json",
+      "bytes": 1362,
+      "sha256": "5e3675577883301bf0900b5e53b764bcc1e8795e61e2e0aa6f8efb19e3bb63c9"
+    },
+    {
+      "path": "qa/tdd-red.log",
+      "bytes": 957,
+      "sha256": "470faf0750ee95ab64676162567d5a9847a3d3c46b526c4a4219f3b883237e5d"
+    },
+    {
+      "path": "qa/tests-normal.log",
+      "bytes": 992,
+      "sha256": "0414f8182b2ddcb406cbf4bc1b08069e5e6b0e54d1cd2c4da96b89769a4d7a98"
+    },
+    {
+      "path": "qa/tests-optimized.log",
+      "bytes": 991,
+      "sha256": "df24bbbe90df213cfa888a1bc7f00f0627b0cfe85a71dea9f55195706ee7abb9"
+    },
+    {
+      "path": "qa/validation.json",
+      "bytes": 2607,
+      "sha256": "b1d9cbbdf1f5482b704893867fa1ba4bb2a9da19d783e0376314d46bdd7462d4"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 13,
+      "sha256": "a23aaf94250a9f53031a592980142245a848e2372b6c6c3093e8260b129265b8"
+    },
+    {
+      "path": "test_packet.py",
+      "bytes": 5647,
+      "sha256": "b619879fb8c0df5405c7036df9ff048cb7f917c6b593cc9fff62027d62554ceb"
+    },
+    {
+      "path": "verification.json",
+      "bytes": 1051,
+      "sha256": "b53f8376a620c46920e997db243f0174f3f2265402d782185974aa3985e81a87"
+    },
+    {
+      "path": "verify_catalog.py",
+      "bytes": 7401,
+      "sha256": "17c99453a6e23dea392d76307b42c61318aaa9bb7f390e5bb81f3f726063cb11"
+    }
+  ],
+  "total_file_bytes": 1808110,
+  "manifest_self_excluded": true,
+  "cache_files_not_part_of_packet": true,
+  "external_research_files_needed_for_replay": false,
+  "source_pin_records_are_traceability_only": true,
+  "actual_boolean_function": false,
+  "fourteen_variable_problem_solved": false,
+  "source_staging_manifest_sha256": "8b05117bd7f49684fa0bd57ecb8c1d0e6162ecf72ce31125e0408a13051afc92",
+  "publication_edition": true
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "status": "EXACT_STANDALONE_CATALOG_CHECK_PASSED",
+  "forms_checked": 30240,
+  "independent_expected_form_enumeration": "ALL_FIVE_EDGE_SUBSETS_OF_EACH_ORDINARY_FIVE_SET",
+  "original_pair_choices": 45,
+  "forms_per_pair": 672,
+  "cube_values_checked": 30965760,
+  "walsh_coefficients_checked": 30965760,
+  "value_histogram": {
+    "-8": 967680,
+    "0": 25159680,
+    "8": 4838400
+  },
+  "constant_coefficient": 1,
+  "negative_pair_coefficients_per_form": 6,
+  "positive_quartic_coefficients_per_form": 5,
+  "all_other_fourier_coefficients_zero": true,
+  "written_a2_completeness_proof_required": true,
+  "written_proof": "THEOREM.md",
+  "finite_check_is_not_exhaustion_of_all_quartic_families": true,
+  "actual_boolean_function": false,
+  "fourteen_variable_problem_solved": false,
+  "formal_verification": false,
+  "human_review": false,
+  "novelty_established": false,
+  "input_file": "catalog.json",
+  "input_sha256": "bfd5606974e431d2f562ba7980ca47b076b34b37d09e4c769effac6a7763ef09",
+  "seconds": 2.6803146969759837
+}

@@ -1,0 +1,17 @@
+test_aliased_catalog_form_is_rejected (test_packet.PacketTests) ... ok
+test_bipartite_degree_obstruction (test_packet.PacketTests) ... ok
+test_complete_catalog_and_every_cube_and_fourier_entry (test_packet.PacketTests) ... ok
+test_cycle_meeting_exceptional_pair_is_rejected (test_packet.PacketTests) ... ok
+test_even_four_and_five_edge_graph_lemmas (test_packet.PacketTests) ... ok
+test_omitted_catalog_form_is_rejected (test_packet.PacketTests) ... ok
+test_one_constructive_form (test_packet.PacketTests) ... ok
+test_optimized_cli_rejects_tampering_without_output (test_packet.PacketTests) ... ok
+test_replay_from_unrelated_working_directory (test_packet.PacketTests) ... ok
+test_scope_promotion_is_rejected (test_packet.PacketTests) ... ok
+test_tampered_fourier_claim_is_rejected (test_packet.PacketTests) ... ok
+test_wrong_coefficient_constant_is_rejected (test_packet.PacketTests) ... ok
+
+----------------------------------------------------------------------
+Ran 12 tests in 17.721s
+
+OK

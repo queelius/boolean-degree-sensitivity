@@ -18,6 +18,22 @@ Author: **Alexander Richard Towell**, Southern Illinois University
 Edwardsville, [ORCID 0000-0001-6443-9897](https://orcid.org/0000-0001-6443-9897).
 Substantial OpenAI Codex assistance is disclosed in the report.
 
+## Standalone singleton component classification
+
+A [self-contained supplement](supplements/singleton-boundary-classification/README.md)
+classifies ten-coordinate divisible singleton Fourier components under explicit
+hypotheses. Every component is a five-cycle form; there are 30,240 labeled forms.
+The written proof excludes the second constant case. An independently reproduced
+portable checker verifies every cube value and Fourier coefficient, with positive
+and tamper controls. Substantial AI assistance and review are disclosed.
+
+This is a completed component lemma within the still-open investigation. It is
+not a fourteen-variable Boolean construction or a global nonexistence proof.
+The earlier DOI below archives ten conditional exclusions only; this supplement
+currently has source evidence and no assigned archival DOI. Cite its exact source
+commit until a successor archive is published. Novelty and human peer review are
+not established.
+
 ## What is proved
 
 Each specified case has a complete necessary linear model. An independent

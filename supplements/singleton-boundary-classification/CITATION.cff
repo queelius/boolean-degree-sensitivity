@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Source supplement: cite an exact public commit until archived. No DOI is assigned to this classification; the earlier version DOI does not archive it."
+title: "A divisible singleton Fourier component on ten coordinates: classification and exact portable catalog"
+type: software
+authors:
+  - family-names: Towell
+    given-names: Alexander Richard
+    orcid: "https://orcid.org/0000-0001-6443-9897"
+    email: "lex@metafunctor.com"
+repository-code: "https://github.com/queelius/boolean-degree-sensitivity"
+abstract: "A standalone written component classification with exact enumeration and cube/Walsh verification of 30,240 five-cycle forms. The fourteen-variable Boolean degree/sensitivity problem remains open. Substantial OpenAI Codex assistance; human review, formal verification, and novelty are not established."

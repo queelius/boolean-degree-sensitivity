@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "status": "ROOT_REVIEWED_SOURCE_EDITION_ARCHIVE_PENDING",
+  "coherent_contribution": "Written ten-coordinate component classification and exact complete five-cycle catalog.",
+  "candidate_update": {
+    "existing_version_doi": "10.5281/zenodo.23496542",
+    "concept_doi": "10.5281/zenodo.23496541",
+    "existing_version": "1.0.0",
+    "candidate_version": "1.1.0",
+    "candidate_version_assigned": false,
+    "policy": "Substantive supplement within the existing Boolean degree/sensitivity record family; no new contribution family.",
+    "existing_version_archives_this_classification": false
+  },
+  "new_doi": null,
+  "archive_created": false,
+  "external_writes_performed": false,
+  "readiness": {
+    "self_contained_theorem": true,
+    "written_completeness_proof": true,
+    "standalone_exact_replay": true,
+    "source_pins": true,
+    "meaningful_positive_and_tamper_controls": true,
+    "license_split_preserved": true,
+    "provisional_citation_metadata": true,
+    "ai_disclosure": true,
+    "independent_portable_replay_pending": false,
+    "root_publication_review_pending": false,
+    "public_source_pin_pending": true,
+    "public_record_and_deposit_file_verification_pending": true
+  },
+  "publication_owner": "Parent/root agent",
+  "duplicate_search": "Parent reports completed paginated archive audit cycle 1202: 126 unique records, pages 100/26/0; only the existing version/concept family and no matching pending draft. The portable producer does not itself certify the external search.",
+  "scope": {
+    "actual_fourteen_variable_boolean_function": false,
+    "fourteen_variable_problem_solved": false,
+    "new_case_exclusions": false,
+    "human_peer_review": false,
+    "formal_verification": false,
+    "novelty_established": false
+  },
+  "licenses": {
+    "code": "MIT",
+    "proof_notes_data_metadata": "CC-BY-4.0"
+  },
+  "notes": [
+    "No DOI is assigned to this staging supplement. The existing v1.0.0 DOI must not be represented as archiving this new result.",
+    "A DOI would establish an archival citation, not mathematical correctness, novelty, human review or priority."
+  ]
+}

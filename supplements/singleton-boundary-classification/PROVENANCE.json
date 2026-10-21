@@ -1,0 +1,114 @@
+{
+  "schema_version": 1,
+  "prepared_date": "2026-10-21",
+  "claim": "Complete classification of the precisely specified ten-coordinate divisible singleton Fourier components in THEOREM.md.",
+  "author": {
+    "name": "Alexander Richard Towell",
+    "orcid": "0000-0001-6443-9897",
+    "email": "lex@metafunctor.com"
+  },
+  "ai_assistance": {
+    "system": "OpenAI Codex",
+    "substantial": true,
+    "roles": [
+      "mathematical deductions",
+      "proof drafting",
+      "code and tests",
+      "exact finite checks",
+      "separate independent AI reviews"
+    ]
+  },
+  "canonical_source_repository": "https://github.com/queelius/boolean-degree-sensitivity",
+  "central_catalog": {
+    "repository": "https://github.com/queelius/research-records",
+    "record_id": "boolean-degree-five-spectral-exclusions"
+  },
+  "sources": [
+    {
+      "project_relative_path": ".research/attempts/009-parent-analysis/singleton_minimal_n0_cycle1130.md",
+      "role": "written_constant_one_classification",
+      "sha256": "9c6be2e2c3240aea686811574cd29ec155960cf339cdee4647ddb2a3f4e98661",
+      "bytes": 4661
+    },
+    {
+      "project_relative_path": ".research/attempts/009-parent-analysis/singleton-minimal-n0-review-cycle1131.md",
+      "role": "independent_ai_mathematical_review_constant_one",
+      "sha256": "e758605f22c249988ae0c43c8214a8ba8d491c90d1ac63576c92619f5482eb7f",
+      "bytes": 7726
+    },
+    {
+      "project_relative_path": ".research/attempts/009-parent-analysis/singleton-minimal-n0-review-cycle1131.json",
+      "role": "independent_ai_review_and_controls_constant_one",
+      "sha256": "21c899066a83ea18dc50c91ecfc001bbcc9eb30fd2ff8bd93fd7318053b6d6a8",
+      "bytes": 8988
+    },
+    {
+      "project_relative_path": ".research/attempts/009-parent-analysis/singleton_minimal_n0_a2_exclusion_cycle1133.md",
+      "role": "written_constant_two_impossibility",
+      "sha256": "04f76da18b7b639831638a1c3af5101aacd7573f4b643d30850b78f3368168b2",
+      "bytes": 7571
+    },
+    {
+      "project_relative_path": ".research/attempts/009-parent-analysis/singleton-minimal-n0-a2-review-cycle1134.md",
+      "role": "independent_ai_mathematical_review_constant_two",
+      "sha256": "4e0e315bba417cc60608a7039c1311da11acfd4771ce8914300f71dcd8c05b97",
+      "bytes": 9401
+    },
+    {
+      "project_relative_path": ".research/attempts/009-parent-analysis/singleton-minimal-n0-a2-review-cycle1134.json",
+      "role": "independent_ai_review_and_controls_constant_two",
+      "sha256": "638e7ce792ab5920864a47770c5260111b3dd5d07e39eedd332fa8b7fa0fbb70",
+      "bytes": 8068
+    },
+    {
+      "project_relative_path": ".research/attempts/009-parent-analysis/singleton-minimal-catalog-cycle1135.json",
+      "role": "historical_component_catalog",
+      "sha256": "6d5c62029d8674377a0a911ffad787cd51f37ba130ce678b5fe7c5c463d1dbf4",
+      "bytes": 4195217
+    },
+    {
+      "project_relative_path": ".research/attempts/009-parent-analysis/singleton-minimal-reader-authority-cycle1136.json",
+      "role": "historical_independent_exact_catalog_review",
+      "sha256": "d588b3fa70551e77c1fe014a95db9d17739f75a09b011029a722ff37813a89e1",
+      "bytes": 5521
+    },
+    {
+      "project_relative_path": ".research/attempts/009-parent-analysis/singleton_zero_classification_cycle1102.md",
+      "role": "predecessor_parity_method_not_standalone_dependency",
+      "sha256": "148b4c07b381092ef65b36b629489c1e78caf235a42744932ea44cb0e2029d97",
+      "bytes": 5750
+    },
+    {
+      "project_relative_path": ".research/attempts/009-parent-analysis/matched_core_linear_count_bound_cycle283.md",
+      "role": "application_context_not_standalone_dependency",
+      "sha256": "32165f6d45476df6a23d7b63d92404c43705bb79ce42478d215e6d57c0871ffe",
+      "bytes": 3559
+    }
+  ],
+  "source_pins_are_replay_dependencies": false,
+  "portable_scripts_import_research_workspace": false,
+  "attribution_notes": [
+    "Classical Fourier/Mobius and graph-parity techniques are not claimed as new.",
+    "Earlier singleton parity work and matched-core application context are retained as project predecessor attribution.",
+    "The broader project draws on umaia1234/agentic-conjectures layer-bound work; those bounds are not premises of this standalone proof."
+  ],
+  "public_disclosure": {
+    "status": "NOT_ASSIGNED_FOR_THIS_SUPPLEMENT",
+    "original_public_disclosure_date": null,
+    "original_public_disclosure_url": null,
+    "archival_publication_date": null
+  },
+  "review_limits": {
+    "prior_independent_ai_mathematical_reviews": true,
+    "portable_packet_independent_replay_pending": false,
+    "human_review": false,
+    "formal_verification": false,
+    "novelty_established": false
+  },
+  "global_problem_status": "OPEN",
+  "portable_edition": {
+    "staging_manifest_sha256": "8b05117bd7f49684fa0bd57ecb8c1d0e6162ecf72ce31125e0408a13051afc92",
+    "root_replay": "qa/root-portable-replay.json",
+    "changes": "Publication status notes and root review receipt; mathematical proof argument, source, catalog and tests unchanged."
+  }
+}

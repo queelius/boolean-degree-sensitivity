@@ -1,0 +1,20 @@
+test_packet (unittest.loader._FailedTest) ... ERROR
+
+======================================================================
+ERROR: test_packet (unittest.loader._FailedTest)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: test_packet
+Traceback (most recent call last):
+  File "/home/spinoza/.local/share/uv/python/cpython-3.10-linux-x86_64-gnu/lib/python3.10/unittest/loader.py", line 436, in _find_test_path
+    module = self._get_module_from_name(name)
+  File "/home/spinoza/.local/share/uv/python/cpython-3.10-linux-x86_64-gnu/lib/python3.10/unittest/loader.py", line 377, in _get_module_from_name
+    __import__(name)
+  File "<packet>/test_packet.py", line 15, in <module>
+    from generate_catalog import make_catalog
+ModuleNotFoundError: No module named 'generate_catalog'
+
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+FAILED (errors=1)

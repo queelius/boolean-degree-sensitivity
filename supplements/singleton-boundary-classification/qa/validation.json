@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "status": "PASS",
+  "environment": {
+    "python": "3.10.20",
+    "implementation": "CPython",
+    "numpy": "2.2.6",
+    "coverage": "7.16.2",
+    "blas_threads": 1,
+    "required_runtime": "Python>=3.10, numpy==2.2.6",
+    "development_coverage_dependency_optional": true
+  },
+  "unit_tests": {
+    "normal": {
+      "count": 12,
+      "status": "PASS",
+      "seconds": 17.721,
+      "log": "qa/tests-normal.log",
+      "coverage_instrumented": true
+    },
+    "optimized": {
+      "count": 12,
+      "status": "PASS",
+      "seconds": 7.537,
+      "log": "qa/tests-optimized.log"
+    },
+    "negative_tdd_log": "qa/tdd-red.log"
+  },
+  "controls": [
+    "All 30,240 forms and all 30,965,760 cube and Walsh entries",
+    "Constructive one-form histogram",
+    "Missing catalog row",
+    "Aliased/repeated catalog row",
+    "Cycle intersects exceptional pair",
+    "Wrong constant coefficient",
+    "Scope flags promoted to Boolean function or solved global problem",
+    "Incorrect Fourier coefficients",
+    "Exhaustive four/five-edge even graph controls on eight vertices",
+    "Exact small bipartite degree obstruction",
+    "Full producer/verifier replay from unrelated working directory with PYTHONPATH removed",
+    "Tampered input rejected under -O and -OO without an output file"
+  ],
+  "exact_receipt": "verification.json",
+  "coverage": {
+    "totals": {
+      "covered_lines": 105,
+      "num_statements": 129,
+      "percent_covered": 82.6086956521739,
+      "percent_covered_display": "83",
+      "missing_lines": 24,
+      "excluded_lines": 0,
+      "percent_statements_covered": 81.3953488372093,
+      "percent_statements_covered_display": "81",
+      "num_branches": 32,
+      "num_partial_branches": 2,
+      "covered_branches": 28,
+      "missing_branches": 4,
+      "percent_branches_covered": 87.5,
+      "percent_branches_covered_display": "88"
+    },
+    "report": "qa/coverage.json",
+    "uncovered_lines_scope": "Only CLI main functions and script main guards. CLIs are exercised by subprocess integration tests, which are not measured by this in-process coverage run.",
+    "core_non_cli_statements_all_covered": true
+  },
+  "arithmetic": {
+    "character_dtype": "int16",
+    "values_dtype": "int16",
+    "walsh_dtype": "int32",
+    "maximum_walsh_absolute_intermediate_bound": 8192,
+    "integer_overflow_in_internal_checker": false
+  },
+  "scope": {
+    "written_completeness_proof_checked_by_finite_catalog": false,
+    "a2_exclusion_is_written_proof": true,
+    "actual_boolean_function": false,
+    "fourteen_variable_problem_solved": false
+  }
+}
