@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "math_scope": {
+    "vertices": 10,
+    "constant_coefficient": 1,
+    "negative_pairs": 8,
+    "positive_quartics": 7,
+    "exceptional_vertices": 3
+  },
+  "files": [
+    {
+      "path": "augmentation.json.gz",
+      "sha256": "7b257ef61667086727a1ceba811ffb163cfeb6a51cdc6708b5e6df73eb35a0cf",
+      "bytes": 73237
+    },
+    {
+      "path": "components.json",
+      "sha256": "f1db4c3657f9e0f5a476d5023dcc24ef5bbfd07cdb67b7bb3e84efbd0e1b5e0e",
+      "bytes": 7357
+    },
+    {
+      "path": "expected-solutions.json.gz",
+      "sha256": "14a64e5a25b1172d081f840d0a56ecb70fad17e69d9f72386edff24ffab5942e",
+      "bytes": 103362
+    },
+    {
+      "path": "frame-links.json",
+      "sha256": "87e38c227b94a80170695949f17f7b85887d50670b3233ea37b9e310246d11c8",
+      "bytes": 27638
+    },
+    {
+      "path": "graph-catalog.json.gz",
+      "sha256": "24f1072584e9dd79c8b40bf5d7dcaef73c333a3db3f652ea37e2590b399ad750",
+      "bytes": 1188168
+    }
+  ],
+  "global_problem_complete": false,
+  "canonical_orbit_minimality_claimed": false
+}

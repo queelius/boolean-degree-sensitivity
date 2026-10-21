@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "historical_sources": {
+    "canonical-negative-graph-catalog-cycle1216.json.gz": {
+      "sha256": "24f1072584e9dd79c8b40bf5d7dcaef73c333a3db3f652ea37e2590b399ad750",
+      "bytes": 1188168
+    },
+    "canonical-negative-graph-reader-augmentation-cycle1220.json.gz": {
+      "sha256": "7b257ef61667086727a1ceba811ffb163cfeb6a51cdc6708b5e6df73eb35a0cf",
+      "bytes": 73237
+    },
+    "singleton-a1-ell3-full-cover-chunk0002-cycle1227.json.gz": {
+      "sha256": "9c8bc98c36348db02e78c32ef759563be10449721efc2aad37469e3386eed024",
+      "bytes": 1770430
+    },
+    "independent-complete-quartet-cover-cycle1228.json.gz": {
+      "sha256": "e929add835d96e818a39e876b50ce073109448ffec0751d86a78dd89c2a3de93",
+      "bytes": 212122
+    },
+    "canonical_negative_graph_cycle1216.py": {
+      "sha256": "eec814ed87c7867e96db19477baac672fb1f737f08f707795cc417bd27036414"
+    },
+    "verify_canonical_negative_graph_cycle1220.py": {
+      "sha256": "98715b2ffaa95e2253bd69619bfb476d4ea09043b40aadd104027f1743105a36"
+    },
+    "independent_quartet_enumerator_cycle1226.py": {
+      "sha256": "d447da6be80e0b592b1c33c1734efd9f8598f50c01cdd7f1ba00c892accae729"
+    }
+  },
+  "source_pins_are_replay_dependencies": false,
+  "portable_replay_imports_research_workspace": false,
+  "preparation_only_dependency": "pynauty2.8.8.1; not imported by portable replay"
+}

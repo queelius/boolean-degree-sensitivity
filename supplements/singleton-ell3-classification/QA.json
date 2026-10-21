@@ -1,0 +1,116 @@
+{
+  "schema_version": 1,
+  "status": "PASS_LOCAL_PORTABLE_REPLAY_AND_CONTROLS_PENDING_INDEPENDENT_PACKET_GATE",
+  "python": "3.10.20 (main, Mar  3 2026, 14:59:16) [Clang 21.1.4 ]",
+  "commands": {
+    "controls": "python -S -m unittest -v",
+    "optimized_controls": "python -O -S -m unittest -v",
+    "full_replay": "python -S verify_packet.py --output verification.json.gz --cpu-budget 120"
+  },
+  "controls_normal": 11,
+  "controls_optimized": 11,
+  "all_controls_pass": true,
+  "full_replay": {
+    "sha256": "5cf09b3a0132dd85ce5774f6e9477253573fb877e4b1ff4fb1fff6aaaef85d16",
+    "cpu_seconds": 38.821758789,
+    "wall_seconds": 38.97247044101823,
+    "peak_rss_kib": 163420,
+    "exact_quota_nodes": 1128225,
+    "exhausted_instances": 19112,
+    "native_families": 17,
+    "source_occurrences": 53
+  },
+  "runtime_source_pins": {
+    "graph_cover.py": "7bacdf7a38dc63cd8000dc5d203f339917a8b51f83c7cf7e35389053a0d5e94f",
+    "quota_search.py": "ff9756bcf7112dda85c6a5da9cf991b2bb826ac711d3041166e45ab4e7fb8cce",
+    "verify_packet.py": "5a564c020adb7778f4af07a8dd9399112726634103ef380d3aaf0e06bf642e34"
+  },
+  "runtime_source_unchanged_during_and_after_full_replay": true,
+  "runtime_import_audit": {
+    "graph_cover.py": [
+      "collections",
+      "functools",
+      "itertools"
+    ],
+    "quota_search.py": [
+      "collections",
+      "itertools",
+      "math",
+      "time"
+    ],
+    "verify_packet.py": [
+      "argparse",
+      "collections",
+      "graph_cover",
+      "gzip",
+      "hashlib",
+      "json",
+      "pathlib",
+      "quota_search",
+      "time"
+    ]
+  },
+  "explicit_runtime_checks_instead_of_asserts": true,
+  "coverage_unit_only": {
+    "graph_cover.py": {
+      "covered_lines": 132,
+      "num_statements": 163,
+      "percent_covered": 78.4688995215311,
+      "percent_covered_display": "78",
+      "missing_lines": 31,
+      "excluded_lines": 0,
+      "percent_statements_covered": 80.98159509202453,
+      "percent_statements_covered_display": "81",
+      "num_branches": 46,
+      "num_partial_branches": 8,
+      "covered_branches": 32,
+      "missing_branches": 14,
+      "percent_branches_covered": 69.56521739130434,
+      "percent_branches_covered_display": "70"
+    },
+    "quota_search.py": {
+      "covered_lines": 73,
+      "num_statements": 134,
+      "percent_covered": 54.6875,
+      "percent_covered_display": "55",
+      "missing_lines": 61,
+      "excluded_lines": 0,
+      "percent_statements_covered": 54.47761194029851,
+      "percent_statements_covered_display": "54",
+      "num_branches": 58,
+      "num_partial_branches": 8,
+      "covered_branches": 32,
+      "missing_branches": 26,
+      "percent_branches_covered": 55.172413793103445,
+      "percent_branches_covered_display": "55"
+    },
+    "verify_packet.py": {
+      "covered_lines": 68,
+      "num_statements": 127,
+      "percent_covered": 50.920245398773005,
+      "percent_covered_display": "51",
+      "missing_lines": 59,
+      "excluded_lines": 0,
+      "percent_statements_covered": 53.54330708661417,
+      "percent_statements_covered_display": "54",
+      "num_branches": 36,
+      "num_partial_branches": 1,
+      "covered_branches": 15,
+      "missing_branches": 21,
+      "percent_branches_covered": 41.666666666666664,
+      "percent_branches_covered_display": "42"
+    }
+  },
+  "coverage_limits": "CLI and aggregation are not unit-instrumented; full uninstrumented replay exercises those paths. No claim coverage establishes correctness.",
+  "source_inputs_local": true,
+  "site_packages_disabled_for_actual_full_replay": true,
+  "old_research_checkout_required": false,
+  "unrelated_directory_copy_entrypoint_control_passed": true,
+  "network_isolation_enforced": false,
+  "independent_portable_replay_pending": true,
+  "human_review": false,
+  "formal_verification": false,
+  "novelty_established": false,
+  "public_release_or_deposit_performed": false,
+  "global_problem_complete": false
+}

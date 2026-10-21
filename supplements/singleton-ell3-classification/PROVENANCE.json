@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "prepared_date": "2026-10-21",
+  "author": {
+    "name": "Alexander Richard Towell",
+    "orcid": "0000-0001-6443-9897",
+    "email": "lex@metafunctor.com",
+    "affiliation": "Southern Illinois University Edwardsville"
+  },
+  "claim": "Complete seventeen-native-family coordinate cover under THEOREM.md hypotheses; not a minimal orbit classification",
+  "ai_assistance": {
+    "system": "OpenAI Codex",
+    "substantial": true,
+    "roles": [
+      "mathematical deductions",
+      "proof and documentation",
+      "exact code and tests",
+      "separate independent AI reviews"
+    ]
+  },
+  "canonical_source_repository": "https://github.com/queelius/boolean-degree-sensitivity",
+  "central_catalog": {
+    "repository": "https://github.com/queelius/research-records",
+    "record_id": "boolean-degree-five-spectral-exclusions"
+  },
+  "data_and_code_origin": "SOURCE_PINS.json",
+  "context_sources": [
+    {
+      "project_relative_path": ".research/attempts/009-parent-analysis/singleton-signed-code-root-review-cycle1214.json",
+      "role": "independent_elementary_rank_review",
+      "sha256": "fd39bb0b9daa9beb24ea504f10c41d6c852fdf5a96405f70931156eb925ec666"
+    },
+    {
+      "project_relative_path": ".research/attempts/009-parent-analysis/canonical-negative-graph-mathematical-review-cycle1220.md",
+      "role": "independent_written_graph_cover_review",
+      "sha256": "0fafe3cb64f01d00ee96c14b166aca85ed61f2f8b7618762499d3bb97197e216"
+    },
+    {
+      "project_relative_path": ".research/attempts/009-parent-analysis/canonical-negative-graph-reader-authority-cycle1220.json",
+      "role": "independent_literal_graph_subspace_audit",
+      "sha256": "13ba2a6ecc58a2d2c104dca392083a290807edd3c6757f47a49183a5f3c65b66"
+    },
+    {
+      "project_relative_path": ".research/attempts/009-parent-analysis/canonical-negative-graph-reader-validation-cycle1220.json",
+      "role": "graph_audit_controls_and_pins",
+      "sha256": "7dd1653096adf7b75608bc8569dddabd4a2e950ffec834f1a1a108cdda063f67"
+    },
+    {
+      "project_relative_path": ".research/attempts/009-parent-analysis/independent-complete-quartet-validation-cycle1228.json",
+      "role": "independent_full_family_cover_validation",
+      "sha256": "9568bbfc350aa1cd7749cdcb3737af485bbfd1be5d2c1ade9a4af0338bccf519"
+    }
+  ],
+  "predecessor_credit": [
+    "Earlier project singleton incidence and Fourier/Mobius parity work; classical binary self-orthogonality and graph quotient arguments are proved here, not claimed new.",
+    "Cycles1216/1220 generated and separately verified graph coverage; cycles1219/1227 produced exact families; cycles1226/1228 independently re-enumerated them.",
+    "The broader project cites umaia1234/agentic-conjectures layer bounds; no such global reduction is a premise of this standalone component theorem."
+  ],
+  "public_family_context": {
+    "version": "1.1.0",
+    "version_doi": "10.5281/zenodo.23533427",
+    "concept_doi": "10.5281/zenodo.23496541",
+    "archives_this_three_exceptional_result": false,
+    "earlier_two_exceptional_source_commit": "b954f03228c9e5637b4d12b469376a418dabccb4",
+    "earlier_two_exceptional_public_disclosure": {
+      "date": "2026-10-21",
+      "observed_at": "2026-10-21T11:36:38.114778+00:00",
+      "url": "https://github.com/queelius/boolean-degree-sensitivity/tree/b954f03228c9e5637b4d12b469376a418dabccb4/supplements/singleton-boundary-classification"
+    },
+    "later_publication_metadata_commit": "1a9c4c23651656bef240241a0e5462bc7c43f6fb",
+    "context_is_not_current_packet_disclosure": true
+  },
+  "current_packet_public_disclosure": {
+    "status": "UNPUBLISHED_LOCAL_STAGING",
+    "original_public_disclosure_date": null,
+    "original_public_disclosure_url": null,
+    "archival_publication_date": null,
+    "doi": null
+  },
+  "review_limits": {
+    "portable_independent_replay_pending": true,
+    "root_publication_review_pending": true,
+    "human_review": false,
+    "formal_verification": false,
+    "novelty_established": false
+  },
+  "optional_preparation_dependency": "pynauty2.8.8.1 for discovering literal frame maps; no wrapper or native binary bundled",
+  "portable_replay": {
+    "standard_library_only": true,
+    "imports_original_research_checkout": false,
+    "requires_historical_source_hash_paths": false,
+    "canonical_uniqueness_required": false
+  },
+  "global_problem_status": "OPEN"
+}

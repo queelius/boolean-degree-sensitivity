@@ -1,0 +1,10 @@
+{"stage": "EXACT_FAMILY_ENUMERATION", "checked": 2000, "total": 19112, "cpu_seconds": 13.950280058999999}
+{"stage": "EXACT_FAMILY_ENUMERATION", "checked": 4000, "total": 19112, "cpu_seconds": 16.693115778000003}
+{"stage": "EXACT_FAMILY_ENUMERATION", "checked": 6000, "total": 19112, "cpu_seconds": 19.116497425000002}
+{"stage": "EXACT_FAMILY_ENUMERATION", "checked": 8000, "total": 19112, "cpu_seconds": 21.927849481000003}
+{"stage": "EXACT_FAMILY_ENUMERATION", "checked": 10000, "total": 19112, "cpu_seconds": 24.795849288000003}
+{"stage": "EXACT_FAMILY_ENUMERATION", "checked": 12000, "total": 19112, "cpu_seconds": 27.61169808}
+{"stage": "EXACT_FAMILY_ENUMERATION", "checked": 14000, "total": 19112, "cpu_seconds": 30.979072719}
+{"stage": "EXACT_FAMILY_ENUMERATION", "checked": 16000, "total": 19112, "cpu_seconds": 33.83615508}
+{"stage": "EXACT_FAMILY_ENUMERATION", "checked": 18000, "total": 19112, "cpu_seconds": 36.818103901}
+{"status": "COMPLETE_PORTABLE_A1_ELL3_FAMILY_COVER_REPLAY", "complete_proof_replay": true, "cpu_seconds": 38.821758789, "wall_seconds": 38.97247044101823}

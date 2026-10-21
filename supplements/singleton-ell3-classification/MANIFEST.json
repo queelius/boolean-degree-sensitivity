@@ -1,0 +1,210 @@
+{
+  "schema_version": 1,
+  "status": "FROZEN_COMPLETE_LOCAL_PORTABLE_REPLAY_PENDING_INDEPENDENT_PACKET_REVIEW",
+  "claim": "THEOREM.md: complete17-native-family coordinate cover for ten-variable constant-one three-exceptional divisible singleton components",
+  "files": [
+    {
+      "path": "CATALOG.md",
+      "sha256": "94fc09f96bc00e0ada4f621004ece331bba884617a0e60dd3f6b0de74a76f751",
+      "bytes": 1490
+    },
+    {
+      "path": "CITATION.cff",
+      "sha256": "4f3e460cb4e8546617b3d16931d529ff93a7f96a889665ae7b38b13e6b9a2d38",
+      "bytes": 1423
+    },
+    {
+      "path": "LICENSE.md",
+      "sha256": "12466b3b8b2c0f3fed6ef0d2e3df80e92d27cd2ed2d9b00742055eac3460678b",
+      "bytes": 787
+    },
+    {
+      "path": "LICENSES/CC-BY-4.0.txt",
+      "sha256": "464f59784ca5ebf74a79b56c1ade9bd3f12b64e4dde416ed3508007411f50cad",
+      "bytes": 611
+    },
+    {
+      "path": "LICENSES/Original-code-MIT.txt",
+      "sha256": "92a906caa8e443ad8c05921d299d98c78a87b1f13c350a5a1815888db5e437a4",
+      "bytes": 1080
+    },
+    {
+      "path": "PROVENANCE.json",
+      "sha256": "7186cef361c23090c334c95afbb55a8175d687ba6628c71ba45b7621a166ff56",
+      "bytes": 4400
+    },
+    {
+      "path": "QA.json",
+      "sha256": "ab68994e92764a833b8be0b7c09255b8542ab13c4aa64214654471c1bddd0c0e",
+      "bytes": 3930
+    },
+    {
+      "path": "README.md",
+      "sha256": "4de6b9d621eca1e23a4ac17dac9fc9c169ec3e7ebbde6e9d34ec8bfd66908c95",
+      "bytes": 5001
+    },
+    {
+      "path": "REVIEW_HISTORY.md",
+      "sha256": "0744b26970027187ab5bf54d205d7badfe9a7516e25d4a5a20251833f8bc2a20",
+      "bytes": 3315
+    },
+    {
+      "path": "SOURCE_PINS.json",
+      "sha256": "79fe00794414ad90b2fc4a80e378685f72d423a421a966887c5da86b69ade352",
+      "bytes": 1380
+    },
+    {
+      "path": "THEOREM.md",
+      "sha256": "f34f29c63871c96173c6cb85efbc5cc3f156761c9ef5cf67c08661d816e4bcd8",
+      "bytes": 10515
+    },
+    {
+      "path": "controls-coverage.log",
+      "sha256": "dd1c0c7401ea0e7d65dea6f141363647bd835ff4f526e6d85da1b4dfa7767b8b",
+      "bytes": 110
+    },
+    {
+      "path": "controls-expanded.log",
+      "sha256": "436d79a429a92fc4ae981880d47e565af4dafe0cda4d5f360da960b200455bf5",
+      "bytes": 1045
+    },
+    {
+      "path": "controls-final-coverage.log",
+      "sha256": "1c0d3239e1a66d7ffe9f6aedc2636e05431272eff1f940c686164ba524ef050f",
+      "bytes": 110
+    },
+    {
+      "path": "controls-final-optimized.log",
+      "sha256": "2a915b3af29e8aacec89bf750d966899b7926c0d852683a8fb6e319abb396254",
+      "bytes": 1045
+    },
+    {
+      "path": "controls-final.log",
+      "sha256": "dd30148cc3ab0efea155e8e1313211df4f392ccfc951f4d4858143427f99f35e",
+      "bytes": 1045
+    },
+    {
+      "path": "controls-optimized.log",
+      "sha256": "6f53ac2c27b47b3e3030fa7a3a776e3cf82ac1f0767c4ea833ac1c2d29d5f881",
+      "bytes": 1045
+    },
+    {
+      "path": "controls.log",
+      "sha256": "6ee6960155456d66686d7b9d9c1933f570861f79cc93d22dcd0b8f5e895ac9f6",
+      "bytes": 791
+    },
+    {
+      "path": "coverage-final.json",
+      "sha256": "400de0a6c3dba55568dc616f9a133870726a7127af07cb5bcae01ddd5a95f898",
+      "bytes": 29287
+    },
+    {
+      "path": "coverage.json",
+      "sha256": "0beb0e04e6653a61844a048a24a932a3a291a4e21a33014b4328bd9f21713bd3",
+      "bytes": 29287
+    },
+    {
+      "path": "data/augmentation.json.gz",
+      "sha256": "7b257ef61667086727a1ceba811ffb163cfeb6a51cdc6708b5e6df73eb35a0cf",
+      "bytes": 73237
+    },
+    {
+      "path": "data/components.json",
+      "sha256": "f1db4c3657f9e0f5a476d5023dcc24ef5bbfd07cdb67b7bb3e84efbd0e1b5e0e",
+      "bytes": 7357
+    },
+    {
+      "path": "data/expected-solutions.json.gz",
+      "sha256": "14a64e5a25b1172d081f840d0a56ecb70fad17e69d9f72386edff24ffab5942e",
+      "bytes": 103362
+    },
+    {
+      "path": "data/frame-links.json",
+      "sha256": "87e38c227b94a80170695949f17f7b85887d50670b3233ea37b9e310246d11c8",
+      "bytes": 27638
+    },
+    {
+      "path": "data/graph-catalog.json.gz",
+      "sha256": "24f1072584e9dd79c8b40bf5d7dcaef73c333a3db3f652ea37e2590b399ad750",
+      "bytes": 1188168
+    },
+    {
+      "path": "data/manifest.json",
+      "sha256": "c461b7336b7a1241e63f09b2e9e3ae00b22623146247e3c9defffcda2f6b542c",
+      "bytes": 1063
+    },
+    {
+      "path": "development-red.log",
+      "sha256": "9e7da31480078719576558591f133ba30ad86a7f5c2f7dda2b4919ec92919b91",
+      "bytes": 7576
+    },
+    {
+      "path": "graph_cover.py",
+      "sha256": "7bacdf7a38dc63cd8000dc5d203f339917a8b51f83c7cf7e35389053a0d5e94f",
+      "bytes": 12207
+    },
+    {
+      "path": "preparation.log",
+      "sha256": "d75d50c7dce4127a47236995412469b84bc5422b4af5dc429cdd1d05ed5697a4",
+      "bytes": 68
+    },
+    {
+      "path": "prepare_sources.py",
+      "sha256": "4de0d58b06c325abc09d191f7f95d0ab1535104a8d5def432839d46ec3c9fcab",
+      "bytes": 6572
+    },
+    {
+      "path": "quota_search.py",
+      "sha256": "ff9756bcf7112dda85c6a5da9cf991b2bb826ac711d3041166e45ab4e7fb8cce",
+      "bytes": 7825
+    },
+    {
+      "path": "replay-resource.log",
+      "sha256": "71f0475249bec2ab865ff45bbea0da85fa5408001024952c51ea0cdb3ed8738b",
+      "bytes": 854
+    },
+    {
+      "path": "replay.log",
+      "sha256": "d2219fea2204a27c3960ee9d191561df2e6928304d98d878efc0711c0ee57cd2",
+      "bytes": 1088
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "73b93d4a5eb5f833a7d59a87aaeff7be1772b499fe5e485e2c43f789f35bd380",
+      "bytes": 72
+    },
+    {
+      "path": "scope-red.log",
+      "sha256": "409be604ea0efeb524a8c53787b6296ae0db9847aa45b11f2d38a5bf630bada2",
+      "bytes": 756
+    },
+    {
+      "path": "test_portable.py",
+      "sha256": "c9ea5cd54e448bc940c01138a1a9d32ee27a2477f8ec8b4899a23b6be5e99432",
+      "bytes": 7331
+    },
+    {
+      "path": "verification.json.gz",
+      "sha256": "5cf09b3a0132dd85ce5774f6e9477253573fb877e4b1ff4fb1fff6aaaef85d16",
+      "bytes": 111151
+    },
+    {
+      "path": "verify_packet.py",
+      "sha256": "5a564c020adb7778f4af07a8dd9399112726634103ef380d3aaf0e06bf642e34",
+      "bytes": 11695
+    }
+  ],
+  "standard_library_only_replay": true,
+  "exact_finite_cover_replay_complete": true,
+  "canonical_orbit_minimality_claimed": false,
+  "independent_portable_packet_gate": "PENDING_ROOT_COPY_REPLAY",
+  "public_release_or_archival_deposit_performed": false,
+  "archived_in_existing_v1_1_0": false,
+  "actual_fourteen_variable_boolean_function": false,
+  "global_existence_question_solved": false,
+  "human_review": false,
+  "formal_verification": false,
+  "novelty_established": false,
+  "original_code_license": "MIT",
+  "original_proof_data_license": "CC-BY-4.0"
+}

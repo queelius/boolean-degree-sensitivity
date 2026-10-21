@@ -1,0 +1,14 @@
+test_component_scope_rejects_boolean_integer_alias (test_portable.Controls) ... FAIL
+
+======================================================================
+FAIL: test_component_scope_rejects_boolean_integer_alias (test_portable.Controls)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/spinoza/github/math-theory/.research/publication-staging/singleton-ell3-classification-cycle1262/test_portable.py", line 104, in test_component_scope_rejects_boolean_integer_alias
+    with self.assertRaises(ValueError):m.verify_components(data)
+AssertionError: ValueError not raised
+
+----------------------------------------------------------------------
+Ran 1 test in 0.048s
+
+FAILED (failures=1)

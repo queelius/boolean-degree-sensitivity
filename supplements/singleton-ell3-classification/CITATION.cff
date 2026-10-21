@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "Unpublished staging packet. Cite a pinned public source or archived successor after publication."
+title: "A complete finite cover for three-exceptional constant-one singleton Fourier components"
+type: software
+authors:
+  - family-names: Towell
+    given-names: Alexander Richard
+    orcid: "https://orcid.org/0000-0001-6443-9897"
+    email: "lex@metafunctor.com"
+    affiliation: "Southern Illinois University Edwardsville"
+version: "unpublished-cycle1262"
+repository-code: "https://github.com/queelius/boolean-degree-sensitivity"
+license:
+  - MIT
+  - CC-BY-4.0
+keywords:
+  - Boolean functions
+  - divisible Fourier polynomials
+  - exact finite classification
+  - graph certificates
+  - self-orthogonal binary codes
+abstract: >-
+  A written binary-rank and graph/subspace reduction plus exact finite
+  enumeration gives a complete seventeen-row coordinate cover for ten-variable
+  constant-one Fourier components with eight negative pairs, seven positive
+  quartets, three exceptional singleton values and cube divisibility by eight.
+  A standard-library-only checker verifies literal graph transports and all
+  19112 selection instances. Minimal orbit counts, constant-two classification,
+  Boolean-function extension and the global fourteen-variable problem are not
+  resolved. Substantial AI assistance is disclosed; novelty, formal verification
+  and human peer review are not established.

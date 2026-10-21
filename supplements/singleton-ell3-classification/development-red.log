@@ -1,0 +1,93 @@
+test_all_lower_parity_spaces_are_covered (test_portable.Controls) ... FAIL
+test_complete_triangle_augmentation_and_omission_map_tampering (test_portable.Controls) ... FAIL
+test_exact_component_converse_and_changed_support (test_portable.Controls) ... FAIL
+test_family_set_comparison_catches_omission_and_duplicate (test_portable.Controls) ... FAIL
+test_file_pins_and_path_escape_are_rejected (test_portable.Controls) ... FAIL
+test_known_profile_and_candidate_omission_are_checked (test_portable.Controls) ... FAIL
+test_literal_coordinate_transport_checks_color_and_nonpermutation (test_portable.Controls) ... FAIL
+test_quota_search_matches_naive_tiny_enumerator_and_negative (test_portable.Controls) ... FAIL
+
+======================================================================
+FAIL: test_all_lower_parity_spaces_are_covered (test_portable.Controls)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/spinoza/github/math-theory/.research/publication-staging/singleton-ell3-classification-cycle1262/test_portable.py", line 66, in test_all_lower_parity_spaces_are_covered
+    m=self.module('graph_cover')
+  File "/home/spinoza/github/math-theory/.research/publication-staging/singleton-ell3-classification-cycle1262/test_portable.py", line 27, in module
+    self.assertIsNotNone(importlib.util.find_spec(name),'Missing portable '+name+' implementation.')
+AssertionError: unexpectedly None : Missing portable graph_cover implementation.
+
+======================================================================
+FAIL: test_complete_triangle_augmentation_and_omission_map_tampering (test_portable.Controls)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/spinoza/github/math-theory/.research/publication-staging/singleton-ell3-classification-cycle1262/test_portable.py", line 43, in test_complete_triangle_augmentation_and_omission_map_tampering
+    m=self.module('graph_cover');grades=self.triangle_cover()
+  File "/home/spinoza/github/math-theory/.research/publication-staging/singleton-ell3-classification-cycle1262/test_portable.py", line 27, in module
+    self.assertIsNotNone(importlib.util.find_spec(name),'Missing portable '+name+' implementation.')
+AssertionError: unexpectedly None : Missing portable graph_cover implementation.
+
+======================================================================
+FAIL: test_exact_component_converse_and_changed_support (test_portable.Controls)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/spinoza/github/math-theory/.research/publication-staging/singleton-ell3-classification-cycle1262/test_portable.py", line 93, in test_exact_component_converse_and_changed_support
+    m=self.module('verify_packet');data=json.loads((ROOT/'data/components.json').read_text())
+  File "/home/spinoza/github/math-theory/.research/publication-staging/singleton-ell3-classification-cycle1262/test_portable.py", line 27, in module
+    self.assertIsNotNone(importlib.util.find_spec(name),'Missing portable '+name+' implementation.')
+AssertionError: unexpectedly None : Missing portable verify_packet implementation.
+
+======================================================================
+FAIL: test_family_set_comparison_catches_omission_and_duplicate (test_portable.Controls)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/spinoza/github/math-theory/.research/publication-staging/singleton-ell3-classification-cycle1262/test_portable.py", line 101, in test_family_set_comparison_catches_omission_and_duplicate
+    m=self.module('verify_packet')
+  File "/home/spinoza/github/math-theory/.research/publication-staging/singleton-ell3-classification-cycle1262/test_portable.py", line 27, in module
+    self.assertIsNotNone(importlib.util.find_spec(name),'Missing portable '+name+' implementation.')
+AssertionError: unexpectedly None : Missing portable verify_packet implementation.
+
+======================================================================
+FAIL: test_file_pins_and_path_escape_are_rejected (test_portable.Controls)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/spinoza/github/math-theory/.research/publication-staging/singleton-ell3-classification-cycle1262/test_portable.py", line 107, in test_file_pins_and_path_escape_are_rejected
+    m=self.module('verify_packet')
+  File "/home/spinoza/github/math-theory/.research/publication-staging/singleton-ell3-classification-cycle1262/test_portable.py", line 27, in module
+    self.assertIsNotNone(importlib.util.find_spec(name),'Missing portable '+name+' implementation.')
+AssertionError: unexpectedly None : Missing portable verify_packet implementation.
+
+======================================================================
+FAIL: test_known_profile_and_candidate_omission_are_checked (test_portable.Controls)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/spinoza/github/math-theory/.research/publication-staging/singleton-ell3-classification-cycle1262/test_portable.py", line 58, in test_known_profile_and_candidate_omission_are_checked
+    m=self.module('graph_cover');case=deepcopy(catalog()['canonical_cases'][7045])
+  File "/home/spinoza/github/math-theory/.research/publication-staging/singleton-ell3-classification-cycle1262/test_portable.py", line 27, in module
+    self.assertIsNotNone(importlib.util.find_spec(name),'Missing portable '+name+' implementation.')
+AssertionError: unexpectedly None : Missing portable graph_cover implementation.
+
+======================================================================
+FAIL: test_literal_coordinate_transport_checks_color_and_nonpermutation (test_portable.Controls)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/spinoza/github/math-theory/.research/publication-staging/singleton-ell3-classification-cycle1262/test_portable.py", line 52, in test_literal_coordinate_transport_checks_color_and_nonpermutation
+    m=self.module('graph_cover')
+  File "/home/spinoza/github/math-theory/.research/publication-staging/singleton-ell3-classification-cycle1262/test_portable.py", line 27, in module
+    self.assertIsNotNone(importlib.util.find_spec(name),'Missing portable '+name+' implementation.')
+AssertionError: unexpectedly None : Missing portable graph_cover implementation.
+
+======================================================================
+FAIL: test_quota_search_matches_naive_tiny_enumerator_and_negative (test_portable.Controls)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/spinoza/github/math-theory/.research/publication-staging/singleton-ell3-classification-cycle1262/test_portable.py", line 74, in test_quota_search_matches_naive_tiny_enumerator_and_negative
+    m=self.module('quota_search');n=6
+  File "/home/spinoza/github/math-theory/.research/publication-staging/singleton-ell3-classification-cycle1262/test_portable.py", line 27, in module
+    self.assertIsNotNone(importlib.util.find_spec(name),'Missing portable '+name+' implementation.')
+AssertionError: unexpectedly None : Missing portable quota_search implementation.
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.001s
+
+FAILED (failures=8)

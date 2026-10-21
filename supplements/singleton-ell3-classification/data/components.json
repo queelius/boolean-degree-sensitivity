@@ -1,0 +1,491 @@
+{
+  "schema_version": 1,
+  "parameters": {
+    "vertices": 10,
+    "constant_coefficient": 1,
+    "negative_pairs": 8,
+    "positive_quartics": 7,
+    "exceptional_mask": 7
+  },
+  "components": [
+    {
+      "component_id": 0,
+      "negative_pairs": [
+        6,
+        48,
+        272,
+        320,
+        384,
+        544,
+        576,
+        640
+      ],
+      "exceptional_mask": 7,
+      "positive_quartics": [
+        54,
+        263,
+        278,
+        449,
+        519,
+        550,
+        705
+      ],
+      "source_instance_indices": [
+        1998
+      ]
+    },
+    {
+      "component_id": 1,
+      "negative_pairs": [
+        6,
+        48,
+        272,
+        320,
+        384,
+        544,
+        576,
+        640
+      ],
+      "exceptional_mask": 7,
+      "positive_quartics": [
+        54,
+        278,
+        323,
+        389,
+        550,
+        579,
+        645
+      ],
+      "source_instance_indices": [
+        1999
+      ]
+    },
+    {
+      "component_id": 2,
+      "negative_pairs": [
+        6,
+        48,
+        272,
+        320,
+        384,
+        544,
+        576,
+        640
+      ],
+      "exceptional_mask": 7,
+      "positive_quartics": [
+        54,
+        278,
+        325,
+        387,
+        550,
+        581,
+        643
+      ],
+      "source_instance_indices": [
+        1999
+      ]
+    },
+    {
+      "component_id": 3,
+      "negative_pairs": [
+        6,
+        160,
+        192,
+        257,
+        384,
+        513,
+        544,
+        576
+      ],
+      "exceptional_mask": 7,
+      "positive_quartics": [
+        163,
+        197,
+        263,
+        390,
+        519,
+        547,
+        581
+      ],
+      "source_instance_indices": [
+        2019
+      ]
+    },
+    {
+      "component_id": 4,
+      "negative_pairs": [
+        6,
+        160,
+        192,
+        257,
+        384,
+        513,
+        544,
+        576
+      ],
+      "exceptional_mask": 7,
+      "positive_quartics": [
+        165,
+        195,
+        263,
+        390,
+        519,
+        549,
+        579
+      ],
+      "source_instance_indices": [
+        2019
+      ]
+    },
+    {
+      "component_id": 5,
+      "negative_pairs": [
+        6,
+        129,
+        136,
+        258,
+        264,
+        516,
+        520,
+        768
+      ],
+      "exceptional_mask": 7,
+      "positive_quartics": [
+        135,
+        142,
+        263,
+        267,
+        519,
+        525,
+        774
+      ],
+      "source_instance_indices": [
+        3979,
+        3980,
+        3981,
+        3982,
+        3983,
+        3984,
+        3985
+      ]
+    },
+    {
+      "component_id": 6,
+      "negative_pairs": [
+        6,
+        96,
+        160,
+        320,
+        384,
+        576,
+        640,
+        768
+      ],
+      "exceptional_mask": 7,
+      "positive_quartics": [
+        102,
+        166,
+        323,
+        389,
+        581,
+        643,
+        774
+      ],
+      "source_instance_indices": [
+        4258,
+        4260,
+        4262,
+        4264,
+        4266,
+        4268,
+        4270
+      ]
+    },
+    {
+      "component_id": 7,
+      "negative_pairs": [
+        6,
+        96,
+        160,
+        320,
+        384,
+        576,
+        640,
+        768
+      ],
+      "exceptional_mask": 7,
+      "positive_quartics": [
+        102,
+        166,
+        325,
+        387,
+        579,
+        645,
+        774
+      ],
+      "source_instance_indices": [
+        4258,
+        4260,
+        4262,
+        4264,
+        4266,
+        4268,
+        4270
+      ]
+    },
+    {
+      "component_id": 8,
+      "negative_pairs": [
+        6,
+        192,
+        257,
+        320,
+        384,
+        513,
+        576,
+        640
+      ],
+      "exceptional_mask": 7,
+      "positive_quartics": [
+        198,
+        263,
+        323,
+        389,
+        519,
+        581,
+        643
+      ],
+      "source_instance_indices": [
+        4339,
+        4343,
+        4347,
+        4351,
+        4355,
+        4359,
+        4363
+      ]
+    },
+    {
+      "component_id": 9,
+      "negative_pairs": [
+        6,
+        192,
+        257,
+        320,
+        384,
+        513,
+        576,
+        640
+      ],
+      "exceptional_mask": 7,
+      "positive_quartics": [
+        198,
+        263,
+        325,
+        387,
+        519,
+        579,
+        645
+      ],
+      "source_instance_indices": [
+        4339,
+        4343,
+        4347,
+        4351,
+        4355,
+        4359,
+        4363
+      ]
+    },
+    {
+      "component_id": 10,
+      "negative_pairs": [
+        6,
+        96,
+        129,
+        160,
+        258,
+        320,
+        516,
+        576
+      ],
+      "exceptional_mask": 7,
+      "positive_quartics": [
+        102,
+        135,
+        166,
+        263,
+        325,
+        519,
+        579
+      ],
+      "source_instance_indices": [
+        9667
+      ]
+    },
+    {
+      "component_id": 11,
+      "negative_pairs": [
+        72,
+        144,
+        192,
+        264,
+        272,
+        513,
+        520,
+        528
+      ],
+      "exceptional_mask": 7,
+      "positive_quartics": [
+        15,
+        23,
+        270,
+        278,
+        585,
+        657,
+        705
+      ],
+      "source_instance_indices": [
+        12527
+      ]
+    },
+    {
+      "component_id": 12,
+      "negative_pairs": [
+        96,
+        132,
+        192,
+        258,
+        320,
+        516,
+        544,
+        768
+      ],
+      "exceptional_mask": 7,
+      "positive_quartics": [
+        71,
+        101,
+        390,
+        450,
+        519,
+        549,
+        774
+      ],
+      "source_instance_indices": [
+        12533
+      ]
+    },
+    {
+      "component_id": 13,
+      "negative_pairs": [
+        6,
+        192,
+        260,
+        288,
+        320,
+        516,
+        544,
+        640
+      ],
+      "exceptional_mask": 7,
+      "positive_quartics": [
+        198,
+        263,
+        293,
+        326,
+        519,
+        549,
+        646
+      ],
+      "source_instance_indices": [
+        12534
+      ]
+    },
+    {
+      "component_id": 14,
+      "negative_pairs": [
+        6,
+        129,
+        258,
+        320,
+        384,
+        516,
+        576,
+        640
+      ],
+      "exceptional_mask": 7,
+      "positive_quartics": [
+        135,
+        263,
+        326,
+        387,
+        519,
+        582,
+        645
+      ],
+      "source_instance_indices": [
+        12566,
+        12567,
+        12568,
+        12569,
+        12570,
+        12571,
+        12572
+      ]
+    },
+    {
+      "component_id": 15,
+      "negative_pairs": [
+        160,
+        192,
+        258,
+        288,
+        320,
+        516,
+        544,
+        576
+      ],
+      "exceptional_mask": 7,
+      "positive_quartics": [
+        39,
+        166,
+        198,
+        325,
+        579,
+        774,
+        801
+      ],
+      "source_instance_indices": [
+        13367
+      ]
+    },
+    {
+      "component_id": 16,
+      "negative_pairs": [
+        160,
+        192,
+        258,
+        288,
+        320,
+        516,
+        544,
+        576
+      ],
+      "exceptional_mask": 7,
+      "positive_quartics": [
+        71,
+        166,
+        198,
+        293,
+        547,
+        774,
+        833
+      ],
+      "source_instance_indices": [
+        13367
+      ]
+    }
+  ],
+  "claim": "COMPLETE_NATIVE_FAMILY_COVER_NOT_MINIMAL_ORBITS"
+}

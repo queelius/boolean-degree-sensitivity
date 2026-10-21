@@ -36,6 +36,27 @@ see [the receipt](verification/PUBLIC-ZENODO-v1.1.0.json). The frozen supplement
 retains its original pre-archive metadata as historical evidence. Novelty and
 human peer review are not established.
 
+## Three-exceptional singleton component cover
+
+A [second self-contained supplement](supplements/singleton-ell3-classification/README.md)
+classifies the constant-one ten-coordinate singleton components with three
+exceptional unit inputs. The complete cover has seventeen listed families;
+no minimal coordinate-orbit count is claimed. Written rank and graph reductions,
+literal coverage maps, and exhaustive quartet selection establish completeness.
+
+The [portable replay](verification/SINGLETON-ELL3-PORTABLE.json) uses only the
+Python standard library. Root replay from a copied directory exhausted all
+19,112 selection instances, checked all listed cube values and Fourier
+coefficients, and passed 11 normal and 11 optimized controls. The frozen packet
+retains its preparation-time publication and review notes; this root notice
+records the subsequent portable acceptance and public source release.
+
+**Neither Zenodo v1.0.0 nor v1.1.0 archives this second supplement.** Cite its
+exact public source commit until a substantive successor is archived. The
+constant-two classification and original fourteen-variable question remain
+open. Substantial AI assistance is disclosed; human review, formal verification
+and mathematical novelty are not established.
+
 ## What is proved
 
 Each specified case has a complete necessary linear model. An independent
