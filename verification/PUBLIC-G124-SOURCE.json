@@ -1,0 +1,281 @@
+{
+  "status": "EXACT_SOURCE_PUBLICLY_DISCLOSED_AND_ANONYMOUSLY_VERIFIED",
+  "repository": "https://github.com/queelius/boolean-degree-sensitivity",
+  "commit": "81e6f434d44ee67610a88aab18a2ed7438510bfc",
+  "commit_url": "https://github.com/queelius/boolean-degree-sensitivity/commit/81e6f434d44ee67610a88aab18a2ed7438510bfc",
+  "observed_at": "2026-10-21T17:01:47.929965+00:00",
+  "meaning": "All38 changed source files matched full anonymous downloads at this observation; no earlier public disclosure inferred from local preparation.",
+  "public_files_verified": 38,
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 9219,
+      "sha256": "b9661cfdac8051b90763155588f362105563233ee8d55c8191454fa3f8c18226",
+      "public_url": "https://raw.githubusercontent.com/queelius/boolean-degree-sensitivity/81e6f434d44ee67610a88aab18a2ed7438510bfc/README.md",
+      "downloaded_without_authentication": true
+    },
+    {
+      "path": "supplements/g124-positive-locality/APPLICATION.md",
+      "bytes": 2030,
+      "sha256": "ca7365ca0513f3674c9229075009fd89fa7f1e814199dd24db51df17b2c84203",
+      "public_url": "https://raw.githubusercontent.com/queelius/boolean-degree-sensitivity/81e6f434d44ee67610a88aab18a2ed7438510bfc/supplements/g124-positive-locality/APPLICATION.md",
+      "downloaded_without_authentication": true
+    },
+    {
+      "path": "supplements/g124-positive-locality/CITATION.cff",
+      "bytes": 928,
+      "sha256": "006ff62e358dfeaeaa7674ec4cb4b1a7e0840b0e57b985d5ab262d591cd812c6",
+      "public_url": "https://raw.githubusercontent.com/queelius/boolean-degree-sensitivity/81e6f434d44ee67610a88aab18a2ed7438510bfc/supplements/g124-positive-locality/CITATION.cff",
+      "downloaded_without_authentication": true
+    },
+    {
+      "path": "supplements/g124-positive-locality/LICENSE.md",
+      "bytes": 777,
+      "sha256": "e7140cbcd67cc5f8bef1caa82fae312d5d264c2ec99d696aed747f57ee795d95",
+      "public_url": "https://raw.githubusercontent.com/queelius/boolean-degree-sensitivity/81e6f434d44ee67610a88aab18a2ed7438510bfc/supplements/g124-positive-locality/LICENSE.md",
+      "downloaded_without_authentication": true
+    },
+    {
+      "path": "supplements/g124-positive-locality/LICENSES/CC-BY-4.0.txt",
+      "bytes": 18657,
+      "sha256": "9ba9550ad48438d0836ddab3da480b3b69ffa0aac7b7878b5a0039e7ab429411",
+      "public_url": "https://raw.githubusercontent.com/queelius/boolean-degree-sensitivity/81e6f434d44ee67610a88aab18a2ed7438510bfc/supplements/g124-positive-locality/LICENSES/CC-BY-4.0.txt",
+      "downloaded_without_authentication": true
+    },
+    {
+      "path": "supplements/g124-positive-locality/LICENSES/Original-code-MIT.txt",
+      "bytes": 1081,
+      "sha256": "0bc7f950be7c67cd218b910b42527e71099c9ef3cf9bc1c1bf77e99468fda2ec",
+      "public_url": "https://raw.githubusercontent.com/queelius/boolean-degree-sensitivity/81e6f434d44ee67610a88aab18a2ed7438510bfc/supplements/g124-positive-locality/LICENSES/Original-code-MIT.txt",
+      "downloaded_without_authentication": true
+    },
+    {
+      "path": "supplements/g124-positive-locality/MANIFEST.json",
+      "bytes": 5972,
+      "sha256": "34de3ecb6ca4e9a87428630cc71f95ad18eec49157a6786e8a848c3eb078a7ae",
+      "public_url": "https://raw.githubusercontent.com/queelius/boolean-degree-sensitivity/81e6f434d44ee67610a88aab18a2ed7438510bfc/supplements/g124-positive-locality/MANIFEST.json",
+      "downloaded_without_authentication": true
+    },
+    {
+      "path": "supplements/g124-positive-locality/PREPARATION-MANIFEST.json",
+      "bytes": 5604,
+      "sha256": "743a03b5cd5856d7f2d3c44eb420aa1204274a4dfe697d8adb4f854851b60ded",
+      "public_url": "https://raw.githubusercontent.com/queelius/boolean-degree-sensitivity/81e6f434d44ee67610a88aab18a2ed7438510bfc/supplements/g124-positive-locality/PREPARATION-MANIFEST.json",
+      "downloaded_without_authentication": true
+    },
+    {
+      "path": "supplements/g124-positive-locality/PROVENANCE.json",
+      "bytes": 6481,
+      "sha256": "ed9242599f4e0c30ec84fa034591052fb1d5c501ac522581deaff2502895de00",
+      "public_url": "https://raw.githubusercontent.com/queelius/boolean-degree-sensitivity/81e6f434d44ee67610a88aab18a2ed7438510bfc/supplements/g124-positive-locality/PROVENANCE.json",
+      "downloaded_without_authentication": true
+    },
+    {
+      "path": "supplements/g124-positive-locality/PUBLICATION_PLAN.json",
+      "bytes": 2593,
+      "sha256": "5b60384932d56358813fb26098ccfdde02e3b0b3c3761ea310ba6931fbdc9186",
+      "public_url": "https://raw.githubusercontent.com/queelius/boolean-degree-sensitivity/81e6f434d44ee67610a88aab18a2ed7438510bfc/supplements/g124-positive-locality/PUBLICATION_PLAN.json",
+      "downloaded_without_authentication": true
+    },
+    {
+      "path": "supplements/g124-positive-locality/README.md",
+      "bytes": 4091,
+      "sha256": "633df68b1d883a4346eb9fe1fcc696ab89ac2aef8dedbcbf6998e2bd43bc101a",
+      "public_url": "https://raw.githubusercontent.com/queelius/boolean-degree-sensitivity/81e6f434d44ee67610a88aab18a2ed7438510bfc/supplements/g124-positive-locality/README.md",
+      "downloaded_without_authentication": true
+    },
+    {
+      "path": "supplements/g124-positive-locality/REFERENCES.bib",
+      "bytes": 514,
+      "sha256": "057872479fb4f884285ed4f661b0476ffe286d021fc806c5ae270e6cd617fd4c",
+      "public_url": "https://raw.githubusercontent.com/queelius/boolean-degree-sensitivity/81e6f434d44ee67610a88aab18a2ed7438510bfc/supplements/g124-positive-locality/REFERENCES.bib",
+      "downloaded_without_authentication": true
+    },
+    {
+      "path": "supplements/g124-positive-locality/REVIEW_HISTORY.md",
+      "bytes": 2471,
+      "sha256": "281f33b072ea0f8ebb42b1fa9f78b24281b4f81d544a97b3adbf7fb9d3338d10",
+      "public_url": "https://raw.githubusercontent.com/queelius/boolean-degree-sensitivity/81e6f434d44ee67610a88aab18a2ed7438510bfc/supplements/g124-positive-locality/REVIEW_HISTORY.md",
+      "downloaded_without_authentication": true
+    },
+    {
+      "path": "supplements/g124-positive-locality/THEOREM.md",
+      "bytes": 4553,
+      "sha256": "b0533fa67f72f54d8cfad68c5d3d72b096856de4b82c61309130c2149689cea0",
+      "public_url": "https://raw.githubusercontent.com/queelius/boolean-degree-sensitivity/81e6f434d44ee67610a88aab18a2ed7438510bfc/supplements/g124-positive-locality/THEOREM.md",
+      "downloaded_without_authentication": true
+    },
+    {
+      "path": "supplements/g124-positive-locality/data/catalog.json.gz",
+      "bytes": 1704,
+      "sha256": "4e791d62cdc6075a94f3f413437d87e02bcf34fb24fb636fe6027cf034c454cd",
+      "public_url": "https://raw.githubusercontent.com/queelius/boolean-degree-sensitivity/81e6f434d44ee67610a88aab18a2ed7438510bfc/supplements/g124-positive-locality/data/catalog.json.gz",
+      "downloaded_without_authentication": true
+    },
+    {
+      "path": "supplements/g124-positive-locality/data/certificate.json.gz",
+      "bytes": 63317,
+      "sha256": "3c7de2faced8f504eef9bbce914826c066987c1827fc32f17adad28b48e387e9",
+      "public_url": "https://raw.githubusercontent.com/queelius/boolean-degree-sensitivity/81e6f434d44ee67610a88aab18a2ed7438510bfc/supplements/g124-positive-locality/data/certificate.json.gz",
+      "downloaded_without_authentication": true
+    },
+    {
+      "path": "supplements/g124-positive-locality/data/external-classification.json",
+      "bytes": 828,
+      "sha256": "91b95cec80e1a7bc48fc5d7f31b0c269f7304307d73449de8e18d3881f57d654",
+      "public_url": "https://raw.githubusercontent.com/queelius/boolean-degree-sensitivity/81e6f434d44ee67610a88aab18a2ed7438510bfc/supplements/g124-positive-locality/data/external-classification.json",
+      "downloaded_without_authentication": true
+    },
+    {
+      "path": "supplements/g124-positive-locality/data/manifest.json",
+      "bytes": 525,
+      "sha256": "5f307a8b506e85b2e62f2b234ff098f21db111e6d063aa9070f6873935fd829c",
+      "public_url": "https://raw.githubusercontent.com/queelius/boolean-degree-sensitivity/81e6f434d44ee67610a88aab18a2ed7438510bfc/supplements/g124-positive-locality/data/manifest.json",
+      "downloaded_without_authentication": true
+    },
+    {
+      "path": "supplements/g124-positive-locality/packet_io.py",
+      "bytes": 4390,
+      "sha256": "1536431d19854e055c1f561f3ace9a279a2d8d3d16b325b0bb61eef620616a5c",
+      "public_url": "https://raw.githubusercontent.com/queelius/boolean-degree-sensitivity/81e6f434d44ee67610a88aab18a2ed7438510bfc/supplements/g124-positive-locality/packet_io.py",
+      "downloaded_without_authentication": true
+    },
+    {
+      "path": "supplements/g124-positive-locality/test_packet.py",
+      "bytes": 7056,
+      "sha256": "2815e2e7b2f12df0984a4e867449890b7e53d8e5fad93a18324ef67748312b3c",
+      "public_url": "https://raw.githubusercontent.com/queelius/boolean-degree-sensitivity/81e6f434d44ee67610a88aab18a2ed7438510bfc/supplements/g124-positive-locality/test_packet.py",
+      "downloaded_without_authentication": true
+    },
+    {
+      "path": "supplements/g124-positive-locality/verification/PARENT_ACCEPTANCE.json",
+      "bytes": 521,
+      "sha256": "91e26c5ab138bf76fbed6355a844d3b31f3a169dfce54513e631dc9ad2a15ebd",
+      "public_url": "https://raw.githubusercontent.com/queelius/boolean-degree-sensitivity/81e6f434d44ee67610a88aab18a2ed7438510bfc/supplements/g124-positive-locality/verification/PARENT_ACCEPTANCE.json",
+      "downloaded_without_authentication": true
+    },
+    {
+      "path": "supplements/g124-positive-locality/verification/PREPARATION.json",
+      "bytes": 2274,
+      "sha256": "db06b145aa91bcebabbc6b0d50d9ff842b0405a4728807d71fb7098425015d56",
+      "public_url": "https://raw.githubusercontent.com/queelius/boolean-degree-sensitivity/81e6f434d44ee67610a88aab18a2ed7438510bfc/supplements/g124-positive-locality/verification/PREPARATION.json",
+      "downloaded_without_authentication": true
+    },
+    {
+      "path": "supplements/g124-positive-locality/verification/cff-validation.log",
+      "bytes": 63,
+      "sha256": "93a42b6051d6501eb23ca963eb296b814aa8c4e63b94d3010df91e650f43fe85",
+      "public_url": "https://raw.githubusercontent.com/queelius/boolean-degree-sensitivity/81e6f434d44ee67610a88aab18a2ed7438510bfc/supplements/g124-positive-locality/verification/cff-validation.log",
+      "downloaded_without_authentication": true
+    },
+    {
+      "path": "supplements/g124-positive-locality/verification/controls-covered.log",
+      "bytes": 928,
+      "sha256": "f028d864a280cf3b3ccb8b104c0bdbb18271be03713d370695ec5bc8fb8243a4",
+      "public_url": "https://raw.githubusercontent.com/queelius/boolean-degree-sensitivity/81e6f434d44ee67610a88aab18a2ed7438510bfc/supplements/g124-positive-locality/verification/controls-covered.log",
+      "downloaded_without_authentication": true
+    },
+    {
+      "path": "supplements/g124-positive-locality/verification/controls-normal.log",
+      "bytes": 928,
+      "sha256": "2599fd64fb6d12cbcb33be62046631e7ec3bf8c24cb869b863f88e75731a463c",
+      "public_url": "https://raw.githubusercontent.com/queelius/boolean-degree-sensitivity/81e6f434d44ee67610a88aab18a2ed7438510bfc/supplements/g124-positive-locality/verification/controls-normal.log",
+      "downloaded_without_authentication": true
+    },
+    {
+      "path": "supplements/g124-positive-locality/verification/controls-optimized.log",
+      "bytes": 928,
+      "sha256": "116118e72c0f7c903184ad5fd03caed97b76991416fcb3505b47aef6668ad894",
+      "public_url": "https://raw.githubusercontent.com/queelius/boolean-degree-sensitivity/81e6f434d44ee67610a88aab18a2ed7438510bfc/supplements/g124-positive-locality/verification/controls-optimized.log",
+      "downloaded_without_authentication": true
+    },
+    {
+      "path": "supplements/g124-positive-locality/verification/copied-quartet.json",
+      "bytes": 1805,
+      "sha256": "b0032fd8e303c7afb3e1e0c392c08bf023b7c7e7dacc4bab0904df9ef1a00e5e",
+      "public_url": "https://raw.githubusercontent.com/queelius/boolean-degree-sensitivity/81e6f434d44ee67610a88aab18a2ed7438510bfc/supplements/g124-positive-locality/verification/copied-quartet.json",
+      "downloaded_without_authentication": true
+    },
+    {
+      "path": "supplements/g124-positive-locality/verification/copied-quartet.log",
+      "bytes": 524,
+      "sha256": "b5da5880d68cb3de6eaade9ac12b3f395840dc9b328df56c7cdaebc040e8ce02",
+      "public_url": "https://raw.githubusercontent.com/queelius/boolean-degree-sensitivity/81e6f434d44ee67610a88aab18a2ed7438510bfc/supplements/g124-positive-locality/verification/copied-quartet.log",
+      "downloaded_without_authentication": true
+    },
+    {
+      "path": "supplements/g124-positive-locality/verification/copied-union.json",
+      "bytes": 1810,
+      "sha256": "08137b5e1ec3ce0ba87bedda9a5108c8764b622fb5c378e4e5e05db0ae913ac1",
+      "public_url": "https://raw.githubusercontent.com/queelius/boolean-degree-sensitivity/81e6f434d44ee67610a88aab18a2ed7438510bfc/supplements/g124-positive-locality/verification/copied-union.json",
+      "downloaded_without_authentication": true
+    },
+    {
+      "path": "supplements/g124-positive-locality/verification/copied-union.log",
+      "bytes": 531,
+      "sha256": "d14d88748218ac311c8cb5ab028e17598ee5c09eef664bc9b43853edc90c7f2b",
+      "public_url": "https://raw.githubusercontent.com/queelius/boolean-degree-sensitivity/81e6f434d44ee67610a88aab18a2ed7438510bfc/supplements/g124-positive-locality/verification/copied-union.log",
+      "downloaded_without_authentication": true
+    },
+    {
+      "path": "supplements/g124-positive-locality/verification/coverage-generation.log",
+      "bytes": 48,
+      "sha256": "1cbe602b42024bdc9be9ada0363a6be34deb958570dd4989b657e92241bf161a",
+      "public_url": "https://raw.githubusercontent.com/queelius/boolean-degree-sensitivity/81e6f434d44ee67610a88aab18a2ed7438510bfc/supplements/g124-positive-locality/verification/coverage-generation.log",
+      "downloaded_without_authentication": true
+    },
+    {
+      "path": "supplements/g124-positive-locality/verification/coverage.json",
+      "bytes": 23753,
+      "sha256": "81856e750f9b6b37e79057376240a00e16fa699ec3479227ae9f7ff7f11de7c4",
+      "public_url": "https://raw.githubusercontent.com/queelius/boolean-degree-sensitivity/81e6f434d44ee67610a88aab18a2ed7438510bfc/supplements/g124-positive-locality/verification/coverage.json",
+      "downloaded_without_authentication": true
+    },
+    {
+      "path": "supplements/g124-positive-locality/verification/quartet.json",
+      "bytes": 1805,
+      "sha256": "5653e6ee92dbd5d3fe3c2e01e182c975568f26469c08779d5bc353a551822794",
+      "public_url": "https://raw.githubusercontent.com/queelius/boolean-degree-sensitivity/81e6f434d44ee67610a88aab18a2ed7438510bfc/supplements/g124-positive-locality/verification/quartet.json",
+      "downloaded_without_authentication": true
+    },
+    {
+      "path": "supplements/g124-positive-locality/verification/quartet.log",
+      "bytes": 524,
+      "sha256": "d505297fa520aac9a754b1e16f859ce5fd6ceb4c9f5a9428496e667ac0af2684",
+      "public_url": "https://raw.githubusercontent.com/queelius/boolean-degree-sensitivity/81e6f434d44ee67610a88aab18a2ed7438510bfc/supplements/g124-positive-locality/verification/quartet.log",
+      "downloaded_without_authentication": true
+    },
+    {
+      "path": "supplements/g124-positive-locality/verification/union.json",
+      "bytes": 1810,
+      "sha256": "c7556d45c8f5e69e502162d67a113afb879faeba96d30fad4eefc687b55a7469",
+      "public_url": "https://raw.githubusercontent.com/queelius/boolean-degree-sensitivity/81e6f434d44ee67610a88aab18a2ed7438510bfc/supplements/g124-positive-locality/verification/union.json",
+      "downloaded_without_authentication": true
+    },
+    {
+      "path": "supplements/g124-positive-locality/verification/union.log",
+      "bytes": 531,
+      "sha256": "ba84d3b88022abc904f151eb8724a603cd3f6640712df063fae97dec4d1fc8d1",
+      "public_url": "https://raw.githubusercontent.com/queelius/boolean-degree-sensitivity/81e6f434d44ee67610a88aab18a2ed7438510bfc/supplements/g124-positive-locality/verification/union.log",
+      "downloaded_without_authentication": true
+    },
+    {
+      "path": "supplements/g124-positive-locality/verify_quartet.py",
+      "bytes": 6250,
+      "sha256": "023837f5d8b0663298d15570c09f6aa0c32179fa409feb1cb566dc5d068488a5",
+      "public_url": "https://raw.githubusercontent.com/queelius/boolean-degree-sensitivity/81e6f434d44ee67610a88aab18a2ed7438510bfc/supplements/g124-positive-locality/verify_quartet.py",
+      "downloaded_without_authentication": true
+    },
+    {
+      "path": "supplements/g124-positive-locality/verify_union.py",
+      "bytes": 5337,
+      "sha256": "006e6e38c39f73ebddaa30c94efcd6031f20a14c73258e678ddffea3ccaacc05",
+      "public_url": "https://raw.githubusercontent.com/queelius/boolean-degree-sensitivity/81e6f434d44ee67610a88aab18a2ed7438510bfc/supplements/g124-positive-locality/verify_union.py",
+      "downloaded_without_authentication": true
+    }
+  ],
+  "global_problem_status": "OPEN",
+  "human_peer_review": false,
+  "formal_verification": false,
+  "novelty_established": false
+}

@@ -108,15 +108,24 @@ them is distinct from checking the ten large certificates.
 ## Citation and public record
 
 Use [CITATION.cff](CITATION.cff) to cite the current exact archive, version
-**1.2.0**, [10.5281/zenodo.23536478](https://doi.org/10.5281/zenodo.23536478),
-published on 21 October 2026. It pins the ell3 source at commit
-`54644197be81024d1cfd18f74235a093cbcaf3a4` and retains the earlier evidence.
-The [public verification receipt](verification/PUBLIC-ZENODO-v1.2.0.json) records
-four new files freshly downloaded without authentication and 52 retained files
-checked by predecessor full-body SHA-256 continuity and successor MD5/size metadata.
-It does not claim 56 fresh successor downloads. Later G25/G17 research and a global
-solution are outside this archive. Version 1.1.0 remains the earlier exact archive
-for the ten exclusions and ell2 classification.
+**1.3.0**, [10.5281/zenodo.23539867](https://doi.org/10.5281/zenodo.23539867),
+published on 21 October 2026. It pins the graph supplement at commit
+`81e6f434d44ee67610a88aab18a2ed7438510bfc` and retains the earlier evidence.
+The [public verification receipt](verification/PUBLIC-ZENODO-v1.3.0.json) records
+four new files freshly downloaded without authentication and both full proof
+replays from the downloaded archive. The 56 retained entries passed earlier-body
+SHA-256/MD5 rehash and successor MD5/size continuity. This does not claim 60 fresh
+downloads. The graph lemma inherits the published Markström–Talbot 75-class count;
+the Boolean application has additional unbundled premises. Later research and a
+global solution are outside this archive.
+
+Version **1.2.0**, [10.5281/zenodo.23536478](https://doi.org/10.5281/zenodo.23536478),
+remains the earlier exact archive for the ell3 cover and retained exclusions/ell2
+classification, pinning source `54644197be81024d1cfd18f74235a093cbcaf3a4`.
+Its [receipt](verification/PUBLIC-ZENODO-v1.2.0.json) preserves the four-new/52-retained
+verification protocol. Version 1.1.0 remains the earlier exact archive for the ten
+exclusions and ell2 classification. None of these earlier versions contains the
+graph supplement.
 
 For the earlier ten-exclusion-only archive, the exact citation remains:
 Alexander Richard Towell (2026), *Exact spectral exclusion certificates for
@@ -155,4 +164,4 @@ Third-party notices are retained. See [LICENSE.md](LICENSE.md).
 
 ## Positive-obstruction locality graph supplement
 
-The [verified portable graph supplement](supplements/g124-positive-locality/README.md) proves the positive-locality lemma for free124-edge fourteen-vertex3-graphs, relative to the explicitly cited Markström–Talbot75-class count, and the minimum-six-repair corollary. Two distinct standard-library algorithms and literal75-graph data are included. The Boolean application has additional unbundled premises; the original existence problem remains open. The supplement citation identifies the intended exact1.3.0 archive in the existing DOI family. Its public state and final publication receipts establish archival completion.
+The [verified portable graph supplement](supplements/g124-positive-locality/README.md) proves the positive-locality lemma for free124-edge fourteen-vertex3-graphs, relative to the explicitly cited Markström–Talbot75-class count, and the minimum-six-repair corollary. Two distinct standard-library algorithms and literal75-graph data are included. The Boolean application has additional unbundled premises; the original existence problem remains open. The graph supplement is archived in exact version1.3.0, [10.5281/zenodo.23539867](https://doi.org/10.5281/zenodo.23539867). Four new files were fully downloaded anonymously and both verifiers reran from the public archive;56 retained entries passed predecessor-body rehash and successor MD5/size continuity. [The public receipt](verification/PUBLIC-ZENODO-v1.3.0.json) states this scope without claiming60 fresh downloads. Earlier versions and their original disclosure dates remain preserved.

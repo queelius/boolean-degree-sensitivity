@@ -1,32 +1,31 @@
 cff-version: 1.2.0
-message: "Cite this exact published version for the retained exclusions and both singleton component classifications."
-title: "Exact spectral exclusions and singleton component classifications for degree-five Boolean candidates"
+message: "Cite this exact version for the retained results and the graph-locality supplement; the Boolean problem remains open."
+title: "Exact spectral exclusions, singleton components and graph locality for degree-five Boolean candidates"
 type: software
 authors:
   - family-names: Towell
     given-names: Alexander Richard
     orcid: "https://orcid.org/0000-0001-6443-9897"
     affiliation: "Southern Illinois University Edwardsville"
-doi: "10.5281/zenodo.23536478"
-version: "1.2.0"
+doi: "10.5281/zenodo.23539867"
+version: "1.3.0"
 date-released: "2026-10-21"
 repository-code: "https://github.com/queelius/boolean-degree-sensitivity"
-commit: "54644197be81024d1cfd18f74235a093cbcaf3a4"
-url: "https://doi.org/10.5281/zenodo.23536478"
+commit: "81e6f434d44ee67610a88aab18a2ed7438510bfc"
+url: "https://doi.org/10.5281/zenodo.23539867"
 license:
   - MIT
   - CC-BY-4.0
 keywords:
   - Boolean functions
-  - polynomial degree
-  - sensitivity
-  - Fourier analysis
+  - hypergraphs
   - exact verification
-  - component classification
+  - reproducibility
 abstract: >-
-  A complete seventeen-family cover for constant-one ten-coordinate singleton
-  components with three exceptional inputs, with written reductions and a
-  standard-library exact verifier, supplements the retained two-exceptional
-  classification and ten conditional exclusions. The fourteen-variable
-  existence question remains open. Substantial AI assistance is disclosed;
-  human review, formal verification and mathematical novelty are not established.
+  A reproducible positive-obstruction locality lemma for free124-edge fourteen-vertex
+  3-graphs, relative to Markstrom-Talbot's published75-class count, and its minimum-six-repair
+  corollary supplement the retained spectral exclusions and singleton classifications.
+  Two distinct standard-library verifiers and all75 literal graphs are included.
+  The Boolean application has additional unbundled premises; the original question
+  remains open. Substantial AI assistance; novelty, formal verification and human
+  peer review are not established.
