@@ -51,10 +51,10 @@ coefficients, and passed 11 normal and 11 optimized controls. The frozen packet
 retains its preparation-time publication and review notes; this root notice
 records the subsequent portable acceptance and public source release.
 
-**Neither Zenodo v1.0.0 nor v1.1.0 archives this second supplement.** Cite its
-exact public source commit until a substantive successor is archived. The
-constant-two classification and original fourteen-variable question remain
-open. Substantial AI assistance is disclosed; human review, formal verification
+Version **1.2.0**, [10.5281/zenodo.23536478](https://doi.org/10.5281/zenodo.23536478),
+archives this second supplement together with the retained earlier evidence.
+Neither v1.0.0 nor v1.1.0 includes it. The constant-two classification and
+original fourteen-variable question remain open. Substantial AI assistance is disclosed; human review, formal verification
 and mathematical novelty are not established.
 
 ## What is proved
@@ -108,10 +108,15 @@ them is distinct from checking the ten large certificates.
 ## Citation and public record
 
 Use [CITATION.cff](CITATION.cff) to cite the current exact archive, version
-**1.1.0**, [10.5281/zenodo.23533427](https://doi.org/10.5281/zenodo.23533427),
-published on 21 October 2026. It pins the singleton source at commit
-`b954f03228c9e5637b4d12b469376a418dabccb4` and retains all v1.0.0 files.
-It does not archive the later ell3 catalog, subsequent research, or a global solution.
+**1.2.0**, [10.5281/zenodo.23536478](https://doi.org/10.5281/zenodo.23536478),
+published on 21 October 2026. It pins the ell3 source at commit
+`54644197be81024d1cfd18f74235a093cbcaf3a4` and retains the earlier evidence.
+The [public verification receipt](verification/PUBLIC-ZENODO-v1.2.0.json) records
+four new files freshly downloaded without authentication and 52 retained files
+checked by predecessor full-body SHA-256 continuity and successor MD5/size metadata.
+It does not claim 56 fresh successor downloads. Later G25/G17 research and a global
+solution are outside this archive. Version 1.1.0 remains the earlier exact archive
+for the ten exclusions and ell2 classification.
 
 For the earlier ten-exclusion-only archive, the exact citation remains:
 Alexander Richard Towell (2026), *Exact spectral exclusion certificates for

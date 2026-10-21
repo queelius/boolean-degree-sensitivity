@@ -1,31 +1,32 @@
 cff-version: 1.2.0
-message: "Cite this exact published version for the ten retained exclusions and singleton classification."
-title: "Exact spectral exclusions and singleton component classification for degree-five Boolean candidates"
+message: "Cite this exact published version for the retained exclusions and both singleton component classifications."
+title: "Exact spectral exclusions and singleton component classifications for degree-five Boolean candidates"
 type: software
 authors:
   - family-names: Towell
     given-names: Alexander Richard
     orcid: "https://orcid.org/0000-0001-6443-9897"
     affiliation: "Southern Illinois University Edwardsville"
-doi: "10.5281/zenodo.23533427"
-version: "1.1.0"
+doi: "10.5281/zenodo.23536478"
+version: "1.2.0"
 date-released: "2026-10-21"
 repository-code: "https://github.com/queelius/boolean-degree-sensitivity"
-commit: "b954f03228c9e5637b4d12b469376a418dabccb4"
-url: "https://doi.org/10.5281/zenodo.23533427"
+commit: "54644197be81024d1cfd18f74235a093cbcaf3a4"
+url: "https://doi.org/10.5281/zenodo.23536478"
 license:
   - MIT
   - CC-BY-4.0
 keywords:
   - Boolean functions
-  - Fourier analysis
   - polynomial degree
   - sensitivity
+  - Fourier analysis
   - exact verification
   - component classification
 abstract: >-
-  A self-contained written singleton-component classification and exact catalog
-  of30240 ten-coordinate five-cycle forms, with full cube and Walsh checks,
-  supplements the retained ten conditional degree-five Boolean exclusions.
-  The fourteen-variable existence problem remains open. Substantial AI
-  assistance and review; no formal verification, human review or novelty claimed.
+  A complete seventeen-family cover for constant-one ten-coordinate singleton
+  components with three exceptional inputs, with written reductions and a
+  standard-library exact verifier, supplements the retained two-exceptional
+  classification and ten conditional exclusions. The fourteen-variable
+  existence question remains open. Substantial AI assistance is disclosed;
+  human review, formal verification and mathematical novelty are not established.

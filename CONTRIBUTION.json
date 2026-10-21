@@ -36,8 +36,8 @@
     "receipt": "verification/REPLAY-RECEIPT.json"
   },
   "publication": {
-    "state": "published_archive_public_downloads_verified",
-    "version_doi": "10.5281/zenodo.23533427",
+    "state": "published_archive_new_files_verified_retained_hash_continuity_verified",
+    "version_doi": "10.5281/zenodo.23536478",
     "concept_doi": "10.5281/zenodo.23496541",
     "original_public_disclosures": [
       {
@@ -68,25 +68,51 @@
         "sha256": "944e4e2db0e2313503917f3bf55fe9b6aaedf00059f0be50906e13a1fa9107f8"
       }
     },
-    "zenodo_status": "Published; all52 anonymous public file downloads and reassembled legacy archive verified.",
+    "zenodo_status": "Published v1.2.0; four new anonymous full downloads verified, 52 retained entries verified by predecessor full-body hash continuity and successor MD5/size metadata.",
     "archive_publication_date": "2026-10-21",
     "zenodo_archive": {
-      "record_url": "https://zenodo.org/records/23533427",
-      "version": "1.1.0",
-      "created_at": "2026-10-21T12:02:46.335006+00:00",
-      "public_asset_count": 52,
-      "public_download_verification": "COMPLETE",
-      "verified_at": "2026-10-21T13:16:27.004319+00:00",
-      "all_public_downloads_match_sha256": true,
-      "reassembled_public_parts_match_original_archive": true,
-      "source_commit": "b954f03228c9e5637b4d12b469376a418dabccb4",
-      "scope": "Ten earlier conditional geometry34 exclusions, plus the standalone ten-coordinate ell2 singleton classification. No ell3 catalog or later G25 progress is archived.",
+      "record_url": "https://zenodo.org/records/23536478",
+      "version": "1.2.0",
+      "created_at": "2026-10-21T14:24:58.987329+00:00",
+      "public_asset_count": 56,
+      "public_download_verification": "PUBLISHED_NEW_FILES_VERIFIED_RETAINED_HASH_CONTINUITY_VERIFIED",
+      "verified_at": "2026-10-21T14:28:38.401850+00:00",
+      "new_files_freshly_downloaded_without_authentication": 4,
+      "retained_files_predecessor_sha256_rehashed_locally": 52,
+      "retained_files_successor_md5_and_size_verified": 52,
+      "all_new_public_downloads_match_sha256": true,
+      "all_successor_public_files_freshly_downloaded": false,
+      "verification_limit": "Only the four new files were freshly downloaded from v1.2.0. All52 retained entries match the MD5/size metadata of v1.1.0 and its previously anonymous full downloads, rehashed again locally. No fresh56-download or new SHA256 computation on the52 successor bodies is claimed.",
+      "source_commit": "54644197be81024d1cfd18f74235a093cbcaf3a4",
+      "scope": "Ten earlier conditional geometry34 exclusions, the standalone ten-coordinate ell2 classification, and the constant-one ell3 seventeen-family cover. No later G25/G17 research, constant-two ell3 classification, or global solution is archived.",
       "verification_receipt": {
-        "path": "verification/PUBLIC-ZENODO-v1.1.0.json",
-        "sha256": "4f6e9557180d47e96c77f8d73e6c0cb1221e8b0d00d2dc3e8a4bd467d5b8fd2f"
+        "path": "verification/PUBLIC-ZENODO-v1.2.0.json",
+        "sha256": "16dd8012afbfd90880fb9d40eaec72a8b1e8f08033277a2b5f80a9f596a5245d"
       }
     },
     "prior_archived_versions": [
+      {
+        "version": "1.1.0",
+        "version_doi": "10.5281/zenodo.23533427",
+        "archive_publication_date": "2026-10-21",
+        "zenodo_archive": {
+          "record_url": "https://zenodo.org/records/23533427",
+          "version": "1.1.0",
+          "created_at": "2026-10-21T12:02:46.335006+00:00",
+          "public_asset_count": 52,
+          "public_download_verification": "COMPLETE",
+          "verified_at": "2026-10-21T13:16:27.004319+00:00",
+          "all_public_downloads_match_sha256": true,
+          "reassembled_public_parts_match_original_archive": true,
+          "source_commit": "b954f03228c9e5637b4d12b469376a418dabccb4",
+          "scope": "Ten earlier conditional geometry34 exclusions, plus the standalone ten-coordinate ell2 singleton classification. No ell3 catalog or later G25 progress is archived.",
+          "verification_receipt": {
+            "path": "verification/PUBLIC-ZENODO-v1.1.0.json",
+            "sha256": "4f6e9557180d47e96c77f8d73e6c0cb1221e8b0d00d2dc3e8a4bd467d5b8fd2f"
+          }
+        },
+        "scope": "Ten earlier conditional geometry34 exclusions, plus the standalone ten-coordinate ell2 singleton classification. No ell3 catalog or later G25 progress is archived."
+      },
       {
         "version": "1.0.0",
         "version_doi": "10.5281/zenodo.23496542",
@@ -161,18 +187,34 @@
         "public_download_receipt": "SINGLETON-SOURCE.json"
       },
       "publication": {
-        "state": "published_archive_public_downloads_verified",
-        "version": "1.1.0",
-        "version_doi": "10.5281/zenodo.23533427",
+        "state": "published_archive_new_files_verified_retained_hash_continuity_verified",
+        "version": "1.2.0",
+        "version_doi": "10.5281/zenodo.23536478",
         "concept_doi": "10.5281/zenodo.23496541",
         "archive_publication_date": "2026-10-21",
-        "record_url": "https://zenodo.org/records/23533427",
-        "all_public_downloads_verified": true,
-        "public_asset_count": 52,
-        "earlier_version_doi": "10.5281/zenodo.23496542",
-        "earlier_version_archives_this_supplement": false,
+        "record_url": "https://zenodo.org/records/23536478",
+        "public_asset_count": 56,
+        "verification_receipt": {
+          "path": "verification/PUBLIC-ZENODO-v1.2.0.json",
+          "sha256": "16dd8012afbfd90880fb9d40eaec72a8b1e8f08033277a2b5f80a9f596a5245d"
+        },
+        "verification_protocol": "4 new full anonymous downloads; 52 retained entries checked by predecessor full-body hash continuity and successor MD5/size metadata.",
         "journal_submission": null,
-        "preprint_server_submission": null
+        "preprint_server_submission": null,
+        "first_archived_version": {
+          "state": "published_archive_public_downloads_verified",
+          "version": "1.1.0",
+          "version_doi": "10.5281/zenodo.23533427",
+          "concept_doi": "10.5281/zenodo.23496541",
+          "archive_publication_date": "2026-10-21",
+          "record_url": "https://zenodo.org/records/23533427",
+          "all_public_downloads_verified": true,
+          "public_asset_count": 52,
+          "earlier_version_doi": "10.5281/zenodo.23496542",
+          "earlier_version_archives_this_supplement": false,
+          "journal_submission": null,
+          "preprint_server_submission": null
+        }
       },
       "license": {
         "code": "MIT",
@@ -229,12 +271,24 @@
         "public_download_receipt": "SINGLETON-ELL3-SOURCE.json"
       },
       "publication": {
-        "state": "public_source_exact_commit_citable_archive_pending",
-        "version_doi": null,
-        "existing_v1_1_doi_does_not_archive_this_supplement": true,
-        "candidate_existing_concept_doi": "10.5281/zenodo.23496541",
+        "state": "published_archive_new_files_verified_retained_hash_continuity_verified",
+        "version": "1.2.0",
+        "version_doi": "10.5281/zenodo.23536478",
+        "concept_doi": "10.5281/zenodo.23496541",
+        "archive_publication_date": "2026-10-21",
+        "record_url": "https://zenodo.org/records/23536478",
+        "public_asset_count": 56,
+        "verification_receipt": {
+          "path": "verification/PUBLIC-ZENODO-v1.2.0.json",
+          "sha256": "16dd8012afbfd90880fb9d40eaec72a8b1e8f08033277a2b5f80a9f596a5245d"
+        },
+        "verification_protocol": "4 new full anonymous downloads; 52 retained entries checked by predecessor full-body hash continuity and successor MD5/size metadata.",
         "journal_submission": null,
-        "preprint_server_submission": null
+        "preprint_server_submission": null,
+        "earlier_archived_versions_do_not_include_this_supplement": [
+          "1.0.0",
+          "1.1.0"
+        ]
       },
       "license": {
         "code": "MIT",
