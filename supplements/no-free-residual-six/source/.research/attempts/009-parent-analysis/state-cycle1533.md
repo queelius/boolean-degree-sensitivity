@@ -1,0 +1,13 @@
+# Checkpoint 1533: one-free residual-six case excluded
+
+GLOBAL STATUS: OPEN. No Boolean construction verified on all 16,384 inputs and no exhaustive nonexistence proof. New: the one-free residual-six case (residual defect <= 6, exactly one negative-free coordinate) is excluded: the 24 Type II shapes left open in 1532 fall to 3184 LRAT case certificates checked by an independent reader (attempt 017), conditional on its AI-reviewed lemmas and the 1513/1523 premises. Also, all 26 signed-star contexts are now excluded on raw rows. Still 29 open original magnitude patterns out of 73; no whole pattern changed.
+
+New since 1532 (Claude Code, attempt 017, with Codex as reviewer). Structure: outside triangle --- every exceptional vertex link is a sphere from a complete catalog (VERTEX-TYPES.md); every ordinary link is a sphere, by an exact cross-edge search (CROSS-EDGES.md), hence one of the six deltahedra; links of the occurring types are near-flag (NEAR-FLAG.md); triangle --- and the doubled-quartic shape are rooted at an ordinary vertex (SPECIAL-SHAPES.md). Cover: 2775 + 81 + 328 cases, checked by an independent cover reader against every labelled placement and bound to the 24 OPEN rows of the 1532 frontier. Model: exact rows equivalent to the hypotheses on p, plus proved near-flag and implied rows (positive control: the 16-cell at n = 8). Certificates: CP-SAT core, 014 CNF encoder, CaDiCaL LRAT, pinned lrat-trim; every core avoids the constant row, so each holds at c = 1 and 2; `reader017.py` rebuilds every row from its definition (hardened after a Codex counterexample). `read_all.py`: ALL_CASES_VERIFIED, 3184 certificates, 0 rejected, 0 missing.
+
+Also new: the root-7 context o7-i0-c2 has infeasible raw rows without the 1497 unit clauses (014 raw pipeline, 3,987-row core, LRAT, 014 reader; `attempts/014-context-pricing/ROOT7-C2-RAW.md`), so the signed-star frontier is 26/26 on raw rows.
+
+Conditional on: 1532 and its premises; the four 017 lemma notes (reviewed by Codex, partly by a Claude subagent; not human review); the 015 sphere enumeration; CaDiCaL and lrat-trim. Authority: `one-free-residual6-acceptance-cycle1533.json`; frontier: `one-free-residual6-frontier-cycle1533.json` (Types I, II, III excluded; 136/136 Type II classes).
+
+Unchanged: 29 open original magnitude patterns out of 73. The no-free residual-six case and residual defect above six remain open and are necessary for the full objective. Scopes are nested and not additive; there is no completion fraction. Arbitrary original functions are not assumed selfdual.
+
+Evidence: `attempts/017-type-ii-three-exception/CERTIFICATES.md`. Not published; v1.4 DOI 10.5281/zenodo.23544931 keeps its earlier scope.

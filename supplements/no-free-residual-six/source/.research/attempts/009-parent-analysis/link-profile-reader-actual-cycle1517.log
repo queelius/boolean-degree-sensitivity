@@ -1,0 +1,1 @@
+{"status": "INDEPENDENTLY_VERIFIED_LITERAL_VERTEX_LINK_PROFILE_SCAN", "native_records_checked": 9146, "summary": {"ordinary": {"7": 1, "8": 1, "9": 1, "10": 1, "12": 1}, "positive_tip": {"7": 1}, "negative_tip": {"9": 1, "10": 1, "11": 1}}, "elapsed_CPU_seconds": 1.3373643960000001, "peak_RSS_bytes": 46292992}

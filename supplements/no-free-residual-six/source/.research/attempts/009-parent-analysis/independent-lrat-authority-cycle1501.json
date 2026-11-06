@@ -1,0 +1,188 @@
+{
+  "schema_version": 1,
+  "status": "EXCLUDED_GENUINE_ROOT7_C2_CONTEXT",
+  "observed_at": "2026-10-21T22:56:44.220592+00:00",
+  "actual": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/independent-lrat-actual-cycle1501.json",
+    "sha256": "dd1038f1b3f6c5c8a48f9e2c01fbeb39d24b4ca979668125e357d61b7e15e3b2",
+    "bytes": 7172
+  },
+  "review": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/independent-lrat-scope-review-cycle1501.md",
+    "sha256": "e8335c5e998c5f5facaa360096096ca952c8f2a695f092c058ab749c20bc0c53",
+    "bytes": 4292
+  },
+  "source_audit": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/independent-lrat-final-source-audit-cycle1501.json",
+    "sha256": "8c613e4a00e17dbf5362cb1567e9544898e03585357998230530dc019c9e8f37",
+    "bytes": 50757
+  },
+  "preflight": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/independent-lrat-preflight-cycle1501.json",
+    "sha256": "d27b5409b52a3c28b6aa46743c34de01fc1ab6a159bf50b5a87bb223e206495f",
+    "bytes": 1421
+  },
+  "configuration": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/independent-lrat-config-cycle1501.json",
+    "sha256": "7171bad7c0657b62296bd01ca41b2ac861bcf038dc0fa0cbcd24c8c6f591ba4f",
+    "bytes": 4270
+  },
+  "sources": {
+    "extension_authority": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/two-unit-stream-authority-cycle1499.json",
+      "sha256": "c5de5498ce3156e4547a92d947a7757f47b9157f90c98a62f08f0587d3290e57",
+      "bytes": 18880
+    },
+    "extension_manifest": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/two-unit-stream-manifest-cycle1499.json",
+      "sha256": "a2979c7c78c91b2947f368815a12912029b1095579f42a7e3d7c33f25ab5b321",
+      "bytes": 23893
+    },
+    "old_bridge": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/c2-native-independent-authority-cycle1484.json",
+      "sha256": "2a2c4ed8e21c2cda00e88f7386a3cba812b666f53dec0940e90c58c8051e3252",
+      "bytes": 3816
+    },
+    "old_bridge_manifest": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/c2-native-independent-manifest-cycle1484.json",
+      "sha256": "c7bf2d85bf50c70e25e962e3083a991cb7e7ee2463b7fce376c4ff72f9005c8e",
+      "bytes": 25678
+    },
+    "theorem": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/root-seven-filled-link-independent-authority-cycle1497.json",
+      "sha256": "51703596cba350bea954657437e8b4f16958cd7c8928e1ee02912d7d8a8b4d67",
+      "bytes": 5021
+    },
+    "theorem_manifest": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/root-seven-filled-link-manifest-cycle1497.json",
+      "sha256": "c9f92d06407eaf82c4e7aa357e1e3a43c0fd1c7acfafe6249d9c83f21b557863",
+      "bytes": 3486
+    },
+    "producer_handoff": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/two-unit-query-handoff-cycle1500.json",
+      "sha256": "1daf3c83b074d130581ae6612d6a11e61e6dbc6b1a705f5ea193b748edb1b30c",
+      "bytes": 2847
+    },
+    "producer_result": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/two-unit-query-result-cycle1500.json",
+      "sha256": "a437a68e45963629a892066d7a714da15e0f56c5804ddfcd1339db3a837b5d6c",
+      "bytes": 24932
+    },
+    "producer_manifest": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/two-unit-query-manifest-cycle1500.json",
+      "sha256": "80199396b96eaeecf2f712e1b47579a7de0e17582f713b312732fb1f075eda2a",
+      "bytes": 27131
+    },
+    "producer_validation": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/two-unit-query-validation-cycle1500.json",
+      "sha256": "cf4291e26fd1e91bbcd5268575243bb8107f78099b47b975f877498c02a58e16",
+      "bytes": 1452
+    },
+    "controls": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/independent-lrat-controls-result-cycle1501.json",
+      "sha256": "1fdaec53981b439b83d7c034ea0aa22dfa983669474db32973dde6a7611119e4",
+      "bytes": 7329
+    },
+    "CNF": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/native-c2-two-unit-cycle1498.cnf",
+      "sha256": "bbe5c476cad56c33cb0bf5f97be9fb64bf76be0af8354e9b9b697d3b73a12187",
+      "bytes": 8858548
+    },
+    "proof": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/two-unit-query-cycle1500.lrat",
+      "sha256": "8e6a2f1d53230816e28778b03c1b997fe96a6f6aeca19a7e2e03fa3f0190c0bd",
+      "bytes": 14958429
+    },
+    "checker": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/lrat-trim/lrat-trim",
+      "sha256": "179d041f645a98d51d3ca6dbbe4950806ad8eceb54c9a762f54e7acee154f8df",
+      "bytes": 68200
+    }
+  },
+  "native_identity": {
+    "constant": 2,
+    "native_identity": {
+      "catalog_sha256": "b6f27899b2b9830758119abb9f38d92705663852cbc1e54c56e5ffe7cda0aec7",
+      "order": 7,
+      "original_index": 0
+    }
+  },
+  "checked_CNF": {
+    "variables": 126100,
+    "clauses": 478945,
+    "ref": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/native-c2-two-unit-cycle1498.cnf",
+      "sha256": "bbe5c476cad56c33cb0bf5f97be9fb64bf76be0af8354e9b9b697d3b73a12187",
+      "bytes": 8858548
+    }
+  },
+  "complete_LRAT": {
+    "proof": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/two-unit-query-cycle1500.lrat",
+      "sha256": "8e6a2f1d53230816e28778b03c1b997fe96a6f6aeca19a7e2e03fa3f0190c0bd",
+      "bytes": 14958429
+    },
+    "checker": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/lrat-trim/lrat-trim",
+      "sha256": "179d041f645a98d51d3ca6dbbe4950806ad8eceb54c9a762f54e7acee154f8df",
+      "bytes": 68200
+    },
+    "exit_code": 20,
+    "status_line": "s VERIFIED",
+    "all_additions_checked": 219477,
+    "verified_empty_addition": 698422,
+    "actual_checker_process": {
+      "argv": [
+        "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/lrat-trim/lrat-trim",
+        "--forward",
+        "--no-trim",
+        "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/native-c2-two-unit-cycle1498.cnf",
+        "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/two-unit-query-cycle1500.lrat"
+      ],
+      "pid": 2527066,
+      "exit_code": 20,
+      "timed_out": false,
+      "wall_seconds": 0.2696721180109307,
+      "child_CPU_seconds": 0.224208,
+      "peak_children_RSS_KiB": 27208,
+      "limits": {
+        "CPU_soft": 5,
+        "CPU_hard": 7,
+        "wall": 15,
+        "address_space_bytes": 536870912,
+        "each_output_bytes": 67108864
+      },
+      "stdout": {
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/independent-lrat-native-cycle1501.stdout.log",
+        "sha256": "2b357a7ac1238a38e3ee8c08dc7f4b9a427516104fdca2225d538b8498aef372",
+        "bytes": 929
+      },
+      "stderr": {
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/independent-lrat-native-cycle1501.stderr.log",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "bytes": 0
+      }
+    },
+    "invocations": 1
+  },
+  "premise_chain": {
+    "old_selected5413row_bridge_cycle": 1484,
+    "checked333entailed_values": 333,
+    "genuine_root7_triangle_zero_theorem_cycle": 1497,
+    "exact_two_unit_extension_gate_cycle": 1499,
+    "old_relaxation_entailed_the_units_claimed": false
+  },
+  "scope": "Excludes genuine root7c2 signedstar candidates under accepted geometric/theorem premises, through their necessary CNF projection.",
+  "raw12512_row_models_UNSAT_claimed": false,
+  "genuine_native_contexts_excluded_here": 1,
+  "entire_root_excluded_here": false,
+  "whole_signed_star_case_excluded": false,
+  "whole_original_pattern_excluded": false,
+  "SAT_solver_queries_by_reader": 0,
+  "c1_proof_transferred": false,
+  "Boolean14_constructed": false,
+  "global_goal_complete": false,
+  "formal_Boolean_problem_verification": false,
+  "human_review": false,
+  "novelty_established": false
+}

@@ -1,0 +1,17 @@
+E
+======================================================================
+ERROR: test_link_profile_reader_cycle1517 (unittest.loader._FailedTest)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: test_link_profile_reader_cycle1517
+Traceback (most recent call last):
+  File "/home/spinoza/.local/share/uv/python/cpython-3.10-linux-x86_64-gnu/lib/python3.10/unittest/loader.py", line 154, in loadTestsFromName
+    module = __import__(module_name)
+  File "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_link_profile_reader_cycle1517.py", line 5, in <module>
+    import link_profile_reader_cycle1517 as reader
+ModuleNotFoundError: No module named 'link_profile_reader_cycle1517'
+
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+FAILED (errors=1)

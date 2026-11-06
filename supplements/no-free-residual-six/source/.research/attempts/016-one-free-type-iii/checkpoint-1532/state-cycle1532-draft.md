@@ -1,0 +1,13 @@
+# Checkpoint 1532: one-free residual-six Types I and III excluded, Type II reduced
+
+GLOBAL STATUS: OPEN. No Boolean construction verified on all 16,384 inputs and no exhaustive nonexistence proof. New: in the one-free residual-six case (defect <= 6, exactly one negative-free coordinate), Types I and III of the 1513/1523 trichotomy are excluded and Type II is reduced from 136 departure-shape classes to 24 open ones (attempt 016, written local arguments with AI review), conditional on the 1513/1523 trichotomy and the source theorems' premises. Still 29 open original magnitude patterns out of 73; no whole pattern changed.
+
+New since 1531 (Claude Code, attempt 016). Type III (c in {0,3}): all nine subcases excluded, by extending the accepted two-exception theorems to c = 0 and c = 3 (the cross-edge bound M = 7 + c still contradicts; (+1,+1) at c = 3 needed a new argument with link lemmas L7, L8). Type I: the forced endpoint sphere (one degree-7 vertex, all others of degree 4 or 5) does not exist, by a hand proof at every order, with two enumerations and a disk search as controls. Type II: 105 shape classes fall to the private-vertex argument, six covered doubled-quartic shapes to parity, weight and unit-link arguments, and the three-+1 star to a sphere-degree count. Open: 23 three-pair shapes and the shape -2{0,1}, -2{2,3}, Q2{0,1,2,3}.
+
+Conditional on: the 1513/1523 trichotomy and its premises; for Type III the source theorems' local premises, 1526/1527, the 76-record scan and the Frick 2015 catalog; for Type I the 1395 local argument; for Type II the 006 private-vertex argument and small-sphere facts. Each argument was reviewed by a fresh AI subagent, not by a human. Authority: `one-free-residual6-acceptance-cycle1532.json`; frontier: `one-free-residual6-frontier-cycle1532.json` (Types I and III excluded; Type II 112 of 136 classes excluded, 24 open), checked by an independent reader that enumerates shape classes by Venn-region sizes.
+
+Unchanged: 29 open original magnitude patterns out of 73. The open Type II shapes, the no-free residual case and residual defect above six remain open and are necessary for the full objective. Scopes are nested and not additive; there is no completion fraction. Arbitrary original functions are not assumed selfdual.
+
+Also new, outside the frontier: the 014 raw pipeline re-excludes root-7 context o7-i0-c1 (control; `attempts/014-context-pricing/ROOT7-CONTROL.md`). The c = 2 control has no certificate yet.
+
+Next: attempt 017, a three-exception model and certificates for the 24 open Type II shapes. Evidence: `attempts/016-one-free-type-iii/NOTES.md`. Not published; v1.4 DOI 10.5281/zenodo.23544931 keeps its earlier scope.

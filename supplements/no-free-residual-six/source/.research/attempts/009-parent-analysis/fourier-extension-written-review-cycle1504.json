@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "status": "SEPARATE_WRITTEN_SANITY_REVIEW_ACCEPTS_1506_ALGEBRA_ONLY",
+  "observed_at": "2026-10-21T22:38:36.336137+00:00",
+  "reviewed_plan": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/sparse-fourier-extension-plan-cycle1506.md",
+    "sha256": "3cac7452e49a142deffc1d631195b9cabcad549e923d1b491392f4809b4ab4a8",
+    "bytes": 3409
+  },
+  "checked": [
+    "FromBoolean f=g+up derive q=2g+p\u22121, pq=0 andq\u00b2=1\u2212p\u00b2",
+    "Degree\u22645 restrictiong has integerM\u00f6bius coefficients, yielding integer denominator16 qcoefficients",
+    "2380 unrestricted degree\u22645 Walshindices and1586 optionaloddindices",
+    "XOR multiplication equations throughdegree9 and normalization sumd=0/sumcontainingj=\u22128",
+    "Odd-prime exact left-null inconsistency certificate excludesinteger extensions; rationaldenominator caveat retained",
+    "c2root7 spectrum norm4+48+2+4+38=96 and residualdnorm160; support\u2264160,maxintegeramplitude12",
+    "Actualsource spectrum mustbe independently recomputed; no localwitness assumed",
+    "Odd-only exclusion not arbitraryextension exclusion; all16384input finalverification required"
+  ],
+  "corrections_required": false,
+  "matrices_constructed": 0,
+  "target_computations": 0,
+  "solver_queries": 0,
+  "implementation_accepted": false,
+  "native_model_excluded": false,
+  "global_goal_complete": false
+}

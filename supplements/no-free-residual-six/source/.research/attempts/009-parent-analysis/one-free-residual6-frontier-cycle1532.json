@@ -1,0 +1,4463 @@
+{
+ "status": "ONE_FREE_RESIDUAL6_FRONTIER",
+ "scope": "one-free residual Fourier defect <= 6 (1513/1523 trichotomy), selfdual existence representative",
+ "types": [
+  {
+   "type": "III",
+   "constants": [
+    0,
+    3
+   ],
+   "status": "EXCLUDED",
+   "subcases": 9,
+   "note": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/016-one-free-type-iii/TYPE-III-CLOSURE.md",
+    "sha256": "87e7e87199cee8de3dd74d2b12a1c5b32dfb3c0d3b6df02589b986091c6a51cf"
+   },
+   "review": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/016-one-free-type-iii/REVIEW-closure.md",
+    "sha256": "4fc333c57aa69625aa37b473f72ae5f60635c20dc1ce634d594e27586c03da54"
+   },
+   "extension": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/016-one-free-type-iii/EXTENSION-plus-plus-c3.md",
+    "sha256": "be7e8f2eb8acf9f98e8515644d5e1236ed1766304d33075bf4e4eda8729ab991"
+   },
+   "extension_review": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/016-one-free-type-iii/REVIEW-plus-plus-c3.md",
+    "sha256": "99b161cd06ac8fff4640b8677437d818b1d505fe5f1ed2a17bfcd0039f04406f"
+   }
+  },
+  {
+   "type": "I",
+   "constants": [
+    1,
+    2
+   ],
+   "status": "EXCLUDED",
+   "note": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/016-one-free-type-iii/TYPE-I-CLOSURE.md",
+    "sha256": "aafcbf29beb97e0ebd56cd89eb1408a324a96a71b1a2821aea706f32d4ad4462"
+   },
+   "review": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/016-one-free-type-iii/REVIEW-typeI.md",
+    "sha256": "e3a8fd0361e3e9ce5fcb2c6bd1c3626f39308179cb286bf66b3421b75dc57d08"
+   }
+  },
+  {
+   "type": "II",
+   "constants": [
+    1,
+    2
+   ],
+   "status": "OPEN",
+   "shape_classes": 136,
+   "open_shape_classes": 24
+  }
+ ],
+ "type_ii_bases": {
+  "private": {
+   "note": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/016-one-free-type-iii/TYPE-II-PRICING.md",
+    "sha256": "fefa9eec2ca9e0182b5d140e8ac64353f77a54616b5957e2d880d469770127d3"
+   },
+   "review": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/016-one-free-type-iii/REVIEW-star.md",
+    "sha256": "ec38f84a80df8808645382eceb9ca873fd9fa09759001a47bd65fcbe7b0e2cb5"
+   }
+  },
+  "rigid": {
+   "note": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/016-one-free-type-iii/TYPE-II-RIGID-SHAPES.md",
+    "sha256": "bb5aa3678e964d7abdbc8fa71244d557c388d876699d1470f5f0836f37a593cc"
+   },
+   "review": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/016-one-free-type-iii/REVIEW-rigid.md",
+    "sha256": "2047587e13b289a35ef725e7fc804e5a62cbda915761b608db6f21d7cb797ab3"
+   }
+  },
+  "star": {
+   "note": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/016-one-free-type-iii/TYPE-II-PLUS-STAR.md",
+    "sha256": "6e51ebc11ac61c25c6cc224cdb109cac3ae391a8f1fcde49e1c7a1303d0ba9c8"
+   },
+   "review": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/016-one-free-type-iii/REVIEW-star.md",
+    "sha256": "ec38f84a80df8808645382eceb9ca873fd9fa09759001a47bd65fcbe7b0e2cb5"
+   }
+  }
+ },
+ "type_ii_classes": [
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "-2",
+     [
+      0,
+      2
+     ]
+    ],
+    [
+     "-2",
+     [
+      0,
+      3
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "OPEN",
+   "reason": "NEEDS_THREE_EXCEPTION_MODEL",
+   "basis": null
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "-2",
+     [
+      0,
+      2
+     ]
+    ],
+    [
+     "-2",
+     [
+      1,
+      2
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "OPEN",
+   "reason": "NEEDS_THREE_EXCEPTION_MODEL",
+   "basis": null
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "-2",
+     [
+      0,
+      2
+     ]
+    ],
+    [
+     "-2",
+     [
+      1,
+      3
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "OPEN",
+   "reason": "NEEDS_THREE_EXCEPTION_MODEL",
+   "basis": null
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "-2",
+     [
+      0,
+      2
+     ]
+    ],
+    [
+     "-2",
+     [
+      3,
+      4
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "OPEN",
+   "reason": "NEEDS_THREE_EXCEPTION_MODEL",
+   "basis": null
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "-2",
+     [
+      0,
+      2
+     ]
+    ],
+    [
+     "+1",
+     [
+      0,
+      3
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "OPEN",
+   "reason": "NEEDS_THREE_EXCEPTION_MODEL",
+   "basis": null
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "-2",
+     [
+      0,
+      2
+     ]
+    ],
+    [
+     "+1",
+     [
+      1,
+      2
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "OPEN",
+   "reason": "NEEDS_THREE_EXCEPTION_MODEL",
+   "basis": null
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "-2",
+     [
+      0,
+      2
+     ]
+    ],
+    [
+     "+1",
+     [
+      1,
+      3
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "OPEN",
+   "reason": "NEEDS_THREE_EXCEPTION_MODEL",
+   "basis": null
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "-2",
+     [
+      0,
+      2
+     ]
+    ],
+    [
+     "+1",
+     [
+      3,
+      4
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "OPEN",
+   "reason": "NEEDS_THREE_EXCEPTION_MODEL",
+   "basis": null
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "-2",
+     [
+      0,
+      2
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      3
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "-2",
+     [
+      0,
+      2
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      3,
+      4
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "-2",
+     [
+      0,
+      2
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      3,
+      4,
+      5
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "-2",
+     [
+      0,
+      2
+     ]
+    ],
+    [
+     "Q2",
+     [
+      1,
+      2,
+      3,
+      4
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "-2",
+     [
+      0,
+      2
+     ]
+    ],
+    [
+     "Q2",
+     [
+      1,
+      3,
+      4,
+      5
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "-2",
+     [
+      0,
+      2
+     ]
+    ],
+    [
+     "Q2",
+     [
+      3,
+      4,
+      5,
+      6
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "-2",
+     [
+      2,
+      3
+     ]
+    ],
+    [
+     "-2",
+     [
+      4,
+      5
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "OPEN",
+   "reason": "NEEDS_THREE_EXCEPTION_MODEL",
+   "basis": null
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "-2",
+     [
+      2,
+      3
+     ]
+    ],
+    [
+     "+1",
+     [
+      0,
+      2
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "OPEN",
+   "reason": "NEEDS_THREE_EXCEPTION_MODEL",
+   "basis": null
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "-2",
+     [
+      2,
+      3
+     ]
+    ],
+    [
+     "+1",
+     [
+      0,
+      4
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "OPEN",
+   "reason": "NEEDS_THREE_EXCEPTION_MODEL",
+   "basis": null
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "-2",
+     [
+      2,
+      3
+     ]
+    ],
+    [
+     "+1",
+     [
+      4,
+      5
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "OPEN",
+   "reason": "NEEDS_THREE_EXCEPTION_MODEL",
+   "basis": null
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "-2",
+     [
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      3
+     ]
+    ]
+   ],
+   "rigid_label": 1,
+   "status": "OPEN",
+   "reason": "NEEDS_THREE_EXCEPTION_MODEL",
+   "basis": null
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "-2",
+     [
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      4
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "-2",
+     [
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      4,
+      5
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "-2",
+     [
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      2,
+      4,
+      5
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "-2",
+     [
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      4,
+      5,
+      6
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "-2",
+     [
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      4,
+      5,
+      6,
+      7
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "+1",
+     [
+      0,
+      2
+     ]
+    ],
+    [
+     "+1",
+     [
+      0,
+      3
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "OPEN",
+   "reason": "NEEDS_THREE_EXCEPTION_MODEL",
+   "basis": null
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "+1",
+     [
+      0,
+      2
+     ]
+    ],
+    [
+     "+1",
+     [
+      1,
+      2
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "OPEN",
+   "reason": "NEEDS_THREE_EXCEPTION_MODEL",
+   "basis": null
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "+1",
+     [
+      0,
+      2
+     ]
+    ],
+    [
+     "+1",
+     [
+      1,
+      3
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "OPEN",
+   "reason": "NEEDS_THREE_EXCEPTION_MODEL",
+   "basis": null
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "+1",
+     [
+      0,
+      2
+     ]
+    ],
+    [
+     "+1",
+     [
+      2,
+      3
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "OPEN",
+   "reason": "NEEDS_THREE_EXCEPTION_MODEL",
+   "basis": null
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "+1",
+     [
+      0,
+      2
+     ]
+    ],
+    [
+     "+1",
+     [
+      3,
+      4
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "OPEN",
+   "reason": "NEEDS_THREE_EXCEPTION_MODEL",
+   "basis": null
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "+1",
+     [
+      0,
+      2
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      3
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "+1",
+     [
+      0,
+      2
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      3,
+      4
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "+1",
+     [
+      0,
+      2
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      2,
+      3,
+      4
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "+1",
+     [
+      0,
+      2
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      3,
+      4,
+      5
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "+1",
+     [
+      0,
+      2
+     ]
+    ],
+    [
+     "Q2",
+     [
+      1,
+      2,
+      3,
+      4
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "+1",
+     [
+      0,
+      2
+     ]
+    ],
+    [
+     "Q2",
+     [
+      1,
+      3,
+      4,
+      5
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "+1",
+     [
+      0,
+      2
+     ]
+    ],
+    [
+     "Q2",
+     [
+      2,
+      3,
+      4,
+      5
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "+1",
+     [
+      0,
+      2
+     ]
+    ],
+    [
+     "Q2",
+     [
+      3,
+      4,
+      5,
+      6
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "+1",
+     [
+      2,
+      3
+     ]
+    ],
+    [
+     "+1",
+     [
+      2,
+      4
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "OPEN",
+   "reason": "NEEDS_THREE_EXCEPTION_MODEL",
+   "basis": null
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "+1",
+     [
+      2,
+      3
+     ]
+    ],
+    [
+     "+1",
+     [
+      4,
+      5
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "OPEN",
+   "reason": "NEEDS_THREE_EXCEPTION_MODEL",
+   "basis": null
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "+1",
+     [
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      3
+     ]
+    ]
+   ],
+   "rigid_label": 2,
+   "status": "EXCLUDED",
+   "reason": "RIGID_SHAPE_LOCAL_ARGUMENT",
+   "basis": "rigid"
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "+1",
+     [
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      4
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "+1",
+     [
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      4,
+      5
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "+1",
+     [
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      2,
+      3,
+      4
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "+1",
+     [
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      2,
+      4,
+      5
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "+1",
+     [
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      4,
+      5,
+      6
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "+1",
+     [
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      2,
+      3,
+      4,
+      5
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "+1",
+     [
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      2,
+      4,
+      5,
+      6
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "+1",
+     [
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      4,
+      5,
+      6,
+      7
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      4
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      4,
+      5
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      2,
+      3,
+      4
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      2,
+      4,
+      5
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      4,
+      5,
+      6
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      2,
+      3,
+      4,
+      5
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      2,
+      4,
+      5,
+      6
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      4,
+      5,
+      6,
+      7
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      2,
+      3,
+      4
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      2,
+      3,
+      5
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      2,
+      3,
+      4
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      2,
+      5,
+      6
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      2,
+      3,
+      4
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      5,
+      6,
+      7
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      2,
+      3,
+      4
+     ]
+    ],
+    [
+     "Q2",
+     [
+      1,
+      2,
+      3,
+      4
+     ]
+    ]
+   ],
+   "rigid_label": 4,
+   "status": "EXCLUDED",
+   "reason": "RIGID_SHAPE_LOCAL_ARGUMENT",
+   "basis": "rigid"
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      2,
+      3,
+      4
+     ]
+    ],
+    [
+     "Q2",
+     [
+      1,
+      2,
+      3,
+      5
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      2,
+      3,
+      4
+     ]
+    ],
+    [
+     "Q2",
+     [
+      1,
+      2,
+      5,
+      6
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      2,
+      3,
+      4
+     ]
+    ],
+    [
+     "Q2",
+     [
+      1,
+      5,
+      6,
+      7
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      2,
+      3,
+      4
+     ]
+    ],
+    [
+     "Q2",
+     [
+      2,
+      3,
+      4,
+      5
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      2,
+      3,
+      4
+     ]
+    ],
+    [
+     "Q2",
+     [
+      2,
+      3,
+      5,
+      6
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      2,
+      3,
+      4
+     ]
+    ],
+    [
+     "Q2",
+     [
+      2,
+      5,
+      6,
+      7
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      2,
+      3,
+      4
+     ]
+    ],
+    [
+     "Q2",
+     [
+      5,
+      6,
+      7,
+      8
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "Q2",
+     [
+      2,
+      3,
+      4,
+      5
+     ]
+    ],
+    [
+     "Q2",
+     [
+      2,
+      3,
+      4,
+      6
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "Q2",
+     [
+      2,
+      3,
+      4,
+      5
+     ]
+    ],
+    [
+     "Q2",
+     [
+      2,
+      3,
+      6,
+      7
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "Q2",
+     [
+      2,
+      3,
+      4,
+      5
+     ]
+    ],
+    [
+     "Q2",
+     [
+      2,
+      6,
+      7,
+      8
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "-2",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "Q2",
+     [
+      2,
+      3,
+      4,
+      5
+     ]
+    ],
+    [
+     "Q2",
+     [
+      6,
+      7,
+      8,
+      9
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "+1",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "+1",
+     [
+      0,
+      2
+     ]
+    ],
+    [
+     "+1",
+     [
+      0,
+      3
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "THREE_PLUS_ONE_STAR",
+   "basis": "star"
+  },
+  {
+   "departures": [
+    [
+     "+1",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "+1",
+     [
+      0,
+      2
+     ]
+    ],
+    [
+     "+1",
+     [
+      1,
+      2
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "OPEN",
+   "reason": "NEEDS_THREE_EXCEPTION_MODEL",
+   "basis": null
+  },
+  {
+   "departures": [
+    [
+     "+1",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "+1",
+     [
+      0,
+      2
+     ]
+    ],
+    [
+     "+1",
+     [
+      1,
+      3
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "OPEN",
+   "reason": "NEEDS_THREE_EXCEPTION_MODEL",
+   "basis": null
+  },
+  {
+   "departures": [
+    [
+     "+1",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "+1",
+     [
+      0,
+      2
+     ]
+    ],
+    [
+     "+1",
+     [
+      3,
+      4
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "OPEN",
+   "reason": "NEEDS_THREE_EXCEPTION_MODEL",
+   "basis": null
+  },
+  {
+   "departures": [
+    [
+     "+1",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "+1",
+     [
+      0,
+      2
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      3
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "+1",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "+1",
+     [
+      0,
+      2
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      3,
+      4
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "+1",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "+1",
+     [
+      0,
+      2
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      3,
+      4,
+      5
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "+1",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "+1",
+     [
+      0,
+      2
+     ]
+    ],
+    [
+     "Q2",
+     [
+      1,
+      2,
+      3,
+      4
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "+1",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "+1",
+     [
+      0,
+      2
+     ]
+    ],
+    [
+     "Q2",
+     [
+      1,
+      3,
+      4,
+      5
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "+1",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "+1",
+     [
+      0,
+      2
+     ]
+    ],
+    [
+     "Q2",
+     [
+      3,
+      4,
+      5,
+      6
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "+1",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "+1",
+     [
+      2,
+      3
+     ]
+    ],
+    [
+     "+1",
+     [
+      4,
+      5
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "OPEN",
+   "reason": "NEEDS_THREE_EXCEPTION_MODEL",
+   "basis": null
+  },
+  {
+   "departures": [
+    [
+     "+1",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "+1",
+     [
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      3
+     ]
+    ]
+   ],
+   "rigid_label": 3,
+   "status": "EXCLUDED",
+   "reason": "RIGID_SHAPE_LOCAL_ARGUMENT",
+   "basis": "rigid"
+  },
+  {
+   "departures": [
+    [
+     "+1",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "+1",
+     [
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      4
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "+1",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "+1",
+     [
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      4,
+      5
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "+1",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "+1",
+     [
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      2,
+      4,
+      5
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "+1",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "+1",
+     [
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      4,
+      5,
+      6
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "+1",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "+1",
+     [
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      4,
+      5,
+      6,
+      7
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "+1",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      4
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "+1",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      4,
+      5
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "+1",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      2,
+      3,
+      4
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "+1",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      2,
+      4,
+      5
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "+1",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      4,
+      5,
+      6
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "+1",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      2,
+      3,
+      4,
+      5
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "+1",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      2,
+      4,
+      5,
+      6
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "+1",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      4,
+      5,
+      6,
+      7
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "+1",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      2,
+      3,
+      4
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      2,
+      3,
+      5
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "+1",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      2,
+      3,
+      4
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      2,
+      5,
+      6
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "+1",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      2,
+      3,
+      4
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      5,
+      6,
+      7
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "+1",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      2,
+      3,
+      4
+     ]
+    ],
+    [
+     "Q2",
+     [
+      1,
+      2,
+      3,
+      4
+     ]
+    ]
+   ],
+   "rigid_label": 5,
+   "status": "EXCLUDED",
+   "reason": "RIGID_SHAPE_LOCAL_ARGUMENT",
+   "basis": "rigid"
+  },
+  {
+   "departures": [
+    [
+     "+1",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      2,
+      3,
+      4
+     ]
+    ],
+    [
+     "Q2",
+     [
+      1,
+      2,
+      3,
+      5
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "+1",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      2,
+      3,
+      4
+     ]
+    ],
+    [
+     "Q2",
+     [
+      1,
+      2,
+      5,
+      6
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "+1",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      2,
+      3,
+      4
+     ]
+    ],
+    [
+     "Q2",
+     [
+      1,
+      5,
+      6,
+      7
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "+1",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      2,
+      3,
+      4
+     ]
+    ],
+    [
+     "Q2",
+     [
+      2,
+      3,
+      4,
+      5
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "+1",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      2,
+      3,
+      4
+     ]
+    ],
+    [
+     "Q2",
+     [
+      2,
+      3,
+      5,
+      6
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "+1",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      2,
+      3,
+      4
+     ]
+    ],
+    [
+     "Q2",
+     [
+      2,
+      5,
+      6,
+      7
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "+1",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      2,
+      3,
+      4
+     ]
+    ],
+    [
+     "Q2",
+     [
+      5,
+      6,
+      7,
+      8
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "+1",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "Q2",
+     [
+      2,
+      3,
+      4,
+      5
+     ]
+    ],
+    [
+     "Q2",
+     [
+      2,
+      3,
+      4,
+      6
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "+1",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "Q2",
+     [
+      2,
+      3,
+      4,
+      5
+     ]
+    ],
+    [
+     "Q2",
+     [
+      2,
+      3,
+      6,
+      7
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "+1",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "Q2",
+     [
+      2,
+      3,
+      4,
+      5
+     ]
+    ],
+    [
+     "Q2",
+     [
+      2,
+      6,
+      7,
+      8
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "+1",
+     [
+      0,
+      1
+     ]
+    ],
+    [
+     "Q2",
+     [
+      2,
+      3,
+      4,
+      5
+     ]
+    ],
+    [
+     "Q2",
+     [
+      6,
+      7,
+      8,
+      9
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      4
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      5
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      4
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      3,
+      4
+     ]
+    ]
+   ],
+   "rigid_label": 6,
+   "status": "EXCLUDED",
+   "reason": "RIGID_SHAPE_LOCAL_ARGUMENT",
+   "basis": "rigid"
+  },
+  {
+   "departures": [
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      4
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      3,
+      5
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      4
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      5,
+      6
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      4
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      3,
+      4,
+      5
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      4
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      3,
+      5,
+      6
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      4
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      5,
+      6,
+      7
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      4
+     ]
+    ],
+    [
+     "Q2",
+     [
+      3,
+      4,
+      5,
+      6
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      4
+     ]
+    ],
+    [
+     "Q2",
+     [
+      3,
+      5,
+      6,
+      7
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      4
+     ]
+    ],
+    [
+     "Q2",
+     [
+      5,
+      6,
+      7,
+      8
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      4,
+      5
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      6,
+      7
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      4,
+      5
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      2,
+      4,
+      6
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      4,
+      5
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      2,
+      6,
+      7
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      4,
+      5
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      6,
+      7,
+      8
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      4,
+      5
+     ]
+    ],
+    [
+     "Q2",
+     [
+      2,
+      3,
+      4,
+      5
+     ]
+    ]
+   ],
+   "rigid_label": 7,
+   "status": "EXCLUDED",
+   "reason": "RIGID_SHAPE_LOCAL_ARGUMENT",
+   "basis": "rigid"
+  },
+  {
+   "departures": [
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      4,
+      5
+     ]
+    ],
+    [
+     "Q2",
+     [
+      2,
+      3,
+      4,
+      6
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      4,
+      5
+     ]
+    ],
+    [
+     "Q2",
+     [
+      2,
+      3,
+      6,
+      7
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      4,
+      5
+     ]
+    ],
+    [
+     "Q2",
+     [
+      2,
+      4,
+      6,
+      7
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      4,
+      5
+     ]
+    ],
+    [
+     "Q2",
+     [
+      2,
+      6,
+      7,
+      8
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      1,
+      4,
+      5
+     ]
+    ],
+    [
+     "Q2",
+     [
+      6,
+      7,
+      8,
+      9
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      4,
+      5,
+      6
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      7,
+      8,
+      9
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      4,
+      5,
+      6
+     ]
+    ],
+    [
+     "Q2",
+     [
+      1,
+      4,
+      7,
+      8
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      4,
+      5,
+      6
+     ]
+    ],
+    [
+     "Q2",
+     [
+      1,
+      7,
+      8,
+      9
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      0,
+      4,
+      5,
+      6
+     ]
+    ],
+    [
+     "Q2",
+     [
+      7,
+      8,
+      9,
+      10
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  },
+  {
+   "departures": [
+    [
+     "Q2",
+     [
+      0,
+      1,
+      2,
+      3
+     ]
+    ],
+    [
+     "Q2",
+     [
+      4,
+      5,
+      6,
+      7
+     ]
+    ],
+    [
+     "Q2",
+     [
+      8,
+      9,
+      10,
+      11
+     ]
+    ]
+   ],
+   "rigid_label": null,
+   "status": "EXCLUDED",
+   "reason": "PRIVATE_VERTEX_DOUBLED_QUARTIC",
+   "basis": "private"
+  }
+ ],
+ "sources": [
+  {
+   "path": "/home/spinoza/github/math-theory/.research/attempts/016-one-free-type-iii/one_free_frontier.py",
+   "sha256": "caa5da22d69f1ea08119ff2d7b83fed027b3dc1c0381b4990689d42efb630aae"
+  },
+  {
+   "path": "/home/spinoza/github/math-theory/.research/attempts/016-one-free-type-iii/type2_shapes.py",
+   "sha256": "d592f37500d895f5ebf79908111730829009495a9395d7691c1d64eef907ee98"
+  }
+ ],
+ "global_status": "OPEN",
+ "whole_patterns_changed": 0
+}

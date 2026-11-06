@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "status": "PAUSED_AT_USER_REQUEST",
+  "recorded_at": "2026-10-21T23:44:51.363770+00:00",
+  "global_mathematical_status": "OPEN",
+  "all_owned_experiment_processes_terminal": true,
+  "producer_exec_session": 1486,
+  "producer_exit_code": 0,
+  "reader_exec_session": 66550,
+  "reader_exit_code": 0,
+  "resume_document": {
+    "path": "/home/spinoza/github/math-theory/.research/CLAUDE_HANDOFF.md",
+    "sha256": "300f77c71f0f68f3bdabd4cce819271e208805743c7c3f1f31b60392cdac8ee4",
+    "bytes": 11834
+  },
+  "objective": {
+    "path": "/home/spinoza/github/math-theory/.research/active-objective.md",
+    "sha256": "56bdac0d6b282cde585f0a8b142b6deab7dcbb6e4a07cc065151915f205d1f71",
+    "bytes": 572
+  },
+  "no_new_query_authorized_while_paused": true,
+  "root_test_result": {
+    "command": ".research/venv-exact/bin/python -m pytest -q",
+    "exit_code": 0,
+    "passed": 13,
+    "seconds": 0.13
+  },
+  "recording_environment_failure": "Initial optional Bindings import under systemPython lackednumpy; failed before anycheckpointwrite. Finalrecording usesstdlibonly; no experiment rerun."
+}

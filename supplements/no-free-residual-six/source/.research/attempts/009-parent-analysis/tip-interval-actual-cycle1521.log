@@ -1,0 +1,2 @@
+{'status': 'UNTRUSTED_INTERVAL_FIXED_POINT_INCONCLUSIVE', 'native_queries': 1, 'setup_CPU_seconds': 2.057652154, 'total_CPU_seconds': 2.803583774, 'peak_RSS_bytes': 278319104}
+{'path': '/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/tip-interval-pilot-cycle1521.json', 'sha256': '6cdf1fb1262763a0b8857fbc92abd1c74e6b01b644e2c2e9fc247f8faa2ba6ed', 'bytes': 185475}

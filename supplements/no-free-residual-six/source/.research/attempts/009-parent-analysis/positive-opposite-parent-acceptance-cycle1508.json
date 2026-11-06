@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "status": "ACCEPTED_GENERAL_WRITTEN_STRUCTURAL_THEOREM",
+  "observed_at": "2026-10-21T22:52:53.894127+00:00",
+  "independent_authority": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/filled-positive-link-independent-authority-cycle1508.json",
+    "sha256": "6db261927614dcf738a25166d87facd4668005bbb128b974a48a9212887ff933"
+  },
+  "independent_manifest": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/filled-positive-link-independent-manifest-cycle1508.json",
+    "sha256": "c4eada5254f037cd94fdf557d917a5f4b9c30549914719ecea952a0add6c8e66"
+  },
+  "primary_topology_access": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/primary-hatcher-schoenflies-check-cycle1509.json",
+    "sha256": "8b3c8e031b4a8f96c6c21d86adf5cb33b469515cdb18c88f60cc5ebedf6129c6"
+  },
+  "root_read_full_producer_and_independent_proofs": true,
+  "root_checked_valence_sum_minus_one_and_common_private_vertex": true,
+  "general_theorem": "Valence3 edge with its three opposite edges valence<=5: a filled opposite triangle forces a graphdegree4 vertex.",
+  "signed_star_consequence": "Everypositive opposite linktriangle is absent atALLrootorders underaccepted minimumdegree6 andordinaryvalence4or5.",
+  "new_rows_applied": 0,
+  "new_native_model_exclusions": 0,
+  "global_goal_complete": false,
+  "novelty_established": false,
+  "human_review": false,
+  "formal_verification": false,
+  "publication_readiness": "Complete conditional local theorem withwrittenproof andtwo guardcontrols; candidateforcoherentportableexisting-family successor, notyetpubliclyarchived.",
+  "sources": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/filled-positive-link-independent-authority-cycle1508.json",
+      "sha256": "6db261927614dcf738a25166d87facd4668005bbb128b974a48a9212887ff933"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/filled-positive-link-independent-manifest-cycle1508.json",
+      "sha256": "c4eada5254f037cd94fdf557d917a5f4b9c30549914719ecea952a0add6c8e66"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/filled-positive-link-independent-review-cycle1508.md",
+      "sha256": "a977975a5823163b4eb073fd1915a39e873f48a43786b1a23f8247f5f91ede0a"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/filled-positive-link-independent-validation-cycle1508.json",
+      "sha256": "5dd695da09d67b3b64bab0dc6b75dee4e216c59ab3b641cd9e4067d628a4e884"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/missing-triangle-independent-authority-cycle1489.json",
+      "sha256": "f30829b6752bab524c5901d29967d9893b348023a927b1859942d73f34fca828"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/missing-triangle-independent-review-cycle1489.md",
+      "sha256": "92905cb0878aeb84b52484cdb2a471c6fe28780df10c39bd4cc780f719d359ba"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-opposite-triangle-handoff-cycle1507.json",
+      "sha256": "c26bd3d5e4c5c81cc1838d182fb8a31a52793d528c39aad99e38ceb6d1951133"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-opposite-triangle-manifest-cycle1507.json",
+      "sha256": "c280ffe390f68f93cc6c85afe8ef6fd8198fc103f474030a1c634de4140230db"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-opposite-triangle-proof-cycle1507.md",
+      "sha256": "ac58e2c620c96d9496c39a01cf1776d96b75f3012c02fe865dc91eb8efbf2046"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/primary-hatcher-schoenflies-check-cycle1509.json",
+      "sha256": "8b3c8e031b4a8f96c6c21d86adf5cb33b469515cdb18c88f60cc5ebedf6129c6"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/primary-schoenflies-refresh-cycle1509.json",
+      "sha256": "0ddb394e1be8d5ac035a473ea04ccbed665121c8eac2e709a31c0ec8d03871e1"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/root-seven-filled-link-independent-authority-cycle1497.json",
+      "sha256": "51703596cba350bea954657437e8b4f16958cd7c8928e1ee02912d7d8a8b4d67"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/root-seven-filled-link-independent-review-cycle1497.md",
+      "sha256": "4ecd272ae45f8fe825c3920b46906737f9868bb1cd0a827c31ee900b3f666bf9"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-manifold-parent-acceptance-cycle1453.json",
+      "sha256": "26e71d45248d01e5b4b668327f814fb8100e6c1a41867149f311ff5ca1a608e0"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-manifold-proof-cycle1443.md",
+      "sha256": "800f6c0e5fbfd5b211a3c81ac0ef0987d8f1aa0fc9b72f727b0d35a871250b6e"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "id": "018",
+  "title": "No-free residual six: lemma L1 for (2^4) and (2^4,1)",
+  "agent": "Claude Code (Opus 5.5)",
+  "started": "2026-10-23",
+  "status": "accepted",
+  "accepted_in": [
+    1534
+  ],
+  "entry": [
+    "README.md",
+    "L1.md",
+    "PLAN.md",
+    "NOTES.md",
+    "REVIEW-L1-codex.md",
+    "REVIEW-l1-assembly-audit-codex.md"
+  ],
+  "summary": "Lemma L1 (no derivative at a coordinate lying in exactly one negative quintic, of magnitude 1 or 2, and in at most one residual departure, of cost 2), certified over a 2221-case cover (4442 obligations, 3662 LRAT certificates, read_all018 ALL_L1_CASES_VERIFIED after a Codex audit). Accepted in 1534: excludes the whole patterns (2^4) and (2^4,1); 27 of 73 open.",
+  "tests": [
+    {
+      "env": "venv-exact",
+      "pytest": true
+    }
+  ]
+}

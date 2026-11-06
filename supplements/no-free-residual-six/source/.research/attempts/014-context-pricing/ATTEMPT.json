@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "014",
+  "title": "Signed-star context pricing and certificates",
+  "agent": "Claude Code (Opus 5.5)",
+  "started": "2026-10-21",
+  "status": "accepted",
+  "accepted_in": [
+    1531,
+    1533
+  ],
+  "entry": [
+    "NOTES.md",
+    "ROOT7-CONTROL.md",
+    "ROOT7-C2-RAW.md",
+    "REVIEW-verifier.md"
+  ],
+  "summary": "All signed-star native contexts excluded by CP-SAT cores turned into LRAT proofs (decision-diagram CNF encoder, independent verifier); root-7 c2 also on raw rows (1533). The CNF encoder is reused by 017 and 018.",
+  "tests": [
+    {
+      "env": "venv-exact",
+      "pytest": true
+    }
+  ]
+}

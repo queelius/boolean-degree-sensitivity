@@ -1,0 +1,65 @@
+{
+  "CPU_seconds": {
+    "covered": 0.136390628,
+    "normal": 0.065325585,
+    "optimized": 0.06436919499999999
+  },
+  "coverage": {
+    "bytes": 21414,
+    "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/one-free-independent-coverage-cycle1523.json",
+    "sha256": "626edccb64f03d5fd3d82c74833d47032f6dcbba37fd97d732dc29f0058b6f96"
+  },
+  "coverage_recovery": "Used preinstalled /home/spinoza/.local/bin/coverage 7.15.0; no install or source change.",
+  "coverage_totals": {
+    "covered_branches": 76,
+    "covered_lines": 261,
+    "excluded_lines": 0,
+    "missing_branches": 0,
+    "missing_lines": 0,
+    "num_branches": 76,
+    "num_partial_branches": 0,
+    "num_statements": 261,
+    "percent_branches_covered": 100.0,
+    "percent_branches_covered_display": "100",
+    "percent_covered": 100.0,
+    "percent_covered_display": "100",
+    "percent_statements_covered": 100.0,
+    "percent_statements_covered_display": "100"
+  },
+  "created_at": "2026-10-21T23:26:48.414596+00:00",
+  "initial_environment_failure": {
+    "bytes": 56,
+    "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/one-free-independent-coverage-missing-module-cycle1523.log",
+    "sha256": "847cafc596499e5afa97b5c259c9a92dfa2beeca0b13c435378471696473c84a"
+  },
+  "native_checker_invocations": 0,
+  "normal_optimized_covered_agree_ignoring_CPU": true,
+  "per_process_limits": {
+    "CPU_seconds": 3,
+    "address_space_bytes": 536870912
+  },
+  "reports": [
+    {
+      "bytes": 20803,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/one-free-independent-normal-cycle1523.json",
+      "sha256": "53f8f8d0b5e8bc3a2b4ff9ea58be2d82fefd13f4e61414c5c675e057e51d7f2e"
+    },
+    {
+      "bytes": 20811,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/one-free-independent-optimized-cycle1523.json",
+      "sha256": "7b3145b7263da479666864ae717b4cae158d336f2710eb4e73389f107abb3459"
+    },
+    {
+      "bytes": 20803,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/one-free-independent-covered-cycle1523.json",
+      "sha256": "f00467c53f8046b973ac6e2c9ce00b9f4cd7d9830c19c397309ec16917dfce02"
+    }
+  ],
+  "schema_version": 1,
+  "solver_queries": 0,
+  "status": "PASS",
+  "target_catalog_enumerations": 0,
+  "tests_instrumented": 8,
+  "tests_normal": 8,
+  "tests_optimized": 8
+}

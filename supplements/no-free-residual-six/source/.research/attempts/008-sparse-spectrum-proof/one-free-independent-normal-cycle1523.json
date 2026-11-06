@@ -1,0 +1,828 @@
+{
+  "CPU_seconds": 0.065325585,
+  "assistance": "Substantial OpenAI Codex assistance; independent AI audit, not human/formal review.",
+  "author": "Alexander Richard Towell",
+  "canonical_status_changed": false,
+  "complement_counts": [
+    {
+      "P_norm": 60,
+      "Q_norm": 196,
+      "Q_norm_by_level": [
+        22,
+        84,
+        90
+      ],
+      "c": 0,
+      "minus_one_quintics": 77,
+      "minus_two_singletons": 3,
+      "negative_magnitudes": [
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "outside_level_sums": [
+        -16,
+        84,
+        -68
+      ],
+      "unit_cubics": 84
+    },
+    {
+      "P_norm": 66,
+      "Q_norm": 190,
+      "Q_norm_by_level": [
+        19,
+        82,
+        89
+      ],
+      "c": 1,
+      "minus_one_quintics": 76,
+      "minus_two_singletons": 2,
+      "negative_magnitudes": [
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "outside_level_sums": [
+        -15,
+        82,
+        -67
+      ],
+      "unit_cubics": 82
+    },
+    {
+      "P_norm": 72,
+      "Q_norm": 184,
+      "Q_norm_by_level": [
+        16,
+        80,
+        88
+      ],
+      "c": 2,
+      "minus_one_quintics": 75,
+      "minus_two_singletons": 1,
+      "negative_magnitudes": [
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "outside_level_sums": [
+        -14,
+        80,
+        -66
+      ],
+      "unit_cubics": 80
+    },
+    {
+      "P_norm": 78,
+      "Q_norm": 178,
+      "Q_norm_by_level": [
+        13,
+        78,
+        87
+      ],
+      "c": 3,
+      "minus_one_quintics": 74,
+      "minus_two_singletons": 0,
+      "negative_magnitudes": [
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "outside_level_sums": [
+        -13,
+        78,
+        -65
+      ],
+      "unit_cubics": 78
+    },
+    {
+      "P_norm": 60,
+      "Q_norm": 196,
+      "Q_norm_by_level": [
+        22,
+        84,
+        90
+      ],
+      "c": 0,
+      "minus_one_quintics": 78,
+      "minus_two_singletons": 3,
+      "negative_magnitudes": [
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "outside_level_sums": [
+        -16,
+        84,
+        -68
+      ],
+      "unit_cubics": 84
+    },
+    {
+      "P_norm": 66,
+      "Q_norm": 190,
+      "Q_norm_by_level": [
+        19,
+        82,
+        89
+      ],
+      "c": 1,
+      "minus_one_quintics": 77,
+      "minus_two_singletons": 2,
+      "negative_magnitudes": [
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "outside_level_sums": [
+        -15,
+        82,
+        -67
+      ],
+      "unit_cubics": 82
+    },
+    {
+      "P_norm": 72,
+      "Q_norm": 184,
+      "Q_norm_by_level": [
+        16,
+        80,
+        88
+      ],
+      "c": 2,
+      "minus_one_quintics": 76,
+      "minus_two_singletons": 1,
+      "negative_magnitudes": [
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "outside_level_sums": [
+        -14,
+        80,
+        -66
+      ],
+      "unit_cubics": 80
+    },
+    {
+      "P_norm": 78,
+      "Q_norm": 178,
+      "Q_norm_by_level": [
+        13,
+        78,
+        87
+      ],
+      "c": 3,
+      "minus_one_quintics": 75,
+      "minus_two_singletons": 0,
+      "negative_magnitudes": [
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "outside_level_sums": [
+        -13,
+        78,
+        -65
+      ],
+      "unit_cubics": 78
+    },
+    {
+      "P_norm": 60,
+      "Q_norm": 196,
+      "Q_norm_by_level": [
+        22,
+        84,
+        90
+      ],
+      "c": 0,
+      "minus_one_quintics": 79,
+      "minus_two_singletons": 3,
+      "negative_magnitudes": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "outside_level_sums": [
+        -16,
+        84,
+        -68
+      ],
+      "unit_cubics": 84
+    },
+    {
+      "P_norm": 66,
+      "Q_norm": 190,
+      "Q_norm_by_level": [
+        19,
+        82,
+        89
+      ],
+      "c": 1,
+      "minus_one_quintics": 78,
+      "minus_two_singletons": 2,
+      "negative_magnitudes": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "outside_level_sums": [
+        -15,
+        82,
+        -67
+      ],
+      "unit_cubics": 82
+    },
+    {
+      "P_norm": 72,
+      "Q_norm": 184,
+      "Q_norm_by_level": [
+        16,
+        80,
+        88
+      ],
+      "c": 2,
+      "minus_one_quintics": 77,
+      "minus_two_singletons": 1,
+      "negative_magnitudes": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "outside_level_sums": [
+        -14,
+        80,
+        -66
+      ],
+      "unit_cubics": 80
+    },
+    {
+      "P_norm": 78,
+      "Q_norm": 178,
+      "Q_norm_by_level": [
+        13,
+        78,
+        87
+      ],
+      "c": 3,
+      "minus_one_quintics": 76,
+      "minus_two_singletons": 0,
+      "negative_magnitudes": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "outside_level_sums": [
+        -13,
+        78,
+        -65
+      ],
+      "unit_cubics": 78
+    }
+  ],
+  "endpoint_controls": {
+    "degree_pairs": [
+      {
+        "count": 16,
+        "degrees": [
+          11,
+          11
+        ]
+      },
+      {
+        "count": 4,
+        "degrees": [
+          11,
+          12
+        ]
+      },
+      {
+        "count": 4,
+        "degrees": [
+          12,
+          11
+        ]
+      },
+      {
+        "count": 1,
+        "degrees": [
+          12,
+          12
+        ]
+      }
+    ],
+    "earlier_9_10_endpoint_orders_are_excluded_by_inherited_disk_lemma": true,
+    "shared_off_cycle_histogram": {
+      "2": 12,
+      "3": 12,
+      "4": 1
+    },
+    "subset_pairs": 25,
+    "whole_complex_manifold_assumed": false
+  },
+  "fiber_and_index_controls": {
+    "four_fibers": [
+      {
+        "fiber": [
+          0,
+          0
+        ],
+        "p": 0,
+        "q": -1
+      },
+      {
+        "fiber": [
+          0,
+          1
+        ],
+        "p": 1,
+        "q": 0
+      },
+      {
+        "fiber": [
+          1,
+          0
+        ],
+        "p": -1,
+        "q": 0
+      },
+      {
+        "fiber": [
+          1,
+          1
+        ],
+        "p": 0,
+        "q": 1
+      }
+    ],
+    "odd_indices": 1586,
+    "unrestricted_indices": 2380
+  },
+  "global_goal_complete": false,
+  "limits": {
+    "CPU_seconds": 3,
+    "address_space_bytes": 536870912
+  },
+  "native_checker_invocations": 0,
+  "one_free_allocation": {
+    "all_nonsingleton_supports_are_distinct_physical_coefficients": true,
+    "allocations": 61,
+    "cost_histogram": {
+      "0": 1,
+      "2": 5,
+      "4": 15,
+      "6": 40
+    },
+    "impossible_multiple_owner_masks": 37,
+    "incidence_constant_cases": 530,
+    "incidence_control_is_a_conservative_superset_not_a_function_search": true,
+    "retained_types_and_constants": [
+      [
+        "TYPE_I",
+        1
+      ],
+      [
+        "TYPE_I",
+        2
+      ],
+      [
+        "TYPE_II",
+        1
+      ],
+      [
+        "TYPE_II",
+        2
+      ],
+      [
+        "TYPE_III_PENDING_TWO_EXCEPTION_EXTENSION",
+        0
+      ],
+      [
+        "TYPE_III_PENDING_TWO_EXCEPTION_EXTENSION",
+        3
+      ]
+    ],
+    "routes": {
+      "ACCEPTED_TRIPLED_QUARTIC": 2,
+      "GLOBAL_SINGLETON_SUM": 1,
+      "OLD_BASELINE": 179,
+      "OLD_ONE_DOUBLE": 72,
+      "OLD_ONE_QUADRATIC": 144,
+      "OLD_TWO_AT_BASELINE_CONSTANT": 96,
+      "SIMPLE_EVEN_GRAPH_PARITY": 2,
+      "TYPE_I": 2,
+      "TYPE_II": 20,
+      "TYPE_III_PENDING_TWO_EXCEPTION_EXTENSION": 12
+    }
+  },
+  "schema_version": 1,
+  "signed_star_correction": [
+    {
+      "P_norm": 66,
+      "Q_norm": 190,
+      "amplitude_bound": 13,
+      "c": 1,
+      "edges": 50,
+      "ordinary_minus_one": 25,
+      "ordinary_zero": 22,
+      "r_negative": 0,
+      "support_bound": 190,
+      "top_quartets": 37
+    },
+    {
+      "P_norm": 66,
+      "Q_norm": 190,
+      "amplitude_bound": 13,
+      "c": 1,
+      "edges": 50,
+      "ordinary_minus_one": 22,
+      "ordinary_zero": 25,
+      "r_negative": 1,
+      "support_bound": 190,
+      "top_quartets": 37
+    },
+    {
+      "P_norm": 66,
+      "Q_norm": 190,
+      "amplitude_bound": 13,
+      "c": 1,
+      "edges": 50,
+      "ordinary_minus_one": 19,
+      "ordinary_zero": 28,
+      "r_negative": 2,
+      "support_bound": 190,
+      "top_quartets": 37
+    },
+    {
+      "P_norm": 66,
+      "Q_norm": 190,
+      "amplitude_bound": 13,
+      "c": 1,
+      "edges": 50,
+      "ordinary_minus_one": 16,
+      "ordinary_zero": 31,
+      "r_negative": 3,
+      "support_bound": 190,
+      "top_quartets": 37
+    },
+    {
+      "P_norm": 72,
+      "Q_norm": 184,
+      "amplitude_bound": 13,
+      "c": 2,
+      "edges": 51,
+      "ordinary_minus_one": 27,
+      "ordinary_zero": 21,
+      "r_negative": 0,
+      "support_bound": 184,
+      "top_quartets": 38
+    },
+    {
+      "P_norm": 72,
+      "Q_norm": 184,
+      "amplitude_bound": 13,
+      "c": 2,
+      "edges": 51,
+      "ordinary_minus_one": 24,
+      "ordinary_zero": 24,
+      "r_negative": 1,
+      "support_bound": 184,
+      "top_quartets": 38
+    },
+    {
+      "P_norm": 72,
+      "Q_norm": 184,
+      "amplitude_bound": 13,
+      "c": 2,
+      "edges": 51,
+      "ordinary_minus_one": 21,
+      "ordinary_zero": 27,
+      "r_negative": 2,
+      "support_bound": 184,
+      "top_quartets": 38
+    },
+    {
+      "P_norm": 72,
+      "Q_norm": 184,
+      "amplitude_bound": 13,
+      "c": 2,
+      "edges": 51,
+      "ordinary_minus_one": 18,
+      "ordinary_zero": 30,
+      "r_negative": 3,
+      "support_bound": 184,
+      "top_quartets": 38
+    }
+  ],
+  "sources": {
+    "checked_sources": [
+      {
+        "bytes": 5848,
+        "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/negative-free-derivative-catalog-audit.md",
+        "sha256": "cd0eb88ebf522ccaaecd8277e5f8403af4cc358e0ef7175d3af476cd82414360"
+      },
+      {
+        "bytes": 4815,
+        "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/one-positive-quadratic-derivative-independent-audit.md",
+        "sha256": "fbf7f709d00aa8aeae3f30f838815a84d875c99a6a2faf3deb1ada83bc8617db"
+      },
+      {
+        "bytes": 2753,
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/fourier-extension-norm-correction-cycle1513.json",
+        "sha256": "90d16eff2efad32ebbd625b24a85e7f5e4808b291b5d5463c1bd2d7ca4ecd17f"
+      },
+      {
+        "bytes": 1429,
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/fourier-extension-written-review-cycle1504.json",
+        "sha256": "0b0c336a05e4c8ab183008ac85a0ff456f54d93b4373aa75087e9171d89a1c45"
+      },
+      {
+        "bytes": 8507,
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/independent-lrat-authority-cycle1501.json",
+        "sha256": "495f8c5fec2673aab7e0d7f2e2d4ec771426300516ed048475c99f0fefc1f28e"
+      },
+      {
+        "bytes": 50757,
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/independent-lrat-final-source-audit-cycle1501.json",
+        "sha256": "8c613e4a00e17dbf5362cb1567e9544898e03585357998230530dc019c9e8f37"
+      },
+      {
+        "bytes": 4292,
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/independent-lrat-scope-review-cycle1501.md",
+        "sha256": "e8335c5e998c5f5facaa360096096ca952c8f2a695f092c058ab749c20bc0c53"
+      },
+      {
+        "bytes": 3226,
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/minus-three-links-independent-authority-cycle1395.json",
+        "sha256": "02706b0f91065e9bdec12a3f74e103f53603f8597d01e826154371f24e714c08"
+      },
+      {
+        "bytes": 13964,
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/minus-three-links-independent-review-cycle1395.md",
+        "sha256": "493f918da500ed13fef16d398d75f8fccb10456cf255eee8adaf0b242ca5f81e"
+      },
+      {
+        "bytes": 8858548,
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/native-c2-two-unit-cycle1498.cnf",
+        "sha256": "bbe5c476cad56c33cb0bf5f97be9fb64bf76be0af8354e9b9b697d3b73a12187"
+      },
+      {
+        "bytes": 5299,
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/one-free-arithmetic-coverage-cycle1513.json",
+        "sha256": "ff62c348e1c5fdfecc529dc8a1104f7628a18a122b734bda542bb83804937af6"
+      },
+      {
+        "bytes": 6987,
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/one-free-arithmetic-coverage-run-cycle1513.json",
+        "sha256": "09a05a941f66eab21e029fe733c6ebc971e44f919d9e108471497c5a58998999"
+      },
+      {
+        "bytes": 6977,
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/one-free-arithmetic-normal-cycle1513.json",
+        "sha256": "6f5b3068b06c8457ddd40c9977ced05e862c7e5dd87f8df0ed6c05fdfea9d664"
+      },
+      {
+        "bytes": 6987,
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/one-free-arithmetic-optimized-cycle1513.json",
+        "sha256": "95142bf7a4d651ae28fc38bab6528df83d7721ff39efadc63c5aea816705a697"
+      },
+      {
+        "bytes": 10798,
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/one-free-residual-six-and-extension-audit-cycle1513.md",
+        "sha256": "e30a88eae5d15641bc4566938380702baab415ced2b0226295a541a8d4f08c22"
+      },
+      {
+        "bytes": 7209,
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/one-free-source-handoff-cycle1513.json",
+        "sha256": "b53cc1c87160b14800c0f66ffdec7c81ea253e68a6f86ad5c8cbfaff1cf9f163"
+      },
+      {
+        "bytes": 6701,
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/one-free-source-manifest-cycle1513.json",
+        "sha256": "e41c57eb57ffd4226dd9c88efc1823c36546f1af7c32fdd9c5388f0dbcac66b9"
+      },
+      {
+        "bytes": 6782,
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/one-free-source-validation-cycle1513.json",
+        "sha256": "cf761857b150b3c135cf678cdbc0f919063894034982c90dfc4d70cad8cac656"
+      },
+      {
+        "bytes": 5070,
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/one_free_arithmetic_cycle1513.py",
+        "sha256": "0668ef699afb10990f4c1e94e19890bb84cc66248d48a18c6dac9b7f078d8b9e"
+      },
+      {
+        "bytes": 8131,
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/research-status-cycle1510.json",
+        "sha256": "7854f2d8c5f67b16d44feaa0965aadb6807b6ac119b6974c695db3d144497c10"
+      },
+      {
+        "bytes": 6018,
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/residual-six-independent-authority-cycle1386.json",
+        "sha256": "e9b7294d6df2e8c8cb3b74f73077cd213fcb0d39ce4f9104e7acba493d429d9a"
+      },
+      {
+        "bytes": 11378,
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/residual6-negative-union-theorem-cycle1382.md",
+        "sha256": "677297733b1df5fb132ab7752f4a5c613ac73c818ff293387212dd8a687fea6f"
+      },
+      {
+        "bytes": 17637,
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-genuine-frontier-cycle1510.json",
+        "sha256": "3621b82295391042e64d4ba49091e98ab74170801a36af9ee19a211efc722da2"
+      },
+      {
+        "bytes": 3409,
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/sparse-fourier-extension-plan-cycle1506.md",
+        "sha256": "3cac7452e49a142deffc1d631195b9cabcad549e923d1b491392f4809b4ab4a8"
+      },
+      {
+        "bytes": 4065,
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/state-cycle1510.md",
+        "sha256": "c48d6e5285f4c6f0deb0f52b299c7eb513bd049ba7f5b54b2dfe45a25419a18e"
+      },
+      {
+        "bytes": 4667,
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/three-disks-independent-authority-cycle1401.json",
+        "sha256": "5911fc936300b9ddaed17c02038416b305a0e8cba95ac5dc6115c5385a192692"
+      },
+      {
+        "bytes": 12664,
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/three-disks-independent-review-cycle1401.md",
+        "sha256": "00a05e782fc5376981c0c3df3422c7d53f9bc683872cbf4a03b3fb435d99cc58"
+      },
+      {
+        "bytes": 7079,
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/three-disks-union12-proof-cycle1404.md",
+        "sha256": "622ee562e447fe9d2ca9f4a49de9931575e2b058972ec7717b0a0b64a94e83f9"
+      },
+      {
+        "bytes": 5960,
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/three-free-independent-authority-cycle1393.json",
+        "sha256": "25038a992790c16673a96709f8f7a3da0f650b5b8089f9cac6f74df7b74c981c"
+      },
+      {
+        "bytes": 5275,
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/two-free-independent-authority-cycle1409.json",
+        "sha256": "effc1e4e3e98e0f63fc347195175df63a9682f5f26ac31b33aa17b8e826d19a7"
+      },
+      {
+        "bytes": 17998,
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/two-free-independent-review-cycle1409.md",
+        "sha256": "1f2e6ec9576ac767852ba5e430c4ff8a70f29f1cc1764bee115d4be3f239d1e8"
+      },
+      {
+        "bytes": 24423,
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/two-free-independent-source-audit-cycle1409.json",
+        "sha256": "e833d6b7abdd965856695544bcb2345f2bc044666b6727e13bbc4e67e1d91fb3"
+      },
+      {
+        "bytes": 12543,
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/two-free-residual6-review-cycle1405.md",
+        "sha256": "b722030e267ca32e8f5a64bdb8a5e4234bcdebc803c5e49e31f866e53a6d292c"
+      },
+      {
+        "bytes": 14958429,
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/two-unit-query-cycle1500.lrat",
+        "sha256": "8e6a2f1d53230816e28778b03c1b997fe96a6f6aeca19a7e2e03fa3f0190c0bd"
+      },
+      {
+        "bytes": 1023,
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/unique-degree-three-application-wording-clarification-cycle1514.json",
+        "sha256": "58250aff8e228a3da59c75b4571562f579fbc25bdc59c2cae77fb0b45368f7a7"
+      },
+      {
+        "bytes": 8176,
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/unique-degree-three-sphere-proof-cycle1514.md",
+        "sha256": "4a6346e2970567e93177fb330005ceed123ba5548d10c4aad1480239bd94a35c"
+      },
+      {
+        "bytes": 32412,
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/whole-pattern-exclusion-authority-cycle1388.json",
+        "sha256": "7bb621ae85318027c46e2691e1bb6e77ec77a6f79546087e71fa00a90578d3ed"
+      },
+      {
+        "bytes": 44142,
+        "path": "/home/spinoza/github/math-theory/.research/findings/negative-quintic-pattern-cases.json",
+        "sha256": "232f37ce224945f7aae54fa4b7dd6f66112bcac082485233a2c32856f22751af"
+      }
+    ],
+    "effective_open_rows": 29,
+    "historical_open_rows": 30,
+    "native_files_rehashed_unchanged": true,
+    "native_proof_replayed": false,
+    "old_norm_examples_in_native_dependency_references": false,
+    "residual_six_inventories": [
+      [
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      [
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    ],
+    "source_hashes_are_not_old_certificate_replay": true
+  },
+  "status": "PASS_INDEPENDENT_SMALL_CONTROLS_AND_SOURCE_BINDINGS",
+  "target_catalog_enumerations": 0,
+  "target_solver_queries": 0
+}

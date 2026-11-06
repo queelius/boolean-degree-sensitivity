@@ -1,0 +1,154 @@
+{
+  "status": "VERIFIED_D10_NORMALIZATION_ARITHMETIC_AND_SPHERE_COVER",
+  "arithmetic": {
+    "allocations": 232,
+    "summary": [
+      {
+        "copies": 2,
+        "orders": [
+          12
+        ],
+        "chis": [
+          2
+        ],
+        "count": 4
+      },
+      {
+        "copies": 4,
+        "orders": [
+          5,
+          9
+        ],
+        "chis": [
+          2,
+          2
+        ],
+        "count": 10
+      },
+      {
+        "copies": 4,
+        "orders": [
+          6,
+          8
+        ],
+        "chis": [
+          2,
+          2
+        ],
+        "count": 91
+      },
+      {
+        "copies": 4,
+        "orders": [
+          7,
+          7
+        ],
+        "chis": [
+          2,
+          2
+        ],
+        "count": 82
+      },
+      {
+        "copies": 6,
+        "orders": [
+          5,
+          5,
+          6
+        ],
+        "chis": [
+          2,
+          2,
+          2
+        ],
+        "count": 45
+      }
+    ]
+  },
+  "sixfold_pair_control": {
+    "perfect_matchings": 15,
+    "ordered_disjoint_pairs": 120,
+    "every_union_C6_and_subdivision_C9": true
+  },
+  "sphere_stages": [
+    {
+      "order": 5,
+      "representatives": 1,
+      "transitions": 12,
+      "source_sha256": "71ed49b8f21d0a1efbd78d8e73c7b681e3238020e77d8c6f5ed3bc773c19fb11",
+      "coverage_sha256": "987bf3b1e1b6a2a6c08235bd0f6c72ba6619aabb71b1f4c84091bfd2b720ef17"
+    },
+    {
+      "order": 6,
+      "representatives": 2,
+      "transitions": 24,
+      "source_sha256": "e02f1965d9c0e1e4d4ce0e95907b6af53af1e590d8fc32e4d10b95178798b9e9",
+      "coverage_sha256": "d32c2bcd253c258fc3da223942d22da46372ef1dd38788efbc10ab613e43fe91"
+    },
+    {
+      "order": 7,
+      "representatives": 5,
+      "transitions": 74,
+      "source_sha256": "b6f27899b2b9830758119abb9f38d92705663852cbc1e54c56e5ffe7cda0aec7",
+      "coverage_sha256": "f6614741ded35c43867a7354803ff2948c0b3b7b4df7c60b7dd96ba69bb02144"
+    },
+    {
+      "order": 8,
+      "representatives": 14,
+      "transitions": 262,
+      "source_sha256": "df2dd7cc5c4ba26a5dde0736c3ec8c6d9f33292dfdd66f067badb0d67ea0e879",
+      "coverage_sha256": "51b0d4dfc881d0cc1f51767a4f98bea0d792ca7bdc6121295c99f42e44763139"
+    },
+    {
+      "order": 9,
+      "representatives": 50,
+      "transitions": 956,
+      "source_sha256": "8c707c48b4daecbf613fa5d31152e5c0606206a9f8543a8a37dd60f955349eff",
+      "coverage_sha256": "9ea830fdb9cdcc6a465496aa2250890516eed0a03aa3fcadc273965916cb1879"
+    },
+    {
+      "order": 10,
+      "representatives": 233,
+      "transitions": 4259,
+      "source_sha256": "0884454b75c491e2c47a14e9eea4e34752f24a0a3f59ddcf4b54ae5010bd690a",
+      "coverage_sha256": "6c8ff199f52531b9cf48cee6da456d0d7e8e3e38a26eca81350f2a1d7f5613a2"
+    },
+    {
+      "order": 11,
+      "representatives": 1249,
+      "transitions": 23857,
+      "source_sha256": "120a8e03f8ca63a5432275be5ca65ec705062e2937a5e8b71eb401924b369ce2",
+      "coverage_sha256": "4500c6d600e326b57aa2647203bfa599308c3c44ff72bbac063ad12d77283e6e"
+    },
+    {
+      "order": 12,
+      "representatives": 7595,
+      "transitions": 150139,
+      "source_sha256": "0f783e580e0555f85cf42ff460a947082d37e5699bdbf9feb4aa1da85150b04c",
+      "coverage_sha256": "e41715eec11353302ca0f5e5f0625d8e8b684d1ce5b1a0bd809e2844fd9120e5"
+    }
+  ],
+  "transitions": 179583,
+  "sources": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/d10-normalization-arithmetic.json",
+      "sha256": "7aed7d05bd9f980719db33376710047ae285096ccf9fd7da8e360ebae3bdde5c"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/generic-d10-normalization.md",
+      "sha256": "e2c3035e3c1e9cebc07d4e8fbc7f00094151f16a74de22966d844e2c3bba8455"
+    }
+  ],
+  "negative_controls": [
+    "missing_transition",
+    "duplicate_transition",
+    "nonbijection",
+    "missing_allocation",
+    "nonclosed_surface"
+  ],
+  "producer_imports": false,
+  "nauty_or_plantri_used": false,
+  "research_solver_used": false,
+  "seconds": 5.8068686129990965,
+  "scope": "Complete arithmetic and transition cover conditional on the separately audited cycle-normalization and contractible-edge arguments. Does not yet check the marked/glued derivative catalog or Boolean extensions."
+}

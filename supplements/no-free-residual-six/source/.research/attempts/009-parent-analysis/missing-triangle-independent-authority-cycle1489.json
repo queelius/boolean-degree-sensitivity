@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "status": "INDEPENDENT_WRITTEN_MATH_REVIEW_ACCEPTS_MISSING_TRIANGLE_UNDER_STATED_PREMISES",
+  "observed_at": "2026-10-21T22:11:07.815323+00:00",
+  "reviewed_proposal": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/missing-triangle-proposal-cycle1488.md",
+    "bytes": 5351,
+    "sha256": "93778894b0eaa72558429ece66c1eed2bf9af2c068e9afed52ee0b3be60d1f72"
+  },
+  "written_independent_review": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/missing-triangle-independent-review-cycle1489.md",
+    "bytes": 11368,
+    "sha256": "92905cb0878aeb84b52484cdb2a471c6fe28780df10c39bd4cc780f719d359ba"
+  },
+  "accepted_conclusion": "Every13-vertex signed-star K satisfying the accepted1413/1453 sphere, edge-valence and induced-Euler premises has a missing triangle.",
+  "stronger_local_conclusion": "Every vertex of graph degree at least9 belongs to a missing triangle.",
+  "topological_partition_checked": "Mod2 missing-tetrahedron boundary bounds a3-chain because H2(S3;F2)=0; connected vertex-link duals define disjoint nonempty P/Q with no cross edges. No ball claim required.",
+  "minimal_missing_face_guard_checked": true,
+  "original_six_vertex_K4_sphere_lemma_checked": true,
+  "streamlined_P_side_argument_checked": true,
+  "four_color_theorem_external_premise": true,
+  "flag_sphere_bound_applied_to_nonflag_candidate": false,
+  "control_source_imports": [
+    "datetime",
+    "hashlib",
+    "itertools",
+    "json",
+    "math",
+    "missing_triangle_controls_cycle1489",
+    "pathlib",
+    "time"
+  ],
+  "normal_controls": 8,
+  "optimized_controls": 8,
+  "project_tests": 13,
+  "control_coverage": {
+    "statements": 70,
+    "branches": 26,
+    "complete": true
+  },
+  "tiny_control_CPU_seconds": 0.035011501,
+  "P_side_assignments": 625,
+  "P_side_local_survivors": 24,
+  "Q_side_assignments": 3125,
+  "Q_side_vertex_inequalities_checked": 15625,
+  "control_receipt": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/missing-triangle-controls-cycle1489.json",
+    "bytes": 6212,
+    "sha256": "a5fdffb2ffbb902236fee73acb347cd661d881da1adeebc15224c80c04b37900"
+  },
+  "primary_reference_scope_check": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/primary-literature-check-cycle1489.json",
+    "bytes": 910,
+    "sha256": "bf18280fe3b375769f19347b6077ed6b6c961e137f3cd8a41752f4aec1753d08"
+  },
+  "inherited_local_sphere_Walkup_or_other_classification_proofs_replayed": false,
+  "independent_discovery_of_every_argument_claimed": false,
+  "human_review": false,
+  "formal_verification": false,
+  "novelty_established": false,
+  "target_native_data_read_by_controls": false,
+  "target_solver_queries": 0,
+  "new_native_filters_or_rows": 0,
+  "new_case_exclusions": 0,
+  "whole_pattern_excluded": false,
+  "global_goal_complete": false,
+  "publication_mutations": 0,
+  "manifest": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/missing-triangle-manifest-cycle1489.json",
+    "bytes": 7402,
+    "sha256": "555b50caa47118f6ed465397c5eaf0cf4e154d8250292aa54daa952ec02a6d57"
+  }
+}

@@ -1,0 +1,13 @@
+
+======================================================================
+FAIL: test_wrong_special_sign_or_alias_rejected (test_positive_tip_inventory_cycle1511.InventoryTests) (changed='bool_sign')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_positive_tip_inventory_cycle1511.py", line 86, in test_wrong_special_sign_or_alias_rejected
+    with self.assertRaises(ValueError): subject.derive_context(c, v)
+AssertionError: ValueError not raised
+
+----------------------------------------------------------------------
+Ran 1 test in 0.013s
+
+FAILED (failures=1)

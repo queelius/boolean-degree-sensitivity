@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "Cite the exact archived version by its DOI. The global question remains open; the results are conditional on the premises stated in REPORT.md."
+type: dataset
+title: "Degree-five Boolean candidates: residual six with a negative-free coordinate excluded and two whole negative-quintic patterns excluded, with LRAT certificates"
+version: "1.5.0"
+doi: "10.5281/zenodo.23999933"
+date-released: "2026-11-06"
+authors:
+  - family-names: Towell
+    given-names: Alexander Richard
+    orcid: "https://orcid.org/0000-0001-6443-9897"
+    affiliation: "Southern Illinois University Edwardsville"
+license:
+  - MIT
+  - CC-BY-4.0
+abstract: "Conditional local exclusions for a degree-at-most-five Boolean function on 14 variables with full sensitivity at the origin, in the existence-preserving self-dual empty-pair normal form: every residual-defect-at-most-six instance with a negative-free coordinate is excluded (checkpoints 1531 to 1533; 20 residual-at-most-six patterns remain open with negative-support union 14), and lemma L1 excludes the whole magnitude patterns (2,2,2,2) and (2,2,2,2,1) (checkpoint 1534), with 6,871 LRAT case certificates checked by independent readers. Written reductions were reviewed by AI models only. Substantial AI assistance. The global problem remains open; no human peer review, formalization or novelty is claimed."
+keywords:
+  - Boolean functions
+  - polynomial degree
+  - sensitivity
+  - sparse Fourier analysis
+  - SAT
+  - LRAT certificates
+  - exact verification
+repository-code: "https://github.com/queelius/boolean-degree-sensitivity"

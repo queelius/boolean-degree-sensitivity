@@ -1,0 +1,1089 @@
+{
+  "status": "INDEPENDENTLY_VERIFIED_COMPLETE_NECESSARY_SIGNED_STAR_GEOMETRY_DOMAIN",
+  "native_records_checked": 9146,
+  "original_native_ids_preserved": true,
+  "first_failure_counts": {
+    "None": 13,
+    "special_vertex_count": 162,
+    "degree_support": 8965,
+    "induced_euler_interval": 6
+  },
+  "profile_pass_records": 19,
+  "survivors": 13,
+  "literal_rejection_witnesses": [
+    {
+      "native_identity": {
+        "catalog_sha256": "120a8e03f8ca63a5432275be5ca65ec705062e2937a5e8b71eb401924b369ce2",
+        "order": 11,
+        "original_index": 761
+      },
+      "witness": {
+        "subset_mask": 27,
+        "vertices": 4,
+        "edges": 0,
+        "faces": 0,
+        "euler": 4
+      }
+    },
+    {
+      "native_identity": {
+        "catalog_sha256": "120a8e03f8ca63a5432275be5ca65ec705062e2937a5e8b71eb401924b369ce2",
+        "order": 11,
+        "original_index": 1160
+      },
+      "witness": {
+        "subset_mask": 15,
+        "vertices": 4,
+        "edges": 0,
+        "faces": 0,
+        "euler": 4
+      }
+    },
+    {
+      "native_identity": {
+        "catalog_sha256": "0f783e580e0555f85cf42ff460a947082d37e5699bdbf9feb4aa1da85150b04c",
+        "order": 12,
+        "original_index": 2538
+      },
+      "witness": {
+        "subset_mask": 305,
+        "vertices": 4,
+        "edges": 0,
+        "faces": 0,
+        "euler": 4
+      }
+    },
+    {
+      "native_identity": {
+        "catalog_sha256": "0f783e580e0555f85cf42ff460a947082d37e5699bdbf9feb4aa1da85150b04c",
+        "order": 12,
+        "original_index": 4735
+      },
+      "witness": {
+        "subset_mask": 269,
+        "vertices": 4,
+        "edges": 0,
+        "faces": 0,
+        "euler": 4
+      }
+    },
+    {
+      "native_identity": {
+        "catalog_sha256": "0f783e580e0555f85cf42ff460a947082d37e5699bdbf9feb4aa1da85150b04c",
+        "order": 12,
+        "original_index": 5795
+      },
+      "witness": {
+        "subset_mask": 57,
+        "vertices": 4,
+        "edges": 0,
+        "faces": 0,
+        "euler": 4
+      }
+    },
+    {
+      "native_identity": {
+        "catalog_sha256": "0f783e580e0555f85cf42ff460a947082d37e5699bdbf9feb4aa1da85150b04c",
+        "order": 12,
+        "original_index": 6285
+      },
+      "witness": {
+        "subset_mask": 75,
+        "vertices": 4,
+        "edges": 0,
+        "faces": 0,
+        "euler": 4
+      }
+    }
+  ],
+  "survivor_records": [
+    {
+      "native_identity": {
+        "catalog_sha256": "b6f27899b2b9830758119abb9f38d92705663852cbc1e54c56e5ffe7cda0aec7",
+        "order": 7,
+        "original_index": 0
+      },
+      "face_masks": [
+        25,
+        38,
+        52,
+        56,
+        70,
+        73,
+        81,
+        84,
+        98,
+        104
+      ],
+      "profile": {
+        "q": 1,
+        "positive_tips": 2,
+        "order": 7,
+        "expected_degree_counts": {
+          "3": 2,
+          "4": 2,
+          "5": 2,
+          "6": 1
+        },
+        "negative_tip_vertices": [
+          6
+        ],
+        "positive_tip_vertices": [
+          0,
+          1
+        ]
+      },
+      "degrees": [
+        3,
+        3,
+        4,
+        4,
+        5,
+        5,
+        6
+      ],
+      "induced_Euler_histogram": {
+        "0": 18,
+        "1": 92,
+        "2": 18
+      }
+    },
+    {
+      "native_identity": {
+        "catalog_sha256": "df2dd7cc5c4ba26a5dde0736c3ec8c6d9f33292dfdd66f067badb0d67ea0e879",
+        "order": 8,
+        "original_index": 3
+      },
+      "face_masks": [
+        14,
+        38,
+        76,
+        81,
+        100,
+        112,
+        138,
+        145,
+        162,
+        176,
+        193,
+        200
+      ],
+      "profile": {
+        "q": 2,
+        "positive_tips": 1,
+        "order": 8,
+        "expected_degree_counts": {
+          "3": 1,
+          "4": 4,
+          "5": 1,
+          "6": 2
+        },
+        "negative_tip_vertices": [
+          6,
+          7
+        ],
+        "positive_tip_vertices": [
+          0
+        ]
+      },
+      "degrees": [
+        3,
+        4,
+        4,
+        4,
+        4,
+        5,
+        6,
+        6
+      ],
+      "induced_Euler_histogram": {
+        "-1": 1,
+        "0": 40,
+        "1": 174,
+        "2": 40,
+        "3": 1
+      }
+    },
+    {
+      "native_identity": {
+        "catalog_sha256": "df2dd7cc5c4ba26a5dde0736c3ec8c6d9f33292dfdd66f067badb0d67ea0e879",
+        "order": 8,
+        "original_index": 7
+      },
+      "face_masks": [
+        44,
+        49,
+        52,
+        74,
+        76,
+        84,
+        138,
+        145,
+        161,
+        168,
+        194,
+        208
+      ],
+      "profile": {
+        "q": 1,
+        "positive_tips": 2,
+        "order": 8,
+        "expected_degree_counts": {
+          "3": 2,
+          "4": 1,
+          "5": 4,
+          "6": 1
+        },
+        "negative_tip_vertices": [
+          7
+        ],
+        "positive_tip_vertices": [
+          0,
+          1
+        ]
+      },
+      "degrees": [
+        3,
+        3,
+        4,
+        5,
+        5,
+        5,
+        5,
+        6
+      ],
+      "induced_Euler_histogram": {
+        "-1": 1,
+        "0": 40,
+        "1": 174,
+        "2": 40,
+        "3": 1
+      }
+    },
+    {
+      "native_identity": {
+        "catalog_sha256": "8c707c48b4daecbf613fa5d31152e5c0606206a9f8543a8a37dd60f955349eff",
+        "order": 9,
+        "original_index": 33
+      },
+      "face_masks": [
+        52,
+        74,
+        82,
+        84,
+        138,
+        146,
+        161,
+        176,
+        289,
+        292,
+        324,
+        328,
+        385,
+        392
+      ],
+      "profile": {
+        "q": 2,
+        "positive_tips": 1,
+        "order": 9,
+        "expected_degree_counts": {
+          "3": 1,
+          "4": 3,
+          "5": 3,
+          "6": 2
+        },
+        "negative_tip_vertices": [
+          7,
+          8
+        ],
+        "positive_tip_vertices": [
+          0
+        ]
+      },
+      "degrees": [
+        3,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        6,
+        6
+      ],
+      "induced_Euler_histogram": {
+        "-1": 5,
+        "0": 84,
+        "1": 334,
+        "2": 84,
+        "3": 5
+      }
+    },
+    {
+      "native_identity": {
+        "catalog_sha256": "8c707c48b4daecbf613fa5d31152e5c0606206a9f8543a8a37dd60f955349eff",
+        "order": 9,
+        "original_index": 35
+      },
+      "face_masks": [
+        14,
+        49,
+        74,
+        97,
+        134,
+        145,
+        193,
+        194,
+        268,
+        304,
+        328,
+        352,
+        388,
+        400
+      ],
+      "profile": {
+        "q": 3,
+        "positive_tips": 0,
+        "order": 9,
+        "expected_degree_counts": {
+          "3": 0,
+          "4": 6,
+          "5": 0,
+          "6": 3
+        },
+        "negative_tip_vertices": [
+          6,
+          7,
+          8
+        ],
+        "positive_tip_vertices": []
+      },
+      "degrees": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        6,
+        6,
+        6
+      ],
+      "induced_Euler_histogram": {
+        "-1": 3,
+        "0": 92,
+        "1": 322,
+        "2": 92,
+        "3": 3
+      }
+    },
+    {
+      "native_identity": {
+        "catalog_sha256": "0884454b75c491e2c47a14e9eea4e34752f24a0a3f59ddcf4b54ae5010bd690a",
+        "order": 10,
+        "original_index": 38
+      },
+      "face_masks": [
+        25,
+        38,
+        100,
+        162,
+        262,
+        280,
+        324,
+        336,
+        386,
+        392,
+        521,
+        529,
+        592,
+        608,
+        648,
+        672
+      ],
+      "profile": {
+        "q": 2,
+        "positive_tips": 1,
+        "order": 10,
+        "expected_degree_counts": {
+          "3": 1,
+          "4": 2,
+          "5": 5,
+          "6": 2
+        },
+        "negative_tip_vertices": [
+          8,
+          9
+        ],
+        "positive_tip_vertices": [
+          0
+        ]
+      },
+      "degrees": [
+        3,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6
+      ],
+      "induced_Euler_histogram": {
+        "-1": 10,
+        "0": 200,
+        "1": 604,
+        "2": 200,
+        "3": 10
+      }
+    },
+    {
+      "native_identity": {
+        "catalog_sha256": "0884454b75c491e2c47a14e9eea4e34752f24a0a3f59ddcf4b54ae5010bd690a",
+        "order": 10,
+        "original_index": 113
+      },
+      "face_masks": [
+        26,
+        28,
+        52,
+        82,
+        112,
+        224,
+        268,
+        292,
+        385,
+        416,
+        522,
+        578,
+        641,
+        704,
+        769,
+        776
+      ],
+      "profile": {
+        "q": 2,
+        "positive_tips": 1,
+        "order": 10,
+        "expected_degree_counts": {
+          "3": 1,
+          "4": 2,
+          "5": 5,
+          "6": 2
+        },
+        "negative_tip_vertices": [
+          8,
+          9
+        ],
+        "positive_tip_vertices": [
+          0
+        ]
+      },
+      "degrees": [
+        3,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6
+      ],
+      "induced_Euler_histogram": {
+        "-1": 12,
+        "0": 192,
+        "1": 616,
+        "2": 192,
+        "3": 12
+      }
+    },
+    {
+      "native_identity": {
+        "catalog_sha256": "0884454b75c491e2c47a14e9eea4e34752f24a0a3f59ddcf4b54ae5010bd690a",
+        "order": 10,
+        "original_index": 116
+      },
+      "face_masks": [
+        26,
+        28,
+        44,
+        84,
+        100,
+        224,
+        274,
+        336,
+        385,
+        448,
+        522,
+        552,
+        641,
+        672,
+        769,
+        770
+      ],
+      "profile": {
+        "q": 2,
+        "positive_tips": 1,
+        "order": 10,
+        "expected_degree_counts": {
+          "3": 1,
+          "4": 2,
+          "5": 5,
+          "6": 2
+        },
+        "negative_tip_vertices": [
+          8,
+          9
+        ],
+        "positive_tip_vertices": [
+          0
+        ]
+      },
+      "degrees": [
+        3,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6
+      ],
+      "induced_Euler_histogram": {
+        "-1": 13,
+        "0": 188,
+        "1": 622,
+        "2": 188,
+        "3": 13
+      }
+    },
+    {
+      "native_identity": {
+        "catalog_sha256": "0884454b75c491e2c47a14e9eea4e34752f24a0a3f59ddcf4b54ae5010bd690a",
+        "order": 10,
+        "original_index": 180
+      },
+      "face_masks": [
+        42,
+        84,
+        161,
+        162,
+        193,
+        196,
+        289,
+        296,
+        321,
+        336,
+        522,
+        532,
+        642,
+        644,
+        776,
+        784
+      ],
+      "profile": {
+        "q": 3,
+        "positive_tips": 0,
+        "order": 10,
+        "expected_degree_counts": {
+          "3": 0,
+          "4": 5,
+          "5": 2,
+          "6": 3
+        },
+        "negative_tip_vertices": [
+          7,
+          8,
+          9
+        ],
+        "positive_tip_vertices": []
+      },
+      "degrees": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        6,
+        6,
+        6
+      ],
+      "induced_Euler_histogram": {
+        "-1": 14,
+        "0": 184,
+        "1": 628,
+        "2": 184,
+        "3": 14
+      }
+    },
+    {
+      "native_identity": {
+        "catalog_sha256": "120a8e03f8ca63a5432275be5ca65ec705062e2937a5e8b71eb401924b369ce2",
+        "order": 11,
+        "original_index": 185
+      },
+      "face_masks": [
+        73,
+        81,
+        134,
+        162,
+        328,
+        388,
+        521,
+        529,
+        560,
+        672,
+        776,
+        896,
+        1030,
+        1058,
+        1072,
+        1104,
+        1284,
+        1344
+      ],
+      "profile": {
+        "q": 3,
+        "positive_tips": 0,
+        "order": 11,
+        "expected_degree_counts": {
+          "3": 0,
+          "4": 4,
+          "5": 4,
+          "6": 3
+        },
+        "negative_tip_vertices": [
+          8,
+          9,
+          10
+        ],
+        "positive_tip_vertices": []
+      },
+      "degrees": [
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6,
+        6
+      ],
+      "induced_Euler_histogram": {
+        "-1": 30,
+        "0": 424,
+        "1": 1140,
+        "2": 424,
+        "3": 30
+      }
+    },
+    {
+      "native_identity": {
+        "catalog_sha256": "120a8e03f8ca63a5432275be5ca65ec705062e2937a5e8b71eb401924b369ce2",
+        "order": 11,
+        "original_index": 257
+      },
+      "face_masks": [
+        28,
+        56,
+        98,
+        112,
+        162,
+        168,
+        322,
+        386,
+        517,
+        524,
+        648,
+        896,
+        1029,
+        1044,
+        1104,
+        1344,
+        1537,
+        1792
+      ],
+      "profile": {
+        "q": 2,
+        "positive_tips": 1,
+        "order": 11,
+        "expected_degree_counts": {
+          "3": 1,
+          "4": 1,
+          "5": 7,
+          "6": 2
+        },
+        "negative_tip_vertices": [
+          9,
+          10
+        ],
+        "positive_tip_vertices": [
+          0
+        ]
+      },
+      "degrees": [
+        3,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6
+      ],
+      "induced_Euler_histogram": {
+        "-1": 32,
+        "0": 416,
+        "1": 1152,
+        "2": 416,
+        "3": 32
+      }
+    },
+    {
+      "native_identity": {
+        "catalog_sha256": "120a8e03f8ca63a5432275be5ca65ec705062e2937a5e8b71eb401924b369ce2",
+        "order": 11,
+        "original_index": 691
+      },
+      "face_masks": [
+        42,
+        145,
+        148,
+        196,
+        276,
+        296,
+        324,
+        352,
+        522,
+        529,
+        776,
+        784,
+        1058,
+        1120,
+        1153,
+        1216,
+        1537,
+        1538
+      ],
+      "profile": {
+        "q": 3,
+        "positive_tips": 0,
+        "order": 11,
+        "expected_degree_counts": {
+          "3": 0,
+          "4": 4,
+          "5": 4,
+          "6": 3
+        },
+        "negative_tip_vertices": [
+          8,
+          9,
+          10
+        ],
+        "positive_tip_vertices": []
+      },
+      "degrees": [
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6,
+        6
+      ],
+      "induced_Euler_histogram": {
+        "-1": 34,
+        "0": 408,
+        "1": 1164,
+        "2": 408,
+        "3": 34
+      }
+    },
+    {
+      "native_identity": {
+        "catalog_sha256": "0f783e580e0555f85cf42ff460a947082d37e5699bdbf9feb4aa1da85150b04c",
+        "order": 12,
+        "original_index": 1697
+      },
+      "face_masks": [
+        28,
+        67,
+        140,
+        276,
+        388,
+        416,
+        515,
+        536,
+        1090,
+        1120,
+        1296,
+        1312,
+        1538,
+        1552,
+        2113,
+        2144,
+        2184,
+        2208,
+        2561,
+        2568
+      ],
+      "profile": {
+        "q": 3,
+        "positive_tips": 0,
+        "order": 12,
+        "expected_degree_counts": {
+          "3": 0,
+          "4": 3,
+          "5": 6,
+          "6": 3
+        },
+        "negative_tip_vertices": [
+          9,
+          10,
+          11
+        ],
+        "positive_tip_vertices": []
+      },
+      "degrees": [
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6,
+        6
+      ],
+      "induced_Euler_histogram": {
+        "-1": 84,
+        "0": 880,
+        "1": 2168,
+        "2": 880,
+        "3": 84
+      }
+    }
+  ],
+  "all_survivor_subsets_checked": 16000,
+  "q1_complete_literal_map_checks": [
+    {
+      "native_identity": {
+        "catalog_sha256": "b6f27899b2b9830758119abb9f38d92705663852cbc1e54c56e5ffe7cda0aec7",
+        "order": 7,
+        "original_index": 0
+      },
+      "candidates": 8,
+      "maps": [
+        [
+          2,
+          1,
+          5,
+          3,
+          0,
+          4,
+          6
+        ],
+        [
+          3,
+          0,
+          4,
+          2,
+          1,
+          5,
+          6
+        ]
+      ]
+    }
+  ],
+  "checking_CPU": 3.2442763670000003,
+  "inherited_sphere_cover_transitions": 179583,
+  "sphere_cover_completeness_replayed": false,
+  "source_completeness_is_explicit_inherited_premise": true,
+  "no_producer_imports": true,
+  "euler_algorithm": "least-vertex deletion recurrence; rejected witnesses use direct V-E+F",
+  "actual_derivative_constructed": false,
+  "full_p_model_built": false,
+  "whole_pattern_excluded": false,
+  "global_goal_complete": false,
+  "schema_version": 1,
+  "source_result": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-full-geometry-result-cycle1422.json",
+    "sha256": "c863c922418d037e0192a4ce6b87f5b1b6bde58a748236439f0e577b3eacfd74",
+    "bytes": 9950658
+  },
+  "local_geometry_authority": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-independent-authority-cycle1413.json",
+    "sha256": "b619eb4af9aa82efba81cec00e54c07e602b1e2045458696be04e7e314d599cb"
+  },
+  "inherited_sphere_cover": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/independent-math-audit/d10-normalization-spheres-independent-verification.json",
+    "sha256": "6ac411bfc80c7fc8002e0f78bb9ef45483d71ff8ba8ce6e06d24079f8e9c7544"
+  },
+  "sources": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-full-manifest-cycle1422.json",
+      "sha256": "ef5d9ae4e2fff9d124d828503d2c50d028bbf8eac928410bf6e8c20ee63c859b"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/check_signed_star_full_cycle1422.py",
+      "sha256": "082d3b7416695b76fd075f6aa920c71a9ebfb1032d7f8f74d5cf1dc32b99c304",
+      "bytes": 2453
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/run_signed_star_full_cycle1422.py",
+      "sha256": "953b2352c02e8cb7fb4a480fc7eb39eab3f9ae258facbab68b70613d4660d1d2",
+      "bytes": 5914
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-full-actual-cycle1422.log",
+      "sha256": "c01d016ca63ec2246e9a6af5ad52c9801eacdc2e685453f2e87c0f276e1b6af7",
+      "bytes": 224
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-full-authorization-cycle1422.json",
+      "sha256": "d30c10e305f91bce0df2620b1bdb6e97c71d7bdc3699685a06d08345471e1bb9",
+      "bytes": 1071
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-full-geometry-result-cycle1422.json",
+      "sha256": "c863c922418d037e0192a4ce6b87f5b1b6bde58a748236439f0e577b3eacfd74",
+      "bytes": 9950658
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-full-handoff-notes-cycle1422.md",
+      "sha256": "e61ee14026ace811995f8223c6cbce653882cc768da3ffb493e7e90d8722b20b",
+      "bytes": 3789
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-full-resources-cycle1422.txt",
+      "sha256": "c55b409dd483f58f573072662f51c64b3b8d0e3b7f7d5665178eeb8dbd6b32c4",
+      "bytes": 16
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-full-serialization-cycle1422.json",
+      "sha256": "659a8c84f0c5a3a9e4fb27c7df3dac3a508322043a3d7b0a20bf1668f3cb050e",
+      "bytes": 133
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-full-unit-normal-cycle1422.log",
+      "sha256": "8b447769d99dc6d24d5e6b045d04db65d43ff271befc04ffe368373ab8a54766",
+      "bytes": 1035
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-full-unit-optimized-cycle1422.log",
+      "sha256": "94287d8c26a44978c33a3e041cd315957ff871cdefc8975188e78149724a96e0",
+      "bytes": 1035
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-full-validation-cycle1422.json",
+      "sha256": "2af40ea20fce4e173544b12ae4d78d932080998b78ea307ec52151dfd32fac90",
+      "bytes": 708
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-thirteen-root-domain-cycle1422.json",
+      "sha256": "56f02a6a823727c25d54ea1ea95ec0e2168ce9b378e9b8fce2492448e3593307",
+      "bytes": 13877
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_signed_star_full_cycle1422.py",
+      "sha256": "e0cf3860efb8795d713489f44567afa9d0961668ce7569132a9f4949ae0b6206",
+      "bytes": 915
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-independent-authority-cycle1413.json",
+      "sha256": "b619eb4af9aa82efba81cec00e54c07e602b1e2045458696be04e7e314d599cb"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/independent-math-audit/d10-normalization-spheres-independent-verification.json",
+      "sha256": "6ac411bfc80c7fc8002e0f78bb9ef45483d71ff8ba8ce6e06d24079f8e9c7544"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-07.json",
+      "sha256": "b6f27899b2b9830758119abb9f38d92705663852cbc1e54c56e5ffe7cda0aec7",
+      "bytes": 1619
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-07.coverage.json.gz",
+      "sha256": "f6614741ded35c43867a7354803ff2948c0b3b7b4df7c60b7dd96ba69bb02144",
+      "bytes": 442
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-08.json",
+      "sha256": "df2dd7cc5c4ba26a5dde0736c3ec8c6d9f33292dfdd66f067badb0d67ea0e879",
+      "bytes": 3679
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-08.coverage.json.gz",
+      "sha256": "51b0d4dfc881d0cc1f51767a4f98bea0d792ca7bdc6121295c99f42e44763139",
+      "bytes": 1576
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-09.json",
+      "sha256": "8c707c48b4daecbf613fa5d31152e5c0606206a9f8543a8a37dd60f955349eff",
+      "bytes": 12747
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-09.coverage.json.gz",
+      "sha256": "9ea830fdb9cdcc6a465496aa2250890516eed0a03aa3fcadc273965916cb1879",
+      "bytes": 6336
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-10.json",
+      "sha256": "0884454b75c491e2c47a14e9eea4e34752f24a0a3f59ddcf4b54ae5010bd690a",
+      "bytes": 63232
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-10.coverage.json.gz",
+      "sha256": "6c8ff199f52531b9cf48cee6da456d0d7e8e3e38a26eca81350f2a1d7f5613a2",
+      "bytes": 30249
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-11.json",
+      "sha256": "120a8e03f8ca63a5432275be5ca65ec705062e2937a5e8b71eb401924b369ce2",
+      "bytes": 379625
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-11.coverage.json.gz",
+      "sha256": "4500c6d600e326b57aa2647203bfa599308c3c44ff72bbac063ad12d77283e6e",
+      "bytes": 184331
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-12.json",
+      "sha256": "0f783e580e0555f85cf42ff460a947082d37e5699bdbf9feb4aa1da85150b04c",
+      "bytes": 2554602
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-12.coverage.json.gz",
+      "sha256": "e41715eec11353302ca0f5e5f0625d8e8b684d1ce5b1a0bd809e2844fd9120e5",
+      "bytes": 1252307
+    }
+  ],
+  "reader_source": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed_star_reader_cycle1424.py",
+    "sha256": "259376d53585da7f7923eda3d5f73cbbf31327cd0a66180737a9f3cbed63c4bb",
+    "bytes": 19072
+  },
+  "total_CPU": 3.686678077,
+  "peak_RSS_bytes": 88141824
+}

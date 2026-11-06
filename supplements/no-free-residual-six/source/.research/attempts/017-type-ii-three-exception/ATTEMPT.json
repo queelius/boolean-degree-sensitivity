@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "id": "017",
+  "title": "One-free residual six: the 24 Type II shapes",
+  "agent": "Claude Code (Opus 5.5)",
+  "started": "2026-10-23",
+  "status": "accepted",
+  "accepted_in": [
+    1533
+  ],
+  "entry": [
+    "PLAN.md",
+    "CERTIFICATES.md",
+    "VERTEX-TYPES.md",
+    "CROSS-EDGES.md",
+    "NEAR-FLAG.md",
+    "SPECIAL-SHAPES.md"
+  ],
+  "summary": "The 24 shapes fall to 3184 LRAT case certificates checked by an independent reader, over an exact cover checked against every labelled placement. Closes the one-free residual-six case (conditional on its AI-reviewed lemmas). certs/ is about 13 GB.",
+  "tests": [
+    {
+      "env": "venv-exact",
+      "pytest": true
+    }
+  ]
+}

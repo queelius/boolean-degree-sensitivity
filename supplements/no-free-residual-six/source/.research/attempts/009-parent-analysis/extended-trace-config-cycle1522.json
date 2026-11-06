@@ -1,0 +1,61 @@
+{
+  "authorization": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/tip-interval-parent-authorization-cycle1520.json",
+    "bytes": 49286,
+    "sha256": "0a43aedf58c5e16b376b9706cde4858748d1e4bbc79596acd8d3ba3c47f5dcd5"
+  },
+  "candidate": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/tip-interval-pilot-cycle1521.json",
+    "bytes": 185475,
+    "sha256": "6cdf1fb1262763a0b8857fbc92abd1c74e6b01b644e2c2e9fc247f8faa2ba6ed"
+  },
+  "terminal": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/tip-interval-terminal-cycle1521.json",
+    "bytes": 1792,
+    "sha256": "e8b27945e95bdc7a6939a778f6d9eec2e5195ec33a33d500e6350d9b9f5c638e"
+  },
+  "terminal_exit_field": "observed_exit_code",
+  "terminal_candidate_field": "candidate",
+  "reader_sources": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/extended_trace_reader_cycle1522.py",
+      "bytes": 1948,
+      "sha256": "306a6e6d02543fe7da9f679173b6cd76116c758894591557e22476f6cc946aa2"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/read_extended_trace_cycle1522.py",
+      "bytes": 6632,
+      "sha256": "a8d5a0dc07763b27d7bc8a4ba657d09d69cde64b3d98c0b7a5c71a4215d9c938"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/gap_transcript_reader_cycle1436.py",
+      "bytes": 7701,
+      "sha256": "da0d90208ab9b77d4ce607d13ecc7f233e6729b7b1638abb75ceda34d96bf56c"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/exact_tip_inventory_reader_cycle1519.py",
+      "bytes": 4035,
+      "sha256": "d0663727c183a292070b24fb1f3b9b6f75508d02b9f044d9d075ba3416ba76f7"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive_inventory_reader_cycle1512.py",
+      "bytes": 2270,
+      "sha256": "b894958054a9fb15f08e3aea330a83f297d08d4b36acfefff17b0a417248ba88"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/read_positive_inventory_cycle1512.py",
+      "bytes": 7710,
+      "sha256": "c33a68e0f09d2aa15bfbc4a30fa0d4fd57dddf4fc12028bbff99441b3ca56d70"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/exact-tip-inventory-manifest-cycle1519.json",
+      "bytes": 20849,
+      "sha256": "652e4b872d18382696d5c5342b209880a81fbd5057aff27bc3ac36328535cce3"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/extended-trace-preparation-cycle1522.json",
+      "bytes": 3778,
+      "sha256": "94e310263ab0705abbae44f3f9936d2b082d5a977f9a4e9735e4d23d02b0ff33"
+    }
+  ]
+}

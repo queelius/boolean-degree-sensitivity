@@ -108,8 +108,15 @@ them is distinct from checking the ten large certificates.
 ## Citation and public record
 
 Use [CITATION.cff](CITATION.cff) to cite the current exact archive, version
-**1.3.0**, [10.5281/zenodo.23539867](https://doi.org/10.5281/zenodo.23539867),
-published on 21 October 2026. It pins the graph supplement at commit
+**1.5.0**, [10.5281/zenodo.23999933](https://doi.org/10.5281/zenodo.23999933),
+published on 6 November 2026 (see the no-free residual-six supplement below).
+All 79 public files were verified after publication
+([receipt](supplements/no-free-residual-six/PUBLIC-ZENODO-v1.5.0.json)).
+Version **1.4.0**, [10.5281/zenodo.23544931](https://doi.org/10.5281/zenodo.23544931),
+archives the residual-six derivative and disk supplement.
+
+Version **1.3.0**, [10.5281/zenodo.23539867](https://doi.org/10.5281/zenodo.23539867),
+published on 21 October 2026, pins the graph supplement at commit
 `81e6f434d44ee67610a88aab18a2ed7438510bfc` and retains the earlier evidence.
 The [public verification receipt](verification/PUBLIC-ZENODO-v1.3.0.json) records
 four new files freshly downloaded without authentication and both full proof
@@ -177,4 +184,33 @@ remain explicit inherited premises. The dependent whole-pattern application
 has further graph premises. A relative standard-library replay and failure
 controls are included. The fourteen-variable question remains open; no two-free
 extension, formal verification, human peer review or novelty is asserted here.
-Archival publication of this1.4.0 supplement is pending.
+This supplement is archived as version 1.4.0, [10.5281/zenodo.23544931](https://doi.org/10.5281/zenodo.23544931).
+
+
+## No-free residual-six supplement (version 1.5.0)
+
+The [no-free residual-six supplement](supplements/no-free-residual-six/README.md)
+holds the sources of the accepted research checkpoints 1531 to 1534. In the
+existence-preserving self-dual empty-pair normal form, every instance with
+residual Fourier defect at most 6 and a negative-free coordinate is excluded,
+so the remaining residual-at-most-6 instances have negative-support union 14.
+Lemma L1 excludes the whole negative quintic magnitude patterns (2,2,2,2) and
+(2,2,2,2,1). Of 73 patterns, 46 are excluded and **27 remain open**. The
+exclusions rest on 6,871 LRAT case certificates, each re-read by an
+independently written reader, and on written reductions that only AI models
+have reviewed. [REPORT.md](supplements/no-free-residual-six/REPORT.md) lists
+the premises. No construction, nonexistence proof, human peer review,
+formalization or novelty is claimed.
+
+The certificates (17.8 GB stored) and the 14 packet files larger than 1 MiB
+are only in the Zenodo archive,
+[10.5281/zenodo.23999933](https://doi.org/10.5281/zenodo.23999933).
+[OMITTED-FROM-GIT.json](supplements/no-free-residual-six/OMITTED-FROM-GIT.json)
+gives the size and SHA-256 of each omitted file.
+
+## Contributing
+
+The question is open, and help is welcome at every level: a construction, a
+proof for one of the open patterns, independent replay of the certificates, or
+human review of the written reductions. See [CONTRIBUTING.md](CONTRIBUTING.md)
+and the open issues.

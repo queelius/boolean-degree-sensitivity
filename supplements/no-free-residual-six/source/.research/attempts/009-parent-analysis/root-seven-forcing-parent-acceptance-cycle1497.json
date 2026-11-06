@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "status": "ACCEPTED_WRITTEN_TOPOLOGICAL_FORCING_FOR_GENUINE_SIGNED_STAR_CONTEXTS",
+  "observed_at": "2026-10-21T22:32:37.679414+00:00",
+  "independent_authority": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/root-seven-filled-link-independent-authority-cycle1497.json",
+    "sha256": "51703596cba350bea954657437e8b4f16958cd7c8928e1ee02912d7d8a8b4d67"
+  },
+  "independent_manifest": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/root-seven-filled-link-manifest-cycle1497.json",
+    "sha256": "c9f92d06407eaf82c4e7aa357e1e3a43c0fd1c7acfafe6249d9c83f21b557863"
+  },
+  "root_read_full_proof": true,
+  "root_independently_checked_partition_and_six_vertex_link_argument": true,
+  "root7_forced_absent_triangle_masks": [
+    176,
+    200
+  ],
+  "positive_tip_minimum_degree": 7,
+  "root_degree_at_least10_positive_link_triangles_absent": true,
+  "relaxed_native_rows_entailment_claimed": false,
+  "solver_queries": 0,
+  "model_exclusions": 0,
+  "global_goal_complete": false,
+  "sources": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/missing-triangle-independent-authority-cycle1489.json",
+      "sha256": "f30829b6752bab524c5901d29967d9893b348023a927b1859942d73f34fca828"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/missing-triangle-independent-review-cycle1489.md",
+      "sha256": "92905cb0878aeb84b52484cdb2a471c6fe28780df10c39bd4cc780f719d359ba"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/missing-triangle-meridian-proof-cycle1494.md",
+      "sha256": "3eec42841fdb993fbab240d0082ab48ae34b5eef42f741410f3e3bf7e82ebc7f"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/missing-triangle-meridians-handoff-cycle1494.json",
+      "sha256": "0f1a6361778caf638aecf598547591819fe03cebec8f0be41c77dd0a11f7b198"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/root-meridian-cut-proposals-cycle1494.json",
+      "sha256": "bca116fe4eaf1f1fc055e9cc3fade3a01afd6a67d2bd73a4806a99aa005e3635"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/root-seven-filled-link-independent-authority-cycle1497.json",
+      "sha256": "51703596cba350bea954657437e8b4f16958cd7c8928e1ee02912d7d8a8b4d67"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/root-seven-filled-link-independent-review-cycle1497.md",
+      "sha256": "4ecd272ae45f8fe825c3920b46906737f9868bb1cd0a827c31ee900b3f666bf9"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/root-seven-filled-link-manifest-cycle1497.json",
+      "sha256": "c9f92d06407eaf82c4e7aa357e1e3a43c0fd1c7acfafe6249d9c83f21b557863"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/root-seven-filled-link-validation-cycle1497.json",
+      "sha256": "5710ba267c5843db6735bdb183ada50d71d40638d321b126180e49572ed48789"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-manifold-parent-acceptance-cycle1453.json",
+      "sha256": "26e71d45248d01e5b4b668327f814fb8100e6c1a41867149f311ff5ca1a608e0"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-manifold-proof-cycle1443.md",
+      "sha256": "800f6c0e5fbfd5b211a3c81ac0ef0987d8f1aa0fc9b72f727b0d35a871250b6e"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-native-contexts-cycle1432.json",
+      "sha256": "dfe5de4b3083673b6aa1cfdfa1c9167d80ba9ed6d6a5c5c7d75a9cb0de290059"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-native-rows-authority-cycle1431.json",
+      "sha256": "b6eb54bca5b3b31c5c700f484ada8c78e99925b07f9f380b4d813fd1a84c195f"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/state-cycle1490.md",
+      "sha256": "499cfbbcc8a9d48f622af1ecde3c04a4f7ef9f278769308c148528f48220300d"
+    }
+  ]
+}

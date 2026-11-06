@@ -1,0 +1,18 @@
+test_exact_tip_inventory_reader_cycle1519 (unittest.loader._FailedTest) ... ERROR
+
+======================================================================
+ERROR: test_exact_tip_inventory_reader_cycle1519 (unittest.loader._FailedTest)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: test_exact_tip_inventory_reader_cycle1519
+Traceback (most recent call last):
+  File "/home/spinoza/.local/share/uv/python/cpython-3.10-linux-x86_64-gnu/lib/python3.10/unittest/loader.py", line 154, in loadTestsFromName
+    module = __import__(module_name)
+  File "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_exact_tip_inventory_reader_cycle1519.py", line 4, in <module>
+    from exact_tip_inventory_reader_cycle1519 import derive_rows,evaluate
+ModuleNotFoundError: No module named 'exact_tip_inventory_reader_cycle1519'
+
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+FAILED (errors=1)

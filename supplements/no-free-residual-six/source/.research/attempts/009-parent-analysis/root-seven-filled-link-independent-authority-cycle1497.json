@@ -1,0 +1,109 @@
+{
+  "schema_version": 1,
+  "status": "INDEPENDENT_WRITTEN_REVIEW_ACCEPTS_ROOT7_OPPOSITE_TRIANGLE_FORCING_UNDER_STATED_PREMISES",
+  "observed_at": "2026-10-21T22:31:37.359003+00:00",
+  "proof": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/root-seven-filled-link-independent-review-cycle1497.md",
+    "sha256": "4ecd272ae45f8fe825c3920b46906737f9868bb1cd0a827c31ee900b3f666bf9",
+    "bytes": 8849
+  },
+  "sources": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-manifold-parent-acceptance-cycle1453.json",
+      "sha256": "26e71d45248d01e5b4b668327f814fb8100e6c1a41867149f311ff5ca1a608e0",
+      "bytes": 10728
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-manifold-proof-cycle1443.md",
+      "sha256": "800f6c0e5fbfd5b211a3c81ac0ef0987d8f1aa0fc9b72f727b0d35a871250b6e",
+      "bytes": 12861
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/missing-triangle-independent-authority-cycle1489.json",
+      "sha256": "f30829b6752bab524c5901d29967d9893b348023a927b1859942d73f34fca828",
+      "bytes": 3202
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/missing-triangle-independent-review-cycle1489.md",
+      "sha256": "92905cb0878aeb84b52484cdb2a471c6fe28780df10c39bd4cc780f719d359ba",
+      "bytes": 11368
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/state-cycle1490.md",
+      "sha256": "499cfbbcc8a9d48f622af1ecde3c04a4f7ef9f278769308c148528f48220300d",
+      "bytes": 3626
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/missing-triangle-meridian-proof-cycle1494.md",
+      "sha256": "3eec42841fdb993fbab240d0082ab48ae34b5eef42f741410f3e3bf7e82ebc7f",
+      "bytes": 8998
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/root-meridian-cut-proposals-cycle1494.json",
+      "sha256": "bca116fe4eaf1f1fc055e9cc3fade3a01afd6a67d2bd73a4806a99aa005e3635",
+      "bytes": 16583
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/missing-triangle-meridians-handoff-cycle1494.json",
+      "sha256": "0f1a6361778caf638aecf598547591819fe03cebec8f0be41c77dd0a11f7b198",
+      "bytes": 3624
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-native-rows-authority-cycle1431.json",
+      "sha256": "b6eb54bca5b3b31c5c700f484ada8c78e99925b07f9f380b4d813fd1a84c195f",
+      "bytes": 25443
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-native-contexts-cycle1432.json",
+      "sha256": "dfe5de4b3083673b6aa1cfdfa1c9167d80ba9ed6d6a5c5c7d75a9cb0de290059",
+      "bytes": 2179719
+    }
+  ],
+  "inherited_premises": [
+    "Genuine13vertex simplicial3sphere; alpha<=2; minimumdegree6",
+    "All exception edges form one root three-star; positive valence3, negative6; all ordinary4/5",
+    "Every vertexlinkS2; root degree lowerbounds7/8/9 for1/2/3negativeedges"
+  ],
+  "new_written_conclusions": {
+    "positive_tip_minimum_degree": 7,
+    "filled_positive_link_triangle_implies_endpoint_degree_sum": 16,
+    "root7_both_positive_opposite_link_triangles_missing": true,
+    "root_degree_at_least10_positive_opposite_link_triangles_missing": true
+  },
+  "literal_native_scope": {
+    "root_order": 7,
+    "original_index": 0,
+    "physical_root": 0,
+    "constants": [
+      1,
+      2
+    ],
+    "forced_absent_triangle_masks": [
+      176,
+      200
+    ],
+    "not_a_new_assignment": true,
+    "not_a_function_symmetry": true
+  },
+  "independent_checks": [
+    "Stellar subdivision preservesS3; boundary mA is a genuine missingtetrahedron",
+    "Paired maxy/mbxy cofaces prove endpoints on opposite outside sides",
+    "Outside original graph has only crossedgeab; alpha used on originalgraph, not14vertex subdivision",
+    "Side sizes1/2/3 ruled out separately by actual minimumdegree",
+    "Clique proof excludes exceptional endpoint choice; exact endpoint degrees follow",
+    "Otherpositive tip outsideA follows degree3 nonadjacency in rootlink, and agrees with literal root source",
+    "Sixvertex sphere lemma retains the cap-face and nonadjacency guards"
+  ],
+  "controls": "No new unit/finite search execution. Accepted1489 elementary six-vertex sphere proof/controls and frozen1494 structured physical extraction are inherited, not rerun. This is an independent written mathematical audit.",
+  "root_orders8and9_settled": false,
+  "native_rows_added": 0,
+  "new_CNF_encodings": 0,
+  "target_queries": 0,
+  "native_model_excluded": false,
+  "whole_case_excluded": false,
+  "whole_pattern_excluded": false,
+  "formal_verification": false,
+  "human_review": false,
+  "novelty_established": false,
+  "global_goal_complete": false
+}

@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "status": "INDEPENDENT_WRITTEN_REVIEW_ACCEPTS_GENERAL_POSITIVE_OPPOSITE_TRIANGLE_OBSTRUCTION",
+  "observed_at": "2026-10-21T22:51:13.295022+00:00",
+  "review": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/filled-positive-link-independent-review-cycle1508.md",
+    "sha256": "a977975a5823163b4eb073fd1915a39e873f48a43786b1a23f8247f5f91ede0a",
+    "bytes": 13460
+  },
+  "validation": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/filled-positive-link-independent-validation-cycle1508.json",
+    "sha256": "5dd695da09d67b3b64bab0dc6b75dee4e216c59ab3b641cd9e4067d628a4e884",
+    "bytes": 878
+  },
+  "sources": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-opposite-triangle-proof-cycle1507.md",
+      "sha256": "ac58e2c620c96d9496c39a01cf1776d96b75f3012c02fe865dc91eb8efbf2046",
+      "bytes": 9847
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-opposite-triangle-handoff-cycle1507.json",
+      "sha256": "c26bd3d5e4c5c81cc1838d182fb8a31a52793d528c39aad99e38ceb6d1951133",
+      "bytes": 4030
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-manifold-parent-acceptance-cycle1453.json",
+      "sha256": "26e71d45248d01e5b4b668327f814fb8100e6c1a41867149f311ff5ca1a608e0",
+      "bytes": 10728
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-manifold-proof-cycle1443.md",
+      "sha256": "800f6c0e5fbfd5b211a3c81ac0ef0987d8f1aa0fc9b72f727b0d35a871250b6e",
+      "bytes": 12861
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/missing-triangle-independent-authority-cycle1489.json",
+      "sha256": "f30829b6752bab524c5901d29967d9893b348023a927b1859942d73f34fca828",
+      "bytes": 3202
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/missing-triangle-independent-review-cycle1489.md",
+      "sha256": "92905cb0878aeb84b52484cdb2a471c6fe28780df10c39bd4cc780f719d359ba",
+      "bytes": 11368
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/root-seven-filled-link-independent-authority-cycle1497.json",
+      "sha256": "51703596cba350bea954657437e8b4f16958cd7c8928e1ee02912d7d8a8b4d67",
+      "bytes": 5021
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/root-seven-filled-link-independent-review-cycle1497.md",
+      "sha256": "4ecd272ae45f8fe825c3920b46906737f9868bb1cd0a827c31ee900b3f666bf9",
+      "bytes": 8849
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-opposite-triangle-manifest-cycle1507.json",
+      "sha256": "c280ffe390f68f93cc6c85afe8ef6fd8198fc103f474030a1c634de4140230db",
+      "bytes": 2276
+    }
+  ],
+  "general_hypotheses": [
+    "Finite combinatorial PL3sphere",
+    "Edgeab has valence3 and linkboundary A onthreevertices",
+    "Each ofthethreeAedges hasvalenceatmost5"
+  ],
+  "general_conclusion": "Afilled implies some graphdegree4vertex; minimumdegree>=5 therefore forcesAmissing",
+  "signed_star_application": "Everypositive rootedge hasmissing opposite triangle atallrootorders underaccepted sphere/star/ordinaryvalence4or5/minimumdegree6 premises",
+  "optional_caps_absent_shape": "Exactly7vertexsphere withdegree multiset4,4,5,5,6,6,6",
+  "unneeded_hypotheses": [
+    "alpha<=2",
+    "13vertices for generaltheorem",
+    "Otherpositive tipoutsideA",
+    "Fixed rootorder",
+    "Flagness orfunction symmetry"
+  ],
+  "external_classical_input": {
+    "theorem": "PLAlexander/Schoenflies and properdisk splitting in3ball",
+    "author_hosted_reference": "https://pi.math.cornell.edu/~hatcher/3M/3Mfds2014.pdf",
+    "theorem_number": "1.1",
+    "printed_pages": [
+      1,
+      2
+    ],
+    "author_text_freshly_read": true,
+    "original_1924_fullproof_freshly_read": false,
+    "third_party_source_body_redistributed": false
+  },
+  "Pachner_transfer_to_other_signed_star_context_established": false,
+  "new_native_units_derived": 0,
+  "native_rows_added": 0,
+  "solver_queries": 0,
+  "native_models_excluded": 0,
+  "whole_pattern_excluded": false,
+  "human_review": false,
+  "formal_verification": false,
+  "novelty_established": false,
+  "global_goal_complete": false
+}

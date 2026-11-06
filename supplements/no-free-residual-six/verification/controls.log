@@ -1,0 +1,16 @@
+{"control": "014 untouched certificate", "required": [0, "ROWS_INFEASIBLE_VERIFIED"], "observed": [0, "ROWS_INFEASIBLE_VERIFIED"], "passed": true}
+{"control": "014 proof without its empty-clause step (lrat-trim rejects)", "required": [1, "NOT_VERIFIED"], "observed": [1, "NOT_VERIFIED"], "passed": true}
+{"control": "014 altered proof under the old pin (pin check rejects)", "required": [1, "proof changed"], "observed": [1, "proof changed"], "passed": true}
+{"control": "017 untouched certificate", "required": "CASE_ROWS_INFEASIBLE_VERIFIED", "observed": "CASE_ROWS_INFEASIBLE_VERIFIED", "passed": true}
+{"control": "017 proof without its empty-clause step", "required": "NOT_VERIFIED", "observed": "NOT_VERIFIED", "passed": true}
+{"control": "017 altered proof under the old pin", "required": "REJECTED:ReaderError", "observed": "REJECTED:ReaderError", "passed": true}
+{"control": "017 changed row bound", "required": "REJECTED:ReaderError", "observed": "REJECTED:ReaderError", "passed": true}
+{"control": "018 untouched certificate", "required": "CASE_ROWS_INFEASIBLE_VERIFIED", "observed": "CASE_ROWS_INFEASIBLE_VERIFIED", "passed": true}
+{"control": "018 proof without its empty-clause step", "required": "NOT_VERIFIED", "observed": "NOT_VERIFIED", "passed": true}
+{"control": "018 altered proof under the old pin", "required": "REJECTED:ReaderError", "observed": "REJECTED:ReaderError", "passed": true}
+{"control": "018 changed row bound", "required": "REJECTED:ReaderError", "observed": "REJECTED:ReaderError", "passed": true}
+{"control": "018 assembly, archived results", "required": 0, "observed": 0, "passed": true}
+{"control": "018 assembly, one certificate removed", "required": true, "observed": true, "passed": true}
+{"control": "018 status with a missing obligation", "required": "INCOMPLETE", "observed": "INCOMPLETE", "passed": true}
+{"control": "018 status with nothing missing", "required": "ALL_L1_CASES_VERIFIED", "observed": "ALL_L1_CASES_VERIFIED", "passed": true}
+{"controls": 15, "passed": 15, "optimized": false}

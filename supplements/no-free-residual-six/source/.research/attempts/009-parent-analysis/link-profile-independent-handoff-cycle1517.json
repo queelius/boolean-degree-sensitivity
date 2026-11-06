@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "status": "FROZEN_INDEPENDENT_LINK_PROFILE_GATE",
+  "authority": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/link-profile-independent-authority-cycle1517.json",
+    "sha256": "ebcc0c42d3b07b59aca073f0bac9e5a0ccc54221cd5ce2b28466424179c3d18c",
+    "bytes": 14630
+  },
+  "validation": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/link-profile-independent-validation-cycle1517.json",
+    "sha256": "f952652597f4a0d7acf5c04895596385d70377e036c81e4ef12b97fe9f9aa6df",
+    "bytes": 3723
+  },
+  "scope": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/link-profile-independent-scope-cycle1517.md",
+    "sha256": "168daa8be4f70a013aac14e740353de013f8daa9a9e698b22c9a8dcf9d4a4660",
+    "bytes": 3886
+  },
+  "report": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/link-profile-independent-results-cycle1517.md",
+    "sha256": "0de365a2a1b161be72dda29ae4da502f91b7c2dcf31ead802396fde4ff4a569a",
+    "bytes": 2279
+  },
+  "native_records_checked": 9146,
+  "necessary_nonroot_degrees": {
+    "positive_tip": [
+      7
+    ],
+    "negative_tip": [
+      9,
+      10,
+      11
+    ],
+    "ordinary": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      12
+    ]
+  },
+  "root_excluded_from_these_profiles": true,
+  "new_context_exclusions": 0,
+  "target_queries": 0,
+  "global_goal_complete": false
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "status": "COMMAND_PREFLIGHT_HASH_REJECTION_BEFORE_NATIVE_SOURCE_LOAD",
+  "supplied_plan_sha256": "PLACEHOLDER",
+  "actual_plan_sha256": "985009f84e9540d5e85557d3cf1dad9e842430ecccc258afe0a6ed4902793bc8",
+  "plan": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/tip-structure-source-plan-cycle1518.json",
+  "exit_code": 1,
+  "error_type": "ValueError",
+  "error": "changed source",
+  "failure_location": "pinned(planref) before reading premise_bindings",
+  "native_sources_loaded": false,
+  "inventory_constructed": false,
+  "target_queries": 0,
+  "failed_resource_receipt": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/tip-structure-inventory-resources-cycle1518.txt",
+  "correction": "Exact already-frozen plan SHA supplied in separate source-only execution; no code or mathematical changes",
+  "global_goal_complete": false
+}

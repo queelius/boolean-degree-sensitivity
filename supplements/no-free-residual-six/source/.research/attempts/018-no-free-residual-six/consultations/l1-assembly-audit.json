@@ -1,0 +1,40 @@
+{
+ "schema_version": 2,
+ "kind": "codex_consultation",
+ "name": "l1-assembly-audit",
+ "attempt": "/home/spinoza/github/math-theory/.research/attempts/018-no-free-residual-six",
+ "started": "2026-10-24T06:00:24.155099+00:00",
+ "outcome": "COMPLETED",
+ "standing": "AI_REVIEW_ONLY_NOT_ACCEPTANCE",
+ "sandbox_requested": "read-only",
+ "effort": "max",
+ "model_requested": null,
+ "checkpoint": {
+  "pointer": {
+   "path": "/home/spinoza/github/math-theory/.research/current-checkpoint.json",
+   "sha256": "7ad702c39bf80855bedb6bb7e72b399d715a7df5cffc3de1179eb9c596cc524e"
+  },
+  "cycle": 1533
+ },
+ "finished": "2026-10-24T06:10:20.447623+00:00",
+ "exit": 0,
+ "model": "gpt-6-astra",
+ "session_id": "01a16c7e-ff2a-7c30-a9f9-de89c8080028",
+ "sandbox_reported": "read-only",
+ "prompt": {
+  "path": "/home/spinoza/github/math-theory/.research/attempts/018-no-free-residual-six/consultations/l1-assembly-audit.prompt.md",
+  "sha256": "6fa0227f0a953dac2e419bcc83764a077e50ba2dc20486772a1a6ffcedca6cd7"
+ },
+ "briefing": {
+  "path": "/home/spinoza/github/math-theory/.research/attempts/018-no-free-residual-six/consultations/l1-assembly-audit.briefing.md",
+  "sha256": "212657759ea5208836405e4bb7d1fa447ced9ec69c2693297f3e887b094b7ac2"
+ },
+ "answer": {
+  "path": "/home/spinoza/github/math-theory/.research/attempts/018-no-free-residual-six/consultations/l1-assembly-audit.answer.md",
+  "sha256": "8f289fa298875a45b651799e087d933634f3bd7921412de92f294f54a14f2403"
+ },
+ "log": {
+  "path": "/home/spinoza/github/math-theory/.research/attempts/018-no-free-residual-six/consultations/l1-assembly-audit.log",
+  "sha256": "a96958d67eec9fcb5bff35ae73ec007140874998c520648ae39a9f182122718c"
+ }
+}

@@ -1,0 +1,9 @@
+test_alias_omission_and_noninvolutive_transport (test_unique_degree_three_cycle1514.TinySphereControls) ... ok
+test_octahedron_single_stack_positive (test_unique_degree_three_cycle1514.TinySphereControls) ... ok
+test_patch_counts_and_no_positive_interior_count (test_unique_degree_three_cycle1514.TinySphereControls) ... ok
+test_uniqueness_and_max_degree_guards (test_unique_degree_three_cycle1514.TinySphereControls) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.008s
+
+OK

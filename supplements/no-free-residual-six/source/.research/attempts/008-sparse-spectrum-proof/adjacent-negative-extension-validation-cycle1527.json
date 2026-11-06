@@ -1,0 +1,71 @@
+{
+  "CPU_seconds": {
+    "covered": 0.773687498,
+    "normal": 0.14224251,
+    "optimized": 0.14774863900000001
+  },
+  "coverage": {
+    "bytes": 16916,
+    "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/adjacent-negative-extension-coverage-cycle1527.json",
+    "sha256": "ef89d123e63af003671633ad6b49f6ad8c246c7ed6432fb0a3026dac8741eaa5"
+  },
+  "coverage_totals": {
+    "covered_branches": 50,
+    "covered_lines": 251,
+    "excluded_lines": 0,
+    "missing_branches": 0,
+    "missing_lines": 0,
+    "num_branches": 50,
+    "num_partial_branches": 0,
+    "num_statements": 251,
+    "percent_branches_covered": 100.0,
+    "percent_branches_covered_display": "100",
+    "percent_covered": 100.0,
+    "percent_covered_display": "100",
+    "percent_statements_covered": 100.0,
+    "percent_statements_covered_display": "100"
+  },
+  "created_at": "2026-10-21T23:34:44.356285+00:00",
+  "first_green_controls": {
+    "bytes": 806,
+    "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/adjacent-negative-extension-first-controls-cycle1527.log",
+    "sha256": "73cd05f60d7b46460b345468c544d1296b4ea834d132048997ce6723ce6df45d"
+  },
+  "full_models_constructed": 0,
+  "initial_red_log": {
+    "bytes": 320,
+    "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/adjacent-negative-extension-red-cycle1527.log",
+    "sha256": "1b2563a40b95a1f21779970aa4e9a17711686c22aa6157bf30e38b4c8a333bde"
+  },
+  "limits": {
+    "CPU_seconds": 5,
+    "address_space_bytes": 536870912,
+    "wall_seconds": 15
+  },
+  "normal_optimized_covered_agree_ignoring_CPU": true,
+  "reports": [
+    {
+      "bytes": 8813,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/adjacent-negative-extension-independent-normal-cycle1527.json",
+      "sha256": "d2f9287adee0050684f9cabcfe3c2cb1414c1c6709ecda8f0c1962d4572cc16b"
+    },
+    {
+      "bytes": 8822,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/adjacent-negative-extension-independent-optimized-cycle1527.json",
+      "sha256": "ab109b9fe5310c2388054048ddb479f2fa20cb957329588e0b3c1c07a0d01969"
+    },
+    {
+      "bytes": 8814,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/adjacent-negative-extension-independent-covered-cycle1527.json",
+      "sha256": "072da21205bff9afa42f33283bfd35a381e4e6431d95d0b45feff2f4223f60af"
+    }
+  ],
+  "schema_version": 1,
+  "solver_queries": 0,
+  "status": "PASS_NORMAL_OPTIMIZED_AND_COVERED_REPLAY",
+  "target_catalog_enumerations": 0,
+  "tests_instrumented": 7,
+  "tests_normal": 7,
+  "tests_optimized": 7,
+  "tiny_controls_before_retained_replay": 6
+}

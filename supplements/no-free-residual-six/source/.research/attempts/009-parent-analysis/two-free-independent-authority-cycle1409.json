@@ -1,0 +1,105 @@
+{
+  "controls": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/two-free-independent-terminal-controls-cycle1409.json",
+    "sha256": "312b75a8270dc7233b447e9436454c4487c51bfba871d282c51d73dc01a05ac7"
+  },
+  "endpoint_final_validation": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/minus-three-links-independent-final-validation-cycle1395.json",
+    "sha256": "9968b97775d39356c0d95dbf2419fcd887559162448b88a7c048139947f9229d"
+  },
+  "endpoint_prior_authority": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/minus-three-links-independent-authority-cycle1395.json",
+    "sha256": "02706b0f91065e9bdec12a3f74e103f53603f8597d01e826154371f24e714c08"
+  },
+  "finite_control_scope": {
+    "allocations": 61,
+    "c0_c3_old_guard_uses": 362,
+    "impossible_physical_support_aliases": 134,
+    "incidence_cases": 1746,
+    "routes": {
+      "DOUBLE_MIXTURE": 6,
+      "MISSED_COST6_BASELINE": 15,
+      "NEW_TWO_FREE_MINUS3_DISKS": 1,
+      "OLD_LOCAL": 1718,
+      "POSITIVE_CUBIC_PARITY": 1,
+      "THREE_DISTINCT_COMMON_PAIR_CUBICS": 4,
+      "TRIPLED_QUARTIC": 1
+    }
+  },
+  "formal_verification": false,
+  "global_goal_complete": false,
+  "historical_catalogs_and_certificate_deductions_replayed_here": false,
+  "human_peer_review": false,
+  "later_compact_scope_report": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/one-six-edge-compact-independent-verification.json",
+    "sha256": "248fe064fe70d38086c7cc16034c47836f1ce81a4598aa75847a157cc4775edc"
+  },
+  "local_endpoint_written_proof": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/minus-three-links-independent-review-cycle1395.md",
+    "sha256": "493f918da500ed13fef16d398d75f8fccb10456cf255eee8adaf0b242ca5f81e"
+  },
+  "local_premise_authority": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/residual-six-independent-authority-cycle1386.json",
+    "sha256": "e9b7294d6df2e8c8cb3b74f73077cd213fcb0d39ce4f9104e7acba493d429d9a"
+  },
+  "mathematical_novelty_assessed": false,
+  "producer_manifest": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/two-free-manifest-cycle1405.json",
+    "sha256": "f529d955e6cf9a0348eba9950400fd95f533028c0876aacf2b1ad33c99a3f061"
+  },
+  "pure_disk_and_core_identity_authority": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/three-disks-independent-authority-cycle1401.json",
+    "sha256": "5911fc936300b9ddaed17c02038416b305a0e8cba95ac5dc6115c5385a192692"
+  },
+  "reader": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/two_free_independent_cycle1409.py",
+    "sha256": "749a937359afaadd6212c9f2d8a924138a6956b6cc3b0aa595c24f2505268c92"
+  },
+  "review": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/two-free-independent-review-cycle1409.md",
+    "sha256": "1f2e6ec9576ac767852ba5e430c4ff8a70f29f1cc1764bee115d4be3f239d1e8"
+  },
+  "schema_version": 1,
+  "scope": {
+    "actual_boolean_function_constructed": false,
+    "all_negative_quintic_cost_fixed_before_residual_budget": true,
+    "all_singleton_and_pair_truths": 1,
+    "before_separate_sign_refinement_ordered_tip_signings": 8,
+    "canonical_ledgers_changed": false,
+    "conclusion_negative_free_coordinates_exactly": 2,
+    "conclusion_negative_union_size_exactly": 12,
+    "conclusion_residual_coefficients": "Three distinct cubics sharing the full free pair, each numerator -2 or +1; all other residual coefficients baseline.",
+    "conclusion_residual_cost_exactly": 6,
+    "f_origin": 0,
+    "global_goal_complete": false,
+    "hypothesis_negative_free_coordinates_at_least": 2,
+    "mixed_sign_endpoint_geometry_or_catalog_filter_accepted": false,
+    "n": 14,
+    "new_target_solver_used": false,
+    "original_function_selfduality_assumed": false,
+    "real_degree_at_most": 5,
+    "representative": "selfdual_empty",
+    "residual_fourier_defect_at_most": 6,
+    "whole_pattern_excluded": false
+  },
+  "separate_all_positive_refinement_included_here": false,
+  "source": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/two-free-residual6-review-cycle1405.md",
+    "sha256": "b722030e267ca32e8f5a64bdb8a5e4234bcdebc803c5e49e31f866e53a6d292c"
+  },
+  "source_audit": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/two-free-independent-source-audit-cycle1409.json",
+    "sha256": "e833d6b7abdd965856695544bcb2345f2bc044666b6727e13bbc4e67e1d91fb3"
+  },
+  "status": "INDEPENDENTLY_ACCEPTED_TWO_FREE_RESIDUAL6_CUBIC_STAR_CLASSIFICATION",
+  "two_free_minus3_extension": {
+    "all_three_disks_from_actual_free_derivatives": true,
+    "every_core_pair_meets_a_true_free_coordinate": true,
+    "independent_written_proof_accepted": true,
+    "local_1395_hypotheses_rechecked_at_each_available_derivative": true,
+    "old_global_F3_authority_claimed_to_cover_extension": false,
+    "pair_truth_exactly_off_cycle_disk_incidence": true,
+    "required_nine_incidences_exceed_eight": true,
+    "third_core_coordinate_assumed_free": false
+  }
+}

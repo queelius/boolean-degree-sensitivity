@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "status": "IMMUTABLE_NAVIGATION_SNAPSHOTS",
+  "purpose": "Preserve exact handoff/instruction bytes if mutable entry documents are later updated. These are documentation snapshots, not new mathematical evidence.",
+  "snapshots": [
+    {
+      "original_navigation_path": "/home/spinoza/github/math-theory/CLAUDE.md",
+      "snapshot": {
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/claude-entry-cycle1530.md",
+        "sha256": "9fac91fef1af2cf9cda647bbe5e33aa48f69bddde6524b62960088b24a9106b4",
+        "bytes": 1714
+      }
+    },
+    {
+      "original_navigation_path": "/home/spinoza/github/math-theory/AGENTS.md",
+      "snapshot": {
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/agent-instructions-cycle1530.md",
+        "sha256": "97a866ae18fc89179cdf9f877db9a23df4b634082ad0b7ae4b23f9ba3f7ee85a",
+        "bytes": 4613
+      }
+    },
+    {
+      "original_navigation_path": "/home/spinoza/github/math-theory/.research/CLAUDE_HANDOFF.md",
+      "snapshot": {
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/claude-handoff-cycle1530.md",
+        "sha256": "300f77c71f0f68f3bdabd4cce819271e208805743c7c3f1f31b60392cdac8ee4",
+        "bytes": 11834
+      }
+    }
+  ]
+}

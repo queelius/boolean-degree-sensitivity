@@ -1,0 +1,45 @@
+test_all4096_ordinary_vectors_and_only_ordinary_vertices (test_exact_tip_inventory_reader_cycle1519.Tests) ... FAIL
+test_conditional_row_includes_absent_edge_zero (test_exact_tip_inventory_reader_cycle1519.Tests) ... ok
+test_disconnected_negative_link_rejected (test_exact_tip_inventory_reader_cycle1519.Tests) ... ok
+test_exact_degree_and_fixed_five_reject_weakening (test_exact_tip_inventory_reader_cycle1519.Tests) ... ok
+test_exact_rows_shared_pair_and_all_physical_slots (test_exact_tip_inventory_reader_cycle1519.Tests) ... FAIL
+test_negative_only_then_ordinary_complement (test_exact_tip_inventory_reader_cycle1519.Tests) ... FAIL
+test_relabel_preserves_native_semantics (test_exact_tip_inventory_reader_cycle1519.Tests) ... ok
+
+======================================================================
+FAIL: test_all4096_ordinary_vectors_and_only_ordinary_vertices (test_exact_tip_inventory_reader_cycle1519.Tests)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_exact_tip_inventory_reader_cycle1519.py", line 28, in test_all4096_ordinary_vectors_and_only_ordinary_vertices
+    self.assertEqual({r['key']['subject'] for r in ordinary},{1<<v for v in range(13) if v!=0 and v not in special});self.assertEqual(len(ordinary),108);rows=[r for r in ordinary if r['key']['subject']==8];self.assertEqual(len(rows),12);masks=[m for m,c in rows[0]['terms']];rejected=0
+AssertionError: Items in the second set but not the first:
+32
+64
+256
+512
+1024
+2048
+4096
+8
+16
+
+======================================================================
+FAIL: test_exact_rows_shared_pair_and_all_physical_slots (test_exact_tip_inventory_reader_cycle1519.Tests)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_exact_tip_inventory_reader_cycle1519.py", line 9, in test_exact_rows_shared_pair_and_all_physical_slots
+    d=derive_rows(native_order(13),context());self.assertEqual(len(d['positive_tips']),2);self.assertEqual(len(d['negative_tips']),1);self.assertEqual(len(d['added_rows']),134);self.assertEqual(sum(len(r['terms']) for r in d['added_rows']),2504)
+AssertionError: 26 != 134
+
+======================================================================
+FAIL: test_negative_only_then_ordinary_complement (test_exact_tip_inventory_reader_cycle1519.Tests)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_exact_tip_inventory_reader_cycle1519.py", line 25, in test_negative_only_then_ordinary_complement
+    d=derive_rows(native_order(13),c);self.assertEqual(d['positive_tips'],[]);self.assertEqual(len(d['negative_tips']),2);self.assertEqual([r['key']['family'] for r in d['added_rows'][:2]],['NEGATIVE_TIP_DEGREE_INTERVAL']*2);self.assertEqual(len(d['added_rows']),122)
+AssertionError: 2 != 122
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.038s
+
+FAILED (failures=3)

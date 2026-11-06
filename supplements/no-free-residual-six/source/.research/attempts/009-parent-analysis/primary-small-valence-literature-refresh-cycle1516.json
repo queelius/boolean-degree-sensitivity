@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "status": "PRIMARY_TECHNIQUE_AND_NOVELTY_LIMITS_CHECK",
+  "accessed_at": "2026-10-21T23:14:25.422214+00:00",
+  "sources": [
+    {
+      "title": "Combinatorial restrictions on cell complexes",
+      "author": "Florian Frick",
+      "year": 2015,
+      "url": "https://d-nb.info/1076082246/34",
+      "checked": "Primary thesis metadata, Theorem3.8 printed43\u201344/PDF48\u201349; Theorem3.10 and surrounding scope. Earlier this turn inspected contraction/irreducible examples in chapter3.",
+      "use": "Published bounded-degree2sphere classification motivated1514. Max-edge-valence5 3manifold census does not directly cover signed stars with valence6 edges.",
+      "novelty": "No new classification or novelty claim; elementary1514 proof is a useful independent route."
+    },
+    {
+      "title": "Shapes of polyhedra and triangulations of the sphere",
+      "author": "William P Thurston",
+      "year": 1998,
+      "url": "https://emis.muni.cz/journals/UW/gt/GTMon1/paper25.abs.html",
+      "checked": "Primary journal abstract surfaced by search only; full paper not opened.",
+      "use": "Possible broader nonnegative curvature technique, no theorem imported."
+    }
+  ],
+  "search_queries": [
+    "triangulated sphere exactly one vertex degree six all other degree four five 9 10 11 Frick",
+    "simplicial 2 sphere one degree 6 vertex remaining vertices degree 4 5 classification"
+  ],
+  "search_outcome": "No exact prior source for the1516 one6-profile filter established by this limited search. This is not evidence of novelty or an exhaustive prior-art check.",
+  "original_problem_status": "No solution of original Boolean14/degree5 problem established by this audit.29remainingpatternsOPEN.",
+  "publication": "Do not describe signed-star additions as archived in existing1.4 DOI. Curate portable coherent successor in same family when ready; exact local controls and assumptions remain required."
+}

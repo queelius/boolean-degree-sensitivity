@@ -1,0 +1,331 @@
+{
+  "context_independent_local_proof": true,
+  "controls": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-independent-controls-cycle1413.json",
+    "sha256": "c26dbd3ce9d6a161b39524764fddbbe594d882335a49a792ae896208bfc1bfae"
+  },
+  "formal_verification": false,
+  "geometric_nonemptiness_is_not_actual_derivative_existence": true,
+  "geometric_positive_example": {
+    "chi": 2,
+    "degrees": [
+      3,
+      3,
+      4,
+      4,
+      5,
+      5,
+      6
+    ],
+    "faces": [
+      [
+        0,
+        1,
+        2
+      ],
+      [
+        0,
+        1,
+        6
+      ],
+      [
+        0,
+        2,
+        5
+      ],
+      [
+        0,
+        5,
+        6
+      ],
+      [
+        1,
+        2,
+        6
+      ],
+      [
+        2,
+        3,
+        5
+      ],
+      [
+        2,
+        3,
+        6
+      ],
+      [
+        3,
+        4,
+        5
+      ],
+      [
+        3,
+        4,
+        6
+      ],
+      [
+        4,
+        5,
+        6
+      ]
+    ],
+    "induced": {
+      "endpoint_pairs_by_delta": {
+        "-1": [
+          [
+            0,
+            -1
+          ],
+          [
+            1,
+            0
+          ]
+        ],
+        "-2": [
+          [
+            1,
+            -1
+          ]
+        ],
+        "0": [
+          [
+            -1,
+            -1
+          ],
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            1
+          ]
+        ],
+        "1": [
+          [
+            -1,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "2": [
+          [
+            -1,
+            1
+          ]
+        ]
+      },
+      "first_bound_failure": null,
+      "histogram": {
+        "0": 18,
+        "1": 92,
+        "2": 18
+      },
+      "maximum": 2,
+      "minimum": 0,
+      "subsets": 128
+    }
+  },
+  "geometric_relaxation_nonempty": true,
+  "global_application_context": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/two-free-independent-authority-cycle1409.json",
+    "sha256": "effc1e4e3e98e0f63fc347195175df63a9682f5f26ac31b33aa17b8e826d19a7"
+  },
+  "global_goal_complete": false,
+  "human_peer_review": false,
+  "mathematical_novelty_assessed": false,
+  "producer_manifest": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-manifest-cycle1412.json",
+    "sha256": "30ef3132b7334a5bad8eb14737b3f1f79396d2e09ec258ca060fc4530b434195"
+  },
+  "proof_checks": {
+    "common_center_positive_curvature_and_component_size_bound": true,
+    "constant_cancels_from_incident_identities": true,
+    "minus_one_eighth_scale_and_actual_ternary_endpoint_range": true,
+    "ordinary_zero_one_guard_retained": true,
+    "private_negative_split_preserves_edges_faces_and_repairs_links": true,
+    "profile_integer_algebra": true,
+    "triangle_coface_argument_stronger_than_parity": true,
+    "two_copies_need_eight_vertices_plus_six_exceeds_thirteen": true
+  },
+  "reader": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed_star_independent_cycle1413.py",
+    "sha256": "147e36dcfade697a82356af09f60d12c511d290c1e72fe18c8f978d7725153f8"
+  },
+  "remaining_signings_from_separate1409_refinement": 7,
+  "review": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-independent-review-cycle1413.md",
+    "sha256": "a976608e4b4c0989a7185b482429d8229a1058fd503278b437c21710645958db"
+  },
+  "schema_version": 1,
+  "scope": {
+    "active_baseline_pair_links": [
+      "C4",
+      "C5"
+    ],
+    "actual_boolean_function_constructed": false,
+    "actual_derivative_constructed": false,
+    "any_remaining_sign_case_excluded": false,
+    "bound_holds_with_arbitrary_fixed_inactive_coordinate_values": true,
+    "canonical_ledgers_changed": false,
+    "common_center_link": "connected triangulated two-sphere",
+    "common_link_order_at_most": 12,
+    "constant_bound_required": false,
+    "endpoint_flagness_or_Walkup_used": false,
+    "exact_mixed_difference": "p(Y+w)-p(Y)=chi(L[Y])-1",
+    "exceptional_quadratic_pairs": "Exactly three distinct pairs with a common center, each numerator -2 or +1.",
+    "global_goal_complete": false,
+    "induced_Euler_interval_inclusive": [
+      -1,
+      3
+    ],
+    "local_variables": 13,
+    "negative_exception_count": [
+      1,
+      2,
+      3
+    ],
+    "negative_pair_links": "C6",
+    "ordinary_quadratic_coefficients": [
+      0,
+      1
+    ],
+    "other_quadratic_numerators": [
+      -1,
+      0
+    ],
+    "p_origin": 1,
+    "p_range": [
+      -1,
+      0,
+      1
+    ],
+    "p_unit_values": 0,
+    "positive_pair_links": "C3",
+    "profile_columns": [
+      "n",
+      "n3",
+      "n4",
+      "n5",
+      "n6"
+    ],
+    "profiles": {
+      "1": [
+        [
+          7,
+          2,
+          2,
+          2,
+          1
+        ],
+        [
+          8,
+          2,
+          1,
+          4,
+          1
+        ],
+        [
+          9,
+          2,
+          0,
+          6,
+          1
+        ]
+      ],
+      "2": [
+        [
+          8,
+          1,
+          4,
+          1,
+          2
+        ],
+        [
+          9,
+          1,
+          3,
+          3,
+          2
+        ],
+        [
+          10,
+          1,
+          2,
+          5,
+          2
+        ],
+        [
+          11,
+          1,
+          1,
+          7,
+          2
+        ],
+        [
+          12,
+          1,
+          0,
+          9,
+          2
+        ]
+      ],
+      "3": [
+        [
+          9,
+          0,
+          6,
+          0,
+          3
+        ],
+        [
+          10,
+          0,
+          5,
+          2,
+          3
+        ],
+        [
+          11,
+          0,
+          4,
+          4,
+          3
+        ],
+        [
+          12,
+          0,
+          3,
+          6,
+          3
+        ]
+      ]
+    },
+    "published_sphere_or_manifold_catalog_used_by_local_proof": false,
+    "quartic_numerators": [
+      0,
+      1
+    ],
+    "scale": 16,
+    "scaled_Fourier_degrees": [
+      0,
+      2,
+      4
+    ],
+    "target_catalog_filter_performed": false,
+    "whole_K_manifold_or_connectivity_assumed": false,
+    "whole_pattern_excluded": false
+  },
+  "source": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-common-link-proof-cycle1412.md",
+    "sha256": "2843895f65ce16919502b84e4813933d1d364e91358396aefe2bcf31d958313a"
+  },
+  "source_audit": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-independent-source-audit-cycle1413.json",
+    "sha256": "1eb637f3a019686ba8befbecd1a61be56d5bd2c6ee83503162eead787ff0cd7a"
+  },
+  "status": "INDEPENDENTLY_ACCEPTED_SIGNED_THREE_STAR_COMMON_LINK_SPHERE"
+}

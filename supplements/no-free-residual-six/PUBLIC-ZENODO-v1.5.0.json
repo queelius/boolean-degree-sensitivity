@@ -1,0 +1,820 @@
+{
+ "schema_version": 2,
+ "status": "ALL_PUBLIC_FILES_VERIFIED",
+ "method": "files <= 67108864 bytes downloaded in full without authentication; larger files checked by the public listing (size, server-side MD5 computed at upload) against local hashes plus an anonymous 1048576-byte prefix read; full download of the large parts was skipped to spare Zenodo's bandwidth",
+ "observed_at": "2026-11-06T14:49:56Z",
+ "record_id": 23999933,
+ "version": "1.5.0",
+ "version_doi": "10.5281/zenodo.23999933",
+ "concept_doi": "10.5281/zenodo.23496541",
+ "record_url": "https://zenodo.org/records/23999933",
+ "publication_date": "2026-11-06",
+ "total_public_files": 79,
+ "verified_bytes": 18552423296,
+ "files": [
+  {
+   "name": "ARCHIVE-INDEX-v1.1.0.json",
+   "method": "full_anonymous_download",
+   "bytes": 9037,
+   "sha256": "c11503b15f60bc48bfb10218b3a7c3f61d9ee537b3a4ee62927fbed2ca18573f",
+   "md5": "e9c31dfff4e81ae04eb0fa75cb010e19",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/ARCHIVE-INDEX-v1.1.0.json/content",
+   "ok": true
+  },
+  {
+   "name": "ARCHIVE-INDEX-v1.2.0.json",
+   "method": "full_anonymous_download",
+   "bytes": 20439,
+   "sha256": "aec9421309054deb259bc808ade763b7235d2696f1cb0ea86b30864600ac0cb9",
+   "md5": "496257d7238a8e1d92a1ff399fdc4aa6",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/ARCHIVE-INDEX-v1.2.0.json/content",
+   "ok": true
+  },
+  {
+   "name": "ARCHIVE-INDEX-v1.4.0.json",
+   "method": "full_anonymous_download",
+   "bytes": 15491,
+   "sha256": "e7eb6511edf7aceebc91230157478af9aa8642a0c56076cb95aa32331caece88",
+   "md5": "6f95f1d18687f1cfd32e954d954bc212",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/ARCHIVE-INDEX-v1.4.0.json/content",
+   "ok": true
+  },
+  {
+   "name": "ARCHIVE-INDEX-v1.5.0.json",
+   "method": "full_anonymous_download",
+   "bytes": 11845,
+   "sha256": "56a7ec11b5f630a616edbc8d01d11416fdd3b5b53c1b9dbd7b821696d4de316d",
+   "md5": "29a97d4d4e787dfdbb33103127f4b565",
+   "new": true,
+   "public_url": "https://zenodo.org/api/records/23999933/files/ARCHIVE-INDEX-v1.5.0.json/content",
+   "ok": true,
+   "checked_against": "local file (the index cannot list its own digest)"
+  },
+  {
+   "name": "CASES.json",
+   "method": "full_anonymous_download",
+   "bytes": 74168,
+   "sha256": "27b06c0833831983ba79e628e7ce2355e6e4871081adf0fea3586ef124099d75",
+   "md5": "a5363b94aaba3a99e9942c20f56ec39b",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/CASES.json/content",
+   "ok": true
+  },
+  {
+   "name": "CITATION-v1.1.0.cff",
+   "method": "full_anonymous_download",
+   "bytes": 1250,
+   "sha256": "19e4a347737fb84d47e83cca6a0392e89b317a5775e8545e0aad7c312a5a1b75",
+   "md5": "cbc4da1dd329bc64a6fc0e40f4b62539",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/CITATION-v1.1.0.cff/content",
+   "ok": true
+  },
+  {
+   "name": "CITATION-v1.2.0.cff",
+   "method": "full_anonymous_download",
+   "bytes": 1335,
+   "sha256": "5e898a23235ac72b2a7d833a5eb30ab5cb4a7d9cd0e914504479cf242207bcbc",
+   "md5": "96573d0d3bc3d27ab8e076b8c70625d0",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/CITATION-v1.2.0.cff/content",
+   "ok": true
+  },
+  {
+   "name": "CITATION-v1.3.0.cff",
+   "method": "full_anonymous_download",
+   "bytes": 1387,
+   "sha256": "e068ef20229ba8dcdd9899b50566aa536ab913f47f97a0c28c49f5377bf1b37a",
+   "md5": "b621f8193d8e6f64ef38b5367ebca541",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/CITATION-v1.3.0.cff/content",
+   "ok": true
+  },
+  {
+   "name": "CITATION-v1.4.0.cff",
+   "method": "full_anonymous_download",
+   "bytes": 1761,
+   "sha256": "c9aab3673bc93282778c9f5fe7383b7c90c7f8f099f402b76acc07d01ff128ff",
+   "md5": "a86dc182634301fc2e102f49e89a1ab0",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/CITATION-v1.4.0.cff/content",
+   "ok": true
+  },
+  {
+   "name": "CITATION-v1.5.0.cff",
+   "method": "full_anonymous_download",
+   "bytes": 1592,
+   "sha256": "cf5a1a847a09137c6078c2fcad301ab00052a102485f6a1c8eb33c57a769f6c0",
+   "md5": "f3df28fbadf2cee2b18a9626f3853320",
+   "new": true,
+   "public_url": "https://zenodo.org/api/records/23999933/files/CITATION-v1.5.0.cff/content",
+   "ok": true
+  },
+  {
+   "name": "CITATION.cff",
+   "method": "full_anonymous_download",
+   "bytes": 1334,
+   "sha256": "feff83df2b27cfb529bbba8c8831e795ae891ed148aab348ab004b66916f7930",
+   "md5": "4190d3fc7106d3beb562a569c3cf0b4a",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/CITATION.cff/content",
+   "ok": true
+  },
+  {
+   "name": "DOWNLOAD.md",
+   "method": "full_anonymous_download",
+   "bytes": 1489,
+   "sha256": "8ccf35a293fb6e94f71f943125a36a786d1b850155ada95ff8caf47486fa18dd",
+   "md5": "86410a26fdab1a420121fbf99e857127",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/DOWNLOAD.md/content",
+   "ok": true
+  },
+  {
+   "name": "G124-ARCHIVE-README-v1.3.0.md",
+   "method": "full_anonymous_download",
+   "bytes": 4122,
+   "sha256": "7efb78f6f1b4297edf0ada0555e4ed5a1e16a71357ac1d033afb214040e150ea",
+   "md5": "fd78ed51301295088129c8867af142fa",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/G124-ARCHIVE-README-v1.3.0.md/content",
+   "ok": true
+  },
+  {
+   "name": "G124-SHA256-v1.3.0.txt",
+   "method": "full_anonymous_download",
+   "bytes": 285,
+   "sha256": "caf1799c942bd2706c8b88757e6ce1b2bd79050684499b73b125c8c5f09d5d74",
+   "md5": "3a45ce6e8c560eacfe16d93772793f34",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/G124-SHA256-v1.3.0.txt/content",
+   "ok": true
+  },
+  {
+   "name": "NO-FREE-SHA256-v1.5.0.txt",
+   "method": "full_anonymous_download",
+   "bytes": 1140,
+   "sha256": "3d70fb6f1077af7745f87e9d38c0f9f68e681ac4ed075ffa6d3f44f374057718",
+   "md5": "1c6f249f86f570e012f21884fbcc6d63",
+   "new": true,
+   "public_url": "https://zenodo.org/api/records/23999933/files/NO-FREE-SHA256-v1.5.0.txt/content",
+   "ok": true
+  },
+  {
+   "name": "README-v1.1.0.md",
+   "method": "full_anonymous_download",
+   "bytes": 3307,
+   "sha256": "194cff4652912431910640289a3d2c576cbd46ea0e4921eb402f06c869f70136",
+   "md5": "3844833dff2b71e6af8a60c29c6c3e34",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/README-v1.1.0.md/content",
+   "ok": true
+  },
+  {
+   "name": "README-v1.2.0.md",
+   "method": "full_anonymous_download",
+   "bytes": 3776,
+   "sha256": "ccfa7b25126da31a94131127d23070838d6eedb3786c519acadc1fbd76586589",
+   "md5": "0c1ab9ac84af9dd445c2b40822e0154d",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/README-v1.2.0.md/content",
+   "ok": true
+  },
+  {
+   "name": "README-v1.5.0.md",
+   "method": "full_anonymous_download",
+   "bytes": 2306,
+   "sha256": "5de902cbd37e7fc3f88ba5b4438e28b8f2be622c171ea00937dcf625a03dfa58",
+   "md5": "df14bfa84061e96cea3e91ac228ef658",
+   "new": true,
+   "public_url": "https://zenodo.org/api/records/23999933/files/README-v1.5.0.md/content",
+   "ok": true
+  },
+  {
+   "name": "RELEASE.json",
+   "method": "full_anonymous_download",
+   "bytes": 10742,
+   "sha256": "5e9dc2770f84a21707ecc21b25e70f54d11337eeca19622452390251ec8bc363",
+   "md5": "a8e1a7b482a69265cbd711266b23127b",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/RELEASE.json/content",
+   "ok": true
+  },
+  {
+   "name": "REPLAY-HISTORY.json",
+   "method": "full_anonymous_download",
+   "bytes": 1066,
+   "sha256": "f43276c4a0c53a200004e32ee9c604b15ac3bc60bbdd5dcdb347c77c472fca94",
+   "md5": "92c2da94a329ee4c4e84e076aaff08db",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/REPLAY-HISTORY.json/content",
+   "ok": true
+  },
+  {
+   "name": "REPLAY-RECEIPT.json",
+   "method": "full_anonymous_download",
+   "bytes": 10285,
+   "sha256": "d985ec2aed75cc6e8d840ccb9cdcf3ea79faf14da37571a621da1627a7d0d06b",
+   "md5": "26a4de848e5e7a0f5f6f60ec48a06672",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/REPLAY-RECEIPT.json/content",
+   "ok": true
+  },
+  {
+   "name": "REPORT.md",
+   "method": "full_anonymous_download",
+   "bytes": 8796,
+   "sha256": "9ffbcd0781fe81628e0e2ee851d97611a798fd805888579f6348940cbb5320e0",
+   "md5": "cc5ccf6c5fdb5c25caa40e2bd26783bc",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/REPORT.md/content",
+   "ok": true
+  },
+  {
+   "name": "RESIDUAL6-ARCHIVE-README-v1.4.0.md",
+   "method": "full_anonymous_download",
+   "bytes": 5163,
+   "sha256": "8b1151b41442f81dabbbddfdb7ba77444672f72f9bbfa7505bbdfdaa7acc2051",
+   "md5": "373d8171771263d9c51817c0413124c0",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/RESIDUAL6-ARCHIVE-README-v1.4.0.md/content",
+   "ok": true
+  },
+  {
+   "name": "RESIDUAL6-SHA256-v1.4.0.txt",
+   "method": "full_anonymous_download",
+   "bytes": 372,
+   "sha256": "4d41e4fa4d1927ee0f8fe64f300f89027286a08064c3a065660e80f9a42ae70c",
+   "md5": "42387ef77785099884819de6100a790c",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/RESIDUAL6-SHA256-v1.4.0.txt/content",
+   "ok": true
+  },
+  {
+   "name": "SHA256SUMS",
+   "method": "full_anonymous_download",
+   "bytes": 5761,
+   "sha256": "0fb91fdbda5032ba73049aba3d53fff845d6aecd7bb787dfe2f12b78f90c5e3c",
+   "md5": "c260212b93f157ad2168cc07f6001142",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/SHA256SUMS/content",
+   "ok": true
+  },
+  {
+   "name": "boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0000",
+   "method": "full_anonymous_download",
+   "bytes": 16777216,
+   "sha256": "91e7fd30303810c9bf85b90229d06b0e6eb80ff5aeafc8a82d4310aecef7a319",
+   "md5": "63c6050ded18a5b0ac5c3b80a49aedcd",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0000/content",
+   "ok": true
+  },
+  {
+   "name": "boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0001",
+   "method": "full_anonymous_download",
+   "bytes": 16777216,
+   "sha256": "1f13880e2335db84adfbb764a710849eb7a01ca99a7011ef29319b1364824712",
+   "md5": "300fde9e4f1b52099d5a3ac8c61a151b",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0001/content",
+   "ok": true
+  },
+  {
+   "name": "boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0002",
+   "method": "full_anonymous_download",
+   "bytes": 16777216,
+   "sha256": "a6bd72b9ceb2781a2f2e4fc73b4f4365de3ea580fc0681059a3bbef7b25e171d",
+   "md5": "df6ebe045a5d8666222225bbc3da1d9e",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0002/content",
+   "ok": true
+  },
+  {
+   "name": "boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0003",
+   "method": "full_anonymous_download",
+   "bytes": 16777216,
+   "sha256": "56f391a4d3bbda44c2ec9def484a49c100dbdf1d5845ff60a28a45ba245a5d6c",
+   "md5": "0f04eb1c1f403aa33a956fead033b567",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0003/content",
+   "ok": true
+  },
+  {
+   "name": "boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0004",
+   "method": "full_anonymous_download",
+   "bytes": 16777216,
+   "sha256": "4a658b05543fa5669e981518ccdaffaf2e93649929e666f9a0165db6a4fab2da",
+   "md5": "bba491eb8eee3bd47fda36ec7a115649",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0004/content",
+   "ok": true
+  },
+  {
+   "name": "boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0005",
+   "method": "full_anonymous_download",
+   "bytes": 16777216,
+   "sha256": "f4c93933bb0339f57a16cb8b7b9305465af0c408a306bd09b905cf3c0d8838b8",
+   "md5": "dabe508878a1732a4fa0440e36dfd41d",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0005/content",
+   "ok": true
+  },
+  {
+   "name": "boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0006",
+   "method": "full_anonymous_download",
+   "bytes": 16777216,
+   "sha256": "67b5af68c7aa7365e8b964fd631eb14bf3757c82212267c76fb480aa5998e226",
+   "md5": "d48ea4071c9a0b0e967cb6036a43339a",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0006/content",
+   "ok": true
+  },
+  {
+   "name": "boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0007",
+   "method": "full_anonymous_download",
+   "bytes": 16777216,
+   "sha256": "9da7d4635f220b6f874db987761addfb5247ec14e11276e814f4ce5669174c34",
+   "md5": "3dc8cab9c05ab5dbb05bde3859b4fd53",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0007/content",
+   "ok": true
+  },
+  {
+   "name": "boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0008",
+   "method": "full_anonymous_download",
+   "bytes": 16777216,
+   "sha256": "3cf8b7c09ab37c4395efd34ad5337e6cdff0e92325b22c468e67d17183bc06f8",
+   "md5": "e99a1e3f6c8ec15c8e4b4a14fd1407a9",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0008/content",
+   "ok": true
+  },
+  {
+   "name": "boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0009",
+   "method": "full_anonymous_download",
+   "bytes": 16777216,
+   "sha256": "70eae9969c12f51d301be6f1a928983a999f7c0c15fd34f7261f32271553fc94",
+   "md5": "edb6e3e8ef089e60df2fae78dfefc0f4",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0009/content",
+   "ok": true
+  },
+  {
+   "name": "boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0010",
+   "method": "full_anonymous_download",
+   "bytes": 16777216,
+   "sha256": "cb14a6ee5e88410afd1cb031c777cb3ecc4bd7b0adec7aafafb23854c86b2a76",
+   "md5": "cf6001ac970bc703011b08a4ed0aac21",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0010/content",
+   "ok": true
+  },
+  {
+   "name": "boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0011",
+   "method": "full_anonymous_download",
+   "bytes": 16777216,
+   "sha256": "8bc6279781a32599c244da921b83380f0122e9fe505bc98eba3fe0c5cdf485f0",
+   "md5": "2aafd923ace114fbd9fa7814ca36b355",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0011/content",
+   "ok": true
+  },
+  {
+   "name": "boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0012",
+   "method": "full_anonymous_download",
+   "bytes": 16777216,
+   "sha256": "966245662e726a40c7107ed460bb6f48abe38c09eaf0ae6103df05462c52b0d8",
+   "md5": "d05a9186f34d66dcef5d780029dc4ffb",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0012/content",
+   "ok": true
+  },
+  {
+   "name": "boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0013",
+   "method": "full_anonymous_download",
+   "bytes": 16777216,
+   "sha256": "b04458413ed3cec83ea96174b9a5899196f151564050ceda2c6344deca021827",
+   "md5": "1bfab6e13988a30a7a22f554333aefeb",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0013/content",
+   "ok": true
+  },
+  {
+   "name": "boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0014",
+   "method": "full_anonymous_download",
+   "bytes": 16777216,
+   "sha256": "4de2dc220450419ff054d48caeffbe7e5839226b138d424ec5736c92f72c7cdc",
+   "md5": "2ce7dcf18fb6d8d072ee9906cf002824",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0014/content",
+   "ok": true
+  },
+  {
+   "name": "boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0015",
+   "method": "full_anonymous_download",
+   "bytes": 16777216,
+   "sha256": "375971bbb5ef96c15980e6105c90fb3e06e314258655d3cd7d155381a9a33cbb",
+   "md5": "9aad137a6ca3569fd1243507c19df6ae",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0015/content",
+   "ok": true
+  },
+  {
+   "name": "boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0016",
+   "method": "full_anonymous_download",
+   "bytes": 16777216,
+   "sha256": "caa16ef6a05a8fc2e7eb186be74af1dd5db069284a405189c596219e0e09ab66",
+   "md5": "30791f1e102bf4839c298817ef4fe5b6",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0016/content",
+   "ok": true
+  },
+  {
+   "name": "boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0017",
+   "method": "full_anonymous_download",
+   "bytes": 16777216,
+   "sha256": "0f9c0fc03ed88148a0a3ea09fae9442c0285c519c311761a1c7693556cdc5d98",
+   "md5": "66e6675a53db308e780ee3ac36724730",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0017/content",
+   "ok": true
+  },
+  {
+   "name": "boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0018",
+   "method": "full_anonymous_download",
+   "bytes": 16777216,
+   "sha256": "879e4e8a1a3381a137eed6d5c65137e7b9f04dbf623b2286b0c50ebab0181eaf",
+   "md5": "fa5574543796ec6a11fe1508ca076aae",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0018/content",
+   "ok": true
+  },
+  {
+   "name": "boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0019",
+   "method": "full_anonymous_download",
+   "bytes": 16777216,
+   "sha256": "19f3610091caa9008455ebe698f9180350ed10b0fefcea4c7f327359dc711e2d",
+   "md5": "3d47aac93cc6d55094730374d58dc902",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0019/content",
+   "ok": true
+  },
+  {
+   "name": "boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0020",
+   "method": "full_anonymous_download",
+   "bytes": 16777216,
+   "sha256": "1466dcebe1d2fb999bce5fdc70580a4c08644cb126f265c48f35d2cec18e402a",
+   "md5": "ffa361e63842bdffa691a1a3371b7a9b",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0020/content",
+   "ok": true
+  },
+  {
+   "name": "boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0021",
+   "method": "full_anonymous_download",
+   "bytes": 16777216,
+   "sha256": "57356542168d9cc20bcc51238a586c4558a93440d09556c38ea5cc97ca573734",
+   "md5": "3a47ca405397b248c357f445365af0e0",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0021/content",
+   "ok": true
+  },
+  {
+   "name": "boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0022",
+   "method": "full_anonymous_download",
+   "bytes": 16777216,
+   "sha256": "42c6cde71fa6e31ccf5ea68fdbcf572c9de26f1209004e2edfe92140467b09c0",
+   "md5": "42b87a7b5343eaf3669ceb93d499bdf7",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0022/content",
+   "ok": true
+  },
+  {
+   "name": "boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0023",
+   "method": "full_anonymous_download",
+   "bytes": 16777216,
+   "sha256": "a329f802363320692e0ea9ace8c69c7554158ac71a4b38343c073b254bf4b939",
+   "md5": "f42307bd2153dd02b152e7f142133922",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0023/content",
+   "ok": true
+  },
+  {
+   "name": "boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0024",
+   "method": "full_anonymous_download",
+   "bytes": 16777216,
+   "sha256": "98c9f208339cf7babd40ab09667cb204e67532ba2791fd44f9eaacb12bd4165a",
+   "md5": "a1fea1ef22561133705ec010155ae65d",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0024/content",
+   "ok": true
+  },
+  {
+   "name": "boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0025",
+   "method": "full_anonymous_download",
+   "bytes": 16777216,
+   "sha256": "a7dbd83c6e94c198e7864ef886a65ae9d72cf643ba9698163de7b1beefb91d78",
+   "md5": "a3b7a780c340bb2c6f8225b5ce5334a7",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0025/content",
+   "ok": true
+  },
+  {
+   "name": "boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0026",
+   "method": "full_anonymous_download",
+   "bytes": 16777216,
+   "sha256": "c63b06cf6177cdbf45a66164fa0b204b738220af65aab5ff15545320dbae3b1c",
+   "md5": "e50d519424d3071424ce0aacda7f38fa",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0026/content",
+   "ok": true
+  },
+  {
+   "name": "boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0027",
+   "method": "full_anonymous_download",
+   "bytes": 16777216,
+   "sha256": "405f28fe9cd05dc8fe5bff2756aef8e1ab3c068d4e2d37e8b90263a15294b538",
+   "md5": "2633d51977fbc09f84c6d9596702485c",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0027/content",
+   "ok": true
+  },
+  {
+   "name": "boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0028",
+   "method": "full_anonymous_download",
+   "bytes": 16777216,
+   "sha256": "62f9d1a86f38140a5a9fd999289d57f88e79dfd9e4196f31ba965805a227c40a",
+   "md5": "d915766cb549ef4043853eb50bb581ab",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0028/content",
+   "ok": true
+  },
+  {
+   "name": "boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0029",
+   "method": "full_anonymous_download",
+   "bytes": 16777216,
+   "sha256": "1dc6e706b7fc140515073832067bbf5dab3e48d4a04b7b4c1dbf8d423be16367",
+   "md5": "de07efb08e08ff7b29f910db52c198fc",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0029/content",
+   "ok": true
+  },
+  {
+   "name": "boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0030",
+   "method": "full_anonymous_download",
+   "bytes": 16777216,
+   "sha256": "3448d3c6072e7af575c057668b8c4a5f8331558d6a8fc9c9edf4a23e9fb94a6c",
+   "md5": "ecc845e7f556c60eec337159f951f204",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0030/content",
+   "ok": true
+  },
+  {
+   "name": "boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0031",
+   "method": "full_anonymous_download",
+   "bytes": 16777216,
+   "sha256": "508a59e6763ba9e2dbb9992c49160247b930e23bfdc69d6215f26fc40e1e9714",
+   "md5": "aafd171ab9cb661514e5beec010a0816",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0031/content",
+   "ok": true
+  },
+  {
+   "name": "boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0032",
+   "method": "full_anonymous_download",
+   "bytes": 16777216,
+   "sha256": "35b5cd82630218d99de28fcce5cf382f585a268c3a870e98bbaa8a72660f9ade",
+   "md5": "df2171be87194123a1c7338d45256caf",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0032/content",
+   "ok": true
+  },
+  {
+   "name": "boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0033",
+   "method": "full_anonymous_download",
+   "bytes": 16777216,
+   "sha256": "4322cf1edcb81c0c71f9e1953c1c9b3f74c1759fc71b47b599b108bda0712030",
+   "md5": "7e3f0c966b482df1445c6e315b966a8b",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0033/content",
+   "ok": true
+  },
+  {
+   "name": "boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0034",
+   "method": "full_anonymous_download",
+   "bytes": 16777216,
+   "sha256": "b34ef318e911797803480c57a7ec03c07f081caf07e0768b9d3f00776531a7b8",
+   "md5": "4462853ce9ff2e9f8700be685ace647c",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0034/content",
+   "ok": true
+  },
+  {
+   "name": "boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0035",
+   "method": "full_anonymous_download",
+   "bytes": 16777216,
+   "sha256": "ca17642f5ec843a644bebe00fbc42c748687eecafeff55cd3978bdf36d8f03ed",
+   "md5": "b07c37e2647921dbe72dd519814cf8de",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0035/content",
+   "ok": true
+  },
+  {
+   "name": "boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0036",
+   "method": "full_anonymous_download",
+   "bytes": 16777216,
+   "sha256": "3508816e71003ef0c765fef82a248105267ba8ae5ea89f80d5002e0a5fbfc04c",
+   "md5": "9dafd724d34a8121aaebe6f58aee9817",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0036/content",
+   "ok": true
+  },
+  {
+   "name": "boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0037",
+   "method": "full_anonymous_download",
+   "bytes": 16777216,
+   "sha256": "9fd8412e7dcc9d8ca841e05931263c24bd6dbb51669183169d715cc83f8b334d",
+   "md5": "c08b24e875f17e8e7bdd93d904427574",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0037/content",
+   "ok": true
+  },
+  {
+   "name": "boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0038",
+   "method": "full_anonymous_download",
+   "bytes": 16777216,
+   "sha256": "e263a2f5f3adf8e4f13f817950465fcd30921a857157e77f62de3f967d4ad69a",
+   "md5": "0c4ca3ed62ea0679c6d95d600eb66956",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0038/content",
+   "ok": true
+  },
+  {
+   "name": "boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0039",
+   "method": "full_anonymous_download",
+   "bytes": 12816208,
+   "sha256": "4888bbf049b9ab47baeab909391883b115dbe88f441cfe3cc39cd53af2770c55",
+   "md5": "5a849f2370e0f0fae5acf8885fdf3c77",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/boolean-degree-five-spectral-exclusions-v1.0.0.tar.gz.part-0039/content",
+   "ok": true
+  },
+  {
+   "name": "certificates-v1.5.0.tar.part00",
+   "method": "listing_checksum_and_anonymous_prefix",
+   "bytes": 2147483648,
+   "listed_md5": "md5:60af2b208de0e4734681504b8b4ec329",
+   "prefix_bytes": 1048576,
+   "prefix_sha256": "6483547ed579b7425acd0ff04bfe0663951513f0f81bd1ec8f238f939fa240a1",
+   "new": true,
+   "public_url": "https://zenodo.org/api/records/23999933/files/certificates-v1.5.0.tar.part00/content",
+   "ok": true
+  },
+  {
+   "name": "certificates-v1.5.0.tar.part01",
+   "method": "listing_checksum_and_anonymous_prefix",
+   "bytes": 2147483648,
+   "listed_md5": "md5:3e8af519db5c8b6a1c74badbbae65aa3",
+   "prefix_bytes": 1048576,
+   "prefix_sha256": "00919ba10b74805a37139fa9e9157792ced2eb00df3e3121e237624dcab52d59",
+   "new": true,
+   "public_url": "https://zenodo.org/api/records/23999933/files/certificates-v1.5.0.tar.part01/content",
+   "ok": true
+  },
+  {
+   "name": "certificates-v1.5.0.tar.part02",
+   "method": "listing_checksum_and_anonymous_prefix",
+   "bytes": 2147483648,
+   "listed_md5": "md5:cc15c476c7dbc0e9677319e743b3c347",
+   "prefix_bytes": 1048576,
+   "prefix_sha256": "4d91b6b6a784f7dd63836696346212272cba39815acf171d97234215696049d7",
+   "new": true,
+   "public_url": "https://zenodo.org/api/records/23999933/files/certificates-v1.5.0.tar.part02/content",
+   "ok": true
+  },
+  {
+   "name": "certificates-v1.5.0.tar.part03",
+   "method": "listing_checksum_and_anonymous_prefix",
+   "bytes": 2147483648,
+   "listed_md5": "md5:e251da0c02515292aa866be534395f05",
+   "prefix_bytes": 1048576,
+   "prefix_sha256": "2974675f511d7895b5c02aa81a070859b458ea24c6231ec4e64461f7444d3ce5",
+   "new": true,
+   "public_url": "https://zenodo.org/api/records/23999933/files/certificates-v1.5.0.tar.part03/content",
+   "ok": true
+  },
+  {
+   "name": "certificates-v1.5.0.tar.part04",
+   "method": "listing_checksum_and_anonymous_prefix",
+   "bytes": 2147483648,
+   "listed_md5": "md5:dcc9f61110752c2b3757e3e8fbbf2e24",
+   "prefix_bytes": 1048576,
+   "prefix_sha256": "f770723e36df87195b9c7a69ba68a75c7c12246d9c23ef3e853a03a7509e2418",
+   "new": true,
+   "public_url": "https://zenodo.org/api/records/23999933/files/certificates-v1.5.0.tar.part04/content",
+   "ok": true
+  },
+  {
+   "name": "certificates-v1.5.0.tar.part05",
+   "method": "listing_checksum_and_anonymous_prefix",
+   "bytes": 2147483648,
+   "listed_md5": "md5:a031fe8f4eb317e84fec4021e98fa05c",
+   "prefix_bytes": 1048576,
+   "prefix_sha256": "9c651ae58f42648f359fc324b823a7015f8805c60c1a5adb99342fb784195e80",
+   "new": true,
+   "public_url": "https://zenodo.org/api/records/23999933/files/certificates-v1.5.0.tar.part05/content",
+   "ok": true
+  },
+  {
+   "name": "certificates-v1.5.0.tar.part06",
+   "method": "listing_checksum_and_anonymous_prefix",
+   "bytes": 2147483648,
+   "listed_md5": "md5:28beb9c6d93ea2ae7f270a13fde7a0eb",
+   "prefix_bytes": 1048576,
+   "prefix_sha256": "03c62322fa796fb7a46716114f5b2b4055ef14a00ba54dc6cf3c07a8a817d5ad",
+   "new": true,
+   "public_url": "https://zenodo.org/api/records/23999933/files/certificates-v1.5.0.tar.part06/content",
+   "ok": true
+  },
+  {
+   "name": "certificates-v1.5.0.tar.part07",
+   "method": "listing_checksum_and_anonymous_prefix",
+   "bytes": 2147483648,
+   "listed_md5": "md5:849d8eed0d6992301b65aee41c8ecea5",
+   "prefix_bytes": 1048576,
+   "prefix_sha256": "4d237b38e260eb97091c4b4182792eb728ba320c6e17169382e7b347efaa9687",
+   "new": true,
+   "public_url": "https://zenodo.org/api/records/23999933/files/certificates-v1.5.0.tar.part07/content",
+   "ok": true
+  },
+  {
+   "name": "certificates-v1.5.0.tar.part08",
+   "method": "listing_checksum_and_anonymous_prefix",
+   "bytes": 680339456,
+   "listed_md5": "md5:2eeaf675c4392d500f58c49de8a3972b",
+   "prefix_bytes": 1048576,
+   "prefix_sha256": "718baa6d7ae125b017684a020c114f8be88e68a86fba0d5d47e7fd153a158ce9",
+   "new": true,
+   "public_url": "https://zenodo.org/api/records/23999933/files/certificates-v1.5.0.tar.part08/content",
+   "ok": true
+  },
+  {
+   "name": "g124-positive-locality-v1.3.0.tar.gz",
+   "method": "full_anonymous_download",
+   "bytes": 91858,
+   "sha256": "b1878a61ebc6beb697f7a1984b73b5c2d668b5b4a3a60fbd5cc37ebee6943d30",
+   "md5": "cf90caacd64a96415ef3d5cea0972d0c",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/g124-positive-locality-v1.3.0.tar.gz/content",
+   "ok": true
+  },
+  {
+   "name": "no-free-residual6-v1.5.0.tar.gz",
+   "method": "full_anonymous_download",
+   "bytes": 22237217,
+   "sha256": "502bdadfe4f6d0510dd7487c6bcba30f6a5e688c250b7f3b7c72e43a40c352e7",
+   "md5": "d3dd854609ec9b98ca1ff5eb295c6e39",
+   "new": true,
+   "public_url": "https://zenodo.org/api/records/23999933/files/no-free-residual6-v1.5.0.tar.gz/content",
+   "ok": true
+  },
+  {
+   "name": "residual-six-v1.4.0.tar.gz",
+   "method": "full_anonymous_download",
+   "bytes": 960769,
+   "sha256": "a813103289f285d259345d06f800e7d2de5873eeb00fc18f81766b7572669c5f",
+   "md5": "e06187ac1f83b24b42b7d32091ff9d9e",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/residual-six-v1.4.0.tar.gz/content",
+   "ok": true
+  },
+  {
+   "name": "singleton-boundary-classification-v1.1.0.tar.gz",
+   "method": "full_anonymous_download",
+   "bytes": 158935,
+   "sha256": "9ba2ed3f2a8ff450350608106ceef0d5fdbb3f02810eb1d87c48eb428ea5db42",
+   "md5": "a0ba907c16e50370c08f219926a5ccd6",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/singleton-boundary-classification-v1.1.0.tar.gz/content",
+   "ok": true
+  },
+  {
+   "name": "singleton-ell3-classification-v1.2.0.tar.gz",
+   "method": "full_anonymous_download",
+   "bytes": 1439996,
+   "sha256": "5107152782f0d93ce141cca20503f40becebe87f747afd6403eb33b7c490ad6a",
+   "md5": "7864f4eef7636f3a79311b40cff2041d",
+   "new": false,
+   "public_url": "https://zenodo.org/api/records/23999933/files/singleton-ell3-classification-v1.2.0.tar.gz/content",
+   "ok": true
+  }
+ ],
+ "correction": {
+  "at": "2026-11-06T14:50:42Z",
+  "note": "The first run marked ARCHIVE-INDEX-v1.5.0.json not ok only because the index does not list its own digest. Its anonymously downloaded bytes (recorded unchanged) equal the local file by size, SHA-256 and MD5; a second anonymous download gave the same SHA-256. No other entry changed. Original run receipt: PUBLIC-ZENODO-v1.5.0-run1-index-self-reference.json."
+ }
+}

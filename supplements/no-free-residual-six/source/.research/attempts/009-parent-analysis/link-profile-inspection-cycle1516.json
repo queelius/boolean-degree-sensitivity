@@ -1,0 +1,369 @@
+{
+  "schema_version": 1,
+  "status": "SOURCE_ONLY_LITERAL_PROFILE_INSPECTION",
+  "source_authority": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-reader-authority-cycle1424.json",
+    "sha256": "4b39afb36dc5feaa630d1e101c1246902aabc8763907bd3f024f5b890225388f",
+    "bytes": 24631
+  },
+  "sources": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-07.json",
+      "sha256": "b6f27899b2b9830758119abb9f38d92705663852cbc1e54c56e5ffe7cda0aec7",
+      "bytes": 1619
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-08.json",
+      "sha256": "df2dd7cc5c4ba26a5dde0736c3ec8c6d9f33292dfdd66f067badb0d67ea0e879",
+      "bytes": 3679
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-09.json",
+      "sha256": "8c707c48b4daecbf613fa5d31152e5c0606206a9f8543a8a37dd60f955349eff",
+      "bytes": 12747
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-10.json",
+      "sha256": "0884454b75c491e2c47a14e9eea4e34752f24a0a3f59ddcf4b54ae5010bd690a",
+      "bytes": 63232
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-11.json",
+      "sha256": "120a8e03f8ca63a5432275be5ca65ec705062e2937a5e8b71eb401924b369ce2",
+      "bytes": 379625
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-12.json",
+      "sha256": "0f783e580e0555f85cf42ff460a947082d37e5699bdbf9feb4aa1da85150b04c",
+      "bytes": 2554602
+    }
+  ],
+  "catalogs_checked": [
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "native_records_checked": 9146,
+  "selected": [
+    {
+      "order": 7,
+      "native_index": 2,
+      "degrees": [
+        3,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5
+      ],
+      "kind": "positive_tip",
+      "face_masks": [
+        14,
+        28,
+        42,
+        49,
+        56,
+        70,
+        81,
+        84,
+        97,
+        98
+      ]
+    },
+    {
+      "order": 7,
+      "native_index": 4,
+      "degrees": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5
+      ],
+      "kind": "ordinary",
+      "face_masks": [
+        35,
+        42,
+        44,
+        49,
+        52,
+        67,
+        74,
+        76,
+        81,
+        84
+      ]
+    },
+    {
+      "order": 8,
+      "native_index": 8,
+      "degrees": [
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5
+      ],
+      "kind": "ordinary",
+      "face_masks": [
+        19,
+        35,
+        76,
+        82,
+        88,
+        98,
+        100,
+        140,
+        145,
+        152,
+        161,
+        164
+      ]
+    },
+    {
+      "order": 9,
+      "native_index": 22,
+      "degrees": [
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        6
+      ],
+      "kind": "negative_tip",
+      "face_masks": [
+        19,
+        44,
+        81,
+        104,
+        112,
+        146,
+        164,
+        176,
+        259,
+        268,
+        321,
+        328,
+        386,
+        388
+      ]
+    },
+    {
+      "order": 9,
+      "native_index": 47,
+      "degrees": [
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "kind": "ordinary",
+      "face_masks": [
+        49,
+        74,
+        76,
+        84,
+        98,
+        112,
+        140,
+        145,
+        148,
+        266,
+        289,
+        290,
+        385,
+        392
+      ]
+    },
+    {
+      "order": 10,
+      "native_index": 128,
+      "degrees": [
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "kind": "ordinary",
+      "face_masks": [
+        49,
+        56,
+        70,
+        74,
+        104,
+        134,
+        138,
+        152,
+        273,
+        388,
+        400,
+        545,
+        580,
+        608,
+        769,
+        772
+      ]
+    },
+    {
+      "order": 10,
+      "native_index": 185,
+      "degrees": [
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        6
+      ],
+      "kind": "negative_tip",
+      "face_masks": [
+        56,
+        74,
+        84,
+        88,
+        148,
+        161,
+        176,
+        266,
+        289,
+        296,
+        578,
+        580,
+        641,
+        644,
+        769,
+        770
+      ]
+    },
+    {
+      "order": 11,
+      "native_index": 762,
+      "degrees": [
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        6
+      ],
+      "kind": "negative_tip",
+      "face_masks": [
+        28,
+        44,
+        81,
+        88,
+        145,
+        148,
+        290,
+        292,
+        388,
+        546,
+        552,
+        584,
+        1089,
+        1153,
+        1282,
+        1408,
+        1538,
+        1600
+      ]
+    },
+    {
+      "order": 12,
+      "native_index": 6286,
+      "degrees": [
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "kind": "ordinary",
+      "face_masks": [
+        26,
+        38,
+        50,
+        70,
+        74,
+        196,
+        292,
+        385,
+        388,
+        536,
+        1096,
+        1153,
+        1216,
+        1537,
+        1544,
+        2096,
+        2305,
+        2336,
+        2561,
+        2576
+      ]
+    }
+  ],
+  "summary": {
+    "ordinary": {
+      "7": 1,
+      "8": 1,
+      "9": 1,
+      "10": 1,
+      "12": 1
+    },
+    "positive_tip": {
+      "7": 1
+    },
+    "negative_tip": {
+      "9": 1,
+      "10": 1,
+      "11": 1
+    }
+  },
+  "completeness": "Inherited from accepted1424 inverse contraction cover; 179583 cover transitions NOT replayed here.",
+  "scope": "Only inherited sphere catalog orders7..12. Ordinary degree6 octahedron lies outside this scan. No target models filtered; no case or pattern excluded; no original Boolean function.",
+  "source_changed_at_end": false,
+  "elapsed_CPU": 0.988037269,
+  "elapsed_wall": 0.9908601910574362,
+  "peak_RSS_KiB": 30616
+}

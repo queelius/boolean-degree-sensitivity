@@ -1,0 +1,210 @@
+{
+ "status": "ACCEPTED_CONDITIONAL_WHOLE_PATTERNS_2222_22221_EXCLUDED",
+ "cycle": 1534,
+ "author": "Alexander Richard Towell; substantial AI assistance (OpenAI Codex for cycles <= 1530 and as reviewer and auditor in 018, Claude Code Opus 5.5 for 011 to 018)",
+ "statement": "In the selfdual empty-pair existence representative (n = 14, degree <= 5, full sensitivity at the origin), the negative quintic magnitude patterns (2,2,2,2) and (2,2,2,2,1) admit no Boolean function. Basis: lemma L1 (018 L1.md: if a coordinate u lies in exactly one negative quintic, of magnitude m in {1,2}, and in at most one residual departure, of cost 2, then no derivative p = Delta_u f with the required properties exists), established by 3662 case certificates (LRAT, independent reader, pinned lrat-trim) covering all 4442 obligations of an independently checked 2221-case cover at m = 1 and m = 2; and the counting in L1.md, which with negative-support union 14 gives an L1 coordinate in both patterns.",
+ "conditional_on": [
+  "everything checkpoint 1533 accepts, including union 14 for both patterns (the no-free frontier authorities pinned in no-free-frontier.json) and the selfdual empty-pair reduction (existence only)",
+  "the written reductions in L1.md (triangle incidence, ordinary-link classification, flagness, exceptional-endpoint classification, the doubled-quartic exclusion via 006 connected-six-unit-exclusion-audit.md, the A/B split and maximum-degree root choice), AI-reviewed",
+  "completeness of the 017 sphere catalogs (roots-catalog.json, deltahedra.json) and surfaces.py, as accepted in 1533; CaDiCaL 3.0.1 and the pinned lrat-trim"
+ ],
+ "evidence": {
+  "ledger": {
+   "path": "/home/spinoza/github/math-theory/.research/findings/negative-quintic-pattern-cases-cycle1534.json",
+   "sha256": "7aff4b760c1db67ebde80f7cf85e0b5357cfff7e851f46d04f17f3d666618a65"
+  },
+  "previous_ledger": {
+   "path": "/home/spinoza/github/math-theory/.research/findings/negative-quintic-pattern-cases-cycle1388.json",
+   "sha256": "5b94339365819a126c954e60529cb50b70c4ed7dd161f1be629ede1462039c12"
+  },
+  "assembly": {
+   "path": "/home/spinoza/github/math-theory/.research/attempts/018-no-free-residual-six/read-all-l1.json",
+   "sha256": "6852c6c95c54a701b5e490b4ce37b9f58bbe3f60ff2b60ee0128b18935cdc7a9"
+  },
+  "assembly_dependencies": [
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/018-no-free-residual-six/read_all018.py",
+    "sha256": "18f8d9e4c485e09bfe7dbbe2721aa2ea45556d2765d895d1dddcaebfabd6bd75"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/018-no-free-residual-six/reader018.py",
+    "sha256": "dbabd997ec9233096caf364cd6e111aa293ee1e649a24716512ea8c06fcfeaeb"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/018-no-free-residual-six/cover_reader018.py",
+    "sha256": "56e8b8232075f340d0aef9073fcf84beda15e113c9e600cf3c7a639765d15674"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/018-no-free-residual-six/frontier_reader.py",
+    "sha256": "2824725720c6467528f6baddf7072e49e2fe1ad57abb9dc2b6d87154ee575403"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/018-no-free-residual-six/L1.md",
+    "sha256": "5acae9bafdcdc9a986a14396bde9f929651e3e9a46d00d7f4678ace89a732be3"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/018-no-free-residual-six/l1-cover.json",
+    "sha256": "40f1f4f56288eaafb816582771f3b38ad1b86ff75ae4a9950eb600900fbbf7d1"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/018-no-free-residual-six/no-free-frontier.json",
+    "sha256": "5065512e70d791395c4ae9f1ed492bc78014b1af3c860d3b5c45202a4065bd1f"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/017-type-ii-three-exception/deltahedra.json",
+    "sha256": "d15f99accfaee57106d4f9992f7b2c4e94461e50273c7047fba1d70b11468c06"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/017-type-ii-three-exception/roots-catalog.json",
+    "sha256": "41e7cfdada8e0b67b842557dec0141af1c8b660bd8cc48e8337ed72f93aca4f5"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/017-type-ii-three-exception/surfaces.py",
+    "sha256": "ade612edeb0158e79683943aed24d818b91d3c3840ff007f196ce50d09ae7c7c"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/lrat-trim/lrat-trim",
+    "sha256": "179d041f645a98d51d3ca6dbbe4950806ad8eceb54c9a762f54e7acee154f8df"
+   }
+  ],
+  "notes": [
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/018-no-free-residual-six/README.md",
+    "sha256": "00a0b9b8da57ca8ff37cfb9d5c230326a14d435bd882ef9e2d792a409cfe3bfc"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/018-no-free-residual-six/PLAN.md",
+    "sha256": "e1917181e7e46436f89482fad1e9493c2bcd0544d4c30415bd20a445d37b854a"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/018-no-free-residual-six/L1.md",
+    "sha256": "5acae9bafdcdc9a986a14396bde9f929651e3e9a46d00d7f4678ace89a732be3"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/018-no-free-residual-six/NOTES.md",
+    "sha256": "c16a143c5353ee746af954d645c14f2793ffd1fcfbc61d2aeda259a23d96a3f9"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/018-no-free-residual-six/CONTROLS.md",
+    "sha256": "6904d6caa651c5cf25fbebd7637bef2841f8af116c5f244f9d679511e5a36ad1"
+   }
+  ],
+  "reviews": [
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/018-no-free-residual-six/REVIEW-L1-codex.md",
+    "sha256": "aeffad3d315cc7ffda53eee08b34cc5226d7612e93faad1027f200317d6d82c7"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/018-no-free-residual-six/REVIEW-case754-codex.md",
+    "sha256": "06b773c5fe053ce5ef95b18ee5b76e278d6b714eaf1ded7d7dd288461c5fe829"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/018-no-free-residual-six/REVIEW-l1-assembly-audit-codex.md",
+    "sha256": "4bd7b4719c336348a9c0076341fd61d8c9f58513f89d6ed983c17d6835a326e0"
+   }
+  ],
+  "data": [
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/018-no-free-residual-six/no-free-frontier.json",
+    "sha256": "5065512e70d791395c4ae9f1ed492bc78014b1af3c860d3b5c45202a4065bd1f"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/018-no-free-residual-six/controls-n13.json",
+    "sha256": "534734d01bddff9fffc24a78019b2cbe750eb3a76619808f8a1ec5cc85e6ccb1"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/018-no-free-residual-six/l1-cover.json",
+    "sha256": "40f1f4f56288eaafb816582771f3b38ad1b86ff75ae4a9950eb600900fbbf7d1"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/018-no-free-residual-six/read-all-l1.json",
+    "sha256": "6852c6c95c54a701b5e490b4ce37b9f58bbe3f60ff2b60ee0128b18935cdc7a9"
+   }
+  ],
+  "scripts": [
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/018-no-free-residual-six/make_frontier.py",
+    "sha256": "10080094ab35e366d8124c65d1849344d2e571cb276ba7ea02990bc806b9fad9"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/018-no-free-residual-six/frontier_reader.py",
+    "sha256": "2824725720c6467528f6baddf7072e49e2fe1ad57abb9dc2b6d87154ee575403"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/018-no-free-residual-six/controls_n13.py",
+    "sha256": "8b0c2902be59ae3853f31c891b763ae1810fb73c475ec7a7062e9ba8ff70eb33"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/018-no-free-residual-six/cases018.py",
+    "sha256": "03255565c9d2258e84a23e4d42d142ff6ed0e2eb2f7f40d52a74f4398495e62a"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/018-no-free-residual-six/cover_reader018.py",
+    "sha256": "56e8b8232075f340d0aef9073fcf84beda15e113c9e600cf3c7a639765d15674"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/018-no-free-residual-six/model018.py",
+    "sha256": "04eff20b6b7e2b98c10b1377ea15b4cc0d3070d802a41bdef76a188802951af0"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/018-no-free-residual-six/certify018.py",
+    "sha256": "db483f6cedc097944fa900bc3eca4a80e3c14a7cd3413dc004bf747d010d4e9c"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/018-no-free-residual-six/run018.py",
+    "sha256": "d3c0b280be5c12bc8250a4a13d084917bb0986d7a7d0b8e05a1b9d914e424dda"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/018-no-free-residual-six/status018.py",
+    "sha256": "8ca81b9acee8131e4b6571407b55d917d4cbfbcd733fd2c650e7916ffd76ad5f"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/018-no-free-residual-six/reader018.py",
+    "sha256": "dbabd997ec9233096caf364cd6e111aa293ee1e649a24716512ea8c06fcfeaeb"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/018-no-free-residual-six/read_all018.py",
+    "sha256": "18f8d9e4c485e09bfe7dbbe2721aa2ea45556d2765d895d1dddcaebfabd6bd75"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/018-no-free-residual-six/make_acceptance_1534.py",
+    "sha256": "5f8b6fa2fb3e4b2a5b67f7b0ff2ee77ed57aa7c8735131a5117e7875def64cec"
+   }
+  ],
+  "tests": [
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/018-no-free-residual-six/test_frontier.py",
+    "sha256": "0988a4d61bc7348a0eadb69b12c9285de53456e048cebd989e0d8a179d20b20f"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/018-no-free-residual-six/test_model018.py",
+    "sha256": "a248f3e652add0f78c36dea40b02e92283b714ac6a3c8bbf2c9ce1d78e9f7eee"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/018-no-free-residual-six/test_reader018.py",
+    "sha256": "e3a4cf9ea7590f7949c121c403d34f19f9f936c04fb69cd170489fc6edebf9b0"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/018-no-free-residual-six/test_read_all018.py",
+    "sha256": "d2b3d4f1b004dd07c63f370f7b9a24183e22289c5bd908b70f63e9f6166acf19"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/018-no-free-residual-six/test_make_acceptance_1534.py",
+    "sha256": "4b787c40144429d693d2d86010dc455a016527fed98985b0a6d8c1745b2e9e92"
+   }
+  ],
+  "previous_acceptance": {
+   "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/one-free-residual6-acceptance-cycle1533.json",
+   "sha256": "43c8f52b78b443128c9247c2f919bcf4109ea13c80f085f5afa8734f4188f65b"
+  }
+ },
+ "certificates_note": "certs/ (about 85 GB, write-protected) holds every certificate, CNF, label map and LRAT proof; read-all-l1.json pins each by SHA-256. The case-754 failed partial proof (certs/l1-00754-m1.lrat.failed-timeout.zst) is not evidence.",
+ "review_kind": "lemma, cover and code reviewed by OpenAI Codex (L1 review, case-754 strategy, end-to-end assembly audit); exact checks and tests in normal and -O mode; every certificate checked by an independent reader and lrat-trim; not human peer review or formal verification",
+ "still_open": [
+  "the other 27 empty-pair patterns (20 with residual <= 6 and union 14, 7 with residual 8 to 12)"
+ ],
+ "whole_patterns_changed": 2,
+ "open_patterns": 27,
+ "global_goal_complete": false,
+ "global_status": "OPEN"
+}

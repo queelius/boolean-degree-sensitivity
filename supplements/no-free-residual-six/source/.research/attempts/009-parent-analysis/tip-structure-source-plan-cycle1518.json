@@ -1,0 +1,203 @@
+{
+  "schema_version": 1,
+  "status": "AUTHORIZED_SOURCE_ONLY_SUCCESSOR_INVENTORY_NO_PROPAGATION",
+  "premise_bindings": {
+    "weak_inventory": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-tip-inventory-cycle1511.json",
+      "sha256": "696491d88a6866113e7da69767712d3b25b3b647ce8eb8c73e17e9b48ae21e2c",
+      "bytes": 91630
+    },
+    "weak_authority": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-inventory-authority-cycle1512.json",
+      "sha256": "1e56d051410103898003735a6fa2ab08b8b71e0989f65fee3361d686f410a472",
+      "bytes": 15748
+    },
+    "common": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-native-common-cycle1432.json",
+      "sha256": "c798def0613ef0d8caad8af0bd7c3d97e4851315d2c72ebede58fe5f5843804f",
+      "bytes": 8721546
+    },
+    "contexts": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-native-contexts-cycle1432.json",
+      "sha256": "dfe5de4b3083673b6aa1cfdfa1c9167d80ba9ed6d6a5c5c7d75a9cb0de290059",
+      "bytes": 2179719
+    },
+    "row_authority": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-native-rows-authority-cycle1431.json",
+      "sha256": "b6eb54bca5b3b31c5c700f484ada8c78e99925b07f9f380b4d813fd1a84c195f",
+      "bytes": 25443
+    },
+    "frontier": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-genuine-frontier-cycle1510.json",
+      "sha256": "3621b82295391042e64d4ba49091e98ab74170801a36af9ee19a211efc722da2",
+      "bytes": 17637
+    },
+    "absence_authority": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/filled-positive-link-independent-authority-cycle1508.json",
+      "sha256": "6db261927614dcf738a25166d87facd4668005bbb128b974a48a9212887ff933",
+      "bytes": 4517
+    },
+    "absence_parent": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-opposite-parent-acceptance-cycle1508.json",
+      "sha256": "386b1afab141f35384be28afc640afee7f0c383a938c63ac9fd7a05118f8cbe5",
+      "bytes": 5261
+    },
+    "positive_structure_authority": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/unique-degree-three-independent-authority-cycle1515.json",
+      "sha256": "5b4937c2b3a093df4608b2388feb101cffa1cdebcffeed60d55024da24afa246",
+      "bytes": 7912
+    },
+    "positive_clarification": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/unique-degree-three-application-wording-clarification-cycle1514.json",
+      "sha256": "58250aff8e228a3da59c75b4571562f579fbc25bdc59c2cae77fb0b45368f7a7",
+      "bytes": 1023
+    },
+    "link_profile_authority": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/link-profile-independent-authority-cycle1517.json",
+      "sha256": "ebcc0c42d3b07b59aca073f0bac9e5a0ccc54221cd5ce2b28466424179c3d18c",
+      "bytes": 14630
+    },
+    "parent_acceptance": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/link-math-parent-acceptance-cycle1520.json",
+      "sha256": "23597a30f2385371e0ad534b96cdee9827205710c79541f48d849a6e7eb35012",
+      "bytes": 35888
+    }
+  },
+  "sources": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/filled-positive-link-independent-authority-cycle1508.json",
+      "sha256": "6db261927614dcf738a25166d87facd4668005bbb128b974a48a9212887ff933",
+      "bytes": 4517
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/link-math-parent-acceptance-cycle1520.json",
+      "sha256": "23597a30f2385371e0ad534b96cdee9827205710c79541f48d849a6e7eb35012",
+      "bytes": 35888
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/link-profile-independent-authority-cycle1517.json",
+      "sha256": "ebcc0c42d3b07b59aca073f0bac9e5a0ccc54221cd5ce2b28466424179c3d18c",
+      "bytes": 14630
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/link-profile-independent-validation-cycle1517.json",
+      "sha256": "f952652597f4a0d7acf5c04895596385d70377e036c81e4ef12b97fe9f9aa6df",
+      "bytes": 3723
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/make_positive_tip_inventory_cycle1511.py",
+      "sha256": "e44e059da423fa39b1bbd3e479b51554eed4d5172f2918085421e350633263bf",
+      "bytes": 6836
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/make_tip_structure_inventory_cycle1518.py",
+      "sha256": "4ac98c840028eea591eca8faf120cda9f061fa520d4c6cc5f767b2f519b0aad4",
+      "bytes": 8076
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/ordinary-penultimate-degree-linear-cut-cycle1524.md",
+      "sha256": "b9760b6dcc53d1009092212fad64c4e4455d1f430f46d1aa166d4ca5b2bea3e5",
+      "bytes": 1683
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-inventory-authority-cycle1512.json",
+      "sha256": "1e56d051410103898003735a6fa2ab08b8b71e0989f65fee3361d686f410a472",
+      "bytes": 15748
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-opposite-parent-acceptance-cycle1508.json",
+      "sha256": "386b1afab141f35384be28afc640afee7f0c383a938c63ac9fd7a05118f8cbe5",
+      "bytes": 5261
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-tip-inventory-cycle1511.json",
+      "sha256": "696491d88a6866113e7da69767712d3b25b3b647ce8eb8c73e17e9b48ae21e2c",
+      "bytes": 91630
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive_tip_inventory_cycle1511.py",
+      "sha256": "8e5db425865e5e1d3c634ad621eda5fb3bb4e3ce2e376c3c9cd00963edf3798e",
+      "bytes": 7900
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-genuine-frontier-cycle1510.json",
+      "sha256": "3621b82295391042e64d4ba49091e98ab74170801a36af9ee19a211efc722da2",
+      "bytes": 17637
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-native-common-cycle1432.json",
+      "sha256": "c798def0613ef0d8caad8af0bd7c3d97e4851315d2c72ebede58fe5f5843804f",
+      "bytes": 8721546
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-native-contexts-cycle1432.json",
+      "sha256": "dfe5de4b3083673b6aa1cfdfa1c9167d80ba9ed6d6a5c5c7d75a9cb0de290059",
+      "bytes": 2179719
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-native-rows-authority-cycle1431.json",
+      "sha256": "b6eb54bca5b3b31c5c700f484ada8c78e99925b07f9f380b4d813fd1a84c195f",
+      "bytes": 25443
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_tip_structure_inventory_cycle1518.py",
+      "sha256": "b70218630b5ce147b799d4156a27ac20fd01d2e8251d79590c64fcf3c1c0e92c",
+      "bytes": 6646
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/tip-structure-coverage-cycle1518.json",
+      "sha256": "a460e3bc31abb5eec63f6cc0c93ee2243683143e6a2f4aa043498269dab40e89",
+      "bytes": 5264
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/tip-structure-final-tests-normal-cycle1518.log",
+      "sha256": "8d16da264b45c680ff44f75d9267a0c52a892ba61a2728f4da99034be9e556da",
+      "bytes": 105
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/tip-structure-final-tests-optimized-cycle1518.log",
+      "sha256": "b269155c7845c2021949d26f39f98f1a1c191bd8be65405855b4042e952daae0",
+      "bytes": 105
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/tip-structure-plan-cycle1518.md",
+      "sha256": "8d46b0b0b1a0fd0b6f405bde1a20de7335300b7b500917b1bacd66e12df6970a",
+      "bytes": 5167
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/tip_structure_inventory_cycle1518.py",
+      "sha256": "08933796068b3bdb385c7cf8b4b49e65ee33060c9e34a42a0c409f82eb797cf2",
+      "bytes": 4926
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/unique-degree-three-application-wording-clarification-cycle1514.json",
+      "sha256": "58250aff8e228a3da59c75b4571562f579fbc25bdc59c2cae77fb0b45368f7a7",
+      "bytes": 1023
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/unique-degree-three-independent-authority-cycle1515.json",
+      "sha256": "5b4937c2b3a093df4608b2388feb101cffa1cdebcffeed60d55024da24afa246",
+      "bytes": 7912
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/unique-degree-three-independent-review-cycle1515.md",
+      "sha256": "fa41e32302cb64515a962c9b2d1154be103f3f1a3dba9a6c0304ff10a3843ea5",
+      "bytes": 14116
+    }
+  ],
+  "pilot_identity": {
+    "order": 8,
+    "original_index": 3,
+    "constant": 1
+  },
+  "limits": {
+    "CPU_seconds": 5,
+    "wall_seconds": 15,
+    "AS_bytes": 536870912
+  },
+  "independent_gate_required": "cycle1519",
+  "actual_propagation_requires_separate_parent_authorization": true,
+  "full_native_models_to_build": 0,
+  "target_queries": 0,
+  "global_goal_complete": false
+}

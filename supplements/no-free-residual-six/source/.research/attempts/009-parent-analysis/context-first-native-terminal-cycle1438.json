@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "status": "TERMINAL_UNTRUSTED_FIXED_POINT_NO_EXCLUSION",
+  "exec_session": 85698,
+  "observed_exit_code": 0,
+  "candidate": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/context-first-native-candidate-cycle1438.json",
+    "sha256": "ffb6ab702eac6a6b46a038f00c8785f0a230508314099c74d9935e45e02bad19",
+    "bytes": 350899
+  },
+  "launch": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/context-first-native-launch-cycle1438.json",
+    "sha256": "b937ed9a7b3d013c33ea9ac153ec9c7b5567268380c0a94455ba4b3f20c89222",
+    "bytes": 938
+  },
+  "wrapper": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/run_context_first_pilot_cycle1438.py",
+    "sha256": "60d59c28e350c534e3f129a87be9f5509059599763289b0be356f5e2582350dd",
+    "bytes": 8599
+  },
+  "authorization": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/context-first-parent-authorization-cycle1438.json",
+    "sha256": "e13293b7708f2504f7713f3866d6ad8a8d8470997c0c33e479cf8aa6ea246d2a"
+  },
+  "stdout": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/context-first-native-actual-cycle1438.log",
+    "sha256": "3cf2fa9f651636682ef20a600245be40c44e304f666aa6c0bc9e2f5b19d0dd00",
+    "bytes": 176
+  },
+  "resources": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/context-first-native-resources-cycle1438.txt",
+    "sha256": "0da3980d792f0ccf74290698f5d8580e41737607626f34ca94e0a130c284107e",
+    "bytes": 1114
+  },
+  "model_id": {
+    "native_identity": {
+      "catalog_sha256": "b6f27899b2b9830758119abb9f38d92705663852cbc1e54c56e5ffe7cda0aec7",
+      "order": 7,
+      "original_index": 0
+    },
+    "constant": 1
+  },
+  "generation_CPU_seconds": 1.2478069340000002,
+  "setup_CPU_seconds": 2.945168025,
+  "total_CPU_seconds_before_serialization": 4.208974493,
+  "external_user_CPU_seconds": 4.02,
+  "external_system_CPU_seconds": 0.34,
+  "external_wall_seconds": 4.37,
+  "peak_RSS_bytes": 257097728,
+  "applied_generation_limits": {
+    "generation_CPU_budget_seconds": 10,
+    "total_process_CPU_soft_seconds": 13,
+    "total_process_CPU_hard_seconds": 15
+  },
+  "native_steps": 333,
+  "producer_evaluations": 13076,
+  "native_step_row_families": {
+    "SPECIAL_PRESENT": 3,
+    "FIX_ROOT": 295,
+    "DOWNWARD": 25,
+    "INDUCED_EULER": 10
+  },
+  "assigned_value_counts": {
+    "1": 67,
+    "0": 266
+  },
+  "full_mapping_and_inverse_rechecked": true,
+  "raw_to_native_translation_rechecked_without_adapter_import": true,
+  "independent_actual_reader_status": "PENDING",
+  "native_queries": 1,
+  "automatic_retry_performed": false,
+  "case_excluded": false,
+  "whole_pattern_excluded": false,
+  "global_goal_complete": false
+}

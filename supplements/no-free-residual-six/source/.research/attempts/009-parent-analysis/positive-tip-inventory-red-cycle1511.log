@@ -1,0 +1,17 @@
+E
+======================================================================
+ERROR: test_positive_tip_inventory_cycle1511 (unittest.loader._FailedTest)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: test_positive_tip_inventory_cycle1511
+Traceback (most recent call last):
+  File "/home/spinoza/.local/share/uv/python/cpython-3.10-linux-x86_64-gnu/lib/python3.10/unittest/loader.py", line 154, in loadTestsFromName
+    module = __import__(module_name)
+  File "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_positive_tip_inventory_cycle1511.py", line 6, in <module>
+    import positive_tip_inventory_cycle1511 as subject
+ModuleNotFoundError: No module named 'positive_tip_inventory_cycle1511'
+
+
+----------------------------------------------------------------------
+Ran 1 test in 0.001s
+
+FAILED (errors=1)

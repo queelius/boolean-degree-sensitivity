@@ -1,0 +1,38 @@
+{
+  "status": "SOLE_ALL26_INVENTORY_READER_EXITED_ZERO",
+  "tool_chunk": "2bb051",
+  "running_session_id": null,
+  "exit_code": 0,
+  "argv": [
+    "/usr/bin/timeout",
+    "15s",
+    "/usr/bin/time",
+    "-v",
+    "-o",
+    "positive-inventory-actual-time-cycle1512.txt",
+    "env",
+    "OPENBLAS_NUM_THREADS=1",
+    "OMP_NUM_THREADS=1",
+    "/home/spinoza/github/math-theory/.research/venv-exact/bin/python",
+    "read_positive_inventory_cycle1512.py",
+    "positive-inventory-config-cycle1512.json",
+    "--sha256",
+    "313dee83ae296d36b99b7978d4b64f4ed99dadb881308517ba3465f3631e0e47"
+  ],
+  "cwd": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis",
+  "log": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-inventory-actual-cycle1512.log",
+    "sha256": "7ba7ad22694ef2c6f658a2de6f3c88b04b18feb91a62ba60d8742e3fb190f706",
+    "bytes": 389
+  },
+  "external_resource_log": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-inventory-actual-time-cycle1512.txt",
+    "sha256": "8e23bfe010e4f1574c140f56efacd43cd61e323cafae629d10a098bd3ccbd922",
+    "bytes": 982
+  },
+  "user_CPU_seconds": 0.71,
+  "system_CPU_seconds": 0.18,
+  "wall_seconds": 0.89,
+  "maximum_RSS_KiB": 176452,
+  "all_processes_terminal": true
+}

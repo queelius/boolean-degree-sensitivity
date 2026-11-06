@@ -1,0 +1,100 @@
+{
+  "status": "COMPLETE_INVERSE_CONTRACTION_COVER",
+  "wall_seconds": 0.0040026580027188174,
+  "order": 7,
+  "classes": [
+    {
+      "index": 0,
+      "face_masks": [
+        25,
+        38,
+        52,
+        56,
+        70,
+        73,
+        81,
+        84,
+        98,
+        104
+      ]
+    },
+    {
+      "index": 1,
+      "face_masks": [
+        37,
+        42,
+        52,
+        56,
+        69,
+        74,
+        84,
+        88,
+        97,
+        98
+      ]
+    },
+    {
+      "index": 2,
+      "face_masks": [
+        14,
+        28,
+        42,
+        49,
+        56,
+        70,
+        81,
+        84,
+        97,
+        98
+      ]
+    },
+    {
+      "index": 3,
+      "face_masks": [
+        25,
+        44,
+        50,
+        56,
+        73,
+        76,
+        81,
+        82,
+        98,
+        100
+      ]
+    },
+    {
+      "index": 4,
+      "face_masks": [
+        35,
+        42,
+        44,
+        49,
+        52,
+        67,
+        74,
+        76,
+        81,
+        84
+      ]
+    }
+  ],
+  "previous": {
+    "path": "sphere-triangulations-06.json",
+    "sha256": "e02f1965d9c0e1e4d4ce0e95907b6af53af1e590d8fc32e4d10b95178798b9e9"
+  },
+  "coverage": {
+    "path": "sphere-triangulations-07.coverage.json.gz",
+    "sha256": "f6614741ded35c43867a7354803ff2948c0b3b7b4df7c60b7dd96ba69bb02144",
+    "row_schema": [
+      "parent",
+      "vertex",
+      "left",
+      "right",
+      "target",
+      "permutation"
+    ]
+  },
+  "transition_count": 74,
+  "scope": "All combinatorial sphere triangulations of this order, conditional on the elementary contractible-edge induction proof."
+}

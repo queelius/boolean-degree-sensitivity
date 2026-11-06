@@ -1,0 +1,35 @@
+{
+  "status": "INDEPENDENT_COMPLETE_EXACT_INVENTORY_VALIDATION_PASS",
+  "normal_controls": 8,
+  "optimized_controls": 8,
+  "helper_coverage": {
+    "covered_lines": 49,
+    "num_statements": 49,
+    "percent_covered": 100.0,
+    "percent_covered_display": "100",
+    "missing_lines": 0,
+    "excluded_lines": 0,
+    "percent_statements_covered": 100.0,
+    "percent_statements_covered_display": "100",
+    "num_branches": 28,
+    "num_partial_branches": 0,
+    "covered_branches": 28,
+    "missing_branches": 0,
+    "percent_branches_covered": 100.0,
+    "percent_branches_covered_display": "100"
+  },
+  "coverage_scope": "Generic derivation helper only; no full operational or mathematical proof coverage claim",
+  "ordinary_vectors_per_mode": 4096,
+  "rejected_ordinary_vectors_per_mode": 12,
+  "ordinary_predicate": "degree != 11; allotherBooleandegrees allowed",
+  "source_paths_rehashed": 54,
+  "sole_inventory_passes": 1,
+  "terminal": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/exact-tip-inventory-terminal-cycle1519.json",
+    "sha256": "d85c44e463646b2f7e79fe090059940d4d445b3c189c923f103c14fb4d0c1b41",
+    "bytes": 1306
+  },
+  "all_processes_terminal": true,
+  "propagation_performed": false,
+  "solver_queries": 0
+}

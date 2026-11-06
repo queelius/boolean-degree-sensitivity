@@ -1,0 +1,103 @@
+{
+  "schema_version": 1,
+  "status": "WRITTEN_UNIQUE_DEGREE3_SPHERE_THEOREM_PRODUCER_AWAITING_INDEPENDENT_GATE",
+  "observed_at": "2026-10-21T23:07:27.874903+00:00",
+  "proof": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/unique-degree-three-sphere-proof-cycle1514.md",
+    "sha256": "4a6346e2970567e93177fb330005ceed123ba5548d10c4aad1480239bd94a35c",
+    "bytes": 8176
+  },
+  "sources": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-manifold-parent-acceptance-cycle1453.json",
+      "sha256": "26e71d45248d01e5b4b668327f814fb8100e6c1a41867149f311ff5ca1a608e0",
+      "bytes": 10728
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/missing-triangle-independent-authority-cycle1489.json",
+      "sha256": "f30829b6752bab524c5901d29967d9893b348023a927b1859942d73f34fca828",
+      "bytes": 3202
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/missing-triangle-independent-review-cycle1489.md",
+      "sha256": "92905cb0878aeb84b52484cdb2a471c6fe28780df10c39bd4cc780f719d359ba",
+      "bytes": 11368
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/root-seven-filled-link-independent-authority-cycle1497.json",
+      "sha256": "51703596cba350bea954657437e8b4f16958cd7c8928e1ee02912d7d8a8b4d67",
+      "bytes": 5021
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-opposite-triangle-proof-cycle1507.md",
+      "sha256": "ac58e2c620c96d9496c39a01cf1776d96b75f3012c02fe865dc91eb8efbf2046",
+      "bytes": 9847
+    }
+  ],
+  "theorem": "A simplicialS2 with exactlyone degree3vertex andallothers4/5 is the7vertexoctahedron withonefacetstacked.",
+  "application": "Everypositive tip in a genuine signedstar sphere hasgraphdegreeexactly7; its3edges topositiveedge-linkA haveval5, its3othernonrootedgesval4.",
+  "complete11spherecatalog_used_as_proof_premise": false,
+  "primary_source": {
+    "title": "FlorianFrick2015, Combinatorialrestrictions oncellcomplexes",
+    "url": "https://d-nb.info/1076082246/34",
+    "theorem": "3.8",
+    "printed_pages": [
+      43,
+      44
+    ],
+    "PDF_page_indices_zero_based": [
+      48,
+      49
+    ],
+    "fresh_primary_text_checked": true,
+    "full_catalog_regenerated": false,
+    "primary_body_redistributed": false
+  },
+  "controls": {
+    "normal_passed": 4,
+    "optimized_passed": 4,
+    "normal_log": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/unique-degree-three-normal-cycle1514.log",
+      "sha256": "9a0c1014e71169c0645502ce99788835733e6464ac86c543e4cd0f1533e57618",
+      "bytes": 523
+    },
+    "optimized_log": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/unique-degree-three-optimized-cycle1514.log",
+      "sha256": "47c0b3f3417e7931aa3f11be942efdf86237cb4a14e1b01e6f3913e079441b0d",
+      "bytes": 523
+    },
+    "coverage": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/unique-degree-three-coverage-cycle1514.json",
+      "sha256": "c5372a1ef739c958456bc323202764def30d159bf3e33397ac2cc9925745c2d1",
+      "bytes": 7654
+    },
+    "covered_statements": 38,
+    "statements": 38,
+    "covered_branches": 20,
+    "branches": 20,
+    "exclusions": 0,
+    "historical_initial_syntax_failure_preserved": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/unique-degree-three-red-cycle1514.log",
+      "sha256": "f27452185a4ad2092d6c6646d350e6d547e72b39b9246dee2705f6430f7eb56e",
+      "bytes": 1893
+    },
+    "missing_helper_red_preserved": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/unique-degree-three-missing-helper-red-cycle1514.log",
+      "sha256": "21c043daea9d6e01242fcf61e390fe1cd8e4719c74a24e9dd13d025ff1579a2e",
+      "bytes": 968
+    },
+    "countercontrols": [
+      "Two degree3vertices withmaxdegree5 gives8vertices",
+      "Unique3 butallowmaxdegree6 gives8vertices"
+    ],
+    "no_target_catalog_enumeration": true
+  },
+  "native_rows_added": 0,
+  "native_encodings": 0,
+  "target_queries": 0,
+  "whole_pattern_excluded": false,
+  "global_goal_complete": false,
+  "human_review": false,
+  "formal_verification": false,
+  "novelty_established": false
+}

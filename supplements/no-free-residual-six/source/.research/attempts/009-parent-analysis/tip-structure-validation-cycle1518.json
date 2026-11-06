@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "status": "COMPLETE_SOURCE_ONLY_SUCCESSOR_INVENTORY_VALIDATION",
+  "inventory": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/tip-structure-inventory-cycle1518.json",
+    "sha256": "b6f48ab8c35d95211abdf399e1ca2fc0a113302ad3e05236a0c8ddee61fd250a",
+    "bytes": 5558762
+  },
+  "plan": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/tip-structure-source-plan-cycle1518.json",
+    "sha256": "985009f84e9540d5e85557d3cf1dad9e842430ecccc258afe0a6ed4902793bc8",
+    "bytes": 9892
+  },
+  "proof_and_schema": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/tip-structure-plan-cycle1518.md",
+    "sha256": "8d46b0b0b1a0fd0b6f405bde1a20de7335300b7b500917b1bacd66e12df6970a",
+    "bytes": 5167
+  },
+  "report": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/tip-structure-results-cycle1518.md",
+    "sha256": "a03bff9d986a419544d153b5684472a7b511030a880f46394490318ad1f91779",
+    "bytes": 2929
+  },
+  "normal_controls": 7,
+  "optimized_controls": 7,
+  "ordinary_vectors_checked": 4096,
+  "control_logs": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/tip-structure-final-tests-normal-cycle1518.log",
+      "sha256": "8d16da264b45c680ff44f75d9267a0c52a892ba61a2728f4da99034be9e556da",
+      "bytes": 105
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/tip-structure-final-tests-optimized-cycle1518.log",
+      "sha256": "b269155c7845c2021949d26f39f98f1a1c191bd8be65405855b4042e952daae0",
+      "bytes": 105
+    }
+  ],
+  "coverage": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/tip-structure-coverage-cycle1518.json",
+    "sha256": "a460e3bc31abb5eec63f6cc0c93ee2243683143e6a2f4aa043498269dab40e89",
+    "bytes": 5264
+  },
+  "coverage_summaries": {
+    ".research/attempts/009-parent-analysis/tip_structure_inventory_cycle1518.py": {
+      "covered_lines": 61,
+      "num_statements": 61,
+      "percent_covered": 100.0,
+      "percent_covered_display": "100",
+      "missing_lines": 0,
+      "excluded_lines": 0,
+      "percent_statements_covered": 100.0,
+      "percent_statements_covered_display": "100",
+      "num_branches": 20,
+      "num_partial_branches": 0,
+      "covered_branches": 20,
+      "missing_branches": 0,
+      "percent_branches_covered": 100.0,
+      "percent_branches_covered_display": "100"
+    }
+  },
+  "native_run_repeated_for_coverage": false,
+  "preflight_failure": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/tip-structure-preflight-failure-cycle1518.json",
+    "sha256": "e75411d2ef157f2b29065069dd14debab6e61e1334fb1facbadc2de368a7ca61",
+    "bytes": 910
+  },
+  "completed_inventory_passes": 1,
+  "actual_session": 82013,
+  "exit_code": 0,
+  "log": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/tip-structure-inventory-actual-v2-cycle1518.log",
+    "sha256": "95ca12e73db5237e3157a22a17db4a71d3d22f495ccb8c897afedd221832aa10",
+    "bytes": 279
+  },
+  "resources": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/tip-structure-inventory-resources-v2-cycle1518.txt",
+    "sha256": "13e5884d83d6764c48c76eb39a36783f4dbb41e5e07e7ace502d600074f33086",
+    "bytes": 1144
+  },
+  "CPU_before_serialization": 1.3751941730000001,
+  "external_CPU_seconds": 2.34,
+  "external_wall_seconds": 3.14,
+  "peak_RSS_bytes": 202838016,
+  "complete_contexts": 26,
+  "distinct_rows": 3122,
+  "row_occurrences": 3126,
+  "stored_terms": 46688,
+  "independent_gate": "PENDING1519",
+  "target_queries": 0,
+  "global_goal_complete": false
+}

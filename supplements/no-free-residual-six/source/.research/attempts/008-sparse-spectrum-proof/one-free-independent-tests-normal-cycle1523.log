@@ -1,0 +1,13 @@
+test_digest_and_size_corruption (__main__.IndependentControls.test_digest_and_size_corruption) ... ok
+test_fibers_normalization_and_degree_counts (__main__.IndependentControls.test_fibers_normalization_and_degree_counts) ... ok
+test_missed_departure_and_invalid_owner (__main__.IndependentControls.test_missed_departure_and_invalid_owner) ... ok
+test_missing_triangle_arithmetic_and_guard (__main__.IndependentControls.test_missing_triangle_arithmetic_and_guard) ... ok
+test_no_silent_constant_widening (__main__.IndependentControls.test_no_silent_constant_widening) ... ok
+test_optimization_safe_failure (__main__.IndependentControls.test_optimization_safe_failure) ... ok
+test_origin_and_edge_valence_correction (__main__.IndependentControls.test_origin_and_edge_valence_correction) ... ok
+test_scalar_domains_and_cost_coverage (__main__.IndependentControls.test_scalar_domains_and_cost_coverage) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.030s
+
+OK

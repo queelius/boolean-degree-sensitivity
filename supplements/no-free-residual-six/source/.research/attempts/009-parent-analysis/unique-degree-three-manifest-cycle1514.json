@@ -1,0 +1,105 @@
+{
+  "schema_version": 1,
+  "status": "FROZEN_WRITTEN_THEOREM_AND_TINY_CONTROLS",
+  "files": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_unique_degree_three_cycle1514.py",
+      "sha256": "92f9752f26bef6627c58b936d949ad2b0151b65a0efdf9623dd949b79a62eb88",
+      "bytes": 1955
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/unique-degree-three-coverage-cycle1514.json",
+      "sha256": "c5372a1ef739c958456bc323202764def30d159bf3e33397ac2cc9925745c2d1",
+      "bytes": 7654
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/unique-degree-three-coverage-export-cycle1514.log",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/unique-degree-three-covered-cycle1514.log",
+      "sha256": "025764cccfd868ac9a7659af31bb8d120b6dc80e89f2a0d41df18bd54f1ac065",
+      "bytes": 523
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/unique-degree-three-covered-time-cycle1514.txt",
+      "sha256": "e8aa0267c87e50a4b82108fa86eedc9b7fd3b9d4354569523d615fe1f8ccd477",
+      "bytes": 946
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/unique-degree-three-handoff-cycle1514.json",
+      "sha256": "b071389e8ad403a2ace9f0e5d8b3eb0bb17d828313cc2127b151fce8789567a4",
+      "bytes": 4451
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/unique-degree-three-missing-helper-red-cycle1514.log",
+      "sha256": "21c043daea9d6e01242fcf61e390fe1cd8e4719c74a24e9dd13d025ff1579a2e",
+      "bytes": 968
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/unique-degree-three-normal-cycle1514.log",
+      "sha256": "9a0c1014e71169c0645502ce99788835733e6464ac86c543e4cd0f1533e57618",
+      "bytes": 523
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/unique-degree-three-normal-time-cycle1514.txt",
+      "sha256": "f36e61e13ac5beee0b62cfff0fb4590d000113893e2b5428dbfd143d711f8174",
+      "bytes": 832
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/unique-degree-three-optimized-cycle1514.log",
+      "sha256": "47c0b3f3417e7931aa3f11be942efdf86237cb4a14e1b01e6f3913e079441b0d",
+      "bytes": 523
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/unique-degree-three-optimized-time-cycle1514.txt",
+      "sha256": "840b1436bd133b848f5ffde709becbfd846532918de4f23d37d964a4028aa32d",
+      "bytes": 835
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/unique-degree-three-red-cycle1514.log",
+      "sha256": "f27452185a4ad2092d6c6646d350e6d547e72b39b9246dee2705f6430f7eb56e",
+      "bytes": 1893
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/unique-degree-three-sphere-proof-cycle1514.md",
+      "sha256": "4a6346e2970567e93177fb330005ceed123ba5548d10c4aad1480239bd94a35c",
+      "bytes": 8176
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/unique_degree_three_controls_cycle1514.py",
+      "sha256": "50bcda666c45cf0acd5f8a4817d32e375d357eeb8f7ca9f2b4504c8ed33176c6",
+      "bytes": 2524
+    }
+  ],
+  "sources": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-manifold-parent-acceptance-cycle1453.json",
+      "sha256": "26e71d45248d01e5b4b668327f814fb8100e6c1a41867149f311ff5ca1a608e0",
+      "bytes": 10728
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/missing-triangle-independent-authority-cycle1489.json",
+      "sha256": "f30829b6752bab524c5901d29967d9893b348023a927b1859942d73f34fca828",
+      "bytes": 3202
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/missing-triangle-independent-review-cycle1489.md",
+      "sha256": "92905cb0878aeb84b52484cdb2a471c6fe28780df10c39bd4cc780f719d359ba",
+      "bytes": 11368
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/root-seven-filled-link-independent-authority-cycle1497.json",
+      "sha256": "51703596cba350bea954657437e8b4f16958cd7c8928e1ee02912d7d8a8b4d67",
+      "bytes": 5021
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-opposite-triangle-proof-cycle1507.md",
+      "sha256": "ac58e2c620c96d9496c39a01cf1776d96b75f3012c02fe865dc91eb8efbf2046",
+      "bytes": 9847
+    }
+  ],
+  "native_queries": 0,
+  "global_goal_complete": false
+}

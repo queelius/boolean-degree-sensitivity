@@ -1,0 +1,11 @@
+test_conditional_row_includes_absent_edge_zero (test_exact_tip_inventory_reader_cycle1519.Tests) ... ok
+test_disconnected_negative_link_rejected (test_exact_tip_inventory_reader_cycle1519.Tests) ... ok
+test_exact_degree_and_fixed_five_reject_weakening (test_exact_tip_inventory_reader_cycle1519.Tests) ... ok
+test_exact_rows_shared_pair_and_all_physical_slots (test_exact_tip_inventory_reader_cycle1519.Tests) ... ok
+test_negative_only_and_no_ordinary_degree_filter (test_exact_tip_inventory_reader_cycle1519.Tests) ... ok
+test_relabel_preserves_native_semantics (test_exact_tip_inventory_reader_cycle1519.Tests) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.036s
+
+OK

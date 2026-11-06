@@ -1,0 +1,18 @@
+test_unique_degree_three_cycle1514 (unittest.loader._FailedTest) ... ERROR
+
+======================================================================
+ERROR: test_unique_degree_three_cycle1514 (unittest.loader._FailedTest)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: test_unique_degree_three_cycle1514
+Traceback (most recent call last):
+  File "/home/spinoza/.local/share/uv/python/cpython-3.10-linux-x86_64-gnu/lib/python3.10/unittest/loader.py", line 154, in loadTestsFromName
+    module = __import__(module_name)
+  File "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_unique_degree_three_cycle1514.py", line 2, in <module>
+    import unique_degree_three_controls_cycle1514 as c
+ModuleNotFoundError: No module named 'unique_degree_three_controls_cycle1514'
+
+
+----------------------------------------------------------------------
+Ran 1 test in 0.001s
+
+FAILED (errors=1)

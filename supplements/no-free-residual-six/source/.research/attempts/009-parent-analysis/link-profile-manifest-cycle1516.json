@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "cycle": 1516,
+  "status": "FROZEN_SOURCE_ONLY_INSPECTION",
+  "files": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/inspect_link_profiles_cycle1516.py",
+      "sha256": "9212b92fcfd09ef23ed9f40d39de0ac091e0841d98e7a68e050c6c5f2e246d21",
+      "bytes": 5076
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_link_profiles_cycle1516.py",
+      "sha256": "2caba8fc6bc8a8c8b19be541c3854a91c39b9b0471a1b763f31692f2d3e1e250",
+      "bytes": 2722
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/link-profiles-red-cycle1516.log",
+      "sha256": "7411d46ebb4634bed0305426b846253f4eb3b02aadca319020e4549db049181f",
+      "bytes": 684
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/link-profiles-normal-cycle1516.log",
+      "sha256": "46df4f0edcf4a6f9a32504da3478dd3a1a7db82b7890d0c616cbb1a0a9b16b2a",
+      "bytes": 98
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/link-profiles-optimized-cycle1516.log",
+      "sha256": "2299339565fdc7c4fedeb54e99b181ba53b821f77194926422cc7df3301ba0ee",
+      "bytes": 98
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/link-profiles-final-normal-cycle1516.log",
+      "sha256": "46df4f0edcf4a6f9a32504da3478dd3a1a7db82b7890d0c616cbb1a0a9b16b2a",
+      "bytes": 98
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/link-profiles-final-optimized-cycle1516.log",
+      "sha256": "46df4f0edcf4a6f9a32504da3478dd3a1a7db82b7890d0c616cbb1a0a9b16b2a",
+      "bytes": 98
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/link-profiles-coverage-cycle1516.json",
+      "sha256": "e22d0d9fb08f5de58987bd4746fcea98c8b7b1c1976e9376e1a01f845991e4fa",
+      "bytes": 9991
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/link-profile-inspection-cycle1516.json",
+      "sha256": "6e7345f92f49f40d061c80f30b58a623b4d4ebef461f0a549c985b9e52a1d3c9",
+      "bytes": 6410
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/link-profile-handoff-cycle1516.json",
+      "sha256": "59b948e24128a6cecd7c3c4cf49d8385e536ec490847bedc98435181b5673506",
+      "bytes": 1894
+    }
+  ],
+  "inherited_catalog_authority": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-reader-authority-cycle1424.json",
+    "sha256": "4b39afb36dc5feaa630d1e101c1246902aabc8763907bd3f024f5b890225388f",
+    "bytes": 24631
+  },
+  "catalog_sources": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-07.json",
+      "sha256": "b6f27899b2b9830758119abb9f38d92705663852cbc1e54c56e5ffe7cda0aec7",
+      "bytes": 1619
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-08.json",
+      "sha256": "df2dd7cc5c4ba26a5dde0736c3ec8c6d9f33292dfdd66f067badb0d67ea0e879",
+      "bytes": 3679
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-09.json",
+      "sha256": "8c707c48b4daecbf613fa5d31152e5c0606206a9f8543a8a37dd60f955349eff",
+      "bytes": 12747
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-10.json",
+      "sha256": "0884454b75c491e2c47a14e9eea4e34752f24a0a3f59ddcf4b54ae5010bd690a",
+      "bytes": 63232
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-11.json",
+      "sha256": "120a8e03f8ca63a5432275be5ca65ec705062e2937a5e8b71eb401924b369ce2",
+      "bytes": 379625
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-12.json",
+      "sha256": "0f783e580e0555f85cf42ff460a947082d37e5699bdbf9feb4aa1da85150b04c",
+      "bytes": 2554602
+    }
+  ]
+}

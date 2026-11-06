@@ -1,0 +1,11 @@
+test_alias_scope_and_bool_guards (test_positive_inventory_reader_cycle1512.Tests) ... ok
+test_bad_transport (test_positive_inventory_reader_cycle1512.Tests) ... ok
+test_incomplete_cycle (test_positive_inventory_reader_cycle1512.Tests) ... ok
+test_known_root7_and_all13_degree_slots (test_positive_inventory_reader_cycle1512.Tests) ... ok
+test_no_degree_three_vertices_gives_no_rows (test_positive_inventory_reader_cycle1512.Tests) ... ok
+test_structured_relabel (test_positive_inventory_reader_cycle1512.Tests) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.011s
+
+OK

@@ -1,0 +1,13 @@
+test_altered_maps (test_extended_trace_reader_cycle1522.Controls) ... ok
+test_boolean_index (test_extended_trace_reader_cycle1522.Controls) ... ok
+test_contradiction (test_extended_trace_reader_cycle1522.Controls) ... ok
+test_header_binding (test_extended_trace_reader_cycle1522.Controls) ... ok
+test_invalid_sizes_and_raw_shape (test_extended_trace_reader_cycle1522.Controls) ... ok
+test_negative_coeff_degree12_control (test_extended_trace_reader_cycle1522.Controls) ... ok
+test_prefix_not_fixedpoint (test_extended_trace_reader_cycle1522.Controls) ... ok
+test_weakening_is_arithmetic_failure (test_extended_trace_reader_cycle1522.Controls) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.003s
+
+OK

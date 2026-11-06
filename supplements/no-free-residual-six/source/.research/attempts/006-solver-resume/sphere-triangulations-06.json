@@ -1,0 +1,51 @@
+{
+  "status": "COMPLETE_INVERSE_CONTRACTION_COVER",
+  "wall_seconds": 0.001294321999012027,
+  "order": 6,
+  "classes": [
+    {
+      "index": 0,
+      "face_masks": [
+        21,
+        26,
+        28,
+        37,
+        42,
+        44,
+        49,
+        50
+      ]
+    },
+    {
+      "index": 1,
+      "face_masks": [
+        7,
+        11,
+        21,
+        25,
+        38,
+        42,
+        52,
+        56
+      ]
+    }
+  ],
+  "previous": {
+    "path": "sphere-triangulations-05.json",
+    "sha256": "71ed49b8f21d0a1efbd78d8e73c7b681e3238020e77d8c6f5ed3bc773c19fb11"
+  },
+  "coverage": {
+    "path": "sphere-triangulations-06.coverage.json.gz",
+    "sha256": "d32c2bcd253c258fc3da223942d22da46372ef1dd38788efbc10ab613e43fe91",
+    "row_schema": [
+      "parent",
+      "vertex",
+      "left",
+      "right",
+      "target",
+      "permutation"
+    ]
+  },
+  "transition_count": 24,
+  "scope": "All combinatorial sphere triangulations of this order, conditional on the elementary contractible-edge induction proof."
+}

@@ -1,0 +1,26 @@
+{
+  "status": "INDEPENDENT_WRITTEN_REVIEW_AND_TINY_GUARD_CONTROLS_PASS",
+  "review": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/unique-degree-three-independent-review-cycle1515.md",
+    "sha256": "fa41e32302cb64515a962c9b2d1154be103f3f1a3dba9a6c0304ff10a3843ea5",
+    "bytes": 14116
+  },
+  "source_paths_rehashed": 21,
+  "producer_code_imported": false,
+  "complete_catalog_enumerated": false,
+  "controls": {
+    "groups_per_mode": 7,
+    "octahedral_patches_per_mode": 8,
+    "normal_exit_code": 0,
+    "optimized_exit_code": 0,
+    "normal_wall_seconds": 0.0740930950269103,
+    "optimized_wall_seconds": 0.07759207603521645,
+    "explicit_guards_under_optimization": true,
+    "code_SHA256": "ec5a632b088a08b23f82f6fe7e98995a9355575c6ea736e8726016ef16bd47be",
+    "source_and_exact_output_in_review": true,
+    "no_general_sphere_recognition_claim": true
+  },
+  "all_processes_terminal": true,
+  "target_queries": 0,
+  "coverage_claim": "No full operational branch coverage or formal proof coverage claimed for tiny inline controls"
+}

@@ -1,0 +1,37 @@
+{
+  "status": "SOLE_ALL26_EXACT_INVENTORY_READER_EXITED_ZERO",
+  "actual_session_id": 37105,
+  "exit_code": 0,
+  "argv": [
+    "/usr/bin/timeout",
+    "15s",
+    "/usr/bin/time",
+    "-v",
+    "-o",
+    "exact-tip-inventory-actual-time-cycle1519.txt",
+    "env",
+    "OPENBLAS_NUM_THREADS=1",
+    "OMP_NUM_THREADS=1",
+    "/home/spinoza/github/math-theory/.research/venv-exact/bin/python",
+    "read_exact_tip_inventory_cycle1519.py",
+    "exact-tip-inventory-config-cycle1519.json",
+    "--sha256",
+    "ae8dd6e71253984370be8ea2cda40b4400e7982fe8568744fdf66a51fedd1946"
+  ],
+  "cwd": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis",
+  "log": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/exact-tip-inventory-actual-cycle1519.log",
+    "sha256": "a8e6eecb28915cd2531542193756e82e5cb5843a0c4471b293520d6ceadff101",
+    "bytes": 595
+  },
+  "resource_log": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/exact-tip-inventory-actual-time-cycle1519.txt",
+    "sha256": "885aeec01d321da0f0c086c66a8bc234ee798e062a6b5dd6bb37c28901d6706d",
+    "bytes": 986
+  },
+  "user_CPU_seconds": 2.22,
+  "system_CPU_seconds": 0.33,
+  "wall_seconds": 2.74,
+  "maximum_RSS_KiB": 217876,
+  "all_processes_terminal": true
+}

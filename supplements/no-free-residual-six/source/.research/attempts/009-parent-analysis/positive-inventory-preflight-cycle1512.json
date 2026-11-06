@@ -1,0 +1,72 @@
+{
+  "status": "INDEPENDENT_INVENTORY_READER_CONTROLS_PASS_TARGET_PENDING",
+  "sources": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive_inventory_reader_cycle1512.py",
+      "sha256": "b894958054a9fb15f08e3aea330a83f297d08d4b36acfefff17b0a417248ba88",
+      "bytes": 2270
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/read_positive_inventory_cycle1512.py",
+      "sha256": "c33a68e0f09d2aa15bfbc4a30fa0d4fd57dddf4fc12028bbff99441b3ca56d70",
+      "bytes": 7710
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_positive_inventory_reader_cycle1512.py",
+      "sha256": "f2c20350d08f585d740260ac6b36b1507a06bfe22ce11c98c6d8a64ea1b31734",
+      "bytes": 3202
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-inventory-reader-plan-cycle1512.md",
+      "sha256": "5ccaa4eaa4408c5c1819ccd5e9cf5770d06969675815cac3a85d83708bb2b9ef",
+      "bytes": 3342
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-inventory-red-cycle1512.log",
+      "sha256": "6d6024a0400ce991ca4f5b5dd2336141d7593f1f336c7060c6db9ed6c8f526d9",
+      "bytes": 1016
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-inventory-normal-complete-cycle1512.log",
+      "sha256": "bf3b7f0e155ca8e7a64bb7b91a9c4c3449aaa0246cfd79740c7197cf4c10bcc3",
+      "bytes": 733
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-inventory-optimized-complete-cycle1512.log",
+      "sha256": "9a865b605f1fb37db00cb81dc43300d35e73d070104c7ed9ec8d2af99b4e5798",
+      "bytes": 733
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-inventory-coverage-complete-cycle1512.json",
+      "sha256": "1e6fcf415b565040e99332c1be659e0725aa9f31c3026f452328bf34b516cadf",
+      "bytes": 5568
+    }
+  ],
+  "normal_controls": 7,
+  "optimized_controls": 7,
+  "helper_coverage": {
+    "covered_lines": 28,
+    "num_statements": 28,
+    "percent_covered": 100.0,
+    "percent_covered_display": "100",
+    "missing_lines": 0,
+    "excluded_lines": 0,
+    "percent_statements_covered": 100.0,
+    "percent_statements_covered_display": "100",
+    "num_branches": 10,
+    "num_partial_branches": 0,
+    "covered_branches": 10,
+    "missing_branches": 0,
+    "percent_branches_covered": 100.0,
+    "percent_branches_covered_display": "100"
+  },
+  "limits": {
+    "CPU_seconds": 5,
+    "memory_bytes": 536870912,
+    "wall_seconds": 15
+  },
+  "forecast_CPU_seconds_below": 2,
+  "inventory_passes_attempted": 0,
+  "propagation_queries": 0,
+  "solver_queries": 0
+}

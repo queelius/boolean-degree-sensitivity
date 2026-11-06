@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "status": "ALL_BOUND_REFS_REHASHED_AFTER_FREEZE",
+  "manifest": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/tip-structure-manifest-cycle1518.json",
+    "sha256": "d5fa2fa43d1b42d5d2d06a663c41eaef94d70aa34b461b20df4b5e19716fd262",
+    "bytes": 12227
+  },
+  "unique_paths": 39,
+  "target_queries": 0
+}

@@ -1,0 +1,413 @@
+{
+  "status": "ARITHMETIC_AND_STRUCTURED_SOURCE_CHECKS_PASSED",
+  "scope": "No existence, topology, local exclusion, or whole-pattern proof is certified by these arithmetic checks.",
+  "historical_open_count": 30,
+  "effective_open_count": 29,
+  "residual_budget_histogram": {
+    "0": 7,
+    "2": 6,
+    "4": 6,
+    "6": 3,
+    "8": 3,
+    "10": 2,
+    "12": 2
+  },
+  "residual_six_inventories": [
+    [
+      2,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  ],
+  "signed_star_checks": [
+    {
+      "constant": 1,
+      "negative_exceptional_pairs": 1,
+      "active_edges": 50,
+      "ordinary_minus_one_count": 22,
+      "ordinary_zero_active_edges": 25,
+      "positive_quartics": 37,
+      "norm_P": 66,
+      "norm_Q": 190,
+      "integer_support_bound": 190,
+      "integer_amplitude_bound": 13
+    },
+    {
+      "constant": 1,
+      "negative_exceptional_pairs": 2,
+      "active_edges": 50,
+      "ordinary_minus_one_count": 19,
+      "ordinary_zero_active_edges": 28,
+      "positive_quartics": 37,
+      "norm_P": 66,
+      "norm_Q": 190,
+      "integer_support_bound": 190,
+      "integer_amplitude_bound": 13
+    },
+    {
+      "constant": 1,
+      "negative_exceptional_pairs": 3,
+      "active_edges": 50,
+      "ordinary_minus_one_count": 16,
+      "ordinary_zero_active_edges": 31,
+      "positive_quartics": 37,
+      "norm_P": 66,
+      "norm_Q": 190,
+      "integer_support_bound": 190,
+      "integer_amplitude_bound": 13
+    },
+    {
+      "constant": 2,
+      "negative_exceptional_pairs": 1,
+      "active_edges": 51,
+      "ordinary_minus_one_count": 24,
+      "ordinary_zero_active_edges": 24,
+      "positive_quartics": 38,
+      "norm_P": 72,
+      "norm_Q": 184,
+      "integer_support_bound": 184,
+      "integer_amplitude_bound": 13
+    },
+    {
+      "constant": 2,
+      "negative_exceptional_pairs": 2,
+      "active_edges": 51,
+      "ordinary_minus_one_count": 21,
+      "ordinary_zero_active_edges": 27,
+      "positive_quartics": 38,
+      "norm_P": 72,
+      "norm_Q": 184,
+      "integer_support_bound": 184,
+      "integer_amplitude_bound": 13
+    },
+    {
+      "constant": 2,
+      "negative_exceptional_pairs": 3,
+      "active_edges": 51,
+      "ordinary_minus_one_count": 18,
+      "ordinary_zero_active_edges": 30,
+      "positive_quartics": 38,
+      "norm_P": 72,
+      "norm_Q": 184,
+      "integer_support_bound": 184,
+      "integer_amplitude_bound": 13
+    }
+  ],
+  "one_free_signature_checks": [
+    {
+      "negative_magnitudes": [
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "constant": 0,
+      "Q_level_norms": [
+        22,
+        84,
+        90
+      ],
+      "norm_Q": 196,
+      "norm_P": 60
+    },
+    {
+      "negative_magnitudes": [
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "constant": 1,
+      "Q_level_norms": [
+        19,
+        82,
+        89
+      ],
+      "norm_Q": 190,
+      "norm_P": 66
+    },
+    {
+      "negative_magnitudes": [
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "constant": 2,
+      "Q_level_norms": [
+        16,
+        80,
+        88
+      ],
+      "norm_Q": 184,
+      "norm_P": 72
+    },
+    {
+      "negative_magnitudes": [
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "constant": 3,
+      "Q_level_norms": [
+        13,
+        78,
+        87
+      ],
+      "norm_Q": 178,
+      "norm_P": 78
+    },
+    {
+      "negative_magnitudes": [
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "constant": 0,
+      "Q_level_norms": [
+        22,
+        84,
+        90
+      ],
+      "norm_Q": 196,
+      "norm_P": 60
+    },
+    {
+      "negative_magnitudes": [
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "constant": 1,
+      "Q_level_norms": [
+        19,
+        82,
+        89
+      ],
+      "norm_Q": 190,
+      "norm_P": 66
+    },
+    {
+      "negative_magnitudes": [
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "constant": 2,
+      "Q_level_norms": [
+        16,
+        80,
+        88
+      ],
+      "norm_Q": 184,
+      "norm_P": 72
+    },
+    {
+      "negative_magnitudes": [
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "constant": 3,
+      "Q_level_norms": [
+        13,
+        78,
+        87
+      ],
+      "norm_Q": 178,
+      "norm_P": 78
+    },
+    {
+      "negative_magnitudes": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "constant": 0,
+      "Q_level_norms": [
+        22,
+        84,
+        90
+      ],
+      "norm_Q": 196,
+      "norm_P": 60
+    },
+    {
+      "negative_magnitudes": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "constant": 1,
+      "Q_level_norms": [
+        19,
+        82,
+        89
+      ],
+      "norm_Q": 190,
+      "norm_P": 66
+    },
+    {
+      "negative_magnitudes": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "constant": 2,
+      "Q_level_norms": [
+        16,
+        80,
+        88
+      ],
+      "norm_Q": 184,
+      "norm_P": 72
+    },
+    {
+      "negative_magnitudes": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "constant": 3,
+      "Q_level_norms": [
+        13,
+        78,
+        87
+      ],
+      "norm_Q": 178,
+      "norm_P": 78
+    }
+  ],
+  "invalid_metadata_rejected": [
+    [
+      true,
+      1
+    ],
+    [
+      2,
+      true
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      2,
+      4
+    ]
+  ],
+  "sources": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/one_free_arithmetic_cycle1513.py",
+      "sha256": "0668ef699afb10990f4c1e94e19890bb84cc66248d48a18c6dac9b7f078d8b9e"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/findings/negative-quintic-pattern-cases.json",
+      "sha256": "232f37ce224945f7aae54fa4b7dd6f66112bcac082485233a2c32856f22751af"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/whole-pattern-exclusion-authority-cycle1388.json",
+      "sha256": "7bb621ae85318027c46e2691e1bb6e77ec77a6f79546087e71fa00a90578d3ed"
+    }
+  ],
+  "cpu_seconds": 0.001060564,
+  "target_solver_calls": 0,
+  "target_catalog_enumerations": 0
+}

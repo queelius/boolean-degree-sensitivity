@@ -1,0 +1,84 @@
+{
+  "row_authority": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-native-rows-authority-cycle1431.json",
+    "sha256": "b6eb54bca5b3b31c5c700f484ada8c78e99925b07f9f380b4d813fd1a84c195f",
+    "bytes": 25443
+  },
+  "absence_authority": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/filled-positive-link-independent-authority-cycle1508.json",
+    "sha256": "6db261927614dcf738a25166d87facd4668005bbb128b974a48a9212887ff933",
+    "bytes": 4517
+  },
+  "absence_parent": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-opposite-parent-acceptance-cycle1508.json",
+    "sha256": "386b1afab141f35384be28afc640afee7f0c383a938c63ac9fd7a05118f8cbe5",
+    "bytes": 5261
+  },
+  "positive_structure_authority": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/unique-degree-three-independent-authority-cycle1515.json",
+    "sha256": "5b4937c2b3a093df4608b2388feb101cffa1cdebcffeed60d55024da24afa246",
+    "bytes": 7912
+  },
+  "positive_clarification": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/unique-degree-three-application-wording-clarification-cycle1514.json",
+    "sha256": "58250aff8e228a3da59c75b4571562f579fbc25bdc59c2cae77fb0b45368f7a7",
+    "bytes": 1023
+  },
+  "link_profile_authority": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/link-profile-independent-authority-cycle1517.json",
+    "sha256": "ebcc0c42d3b07b59aca073f0bac9e5a0ccc54221cd5ce2b28466424179c3d18c",
+    "bytes": 14630
+  },
+  "parent_acceptance": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/link-math-parent-acceptance-cycle1520.json",
+    "sha256": "23597a30f2385371e0ad534b96cdee9827205710c79541f48d849a6e7eb35012",
+    "bytes": 35888
+  },
+  "weak_inventory": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-tip-inventory-cycle1511.json",
+    "sha256": "696491d88a6866113e7da69767712d3b25b3b647ce8eb8c73e17e9b48ae21e2c",
+    "bytes": 91630
+  },
+  "weak_authority": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-inventory-authority-cycle1512.json",
+    "sha256": "1e56d051410103898003735a6fa2ab08b8b71e0989f65fee3361d686f410a472",
+    "bytes": 15748
+  },
+  "frontier": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-genuine-frontier-cycle1510.json",
+    "sha256": "3621b82295391042e64d4ba49091e98ab74170801a36af9ee19a211efc722da2",
+    "bytes": 17637
+  },
+  "inventory": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/tip-structure-inventory-cycle1518.json",
+    "sha256": "b6f48ab8c35d95211abdf399e1ca2fc0a113302ad3e05236a0c8ddee61fd250a",
+    "bytes": 5558762
+  },
+  "extra_refs": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/exact-tip-inventory-preflight-cycle1519.json",
+      "sha256": "3f5223d782fb7ea0fbca37ed8c08229d26e1ae841fd8089593243db0e2c2fdd9",
+      "bytes": 3704
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/tip-structure-validation-cycle1518.json",
+      "sha256": "f0f1fbc6e6c729146e5b00d56ffc64d4fc8e2aac797005b0fe813dd833437e9e",
+      "bytes": 3786
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/tip-structure-handoff-cycle1518.json",
+      "sha256": "0ebe8fa52c4b8d0a1b843c370024bb01cc79840e431d96d1181f5d0a1ec4a86f",
+      "bytes": 2287
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/tip-structure-manifest-cycle1518.json",
+      "sha256": "d5fa2fa43d1b42d5d2d06a663c41eaef94d70aa34b461b20df4b5e19716fd262",
+      "bytes": 12227
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/tip-structure-postfreeze-cycle1518.json",
+      "sha256": "c4cd21ae9cd307dde2be6fe2ca0c9095756bfb594706da7122615caa0aeb0141",
+      "bytes": 370
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "application": "Excludes adjacent minus-two/minus-two subcase of cycle1513 TypeIII at c0/3; remaining TypeIII cases and all whole magnitude patterns remain open.",
+  "assistance": "Substantial OpenAI Codex assistance; independent AI written proof review and exact finite replay.",
+  "author": "Alexander Richard Towell",
+  "canonical_ledgers_changed": false,
+  "checker": {
+    "bytes": 16027,
+    "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/adjacent_negative_extension_cycle1527.py",
+    "sha256": "dfd188a84e6f69144f44b3ef07093e297a7d07220a9c9b1def0d5e7499a8c317"
+  },
+  "controls": {
+    "bytes": 5128,
+    "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/test_adjacent_negative_extension_cycle1527.py",
+    "sha256": "00d2eeaa6be8a8381579ad042758fa71125ff6088456b34348afa53388822727"
+  },
+  "created_at": "2026-10-21T23:34:44.358313+00:00",
+  "formal_verification": false,
+  "fresh_replay": {
+    "final_contradictions": 9,
+    "full_model_constructed": false,
+    "global_face_count_rows": 0,
+    "literal_rows": 945,
+    "normal_and_optimized_agree": true,
+    "old_assert_based_verifier_imported_or_executed": false,
+    "old_original_row_indices_are_premises": false,
+    "opposite_value_deductions": 1111
+  },
+  "global_goal_complete": false,
+  "human_peer_review": false,
+  "inherited_complete_root_cover": {
+    "catalog_reenumeration": false,
+    "complete_inverse_contraction_cover_is_an_external_accepted_premise": true,
+    "literal_nine_roots_checked": true,
+    "ordinary_and_private_flag_link_cover_inherited": true,
+    "types": [
+      [
+        8,
+        12
+      ],
+      [
+        9,
+        32
+      ],
+      [
+        10,
+        74
+      ],
+      [
+        10,
+        75
+      ],
+      [
+        10,
+        168
+      ],
+      [
+        11,
+        499
+      ],
+      [
+        11,
+        764
+      ],
+      [
+        12,
+        2537
+      ],
+      [
+        12,
+        5741
+      ]
+    ]
+  },
+  "new_structural_argument": {
+    "all_good_cross_degree_at_least_two_lower": 11,
+    "cross_edge_upper_at_c0_1_2_3": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "good_degree_one_universal_neighbor_lower": 11
+  },
+  "novelty_established": false,
+  "publication_actions": 0,
+  "publication_readiness": "Conditional strengthening ready to join the next coherent archived research version with exact prior cover, source pins, controls, and AI disclosure. No separate deposit made.",
+  "schema_version": 1,
+  "scope": {
+    "Fourier_scale": 16,
+    "constant": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "even_Fourier_levels": [
+      0,
+      2,
+      4
+    ],
+    "exceptional_pair_numerators": [
+      -2,
+      -2
+    ],
+    "exceptional_pairs_distinct_and_adjacent": true,
+    "new_constants": [
+      0,
+      3
+    ],
+    "ordinary_quadratic_coefficients": [
+      0,
+      1
+    ],
+    "origin": 1,
+    "other_pair_numerators": [
+      -1,
+      0
+    ],
+    "quartic_numerators": [
+      0,
+      1
+    ],
+    "range": [
+      -1,
+      0,
+      1
+    ],
+    "units": 0,
+    "variables": 13
+  },
+  "source_handoff": {
+    "bytes": 2478,
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/adjacent-two-negative-extension-handoff-cycle1526.json",
+    "sha256": "e6bb82b7832d7e9298c9b7aeb6602d04e32bb925670cfadefb1b785727a4a5cf"
+  },
+  "source_proof": {
+    "bytes": 6977,
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/adjacent-two-negative-constant-extension-cycle1526.md",
+    "sha256": "f08efaee4026d47ce3be2c1ad167dfcc65893aedd1696d3e3dc4e6071998f78b"
+  },
+  "status": "INDEPENDENTLY_ACCEPTED_ADJACENT_MINUS_TWO_PAIR_CONSTANT_ZERO_THREE_EXTENSION",
+  "target_queries": 0,
+  "validation": {
+    "bytes": 2757,
+    "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/adjacent-negative-extension-validation-cycle1527.json",
+    "sha256": "d153bec5044c6d1098eb5afe0b4126a377a341edd9c5385dff5aa61df86c16c0"
+  },
+  "whole_patterns_after": 29,
+  "whole_patterns_before": 29,
+  "written_review": {
+    "bytes": 11082,
+    "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/adjacent-negative-extension-independent-review-cycle1527.md",
+    "sha256": "ff41d227fe788d78ae9c6b19f6466f10685989ced2a7997325bd9edf36710387"
+  }
+}
