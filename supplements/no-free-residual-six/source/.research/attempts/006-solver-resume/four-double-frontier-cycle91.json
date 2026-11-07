@@ -1,0 +1,1522 @@
+{
+  "status": "ACCEPTED_UPDATED_FOUR_DOUBLE_SUPPORT_FRONTIER",
+  "global_goal": "OPEN",
+  "complete_geometry_classes": 67,
+  "excluded_classes": 52,
+  "open_classes": 15,
+  "whole_magnitude_patterns_excluded_by_this_update": 0,
+  "records": [
+    {
+      "class_index": 24,
+      "negative_supports": [
+        8221,
+        8222,
+        8672,
+        15872
+      ],
+      "negative_numerators": [
+        -2,
+        -2,
+        -2,
+        -2
+      ],
+      "common_zero_singletons": [
+        13
+      ],
+      "status": "OPEN",
+      "nonnegative_top_without_doubles": "OPEN",
+      "positive_double_cover": {
+        "single_double_with_singleton": 0,
+        "single_double_with_negative_cubic": 0,
+        "single_double_with_positive_cubic": 0,
+        "two_positive_doubles": 0
+      }
+    },
+    {
+      "class_index": 40,
+      "negative_supports": [
+        4377,
+        8222,
+        8672,
+        15872
+      ],
+      "negative_numerators": [
+        -2,
+        -2,
+        -2,
+        -2
+      ],
+      "common_zero_singletons": [],
+      "status": "OPEN",
+      "nonnegative_top_without_doubles": "OPEN",
+      "positive_double_cover": {
+        "single_double_with_singleton": 1,
+        "single_double_with_negative_cubic": 515,
+        "single_double_with_positive_cubic": 364,
+        "two_positive_doubles": 60
+      },
+      "single_double_singleton_local_cover": {
+        "excluded": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70,
+          71,
+          72,
+          73,
+          74,
+          76,
+          77,
+          78,
+          79,
+          80,
+          81,
+          82,
+          83,
+          84,
+          85,
+          86,
+          87,
+          88,
+          89,
+          90,
+          91,
+          92,
+          93,
+          94,
+          95,
+          96,
+          97,
+          98,
+          99,
+          100,
+          101,
+          102,
+          103,
+          104,
+          105,
+          106,
+          107,
+          108,
+          109,
+          110,
+          111,
+          112,
+          113,
+          114,
+          115,
+          116,
+          117,
+          118,
+          119,
+          120,
+          121,
+          122,
+          123,
+          124,
+          125,
+          126,
+          127,
+          128,
+          129,
+          130,
+          131,
+          132,
+          133,
+          134,
+          135,
+          136,
+          137,
+          138,
+          139,
+          140,
+          141,
+          142,
+          143,
+          144,
+          145,
+          146,
+          147,
+          148,
+          149,
+          150,
+          151,
+          152,
+          153,
+          154,
+          155,
+          156,
+          157,
+          158,
+          159,
+          160,
+          161,
+          162,
+          163,
+          164,
+          165,
+          166,
+          167,
+          168,
+          169,
+          170,
+          171,
+          172,
+          173,
+          174,
+          175,
+          176,
+          177,
+          178,
+          179,
+          180,
+          181,
+          182,
+          183,
+          184,
+          185,
+          186,
+          187,
+          188,
+          189,
+          190,
+          191,
+          192,
+          193,
+          194,
+          195,
+          196,
+          197,
+          198,
+          199,
+          200,
+          201,
+          202,
+          203,
+          204,
+          205,
+          206,
+          207,
+          208,
+          209,
+          210,
+          211,
+          212,
+          213,
+          214,
+          215,
+          216,
+          217,
+          218,
+          219,
+          220,
+          221,
+          222,
+          223,
+          224,
+          225,
+          226,
+          227,
+          228,
+          229,
+          230,
+          231,
+          232,
+          233,
+          234,
+          235,
+          236,
+          237,
+          238,
+          239,
+          240,
+          241,
+          242,
+          243,
+          244,
+          245,
+          246,
+          247,
+          248,
+          249,
+          250,
+          251,
+          252,
+          253,
+          254,
+          255,
+          256,
+          257,
+          258,
+          259,
+          260,
+          261,
+          262,
+          263,
+          264,
+          265,
+          266,
+          267,
+          268,
+          269,
+          270,
+          271,
+          272,
+          273,
+          274,
+          275,
+          276,
+          277,
+          278,
+          279,
+          280,
+          281,
+          282,
+          283,
+          284,
+          285,
+          286,
+          287,
+          288,
+          289,
+          290,
+          291,
+          292,
+          293,
+          294,
+          295,
+          296,
+          297,
+          298,
+          299,
+          300,
+          301,
+          302,
+          303,
+          304,
+          305,
+          306,
+          307,
+          308,
+          309,
+          310,
+          311,
+          312,
+          313,
+          314,
+          315,
+          316,
+          317,
+          318,
+          319,
+          320,
+          321,
+          322,
+          323,
+          324,
+          325,
+          326,
+          327,
+          328,
+          329,
+          330,
+          331,
+          332,
+          333,
+          334,
+          335,
+          336,
+          337,
+          338,
+          339,
+          340,
+          341,
+          342,
+          343,
+          344,
+          345,
+          346,
+          347,
+          348,
+          349,
+          350,
+          351,
+          352,
+          353,
+          354,
+          355,
+          356,
+          357,
+          358,
+          359,
+          360,
+          361,
+          362,
+          363,
+          364,
+          365,
+          366,
+          367,
+          368,
+          369,
+          370,
+          371,
+          372,
+          373,
+          374,
+          375,
+          376,
+          377,
+          378,
+          379,
+          380,
+          381,
+          382,
+          383,
+          384,
+          385,
+          386,
+          387,
+          388,
+          389,
+          390,
+          391,
+          392,
+          393,
+          394,
+          395,
+          396,
+          397,
+          398,
+          399,
+          400,
+          401,
+          402,
+          403,
+          404,
+          405,
+          406,
+          407,
+          408,
+          409,
+          410,
+          411,
+          412,
+          413,
+          414,
+          415,
+          416,
+          417,
+          418,
+          419,
+          420,
+          421,
+          422,
+          423,
+          424,
+          425,
+          426,
+          427,
+          428,
+          429,
+          430,
+          431,
+          432,
+          433,
+          434,
+          435,
+          436,
+          437,
+          438,
+          439,
+          440,
+          441,
+          442,
+          443,
+          444,
+          445,
+          446,
+          447,
+          448,
+          449,
+          450,
+          451,
+          452,
+          453,
+          454,
+          455,
+          456,
+          457,
+          458,
+          459,
+          460,
+          461,
+          462,
+          463,
+          464,
+          465,
+          466,
+          467,
+          468,
+          469,
+          470,
+          471,
+          472,
+          473,
+          474,
+          475,
+          476,
+          477,
+          478,
+          479,
+          480,
+          481,
+          482,
+          483,
+          484,
+          485,
+          486,
+          487,
+          488,
+          489,
+          490,
+          491,
+          492,
+          493,
+          494,
+          495,
+          496,
+          497,
+          498,
+          499,
+          500,
+          501,
+          502,
+          503,
+          504
+        ],
+        "remaining": [
+          35,
+          51,
+          75
+        ],
+        "all_CD_assignments": 20,
+        "authority": {
+          "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/class40-actual-tail-bases-accepted-manifest.json",
+          "sha256": "eb6e93c62b0a02f0ca66256c676d72ecd8de6a7f0bc705a4216bc56c68f1bb1b"
+        }
+      }
+    },
+    {
+      "class_index": 41,
+      "negative_supports": [
+        8473,
+        8222,
+        8672,
+        15872
+      ],
+      "negative_numerators": [
+        -2,
+        -2,
+        -2,
+        -2
+      ],
+      "common_zero_singletons": [
+        13
+      ],
+      "status": "OPEN",
+      "nonnegative_top_without_doubles": "OPEN",
+      "positive_double_cover": {
+        "single_double_with_singleton": 0,
+        "single_double_with_negative_cubic": 0,
+        "single_double_with_positive_cubic": 0,
+        "two_positive_doubles": 0
+      }
+    },
+    {
+      "class_index": 45,
+      "negative_supports": [
+        12561,
+        8222,
+        8672,
+        15872
+      ],
+      "negative_numerators": [
+        -2,
+        -2,
+        -2,
+        -2
+      ],
+      "common_zero_singletons": [
+        13
+      ],
+      "status": "OPEN",
+      "nonnegative_top_without_doubles": "OPEN",
+      "positive_double_cover": {
+        "single_double_with_singleton": 0,
+        "single_double_with_negative_cubic": 0,
+        "single_double_with_positive_cubic": 0,
+        "two_positive_doubles": 0
+      }
+    },
+    {
+      "class_index": 55,
+      "negative_supports": [
+        2195,
+        4380,
+        8672,
+        15872
+      ],
+      "negative_numerators": [
+        -2,
+        -2,
+        -2,
+        -2
+      ],
+      "common_zero_singletons": [],
+      "status": "OPEN",
+      "nonnegative_top_without_doubles": "OPEN",
+      "positive_double_cover": {
+        "single_double_with_singleton": 0,
+        "single_double_with_negative_cubic": 36,
+        "single_double_with_positive_cubic": 0,
+        "two_positive_doubles": 15
+      }
+    },
+    {
+      "class_index": 56,
+      "negative_supports": [
+        4243,
+        4380,
+        8672,
+        15872
+      ],
+      "negative_numerators": [
+        -2,
+        -2,
+        -2,
+        -2
+      ],
+      "common_zero_singletons": [],
+      "status": "OPEN",
+      "nonnegative_top_without_doubles": "OPEN",
+      "positive_double_cover": {
+        "single_double_with_singleton": 0,
+        "single_double_with_negative_cubic": 129,
+        "single_double_with_positive_cubic": 0,
+        "two_positive_doubles": 39
+      }
+    },
+    {
+      "class_index": 57,
+      "negative_supports": [
+        8339,
+        8476,
+        8672,
+        15872
+      ],
+      "negative_numerators": [
+        -2,
+        -2,
+        -2,
+        -2
+      ],
+      "common_zero_singletons": [
+        13
+      ],
+      "status": "OPEN",
+      "nonnegative_top_without_doubles": "OPEN",
+      "positive_double_cover": {
+        "single_double_with_singleton": 0,
+        "single_double_with_negative_cubic": 0,
+        "single_double_with_positive_cubic": 0,
+        "two_positive_doubles": 0
+      }
+    },
+    {
+      "class_index": 58,
+      "negative_supports": [
+        4371,
+        4380,
+        8672,
+        15872
+      ],
+      "negative_numerators": [
+        -2,
+        -2,
+        -2,
+        -2
+      ],
+      "common_zero_singletons": [],
+      "status": "OPEN",
+      "nonnegative_top_without_doubles": "OPEN",
+      "positive_double_cover": {
+        "single_double_with_singleton": 0,
+        "single_double_with_negative_cubic": 76,
+        "single_double_with_positive_cubic": 0,
+        "two_positive_doubles": 27
+      }
+    },
+    {
+      "class_index": 59,
+      "negative_supports": [
+        8467,
+        4380,
+        8672,
+        15872
+      ],
+      "negative_numerators": [
+        -2,
+        -2,
+        -2,
+        -2
+      ],
+      "common_zero_singletons": [],
+      "status": "OPEN",
+      "nonnegative_top_without_doubles": "OPEN",
+      "positive_double_cover": {
+        "single_double_with_singleton": 0,
+        "single_double_with_negative_cubic": 105,
+        "single_double_with_positive_cubic": 0,
+        "two_positive_doubles": 58
+      }
+    },
+    {
+      "class_index": 60,
+      "negative_supports": [
+        8467,
+        8476,
+        8672,
+        15872
+      ],
+      "negative_numerators": [
+        -2,
+        -2,
+        -2,
+        -2
+      ],
+      "common_zero_singletons": [
+        13
+      ],
+      "status": "OPEN",
+      "nonnegative_top_without_doubles": "OPEN",
+      "positive_double_cover": {
+        "single_double_with_singleton": 0,
+        "single_double_with_negative_cubic": 0,
+        "single_double_with_positive_cubic": 0,
+        "two_positive_doubles": 0
+      }
+    },
+    {
+      "class_index": 61,
+      "negative_supports": [
+        12307,
+        8476,
+        8672,
+        15872
+      ],
+      "negative_numerators": [
+        -2,
+        -2,
+        -2,
+        -2
+      ],
+      "common_zero_singletons": [
+        13
+      ],
+      "status": "OPEN",
+      "nonnegative_top_without_doubles": "OPEN",
+      "positive_double_cover": {
+        "single_double_with_singleton": 0,
+        "single_double_with_negative_cubic": 0,
+        "single_double_with_positive_cubic": 0,
+        "two_positive_doubles": 0
+      }
+    },
+    {
+      "class_index": 62,
+      "negative_supports": [
+        4147,
+        8252,
+        12736,
+        15872
+      ],
+      "negative_numerators": [
+        -2,
+        -2,
+        -2,
+        -2
+      ],
+      "common_zero_singletons": [],
+      "status": "OPEN",
+      "nonnegative_top_without_doubles": "OPEN",
+      "positive_double_cover": {
+        "single_double_with_singleton": 0,
+        "single_double_with_negative_cubic": 120,
+        "single_double_with_positive_cubic": 0,
+        "two_positive_doubles": 89
+      }
+    },
+    {
+      "class_index": 63,
+      "negative_supports": [
+        8243,
+        8252,
+        12736,
+        15872
+      ],
+      "negative_numerators": [
+        -2,
+        -2,
+        -2,
+        -2
+      ],
+      "common_zero_singletons": [
+        13
+      ],
+      "status": "OPEN",
+      "nonnegative_top_without_doubles": "OPEN",
+      "positive_double_cover": {
+        "single_double_with_singleton": 0,
+        "single_double_with_negative_cubic": 0,
+        "single_double_with_positive_cubic": 0,
+        "two_positive_doubles": 0
+      }
+    },
+    {
+      "class_index": 64,
+      "negative_supports": [
+        12547,
+        4380,
+        8672,
+        15872
+      ],
+      "negative_numerators": [
+        -2,
+        -2,
+        -2,
+        -2
+      ],
+      "common_zero_singletons": [],
+      "status": "OPEN",
+      "nonnegative_top_without_doubles": "OPEN",
+      "positive_double_cover": {
+        "single_double_with_singleton": 0,
+        "single_double_with_negative_cubic": 54,
+        "single_double_with_positive_cubic": 0,
+        "two_positive_doubles": 45
+      }
+    },
+    {
+      "class_index": 65,
+      "negative_supports": [
+        12547,
+        8476,
+        8672,
+        15872
+      ],
+      "negative_numerators": [
+        -2,
+        -2,
+        -2,
+        -2
+      ],
+      "common_zero_singletons": [
+        13
+      ],
+      "status": "OPEN",
+      "nonnegative_top_without_doubles": "OPEN",
+      "positive_double_cover": {
+        "single_double_with_singleton": 0,
+        "single_double_with_negative_cubic": 0,
+        "single_double_with_positive_cubic": 0,
+        "two_positive_doubles": 0
+      }
+    },
+    {
+      "class_index": 66,
+      "negative_supports": [
+        12295,
+        12344,
+        12736,
+        15872
+      ],
+      "negative_numerators": [
+        -2,
+        -2,
+        -2,
+        -2
+      ],
+      "common_zero_singletons": [
+        12,
+        13
+      ],
+      "status": "EXCLUDED",
+      "nonnegative_top_without_doubles": "EXCLUDED",
+      "positive_double_cover": {
+        "single_double_with_singleton": 0,
+        "single_double_with_negative_cubic": 0,
+        "single_double_with_positive_cubic": 0,
+        "two_positive_doubles": 0
+      },
+      "common_pair_codegree": {
+        "pair": [
+          12,
+          13
+        ],
+        "necessary_range": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "allowed": [],
+        "excluded": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "new_exclusion": [
+          0
+        ],
+        "complete_support_authority": {
+          "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/four-double-common-pair-complete-accepted-manifest.json",
+          "sha256": "a795103bf0205a6658abbff5b0d41a7e8e81d72a6bf1123f9291b43069ef12e6"
+        },
+        "parent_composition_authority": {
+          "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/four-double-common-pair-complete-accepted-manifest.json",
+          "sha256": "8778cba195509596075cf8c8b4905f82f9f3ab8b9beb68ced2620e77c5d35248"
+        },
+        "complete_codegree_zero_authority": {
+          "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/four-double-common-pair-d0-accepted-manifest.json",
+          "sha256": "9ecb6c02fd966b68bae3d827ce7eb89c4d2b5f1d3f66ed1a96d99ec0c6fa1330"
+        },
+        "composition": {
+          "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/four-double-common-pair-composition.json",
+          "sha256": "eec499820b893ae7dbb03166b0aab8384297be0d6ec8521e56bd6148a10c26c6"
+        }
+      },
+      "exclusion_authority": {
+        "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/four-double-common-pair-complete-accepted-manifest.json",
+        "sha256": "a795103bf0205a6658abbff5b0d41a7e8e81d72a6bf1123f9291b43069ef12e6"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "path": ".research/attempts/009-parent-analysis/empty-four-double-geometry-accepted-manifest.json",
+      "sha256": "402ce1511da52fe71051859023149aaec0617afa58f312a47d8831baaab291ad"
+    },
+    {
+      "path": ".research/attempts/009-parent-analysis/empty-four-double-class5-accepted-manifest.json",
+      "sha256": "1fc19d5492760f6b857252966f3ed680c01ad4b40023f07f722a04f073bded5f"
+    },
+    {
+      "path": ".research/attempts/006-solver-resume/four-double-positive-cover-accepted-manifest.json",
+      "sha256": "e16d80d932a80611d3073029ba226c60838599b65ab34e285a4cd69cd793fd45"
+    },
+    {
+      "path": ".research/attempts/006-solver-resume/pair-double-positive-cubic-accepted-manifest.json",
+      "sha256": "96fc5f1071aa9db55fa16e5ca6f4ab505f835fb8e8db92d1e7300c3015c191d9"
+    },
+    {
+      "path": ".research/attempts/006-solver-resume/four-double-common-pair-d4-accepted-manifest.json",
+      "sha256": "95ea5c9edaf338a65cb1f2409d5da268434f3a1d0f092db460faa3eb12860276"
+    },
+    {
+      "path": ".research/attempts/009-parent-analysis/empty-2222-core-d5-parent-audit.md",
+      "sha256": "efb3b3e2d74fa9f8f0ef83cffe053b24939dcdad053dbe0e81e9d30338326caa"
+    },
+    {
+      "path": ".research/attempts/009-parent-analysis/empty-2222-core-d5-parent-independent-verification.json",
+      "sha256": "bfb4fd81ef64490c7d54be5d0b48f668dd6af9245083b2fce9c6a7cb4199f2ff"
+    },
+    {
+      "path": ".research/attempts/009-parent-analysis/empty-2222-core-d6-parent-audit.md",
+      "sha256": "d6aa2172a1281fe78ee3e9d4f6f60b25cd6e3b2d9428bf6758be76daf3c590ad"
+    },
+    {
+      "path": ".research/attempts/009-parent-analysis/empty-2222-core-d6-parent-independent-verification.json",
+      "sha256": "8e67425610514f80b5ed3931491f17392b59f787d6fad73ef05855362a09863d"
+    },
+    {
+      "path": ".research/attempts/006-solver-resume/four-double-common-pair-d3-accepted-manifest.json",
+      "sha256": "f6650966eb27426c8099a0bc0714b37e62114f0da946159245ed99479d7b95f3"
+    },
+    {
+      "path": ".research/attempts/006-solver-resume/four-double-common-pair-d2-accepted-manifest.json",
+      "sha256": "d085dea487908d851852ee9c603bbbf2753782bad4e6d110baf1dec221447cd6"
+    },
+    {
+      "path": ".research/attempts/006-solver-resume/d1-negative-euler-exclusion-accepted-manifest.json",
+      "sha256": "dac803f7577f11ba62a69ced8c911238e34ca40c5be2896838df67e9cad6f9ab"
+    },
+    {
+      "path": ".research/attempts/006-solver-resume/d1-large-spheres-accepted-manifest.json",
+      "sha256": "cb18a0fa62247d809df89cc6ba775820e5766cdd0abe715c9fdbc151c6f361e1"
+    },
+    {
+      "path": ".research/attempts/009-parent-analysis/class40-universal-c4-complete-accepted-manifest.json",
+      "sha256": "b69aa3a0a63b373f89b52adedcba8b60dcda6c9d4dee7f85e5aedc9dba79fd94"
+    },
+    {
+      "path": ".research/attempts/006-solver-resume/four-double-common-pair-d1-accepted-manifest.json",
+      "sha256": "8f38efd7ba73d5b37d6899476e9cb85847ff7ff2811a1c0717043caf099a1806"
+    },
+    {
+      "path": ".research/attempts/006-solver-resume/d1-eleven-base-cover-accepted-manifest.json",
+      "sha256": "4d210369e7503d959df31376991834cd4a084a4cba2b4a0f0bd849208b6e9d79"
+    },
+    {
+      "path": ".research/attempts/006-solver-resume/d1-nonnegative-component-cover-accepted-manifest.json",
+      "sha256": "4a82f94ece5e4d23221aaaa0d441f9c880af6980bed26c87821e2ff02d49039d"
+    },
+    {
+      "path": ".research/attempts/006-solver-resume/d1-gluings-and-frames-accepted-manifest.json",
+      "sha256": "3d033909f4c8efec39376c646a84bcb191ae9ce21846e903f23d9f01b1452a73"
+    },
+    {
+      "path": ".research/attempts/006-solver-resume/d1-incompatible-positive-cover-accepted-manifest.json",
+      "sha256": "7c949509ab701ecfe06f1485551c7f0a685033b99700e40c63469bf671eb4b11"
+    },
+    {
+      "path": ".research/attempts/009-parent-analysis/class40-universal-next27-accepted-manifest.json",
+      "sha256": "969dea39bad66eadc968d858a5061937e108a9a51c2d54605b4452658f3dc702"
+    },
+    {
+      "path": ".research/attempts/009-parent-analysis/d1-necessary-row-transfer-accepted-manifest.json",
+      "sha256": "1ce6eb9e89b55899fdd16b09466c249b066a39c48f512a85064a12a42ba971ba"
+    },
+    {
+      "path": ".research/attempts/009-parent-analysis/unit-partner-one-safe-core-one-accepted-manifest.json",
+      "sha256": "e4afb213a9a71a1227a34c3eea957cc4d6f8037cca3bf1b9aba316d38f812be4"
+    },
+    {
+      "path": ".research/attempts/009-parent-analysis/class40-next40-prefixa-accepted-manifest.json",
+      "sha256": "6000bb48b8ede4508c88711c7470247236dd5f081d03e612e7ed170989d08355"
+    },
+    {
+      "path": ".research/attempts/009-parent-analysis/class40-empty-local006-accepted-manifest.json",
+      "sha256": "9a1aee82d48dfb2b5e2379d6b296cf162c8bad1b4319d04da815b4438144831e"
+    },
+    {
+      "path": ".research/attempts/009-parent-analysis/class40-universal-zero-mixed-next6-accepted-manifest.json",
+      "sha256": "ba47534ddb1e6330f8b5f9e0be6513cfbe920e3d1b21bdb8eefea994f1a74954"
+    },
+    {
+      "path": ".research/attempts/009-parent-analysis/common-pair-d1-exclusion-accepted-manifest.json",
+      "sha256": "98ee1231df0ba1a1473e13f7e1352b454c6cebcf2061285954e38165e97b67ab"
+    },
+    {
+      "path": ".research/attempts/009-parent-analysis/d0-negative-euler-refinement-accepted-manifest.json",
+      "sha256": "1011d50c8d9735cc64af01d970334cbe56b385047771a26156707153e0848348"
+    },
+    {
+      "path": ".research/attempts/006-solver-resume/d0-negative-euler-exclusion-accepted-manifest.json",
+      "sha256": "a9620243d91ab747704b03df7e70575645d1d99e32b095256dddba5c7c843e01"
+    },
+    {
+      "path": ".research/attempts/009-parent-analysis/unit-partner-weight-two-on-02-accepted-manifest.json",
+      "sha256": "256fcad99face5a95f2a63abd19020994d5eb53fec018215c32434528a1b18e4"
+    },
+    {
+      "path": ".research/attempts/009-parent-analysis/class40-next40-prefixb-accepted-manifest.json",
+      "sha256": "e05350b9d4d53c4fb90a27078bd85764355a5d3936e0bf92d707156980118d80"
+    },
+    {
+      "path": ".research/attempts/009-parent-analysis/unit-partner-one-safe-complete-accepted-manifest.json",
+      "sha256": "ab40225e5f1c00752c8d938f78ef9d82449df7e4984c93ea08065eee309f6850"
+    },
+    {
+      "path": ".research/attempts/009-parent-analysis/unit-partner-zero-safe-necessary-catalog-accepted-manifest.json",
+      "sha256": "39be34cd537ebfc5a2697a7390bc21a9c99fe0bf20890bcc04967c8ccd6b76a8"
+    },
+    {
+      "path": ".research/attempts/006-solver-resume/d0-nonnegative-component-bounds-accepted-manifest.json",
+      "sha256": "2a0f9e79a77dabcf8b940f0109cad3452bb813fb2a32ed7bee44add0bedabd08"
+    },
+    {
+      "path": ".research/attempts/006-solver-resume/d0-large-spheres-accepted-manifest.json",
+      "sha256": "866280ead7a563cca352b37189db2a1fe1afbfa146fbac9ca61a823398cf6fb3"
+    },
+    {
+      "path": ".research/attempts/006-solver-resume/d0-original-four-contraction-accepted-manifest.json",
+      "sha256": "48554476fe180d1703caccd836a9a600ecfab7812396793f7f2b5dd21eaf41d0"
+    },
+    {
+      "path": ".research/attempts/006-solver-resume/d0-residual-clique-base-accepted-manifest.json",
+      "sha256": "4ed4e91042bca6adef7509977688267f51017a362284c34e41efb40d9ad769ee"
+    },
+    {
+      "path": ".research/attempts/009-parent-analysis/d0-nonnegative-components-parent-mathematical-review.md",
+      "sha256": "fdb62e6a0c3f18300865c9bc5f4284e1976a36faaee844f3bd1434c6b6617cca"
+    },
+    {
+      "path": ".research/attempts/006-solver-resume/d0-nonnegative-component-cover-accepted-manifest.json",
+      "sha256": "bb80c11682e73a674de925327a1c3208a1c9661601bde757ed9a714fa87fe1ac"
+    },
+    {
+      "path": ".research/attempts/009-parent-analysis/class40-next40-prefixe-and-next80-wave01-accepted-manifest.json",
+      "sha256": "98ae86e681ea3a19198e24bb946c531922fb3385d93670b0fb4ef8d8e9261500"
+    },
+    {
+      "path": ".research/attempts/006-solver-resume/d0-gluings-and-frames-accepted-manifest.json",
+      "sha256": "d2dc5ed25670c93f728557cca7c39fe151392be53288caae7acd6041b27b9a9d"
+    },
+    {
+      "path": ".research/attempts/009-parent-analysis/d0-top-mass-transfer-accepted-manifest.json",
+      "sha256": "d1edfe6a41454ab297d63bb9a584166dec46b29f7e8ed5cf04f7b3420bb55c26"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/four-double-common-pair-complete-accepted-manifest.json",
+      "sha256": "a795103bf0205a6658abbff5b0d41a7e8e81d72a6bf1123f9291b43069ef12e6"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/four-double-common-pair-complete-accepted-manifest.json",
+      "sha256": "8778cba195509596075cf8c8b4905f82f9f3ab8b9beb68ced2620e77c5d35248"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/four-double-common-pair-d0-accepted-manifest.json",
+      "sha256": "9ecb6c02fd966b68bae3d827ce7eb89c4d2b5f1d3f66ed1a96d99ec0c6fa1330"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/class40-next80-wave03-accepted-manifest.json",
+      "sha256": "e1ea72f08b8abf06db8878534852e23749c2483309709d6623c1ee2fdc0a66ba"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/unit-partner-complete-accepted-manifest.json",
+      "sha256": "018acb8a9c7532c9ba00fbde4bcd660cb4c475693e1a250dff3ce4534cd036b9"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/unit-partner-zero-safe-complete-accepted-manifest.json",
+      "sha256": "d303ca0347c6c72623480da35e4d98285d01ca13fabd82dd20c36699d0b325af"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/one-negative-double-pair-necessary-accepted-manifest.json",
+      "sha256": "8f32574b4242a272ee8da35519d04bc51999416ff65af2afaf36675d4f9b5d26"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/class40-next80-wave04-accepted-manifest.json",
+      "sha256": "fcd13642a506b18eb933316e959761b1c75763059c5fecbab92a0356c763422e"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/common-one-low-face-pair-accepted-manifest.json",
+      "sha256": "1d2d5d19ae7a2bc8d4b27b2c1c10dc2c0c8798ac90360721f2d7e2f40cf99ea2"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/single-negative-small-complete-accepted-manifest.json",
+      "sha256": "8faa449a46b36847103ec9cc84de993d6591ecffb71db2e1d9402e011a2238b5"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/common-one-small-pair-selection-proposed-manifest.json",
+      "sha256": "8560380ff68cf91f6ffbdbb43623d6360da22f71b84fd706ad46f559cad62263"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/isolated-unit-two-safe-accepted-manifest.json",
+      "sha256": "113d3897ac305b4e20fa5dcea6a86837eff31d2a1313c6d6a7f24d6da4729521"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/small-pair-two-copy-probe.json",
+      "sha256": "348438f4164803155f6a3f16d04dd079ecb948fbcd2af4f93a6b0302e5fd9e54"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/single-negative-p16-accepted-manifest.json",
+      "sha256": "a99f5c40fb7aec8ca41904e67f461d0a13a440c30d4189065c8b05718395e580"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/no-common-one-negative-selection-accepted-manifest.json",
+      "sha256": "fd3692cd955aa17d9ec2050c18c6479a0800050604ddb4d4c7c6fd701fb53580"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/common-one-small-pair-selection-accepted-manifest.json",
+      "sha256": "f57ba9c3860d1e2276ecc3c42b8715fbf934ce6915abb78a98cfe873554003f6"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/single-negative-small-complete-accepted-manifest.json",
+      "sha256": "82e52f0f7dcf7188978a2c806e015c698b408d0f4c66eb42327ad28af0efa830"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/class40-next120-accepted-manifest.json",
+      "sha256": "43e168003dfc78a7f9ca735ffb298734e4e14825a7ae01d0e780bc1688d5b887"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/isolated-unit-distinct-pairs-accepted-manifest.json",
+      "sha256": "9154498afc6e8444dbfa3946e96af110554a476457266a802dff93af065e8702"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/isolated-unit-nonshared-singleton-accepted-manifest.json",
+      "sha256": "ceaa2111fc844ea3c4174e51bddc61215b731e5c2933b6466880e77856ddc287"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/four-double-frontier-cycle89.json",
+      "sha256": "f18843c77fa5a28d5c5ba4af1e915b2adb0d1013ca453da021da8c8c9d8f87c4"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/class40-empty-next5-accepted-manifest.json",
+      "sha256": "186a28a6457df37144c5c885d318c732c706d2e49012d9135f39de666f8e1a76"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/four-double-no-common-complete-small-pair-accepted-manifest.json",
+      "sha256": "d26127789bf92b2a98ba75bbc844a05924a2ac848710ae94ba94daf952ab5400"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/two-positive-double-pair-selection-accepted-manifest.json",
+      "sha256": "4e2b3d7f786ac11bef93758ea7c43ee075beb7877e9b7138cbf624d9e9e95c24"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/isolated-unit-one-safe-frontier-accepted-manifest.json",
+      "sha256": "38898071819d0a0e6b1b5bdb03c8fa0662e74276f7a5e1aa816d2f0ccba256ed"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/common-one-single-row-probe-manifest.json",
+      "sha256": "4156ac5e2ad201ce8b2af573d87810ece1c282d869181594090fbf1e50f6c1d5"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/four-double-no-or-one-positive-small-pair-accepted-manifest.json",
+      "sha256": "1cd2c5a67789fe1fa653a10b7e34c070f9bd0edf38778c82f6c2c4e996be8907"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/single-negative-p16-accepted-manifest.json",
+      "sha256": "71ba8f1ccd28f9ca14c953cc98cb0c85a415e5ac0a5495a5ebabc0d586be9e1a"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/four-double-frontier-cycle90.json",
+      "sha256": "4e361215fa633cef83ab4c8f1294c942243baeb29d93a4c76c8b80f9f9a61028"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/class40-actual-tail-bases-accepted-manifest.json",
+      "sha256": "eb6e93c62b0a02f0ca66256c676d72ecd8de6a7f0bc705a4216bc56c68f1bb1b"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/common-one-two-pair-pilot-accepted-manifest.json",
+      "sha256": "ef31bf8f774b3002833f7601d30b9c3d9fdf9376e18f9d6a2ad591385a9dff5e"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/common-one-protected-copy-exception-proposed-manifest.json",
+      "sha256": "92af1c918e113f03dec8ddd27194184126b1694635e2431045630ff248f63363"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/common-one-third-pair-pilot.json",
+      "sha256": "353a0d6f3c26275981789a1885dc27fcf840af8c6911d4c5074fa6835486b8e5"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/common-one-protected-copy-lp-pilot.json",
+      "sha256": "ebe244e77ecf5960c644df3d1e74c544aa06b452d64b9242bc3b8254f60bcf00"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/common-one-upper-truth-pilot.json",
+      "sha256": "c97ae65b3515fa217d8efc1e0e2c81fc6437d88efbc6a9e7cdd3a761a0c449a9"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/isolated-unit-complete-accepted-manifest.json",
+      "sha256": "3fb46a48cd43e634975f98b74afbbe5283ce3fb9f729407e87b4bcf1886a7441"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/empty-no-full-core-two-safe-accepted-manifest.json",
+      "sha256": "a4dc1df8b8b816b150f1af79a5faea2b28c67d89e58b1e767fc1225850c96da5"
+    }
+  ],
+  "cycle": 91,
+  "predecessor": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/four-double-frontier-cycle90.json",
+    "sha256": "4e361215fa633cef83ab4c8f1294c942243baeb29d93a4c76c8b80f9f9a61028"
+  },
+  "conditional_empty_profile_updates": [
+    {
+      "magnitudes": [
+        3,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "scope": "Complete conditional unit-partner role; the whole magnitude pattern remains OPEN.",
+      "status": "EXCLUDED_CONDITIONAL_ROLE",
+      "whole_magnitude_excluded": false,
+      "authority": {
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/unit-partner-complete-accepted-manifest.json",
+        "sha256": "018acb8a9c7532c9ba00fbde4bcd660cb4c475693e1a250dff3ce4534cd036b9"
+      },
+      "zero_safe_authority": {
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/unit-partner-zero-safe-complete-accepted-manifest.json",
+        "sha256": "d303ca0347c6c72623480da35e4d98285d01ca13fabd82dd20c36699d0b325af"
+      }
+    },
+    {
+      "kind": "isolated_unit_complete",
+      "magnitudes": [
+        3,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "scope": "empty baseline3211111; actual unit triangle; sole foreign full unit T isolated; Q/P proper; Q/S adjacent; union14",
+      "status": "EXCLUDED_CONDITIONAL_ROLE",
+      "whole_magnitude_excluded": false,
+      "authority": {
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/isolated-unit-complete-accepted-manifest.json",
+        "sha256": "3fb46a48cd43e634975f98b74afbbe5283ce3fb9f729407e87b4bcf1886a7441"
+      }
+    },
+    {
+      "kind": "no_full_core_two_safe",
+      "magnitudes": [
+        3,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "scope": "empty baseline3211111; actual own triangle star including f(C+a)=0; foreign Q/P/S/R proper at C; exactly two safe core pairs; selected adjacent odd pair",
+      "status": "EXCLUDED_CONDITIONAL_TWO_SAFE_BRANCH",
+      "whole_magnitude_excluded": false,
+      "authority": {
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/empty-no-full-core-two-safe-accepted-manifest.json",
+        "sha256": "a4dc1df8b8b816b150f1af79a5faea2b28c67d89e58b1e767fc1225850c96da5"
+      }
+    }
+  ],
+  "necessary_derivative_updates": [
+    {
+      "scope": "Ordinary pair with exactly one negative double and incident baseline coefficients; structural resources only.",
+      "status": "ACCEPTED_NECESSARY_REDUCTION",
+      "authority": {
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/one-negative-double-pair-necessary-accepted-manifest.json",
+        "sha256": "8f32574b4242a272ee8da35519d04bc51999416ff65af2afaf36675d4f9b5d26"
+      },
+      "whole_support_exclusions": 0
+    },
+    {
+      "scope": "At least two private pairs have at most fourteen positive faces; necessary selection only.",
+      "status": "ACCEPTED_NECESSARY_SELECTION",
+      "authority": {
+        "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/common-one-low-face-pair-accepted-manifest.json",
+        "sha256": "1d2d5d19ae7a2bc8d4b27b2c1c10dc2c0c8798ac90360721f2d7e2f40cf99ea2"
+      },
+      "whole_support_exclusions": 0
+    },
+    {
+      "scope": "Complete compatible and incompatible one-negative pair cover under the face budget; eighteen necessary range-valid rows.",
+      "status": "ACCEPTED_COMPLETE_NECESSARY_CATALOG",
+      "authority": {
+        "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/single-negative-small-complete-accepted-manifest.json",
+        "sha256": "8faa449a46b36847103ec9cc84de993d6591ecffb71db2e1d9402e011a2238b5"
+      },
+      "whole_support_exclusions": 0
+    },
+    {
+      "scope": "Elementary P10 exclusion and five/three/two selected-pair refinement under the specified incident cubic exception.",
+      "status": "ACCEPTED_NECESSARY_REFINEMENT",
+      "authority": {
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/common-one-small-pair-selection-accepted-manifest.json",
+        "sha256": "f57ba9c3860d1e2276ecc3c42b8715fbf934ce6915abb78a98cfe873554003f6"
+      },
+      "whole_support_exclusions": 0
+    },
+    {
+      "scope": "Each of seven no-common support geometries with no positive doubled quintic has an eligible one-negative pair with at most sixteen positive faces; positive-double branches are not covered.",
+      "status": "ACCEPTED_NECESSARY_SELECTION",
+      "authority": {
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/no-common-one-negative-selection-accepted-manifest.json",
+        "sha256": "fd3692cd955aa17d9ec2050c18c6479a0800050604ddb4d4c7c6fd701fb53580"
+      },
+      "whole_support_exclusions": 0
+    },
+    {
+      "scope": "Complete compatible and incompatible one-negative pair cover under P<=16; fifty necessary range-valid rows.",
+      "status": "ACCEPTED_COMPLETE_NECESSARY_CATALOG",
+      "authority": {
+        "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/single-negative-p16-accepted-manifest.json",
+        "sha256": "a99f5c40fb7aec8ca41904e67f461d0a13a440c30d4189065c8b05718395e580"
+      },
+      "whole_support_exclusions": 0
+    },
+    {
+      "kind": "no_common_all_positive_double_counts",
+      "scope": "All seven no-common supports, across zero, one or two positive doubled quintics, admit a selected eligible pair in the complete fifty-row catalog.",
+      "status": "ACCEPTED_COMPLETE_NECESSARY_SELECTION",
+      "authority": {
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/four-double-no-common-complete-small-pair-accepted-manifest.json",
+        "sha256": "d26127789bf92b2a98ba75bbc844a05924a2ac848710ae94ba94daf952ab5400"
+      },
+      "whole_support_exclusions": 0
+    },
+    {
+      "kind": "two_positive_double_selection",
+      "scope": "All333 retained two-positive-double placements have a vertex with four eligible neighbors and hence a pair with at most sixteen positive faces.",
+      "status": "ACCEPTED_NECESSARY_SELECTION",
+      "authority": {
+        "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/two-positive-double-pair-selection-accepted-manifest.json",
+        "sha256": "4e2b3d7f786ac11bef93758ea7c43ee075beb7877e9b7138cbf624d9e9e95c24"
+      },
+      "whole_support_exclusions": 0
+    }
+  ],
+  "auxiliary_diagnostics": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/small-pair-two-copy-probe.json",
+      "sha256": "348438f4164803155f6a3f16d04dd079ecb948fbcd2af4f93a6b0302e5fd9e54"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/common-one-single-row-probe-manifest.json",
+      "sha256": "4156ac5e2ad201ce8b2af573d87810ece1c282d869181594090fbf1e50f6c1d5"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/common-one-protected-copy-exception-proposed-manifest.json",
+      "sha256": "92af1c918e113f03dec8ddd27194184126b1694635e2431045630ff248f63363"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/common-one-third-pair-pilot.json",
+      "sha256": "353a0d6f3c26275981789a1885dc27fcf840af8c6911d4c5074fa6835486b8e5"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/common-one-protected-copy-lp-pilot.json",
+      "sha256": "ebe244e77ecf5960c644df3d1e74c544aa06b452d64b9242bc3b8254f60bcf00"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/common-one-upper-truth-pilot.json",
+      "sha256": "c97ae65b3515fa217d8efc1e0e2c81fc6437d88efbc6a9e7cdd3a761a0c449a9"
+    }
+  ],
+  "complete_selected_pair_scope": {
+    "complete_for_all_open_four_double_supports": true,
+    "whole_support_exclusions": 0,
+    "branches": [
+      {
+        "kind": "common_one",
+        "classes": [
+          24,
+          41,
+          45,
+          57,
+          60,
+          61,
+          63,
+          65
+        ],
+        "selected_positive_faces": [
+          12,
+          14
+        ],
+        "necessary_rows": 18,
+        "selection_authority": {
+          "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/common-one-small-pair-selection-accepted-manifest.json",
+          "sha256": "f57ba9c3860d1e2276ecc3c42b8715fbf934ce6915abb78a98cfe873554003f6"
+        },
+        "catalog_authority": {
+          "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/single-negative-small-complete-accepted-manifest.json",
+          "sha256": "8faa449a46b36847103ec9cc84de993d6591ecffb71db2e1d9402e011a2238b5"
+        }
+      },
+      {
+        "kind": "no_common",
+        "classes": [
+          40,
+          55,
+          56,
+          58,
+          59,
+          62,
+          64
+        ],
+        "selected_positive_faces": [
+          12,
+          14,
+          16
+        ],
+        "necessary_rows": 50,
+        "selection_authority": {
+          "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/four-double-no-common-complete-small-pair-accepted-manifest.json",
+          "sha256": "d26127789bf92b2a98ba75bbc844a05924a2ac848710ae94ba94daf952ab5400"
+        },
+        "catalog_authority": {
+          "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/single-negative-p16-accepted-manifest.json",
+          "sha256": "a99f5c40fb7aec8ca41904e67f461d0a13a440c30d4189065c8b05718395e580"
+        }
+      }
+    ]
+  },
+  "accepted_bounded_coupling": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/common-one-two-pair-pilot-accepted-manifest.json",
+    "sha256": "ef31bf8f774b3002833f7601d30b9c3d9fdf9376e18f9d6a2ad591385a9dff5e"
+  }
+}

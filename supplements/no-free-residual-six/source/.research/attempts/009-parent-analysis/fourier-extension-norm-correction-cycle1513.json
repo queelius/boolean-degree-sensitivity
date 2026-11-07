@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "status": "FRESH_SOURCE_ONLY_BOUND_CORRECTION_FROZEN_INPUTS_UNCHANGED",
+  "created_at": "2026-10-21T23:15:29.887360+00:00",
+  "superseded_source_examples": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/sparse-fourier-extension-plan-cycle1506.md",
+      "sha256": "3cac7452e49a142deffc1d631195b9cabcad549e923d1b491392f4809b4ab4a8",
+      "bytes": 3409
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/fourier-extension-written-review-cycle1504.json",
+      "sha256": "0b0c336a05e4c8ab183008ac85a0ff456f54d93b4373aa75087e9171d89a1c45",
+      "bytes": 1429
+    }
+  ],
+  "error": "Ordinary active edges of valence4 have Fourier numerator0; only valence5 edges have numerator-1. The old c2/root7 example counted48 ordinary active edges as48 minus-one coefficients, instead of24.",
+  "domain": "Signed three-star derivative, c in {1,2}, r negative exceptional pairs, E=49+c and P_count=36+c.",
+  "general_formula": {
+    "ordinary_minus_one_count": "N=23+2c-3r",
+    "quadratic_special_sum": "3-3r",
+    "origin": "c-N+3-3r+36+c=16",
+    "incidence": "6(36+c)=4(E-3)+N+3(3-r)+6r",
+    "norm_P": "c^2+3c+62",
+    "norm_Q": "256-norm_P"
+  },
+  "corrected_cases": [
+    {
+      "constant": 1,
+      "norm_P": 66,
+      "norm_Q": 190,
+      "integer_support_bound": 190,
+      "integer_amplitude_bound": 13
+    },
+    {
+      "constant": 2,
+      "norm_P": 72,
+      "norm_Q": 184,
+      "integer_support_bound": 184,
+      "integer_amplitude_bound": 13
+    }
+  ],
+  "incorrect_c2_bounds_superseded": {
+    "norm_P": 96,
+    "norm_Q": 160,
+    "integer_support_bound": 160,
+    "integer_amplitude_bound": 12
+  },
+  "unchanged_arguments": [
+    "h=z*p-q; p*q=0; p^2+q^2=1",
+    "2380 unrestricted degree<=5 coefficients",
+    "1586 odd coefficients when selfduality has actually been proved",
+    "Exact modular left-annihilator exclusion for a fixed P and correctly formed integer extension equations"
+  ],
+  "no_target_matrix_or_witness_produced_by_source_only_1504_1506": true,
+  "native_CNF_or_LRAT_changes": false,
+  "native_1501_proof_unaffected": true,
+  "arithmetic_controls": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/one-free-arithmetic-normal-cycle1513.json",
+      "sha256": "6f5b3068b06c8457ddd40c9977ced05e862c7e5dd87f8df0ed6c05fdfea9d664",
+      "bytes": 6977
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/one-free-arithmetic-optimized-cycle1513.json",
+      "sha256": "95142bf7a4d651ae28fc38bab6528df83d7721ff39efadc63c5aea816705a697",
+      "bytes": 6987
+    }
+  ],
+  "mathematical_global_goal_complete": false
+}

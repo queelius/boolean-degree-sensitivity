@@ -1,0 +1,327 @@
+{
+ "status": "CATALOG_COMPLETENESS_AND_ROOT_DOMAIN_REPRODUCED",
+ "enumeration_counts": {
+  "4": 1,
+  "5": 1,
+  "6": 2,
+  "7": 5,
+  "8": 14,
+  "9": 50,
+  "10": 233,
+  "11": 1249,
+  "12": 7595
+ },
+ "catalogs": [
+  {
+   "order": 7,
+   "path": "../006-solver-resume/sphere-triangulations-07.json",
+   "sha256": "b6f27899b2b9830758119abb9f38d92705663852cbc1e54c56e5ffe7cda0aec7",
+   "records": 5,
+   "bijective_with_enumeration": true
+  },
+  {
+   "order": 8,
+   "path": "../006-solver-resume/sphere-triangulations-08.json",
+   "sha256": "df2dd7cc5c4ba26a5dde0736c3ec8c6d9f33292dfdd66f067badb0d67ea0e879",
+   "records": 14,
+   "bijective_with_enumeration": true
+  },
+  {
+   "order": 9,
+   "path": "../006-solver-resume/sphere-triangulations-09.json",
+   "sha256": "8c707c48b4daecbf613fa5d31152e5c0606206a9f8543a8a37dd60f955349eff",
+   "records": 50,
+   "bijective_with_enumeration": true
+  },
+  {
+   "order": 10,
+   "path": "../006-solver-resume/sphere-triangulations-10.json",
+   "sha256": "0884454b75c491e2c47a14e9eea4e34752f24a0a3f59ddcf4b54ae5010bd690a",
+   "records": 233,
+   "bijective_with_enumeration": true
+  },
+  {
+   "order": 11,
+   "path": "../006-solver-resume/sphere-triangulations-11.json",
+   "sha256": "120a8e03f8ca63a5432275be5ca65ec705062e2937a5e8b71eb401924b369ce2",
+   "records": 1249,
+   "bijective_with_enumeration": true
+  },
+  {
+   "order": 12,
+   "path": "../006-solver-resume/sphere-triangulations-12.json",
+   "sha256": "0f783e580e0555f85cf42ff460a947082d37e5699bdbf9feb4aa1da85150b04c",
+   "records": 7595,
+   "bijective_with_enumeration": true
+  }
+ ],
+ "guard_counts": {
+  "special_vertex_count": 162,
+  "None": 13,
+  "degree_support": 8965,
+  "induced_euler_interval": 6
+ },
+ "survivors": [
+  {
+   "order": 7,
+   "native_original_index": 0,
+   "q": 1,
+   "degree_counts": {
+    "3": 2,
+    "4": 2,
+    "5": 2,
+    "6": 1
+   },
+   "induced_euler_range": [
+    0,
+    2
+   ]
+  },
+  {
+   "order": 8,
+   "native_original_index": 3,
+   "q": 2,
+   "degree_counts": {
+    "3": 1,
+    "4": 4,
+    "5": 1,
+    "6": 2
+   },
+   "induced_euler_range": [
+    -1,
+    3
+   ]
+  },
+  {
+   "order": 8,
+   "native_original_index": 7,
+   "q": 1,
+   "degree_counts": {
+    "3": 2,
+    "4": 1,
+    "5": 4,
+    "6": 1
+   },
+   "induced_euler_range": [
+    -1,
+    3
+   ]
+  },
+  {
+   "order": 9,
+   "native_original_index": 33,
+   "q": 2,
+   "degree_counts": {
+    "3": 1,
+    "4": 3,
+    "5": 3,
+    "6": 2
+   },
+   "induced_euler_range": [
+    -1,
+    3
+   ]
+  },
+  {
+   "order": 9,
+   "native_original_index": 35,
+   "q": 3,
+   "degree_counts": {
+    "3": 0,
+    "4": 6,
+    "5": 0,
+    "6": 3
+   },
+   "induced_euler_range": [
+    -1,
+    3
+   ]
+  },
+  {
+   "order": 10,
+   "native_original_index": 38,
+   "q": 2,
+   "degree_counts": {
+    "3": 1,
+    "4": 2,
+    "5": 5,
+    "6": 2
+   },
+   "induced_euler_range": [
+    -1,
+    3
+   ]
+  },
+  {
+   "order": 10,
+   "native_original_index": 116,
+   "q": 2,
+   "degree_counts": {
+    "3": 1,
+    "4": 2,
+    "5": 5,
+    "6": 2
+   },
+   "induced_euler_range": [
+    -1,
+    3
+   ]
+  },
+  {
+   "order": 10,
+   "native_original_index": 180,
+   "q": 3,
+   "degree_counts": {
+    "3": 0,
+    "4": 5,
+    "5": 2,
+    "6": 3
+   },
+   "induced_euler_range": [
+    -1,
+    3
+   ]
+  },
+  {
+   "order": 10,
+   "native_original_index": 113,
+   "q": 2,
+   "degree_counts": {
+    "3": 1,
+    "4": 2,
+    "5": 5,
+    "6": 2
+   },
+   "induced_euler_range": [
+    -1,
+    3
+   ]
+  },
+  {
+   "order": 11,
+   "native_original_index": 691,
+   "q": 3,
+   "degree_counts": {
+    "3": 0,
+    "4": 4,
+    "5": 4,
+    "6": 3
+   },
+   "induced_euler_range": [
+    -1,
+    3
+   ]
+  },
+  {
+   "order": 11,
+   "native_original_index": 185,
+   "q": 3,
+   "degree_counts": {
+    "3": 0,
+    "4": 4,
+    "5": 4,
+    "6": 3
+   },
+   "induced_euler_range": [
+    -1,
+    3
+   ]
+  },
+  {
+   "order": 11,
+   "native_original_index": 257,
+   "q": 2,
+   "degree_counts": {
+    "3": 1,
+    "4": 1,
+    "5": 7,
+    "6": 2
+   },
+   "induced_euler_range": [
+    -1,
+    3
+   ]
+  },
+  {
+   "order": 12,
+   "native_original_index": 1697,
+   "q": 3,
+   "degree_counts": {
+    "3": 0,
+    "4": 3,
+    "5": 6,
+    "6": 3
+   },
+   "induced_euler_range": [
+    -1,
+    3
+   ]
+  }
+ ],
+ "accepted_native_roots": [
+  [
+   7,
+   0
+  ],
+  [
+   8,
+   3
+  ],
+  [
+   8,
+   7
+  ],
+  [
+   9,
+   33
+  ],
+  [
+   9,
+   35
+  ],
+  [
+   10,
+   38
+  ],
+  [
+   10,
+   113
+  ],
+  [
+   10,
+   116
+  ],
+  [
+   10,
+   180
+  ],
+  [
+   11,
+   185
+  ],
+  [
+   11,
+   257
+  ],
+  [
+   11,
+   691
+  ],
+  [
+   12,
+   1697
+  ]
+ ],
+ "survivors_equal_accepted_roots": true,
+ "wall_seconds": 41.4,
+ "sources": {
+  "spheres.py": "89e1bbaed4829b5a2ff9ed244aefc9bd2b147afa12e2129781ad7db601de9771",
+  "audit.py": "21d1621767efd943a6019b72c11dd93df484f66cd31fc78ed17195d95987e541"
+ },
+ "premises": [
+  "Steinitz-Rademacher contractible-edge lemma (classical)",
+  "Whitney uniqueness of 3-connected planar embeddings (classical)",
+  "pynauty certificate correctness",
+  "the 1413 guards themselves (degree support, special count, induced Euler [-1,3]) are taken as stated, not re-derived here"
+ ]
+}

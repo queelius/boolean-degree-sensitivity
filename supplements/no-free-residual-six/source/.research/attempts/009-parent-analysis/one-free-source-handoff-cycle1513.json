@@ -1,0 +1,146 @@
+{
+  "schema_version": 1,
+  "status": "FROZEN_PROPOSED_ANALYTIC_ONE_FREE_TYPES_PENDING_INDEPENDENT_REVIEW",
+  "created_at": "2026-10-21T23:15:29.887360+00:00",
+  "author": "Alexander Richard Towell",
+  "assistance": "Substantial OpenAI Codex mathematical/source-audit assistance; no claim of human or formal review.",
+  "proof": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/one-free-residual-six-and-extension-audit-cycle1513.md",
+    "sha256": "e30a88eae5d15641bc4566938380702baab415ced2b0226295a541a8d4f08c22",
+    "bytes": 10798
+  },
+  "validation": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/one-free-source-validation-cycle1513.json",
+    "sha256": "cf761857b150b3c135cf678cdbc0f919063894034982c90dfc4d70cad8cac656",
+    "bytes": 6782
+  },
+  "norm_correction": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/fourier-extension-norm-correction-cycle1513.json",
+    "sha256": "90d16eff2efad32ebbd625b24a85e7f5e4808b291b5d5463c1bd2d7ca4ecd17f",
+    "bytes": 2753
+  },
+  "inherited_sources": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/state-cycle1510.md",
+      "sha256": "c48d6e5285f4c6f0deb0f52b299c7eb513bd049ba7f5b54b2dfe45a25419a18e",
+      "bytes": 4065
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/research-status-cycle1510.json",
+      "sha256": "7854f2d8c5f67b16d44feaa0965aadb6807b6ac119b6974c695db3d144497c10",
+      "bytes": 8131
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-genuine-frontier-cycle1510.json",
+      "sha256": "3621b82295391042e64d4ba49091e98ab74170801a36af9ee19a211efc722da2",
+      "bytes": 17637
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/whole-pattern-exclusion-authority-cycle1388.json",
+      "sha256": "7bb621ae85318027c46e2691e1bb6e77ec77a6f79546087e71fa00a90578d3ed",
+      "bytes": 32412
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/residual6-negative-union-theorem-cycle1382.md",
+      "sha256": "677297733b1df5fb132ab7752f4a5c613ac73c818ff293387212dd8a687fea6f",
+      "bytes": 11378
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/residual-six-independent-authority-cycle1386.json",
+      "sha256": "e9b7294d6df2e8c8cb3b74f73077cd213fcb0d39ce4f9104e7acba493d429d9a",
+      "bytes": 6018
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/three-free-independent-authority-cycle1393.json",
+      "sha256": "25038a992790c16673a96709f8f7a3da0f650b5b8089f9cac6f74df7b74c981c",
+      "bytes": 5960
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/minus-three-links-independent-authority-cycle1395.json",
+      "sha256": "02706b0f91065e9bdec12a3f74e103f53603f8597d01e826154371f24e714c08",
+      "bytes": 3226
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/three-disks-independent-authority-cycle1401.json",
+      "sha256": "5911fc936300b9ddaed17c02038416b305a0e8cba95ac5dc6115c5385a192692",
+      "bytes": 4667
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/three-disks-union12-proof-cycle1404.md",
+      "sha256": "622ee562e447fe9d2ca9f4a49de9931575e2b058972ec7717b0a0b64a94e83f9",
+      "bytes": 7079
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/two-free-residual6-review-cycle1405.md",
+      "sha256": "b722030e267ca32e8f5a64bdb8a5e4234bcdebc803c5e49e31f866e53a6d292c",
+      "bytes": 12543
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/two-free-independent-review-cycle1409.md",
+      "sha256": "1f2e6ec9576ac767852ba5e430c4ff8a70f29f1cc1764bee115d4be3f239d1e8",
+      "bytes": 17998
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/two-free-independent-authority-cycle1409.json",
+      "sha256": "effc1e4e3e98e0f63fc347195175df63a9682f5f26ac31b33aa17b8e826d19a7",
+      "bytes": 5275
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/unique-degree-three-sphere-proof-cycle1514.md",
+      "sha256": "4a6346e2970567e93177fb330005ceed123ba5548d10c4aad1480239bd94a35c",
+      "bytes": 8176
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/unique-degree-three-application-wording-clarification-cycle1514.json",
+      "sha256": "58250aff8e228a3da59c75b4571562f579fbc25bdc59c2cae77fb0b45368f7a7",
+      "bytes": 1023
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/independent-lrat-authority-cycle1501.json",
+      "sha256": "495f8c5fec2673aab7e0d7f2e2d4ec771426300516ed048475c99f0fefc1f28e",
+      "bytes": 8507
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/findings/negative-quintic-pattern-cases.json",
+      "sha256": "232f37ce224945f7aae54fa4b7dd6f66112bcac082485233a2c32856f22751af",
+      "bytes": 44142
+    }
+  ],
+  "necessary_one_free_residual_six_types": [
+    {
+      "type": "I",
+      "constant": [
+        1,
+        2
+      ],
+      "departures": "One cubic numerator-3 containing the unique free coordinate."
+    },
+    {
+      "type": "II",
+      "constant": [
+        1,
+        2
+      ],
+      "departures": "Three distinct nonsingleton cost2 departures, all containing the unique free coordinate."
+    },
+    {
+      "type": "III",
+      "constant": [
+        0,
+        3
+      ],
+      "departures": "Exceptional singleton at the free coordinate plus two distinct incident nonsingleton cost2 departures."
+    }
+  ],
+  "guard_gap_scope": "Only an unproved future extension of the two-nonsingleton theorem to c0/3. No accepted exclusion identified as using that extension; no prior authority superseded for this guard issue.",
+  "new_proposed_C7_consequence": "In TypeI both exceptional endpoints have degree11/12 and share at least2 off-cycle neighbors, producing at least2 missing triangles through the exceptional edge. Whole-complex manifold is NOT inferred.",
+  "normalized_complement": "Within proved selfdual existence representative, q is odd with1586 possible integer scale16 coefficients; fixed-P annihilator is linear, jointly unknown P,Q equations are bilinear.",
+  "next_question": "Audit whether the old two-nonsingleton local exclusion extends to c0/3 under actual ordinary-coefficient guards. Source-only first; no target computation authorized by this handoff.",
+  "1514_wording_normalization": "Deletion alone leaves the punctured octahedral disk; deletion plus capping produces the octahedral sphere. Fresh1514 clarification bound, frozen proof retained.",
+  "whole_patterns_before": 29,
+  "whole_patterns_after": 29,
+  "new_native_rows": 0,
+  "new_solver_queries": 0,
+  "publication_actions": 0,
+  "global_goal_complete": false
+}

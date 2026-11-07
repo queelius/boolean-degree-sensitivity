@@ -1,0 +1,3 @@
+warning: `VIRTUAL_ENV=/home/spinoza/venv` does not match the project environment path `.venv` and will be ignored; use `--active` to target the active environment instead
+assumption solve INFEASIBLE 1708 38.4
+{'label': 'o9-i35-c1', 'core_initial': 1708, 'families': Counter({'DOWNWARD': 236, 'TRIANGLE_COFACES': 65, 'FIX_ROOT': 63, 'INDUCED_EULER': 58, 'EDGE_VALENCE': 9, 'SPECIAL_PRESENT': 3}), 'terms': 2826, 'wall': 1284.9}

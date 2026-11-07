@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "id": "016",
+  "title": "One-free residual six: Types I and III, Type II reduction",
+  "agent": "Claude Code (Opus 5.5)",
+  "started": "2026-10-23",
+  "status": "accepted",
+  "accepted_in": [
+    1532
+  ],
+  "entry": [
+    "NOTES.md",
+    "TYPE-I-CLOSURE.md",
+    "TYPE-III-CLOSURE.md",
+    "TYPE-II-PRICING.md",
+    "TYPE-II-RIGID-SHAPES.md",
+    "TYPE-II-PLUS-STAR.md"
+  ],
+  "summary": "Types I and III excluded; Type II reduced to 24 open shapes (136 classes, typed frontier with independent reader).",
+  "tests": [
+    {
+      "env": "venv-exact",
+      "pytest": true
+    }
+  ]
+}

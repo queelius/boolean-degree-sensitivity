@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "status": "FINAL_FROZEN_STOP_SESSION",
+  "authority": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/extended-trace-authority-cycle1522.json",
+    "bytes": 13155,
+    "sha256": "acd7c2dc14968ff88d830bbf08dc636d8bc095cc9412223e2e8eb73c5c3ad54b"
+  },
+  "manifest": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/extended-trace-manifest-cycle1522.json",
+    "bytes": 14176,
+    "sha256": "56886d591fec2a2a3908f9342ea0f8b71ee424d8b1d920193831713ed8591efc"
+  },
+  "validation": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/extended-trace-validation-cycle1522.json",
+    "bytes": 2223,
+    "sha256": "5c88919e6ab109fe77ea226b9d2e07b0eb289e49b85145789166b66693a2fd03"
+  },
+  "review": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/extended-trace-independent-review-cycle1522.md",
+    "bytes": 2773,
+    "sha256": "3cc3169475fd0a455e32d0bde3d11504dc93d8988f130a6b25d64591a8265020"
+  },
+  "result": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/extended-trace-result-cycle1522.json",
+    "bytes": 87739,
+    "sha256": "a05934b218610989ddb5a8c23cd59e6006e94e8feba1b0a759d9d8fd4b32bf3e"
+  },
+  "outcome": "All344 deductions accepted, no contradiction; valid prefix only.",
+  "reader_query_count": 0,
+  "all_processes_terminal": true,
+  "remaining": "Global goal OPEN; no further work following stop-session request.",
+  "global_goal_complete": false
+}

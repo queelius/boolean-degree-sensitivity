@@ -1,0 +1,629 @@
+{
+ "status": "NO_FREE_RESIDUAL6_FRONTIER",
+ "ledger": {
+  "path": "/home/spinoza/github/math-theory/.research/findings/negative-quintic-pattern-cases-cycle1388.json",
+  "sha256": "5b94339365819a126c954e60529cb50b70c4ed7dd161f1be629ede1462039c12"
+ },
+ "budget": 28,
+ "scope": "empty-pair selfdual representative; residual defect <= 6; negative-support union 14",
+ "rows": [
+  {
+   "negative_magnitudes": [
+    3,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "supports": 7,
+   "negative_cost": 28,
+   "remaining_defect": 0,
+   "status": "OPEN",
+   "union_14_basis": {
+    "kind": "RESIDUAL_FOUR_SUPPORT_CONSTRAINTS",
+    "authority": {
+     "path": "/home/spinoza/github/math-theory/.research/findings/empty-residual-four-support-constraints.json",
+     "sha256": "d2543a0d0cbe525c2ae73e858c2e0ea96fb2417c54614a5e582a4588c92c1249"
+    }
+   },
+   "ledger_partial_reductions": [],
+   "partial_reduction_authority": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/empty-3211111-connected-odd-accepted-manifest.json",
+    "sha256": "24a81e2c8625928f06ee01cb0a6f9ac6e9a19835b4fafd4705314d303c20f799"
+   }
+  },
+  {
+   "negative_magnitudes": [
+    3,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "supports": 7,
+   "negative_cost": 24,
+   "remaining_defect": 4,
+   "status": "OPEN",
+   "union_14_basis": {
+    "kind": "RESIDUAL_FOUR_SUPPORT_CONSTRAINTS",
+    "authority": {
+     "path": "/home/spinoza/github/math-theory/.research/findings/empty-residual-four-support-constraints.json",
+     "sha256": "d2543a0d0cbe525c2ae73e858c2e0ea96fb2417c54614a5e582a4588c92c1249"
+    }
+   },
+   "ledger_partial_reductions": []
+  },
+  {
+   "negative_magnitudes": [
+    3,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "supports": 8,
+   "negative_cost": 26,
+   "remaining_defect": 2,
+   "status": "OPEN",
+   "union_14_basis": {
+    "kind": "RESIDUAL_FOUR_SUPPORT_CONSTRAINTS",
+    "authority": {
+     "path": "/home/spinoza/github/math-theory/.research/findings/empty-residual-four-support-constraints.json",
+     "sha256": "d2543a0d0cbe525c2ae73e858c2e0ea96fb2417c54614a5e582a4588c92c1249"
+    }
+   },
+   "ledger_partial_reductions": []
+  },
+  {
+   "negative_magnitudes": [
+    3,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "supports": 9,
+   "negative_cost": 28,
+   "remaining_defect": 0,
+   "status": "OPEN",
+   "union_14_basis": {
+    "kind": "RESIDUAL_FOUR_SUPPORT_CONSTRAINTS",
+    "authority": {
+     "path": "/home/spinoza/github/math-theory/.research/findings/empty-residual-four-support-constraints.json",
+     "sha256": "d2543a0d0cbe525c2ae73e858c2e0ea96fb2417c54614a5e582a4588c92c1249"
+    }
+   },
+   "ledger_partial_reductions": []
+  },
+  {
+   "negative_magnitudes": [
+    2,
+    2,
+    2,
+    2
+   ],
+   "supports": 4,
+   "negative_cost": 24,
+   "remaining_defect": 4,
+   "status": "OPEN",
+   "union_14_basis": {
+    "kind": "RESIDUAL_FOUR_SUPPORT_CONSTRAINTS",
+    "authority": {
+     "path": "/home/spinoza/github/math-theory/.research/findings/empty-residual-four-support-constraints.json",
+     "sha256": "d2543a0d0cbe525c2ae73e858c2e0ea96fb2417c54614a5e582a4588c92c1249"
+    }
+   },
+   "ledger_partial_reductions": [
+    {
+     "condition": "The four heavy supports share a common pair.",
+     "necessary_conclusion": "Both common singleton Fourier numerators are zero; the four residual defect units are exhausted.",
+     "proof_refs": [
+      "attempts/009-parent-analysis/empty-2222-pair-singletons-parent-audit.md",
+      "attempts/009-parent-analysis/empty-2222-pair-singletons-independent-verification.json"
+     ]
+    },
+    {
+     "condition": "The four heavy supports share a common pair.",
+     "necessary_conclusion": "The common-pair zero-triple codegree is at most four.",
+     "proof_refs": [
+      "attempts/009-parent-analysis/empty-2222-core-d5-parent-audit.md",
+      "attempts/009-parent-analysis/empty-2222-core-d5-parent-independent-verification.json",
+      "attempts/009-parent-analysis/empty-2222-core-d6-parent-audit.md",
+      "attempts/009-parent-analysis/empty-2222-core-d6-parent-independent-verification.json"
+     ]
+    }
+   ],
+   "partial_reduction_authority": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/four-double-frontier-cycle91.json",
+    "sha256": "f60f41074a8c2346f80a63524052f8bc20895d4d1082aabca9f1f965b33ea219"
+   }
+  },
+  {
+   "negative_magnitudes": [
+    2,
+    2,
+    2,
+    2,
+    1
+   ],
+   "supports": 5,
+   "negative_cost": 26,
+   "remaining_defect": 2,
+   "status": "OPEN",
+   "union_14_basis": {
+    "kind": "RESIDUAL_FOUR_SUPPORT_CONSTRAINTS",
+    "authority": {
+     "path": "/home/spinoza/github/math-theory/.research/findings/empty-residual-four-support-constraints.json",
+     "sha256": "d2543a0d0cbe525c2ae73e858c2e0ea96fb2417c54614a5e582a4588c92c1249"
+    }
+   },
+   "ledger_partial_reductions": [
+    {
+     "excluded_condition": "The four magnitude-two supports have common intersection of size at least two.",
+     "remaining_conditions": [
+      "Heavy support common intersection size zero.",
+      "Heavy support common intersection size one."
+     ],
+     "proof_refs": [
+      "attempts/009-parent-analysis/empty-22221-common-pair-parent-audit.md",
+      "attempts/009-parent-analysis/empty-22221-common-pair-independent-verification.json"
+     ]
+    },
+    {
+     "condition": "The four heavy supports have exactly one common vertex.",
+     "necessary_conclusion": "The common singleton Fourier numerator is zero; the two residual defect units are exhausted.",
+     "proof_refs": [
+      "attempts/009-parent-analysis/empty-2222-pair-singletons-parent-audit.md"
+     ]
+    }
+   ]
+  },
+  {
+   "negative_magnitudes": [
+    2,
+    2,
+    2,
+    2,
+    1,
+    1
+   ],
+   "supports": 6,
+   "negative_cost": 28,
+   "remaining_defect": 0,
+   "status": "OPEN",
+   "union_14_basis": {
+    "kind": "RESIDUAL_FOUR_SUPPORT_CONSTRAINTS",
+    "authority": {
+     "path": "/home/spinoza/github/math-theory/.research/findings/empty-residual-four-support-constraints.json",
+     "sha256": "d2543a0d0cbe525c2ae73e858c2e0ea96fb2417c54614a5e582a4588c92c1249"
+    }
+   },
+   "ledger_partial_reductions": []
+  },
+  {
+   "negative_magnitudes": [
+    2,
+    2,
+    2,
+    1,
+    1,
+    1
+   ],
+   "supports": 6,
+   "negative_cost": 24,
+   "remaining_defect": 4,
+   "status": "OPEN",
+   "union_14_basis": {
+    "kind": "RESIDUAL_FOUR_SUPPORT_CONSTRAINTS",
+    "authority": {
+     "path": "/home/spinoza/github/math-theory/.research/findings/empty-residual-four-support-constraints.json",
+     "sha256": "d2543a0d0cbe525c2ae73e858c2e0ea96fb2417c54614a5e582a4588c92c1249"
+    }
+   },
+   "ledger_partial_reductions": []
+  },
+  {
+   "negative_magnitudes": [
+    2,
+    2,
+    2,
+    1,
+    1,
+    1,
+    1
+   ],
+   "supports": 7,
+   "negative_cost": 26,
+   "remaining_defect": 2,
+   "status": "OPEN",
+   "union_14_basis": {
+    "kind": "RESIDUAL_FOUR_SUPPORT_CONSTRAINTS",
+    "authority": {
+     "path": "/home/spinoza/github/math-theory/.research/findings/empty-residual-four-support-constraints.json",
+     "sha256": "d2543a0d0cbe525c2ae73e858c2e0ea96fb2417c54614a5e582a4588c92c1249"
+    }
+   },
+   "ledger_partial_reductions": []
+  },
+  {
+   "negative_magnitudes": [
+    2,
+    2,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "supports": 8,
+   "negative_cost": 28,
+   "remaining_defect": 0,
+   "status": "OPEN",
+   "union_14_basis": {
+    "kind": "RESIDUAL_FOUR_SUPPORT_CONSTRAINTS",
+    "authority": {
+     "path": "/home/spinoza/github/math-theory/.research/findings/empty-residual-four-support-constraints.json",
+     "sha256": "d2543a0d0cbe525c2ae73e858c2e0ea96fb2417c54614a5e582a4588c92c1249"
+    }
+   },
+   "ledger_partial_reductions": []
+  },
+  {
+   "negative_magnitudes": [
+    2,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "supports": 7,
+   "negative_cost": 22,
+   "remaining_defect": 6,
+   "status": "OPEN",
+   "union_14_basis": {
+    "kind": "UNION12_AND_13_EXCLUDED",
+    "union_at_least_12": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/three-disks-independent-authority-cycle1401.json",
+     "sha256": "5911fc936300b9ddaed17c02038416b305a0e8cba95ac5dc6115c5385a192692"
+    },
+    "union_12_excluded": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/cycle1531-parent-manifest.json",
+     "sha256": "8bd881f738be7c7008563aa5033b01f8e639eb6dca83c55f4a2ee8f0b09df6a6"
+    },
+    "union_13_excluded": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/cycle1533-parent-manifest.json",
+     "sha256": "c238017a3674afe3c69461cfc022b4b2a59a0e93c84ce1e4d18ccbb1084423e8"
+    }
+   },
+   "ledger_partial_reductions": []
+  },
+  {
+   "negative_magnitudes": [
+    2,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "supports": 8,
+   "negative_cost": 24,
+   "remaining_defect": 4,
+   "status": "OPEN",
+   "union_14_basis": {
+    "kind": "RESIDUAL_FOUR_SUPPORT_CONSTRAINTS",
+    "authority": {
+     "path": "/home/spinoza/github/math-theory/.research/findings/empty-residual-four-support-constraints.json",
+     "sha256": "d2543a0d0cbe525c2ae73e858c2e0ea96fb2417c54614a5e582a4588c92c1249"
+    }
+   },
+   "ledger_partial_reductions": []
+  },
+  {
+   "negative_magnitudes": [
+    2,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "supports": 9,
+   "negative_cost": 26,
+   "remaining_defect": 2,
+   "status": "OPEN",
+   "union_14_basis": {
+    "kind": "RESIDUAL_FOUR_SUPPORT_CONSTRAINTS",
+    "authority": {
+     "path": "/home/spinoza/github/math-theory/.research/findings/empty-residual-four-support-constraints.json",
+     "sha256": "d2543a0d0cbe525c2ae73e858c2e0ea96fb2417c54614a5e582a4588c92c1249"
+    }
+   },
+   "ledger_partial_reductions": []
+  },
+  {
+   "negative_magnitudes": [
+    2,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "supports": 10,
+   "negative_cost": 28,
+   "remaining_defect": 0,
+   "status": "OPEN",
+   "union_14_basis": {
+    "kind": "RESIDUAL_FOUR_SUPPORT_CONSTRAINTS",
+    "authority": {
+     "path": "/home/spinoza/github/math-theory/.research/findings/empty-residual-four-support-constraints.json",
+     "sha256": "d2543a0d0cbe525c2ae73e858c2e0ea96fb2417c54614a5e582a4588c92c1249"
+    }
+   },
+   "ledger_partial_reductions": []
+  },
+  {
+   "negative_magnitudes": [
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "supports": 9,
+   "negative_cost": 22,
+   "remaining_defect": 6,
+   "status": "OPEN",
+   "union_14_basis": {
+    "kind": "UNION12_AND_13_EXCLUDED",
+    "union_at_least_12": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/three-disks-independent-authority-cycle1401.json",
+     "sha256": "5911fc936300b9ddaed17c02038416b305a0e8cba95ac5dc6115c5385a192692"
+    },
+    "union_12_excluded": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/cycle1531-parent-manifest.json",
+     "sha256": "8bd881f738be7c7008563aa5033b01f8e639eb6dca83c55f4a2ee8f0b09df6a6"
+    },
+    "union_13_excluded": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/cycle1533-parent-manifest.json",
+     "sha256": "c238017a3674afe3c69461cfc022b4b2a59a0e93c84ce1e4d18ccbb1084423e8"
+    }
+   },
+   "ledger_partial_reductions": []
+  },
+  {
+   "negative_magnitudes": [
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "supports": 10,
+   "negative_cost": 24,
+   "remaining_defect": 4,
+   "status": "OPEN",
+   "union_14_basis": {
+    "kind": "RESIDUAL_FOUR_SUPPORT_CONSTRAINTS",
+    "authority": {
+     "path": "/home/spinoza/github/math-theory/.research/findings/empty-residual-four-support-constraints.json",
+     "sha256": "d2543a0d0cbe525c2ae73e858c2e0ea96fb2417c54614a5e582a4588c92c1249"
+    }
+   },
+   "ledger_partial_reductions": []
+  },
+  {
+   "negative_magnitudes": [
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "supports": 11,
+   "negative_cost": 26,
+   "remaining_defect": 2,
+   "status": "OPEN",
+   "union_14_basis": {
+    "kind": "RESIDUAL_FOUR_SUPPORT_CONSTRAINTS",
+    "authority": {
+     "path": "/home/spinoza/github/math-theory/.research/findings/empty-residual-four-support-constraints.json",
+     "sha256": "d2543a0d0cbe525c2ae73e858c2e0ea96fb2417c54614a5e582a4588c92c1249"
+    }
+   },
+   "ledger_partial_reductions": []
+  },
+  {
+   "negative_magnitudes": [
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "supports": 12,
+   "negative_cost": 28,
+   "remaining_defect": 0,
+   "status": "OPEN",
+   "union_14_basis": {
+    "kind": "RESIDUAL_FOUR_SUPPORT_CONSTRAINTS",
+    "authority": {
+     "path": "/home/spinoza/github/math-theory/.research/findings/empty-residual-four-support-constraints.json",
+     "sha256": "d2543a0d0cbe525c2ae73e858c2e0ea96fb2417c54614a5e582a4588c92c1249"
+    }
+   },
+   "ledger_partial_reductions": []
+  },
+  {
+   "negative_magnitudes": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "supports": 11,
+   "negative_cost": 22,
+   "remaining_defect": 6,
+   "status": "OPEN",
+   "union_14_basis": {
+    "kind": "UNION12_AND_13_EXCLUDED",
+    "union_at_least_12": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/three-disks-independent-authority-cycle1401.json",
+     "sha256": "5911fc936300b9ddaed17c02038416b305a0e8cba95ac5dc6115c5385a192692"
+    },
+    "union_12_excluded": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/cycle1531-parent-manifest.json",
+     "sha256": "8bd881f738be7c7008563aa5033b01f8e639eb6dca83c55f4a2ee8f0b09df6a6"
+    },
+    "union_13_excluded": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/cycle1533-parent-manifest.json",
+     "sha256": "c238017a3674afe3c69461cfc022b4b2a59a0e93c84ce1e4d18ccbb1084423e8"
+    }
+   },
+   "ledger_partial_reductions": []
+  },
+  {
+   "negative_magnitudes": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "supports": 12,
+   "negative_cost": 24,
+   "remaining_defect": 4,
+   "status": "OPEN",
+   "union_14_basis": {
+    "kind": "RESIDUAL_FOUR_SUPPORT_CONSTRAINTS",
+    "authority": {
+     "path": "/home/spinoza/github/math-theory/.research/findings/empty-residual-four-support-constraints.json",
+     "sha256": "d2543a0d0cbe525c2ae73e858c2e0ea96fb2417c54614a5e582a4588c92c1249"
+    }
+   },
+   "ledger_partial_reductions": []
+  },
+  {
+   "negative_magnitudes": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "supports": 13,
+   "negative_cost": 26,
+   "remaining_defect": 2,
+   "status": "OPEN",
+   "union_14_basis": {
+    "kind": "RESIDUAL_FOUR_SUPPORT_CONSTRAINTS",
+    "authority": {
+     "path": "/home/spinoza/github/math-theory/.research/findings/empty-residual-four-support-constraints.json",
+     "sha256": "d2543a0d0cbe525c2ae73e858c2e0ea96fb2417c54614a5e582a4588c92c1249"
+    }
+   },
+   "ledger_partial_reductions": []
+  },
+  {
+   "negative_magnitudes": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "supports": 14,
+   "negative_cost": 28,
+   "remaining_defect": 0,
+   "status": "OPEN",
+   "union_14_basis": {
+    "kind": "RESIDUAL_FOUR_SUPPORT_CONSTRAINTS",
+    "authority": {
+     "path": "/home/spinoza/github/math-theory/.research/findings/empty-residual-four-support-constraints.json",
+     "sha256": "d2543a0d0cbe525c2ae73e858c2e0ea96fb2417c54614a5e582a4588c92c1249"
+    }
+   },
+   "ledger_partial_reductions": []
+  }
+ ],
+ "open_rows": 22,
+ "whole_patterns_changed": 0,
+ "global_status": "OPEN"
+}

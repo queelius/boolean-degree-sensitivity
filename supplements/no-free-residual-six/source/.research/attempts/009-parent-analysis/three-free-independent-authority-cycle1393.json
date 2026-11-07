@@ -1,0 +1,126 @@
+{
+  "C3_plus_C4_case_excluded": false,
+  "accepted_local_theorem_premises": [
+    {
+      "accepted_status": "ACCEPTED_UNIFORM_RESIDUAL_AT_MOST_TWO_DERIVATIVE_THEOREM",
+      "historical_certificate_or_catalog_replayed_here": false,
+      "reference": {
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/low-residual-derivative-complete-manifest.json",
+        "sha256": "813b9f1f4b7a90a01dd4f2e32922d5bac28d5380cb1761bd2a057402f3154ec3"
+      }
+    },
+    {
+      "accepted_status": "INDEPENDENTLY_ACCEPTED_LOCAL_THEOREMS",
+      "historical_certificate_or_catalog_replayed_here": false,
+      "reference": {
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/local-audits-cycle64-manifest.json",
+        "sha256": "430bdd2b07be5d3ffc85dd36dad92f06ce9f91c2d56b2eabc01e0f116b5f6dda"
+      }
+    },
+    {
+      "accepted_status": "ACCEPTED_INDEPENDENTLY_VERIFIED",
+      "historical_certificate_or_catalog_replayed_here": false,
+      "reference": {
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/two-exception-positive-quartic-special-edge-manifest.json",
+        "sha256": "b15a041cfd9928607362244290fc0818ce9dfe3ba82e628a89ad99b26a0d63d8"
+      }
+    },
+    {
+      "accepted_status": "INDEPENDENTLY_ACCEPTED_LOCAL_THEOREM",
+      "historical_certificate_or_catalog_replayed_here": false,
+      "reference": {
+        "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/two-adjacent-negative-cubic-accepted-manifest.json",
+        "sha256": "47a0c56e5d0f345d02d7a095dd6fb4de49a802935fe0d80cb2cfa8e42eb2b94b"
+      }
+    },
+    {
+      "accepted_status": "INDEPENDENTLY_ACCEPTED_LOCAL_THEOREM",
+      "historical_certificate_or_catalog_replayed_here": false,
+      "reference": {
+        "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/two-mixed-cubic-accepted-manifest.json",
+        "sha256": "de4f4eb792ee5da3c984ceb72ee214442de3ef7bad52b12bb92a5cd7a7375d79"
+      }
+    },
+    {
+      "accepted_status": "INDEPENDENTLY_ACCEPTED_COMPLETE_DISJOINT_ORDINARY_LOCAL_EXCLUSION",
+      "historical_certificate_or_catalog_replayed_here": false,
+      "reference": {
+        "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/two-disjoint-cubic-ordinary-accepted-manifest.json",
+        "sha256": "3645332fc57bf0c953717433f5e5e63a2e3b92971ca6c3e7755fd429d9af577a"
+      }
+    }
+  ],
+  "canonical_ledgers_changed": false,
+  "common_link_forced_C7": false,
+  "formal_verification": false,
+  "global_goal_complete": false,
+  "historical_catalogs_or_certificates_freshly_replayed": false,
+  "human_peer_review": false,
+  "independent_controls": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/three-free-independent-controls-cycle1393.json",
+    "sha256": "10f3bae1e392708b3a780aead1661f4ac1c769bb7c1df073c7bfce37ea884f07"
+  },
+  "inherited_1386": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/residual-six-independent-authority-cycle1386.json",
+    "sha256": "e9b7294d6df2e8c8cb3b74f73077cd213fcb0d39ce4f9104e7acba493d429d9a"
+  },
+  "later_topology_claims_accepted": false,
+  "m0_case_excluded": false,
+  "main_proof_checks": {
+    "all_61_allocations_complete": true,
+    "distinct_cubic_support_aliases_rejected": true,
+    "minus_three_escape_not_declared_feasible_or_infeasible": true,
+    "positive_two_cubic_excluded_by_binary_simple_even_link": true,
+    "singleton_owners_covering_F3_use_c_le3_baseline_only": true,
+    "three_doubles_violate_baseline_pair_weight_bound": true,
+    "two_distinct_double_tails_give_incident_only_private_tip": true,
+    "two_quadratic_theorems_used_only_at_c1_or2": true
+  },
+  "manifold_or_sphere_classification_accepted": false,
+  "mathematical_novelty_assessed": false,
+  "producer_manifest": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/three-free-manifest-cycle1391.json",
+    "sha256": "1f63ee1be65e38924d38cb9ef7968b2a7397909f53348d63f6b7a409c4f9fc4e"
+  },
+  "producer_packet": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/three-free-controls-result-cycle1391.json",
+    "sha256": "33f07316764e40f092b09e97972714848a2d2539015798e711401adc6d0ff7a6"
+  },
+  "review": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/three-free-independent-review-cycle1393.md",
+    "sha256": "e2f5ffac3ddd4a088e16885547354e819e5d17840ec8345bbd2b20406f8b39fe"
+  },
+  "schema_version": 1,
+  "scope": {
+    "actual_boolean_function_constructed": false,
+    "actual_residual_cost_exactly": 6,
+    "all_negative_quintics_fixed_before_residual_cost": true,
+    "all_other_unfixed_coefficients_baseline": true,
+    "all_singleton_and_pair_truths": 1,
+    "conclusion_negative_free_coordinates_exactly": 3,
+    "f_at_negative_free_triple_not_restricted": true,
+    "global_goal_complete": false,
+    "hypothesis_negative_free_coordinates_at_least": 3,
+    "origin_truth": 0,
+    "real_degree_at_most": 5,
+    "representative": "selfdual_empty",
+    "residual_fourier_defect_at_most": 6,
+    "unique_residual_exception": {
+      "cost": 6,
+      "level": 3,
+      "support": "entire_negative_free_set",
+      "value": -3
+    },
+    "variables": 14,
+    "whole_pattern_excluded": false
+  },
+  "source": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/three-free-classification-proof-cycle1391.md",
+    "sha256": "def65653ecc206d3a77de9c180b85dcad6095eadbe87341b750932cc22200299"
+  },
+  "source_audit": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/three-free-independent-source-audit-cycle1393.json",
+    "sha256": "c8b1923ba3e306102e2bd6f3668d8367537de05dbbd8cdb85362488601e8fbfe"
+  },
+  "status": "INDEPENDENTLY_ACCEPTED_THREE_FREE_RESIDUAL6_CLASSIFICATION"
+}

@@ -1,0 +1,92 @@
+{
+ "schema_version": 1,
+ "kind": "OMITTED_FROM_GIT",
+ "limit_bytes": 1048576,
+ "source": "no-free-residual6-v1.5.0.tar.gz in Zenodo record 10.5281/zenodo.23999933 (v1.5.0), at the same packet path",
+ "files": [
+  {
+   "path": "CERTIFICATE-MANIFEST.json",
+   "bytes": 19981159,
+   "sha256": "932ebb99a6ec824fe60258cbc1d9855613403b673adb660293ec9fec49b75fd1",
+   "in_source_manifest": false
+  },
+  {
+   "path": "certificate-files.txt",
+   "bytes": 3128105,
+   "sha256": "5692f269d2c29791010050c0247a293bce0b7f5fb6a00facddd1fd449130d68e",
+   "in_source_manifest": false
+  },
+  {
+   "path": "source/.research/attempts/006-solver-resume/sphere-triangulations-12.json",
+   "bytes": 2554602,
+   "sha256": "0f783e580e0555f85cf42ff460a947082d37e5699bdbf9feb4aa1da85150b04c",
+   "in_source_manifest": true
+  },
+  {
+   "path": "source/.research/attempts/009-parent-analysis/exact-tip-inventory-result-cycle1519.json",
+   "bytes": 5536835,
+   "sha256": "212bc5f35e92720e07662d9af000aa0d8ac6207bcc2b22df43b5a1dea859b49d",
+   "in_source_manifest": true
+  },
+  {
+   "path": "source/.research/attempts/009-parent-analysis/native-c2-two-unit-cycle1498.cnf",
+   "bytes": 8858548,
+   "sha256": "bbe5c476cad56c33cb0bf5f97be9fb64bf76be0af8354e9b9b697d3b73a12187",
+   "in_source_manifest": true
+  },
+  {
+   "path": "source/.research/attempts/009-parent-analysis/signed-star-native-common-cycle1432.json",
+   "bytes": 8721546,
+   "sha256": "c798def0613ef0d8caad8af0bd7c3d97e4851315d2c72ebede58fe5f5843804f",
+   "in_source_manifest": true
+  },
+  {
+   "path": "source/.research/attempts/009-parent-analysis/signed-star-native-contexts-cycle1432.json",
+   "bytes": 2179719,
+   "sha256": "dfe5de4b3083673b6aa1cfdfa1c9167d80ba9ed6d6a5c5c7d75a9cb0de290059",
+   "in_source_manifest": true
+  },
+  {
+   "path": "source/.research/attempts/009-parent-analysis/tip-structure-inventory-cycle1518.json",
+   "bytes": 5558762,
+   "sha256": "b6f48ab8c35d95211abdf399e1ca2fc0a113302ad3e05236a0c8ddee61fd250a",
+   "in_source_manifest": true
+  },
+  {
+   "path": "source/.research/attempts/009-parent-analysis/two-unit-query-cycle1500.lrat",
+   "bytes": 14958429,
+   "sha256": "8e6a2f1d53230816e28778b03c1b997fe96a6f6aeca19a7e2e03fa3f0190c0bd",
+   "in_source_manifest": true
+  },
+  {
+   "path": "source/.research/attempts/017-type-ii-three-exception/read-all-result.json",
+   "bytes": 3916302,
+   "sha256": "6585026e5ff5b15a91fa43ecf4b08470d53c0fba1387564daff9e01fe6f0b015",
+   "in_source_manifest": true
+  },
+  {
+   "path": "source/.research/attempts/018-no-free-residual-six/fixtures/A-pp-m2.lrat",
+   "bytes": 27276118,
+   "sha256": "6c87c869c587c9d114724adf68758585221ae413e2028f7967f61fb5a3b0d951",
+   "in_source_manifest": true
+  },
+  {
+   "path": "source/.research/attempts/018-no-free-residual-six/fixtures/cap-1.lrat",
+   "bytes": 2317625,
+   "sha256": "60ed161e61e172a02bd7aac3721113262babaf56bd921da57fe9d6ec83045a73",
+   "in_source_manifest": true
+  },
+  {
+   "path": "source/.research/attempts/018-no-free-residual-six/read-all-l1.json",
+   "bytes": 4465185,
+   "sha256": "6852c6c95c54a701b5e490b4ce37b9f58bbe3f60ff2b60ee0128b18935cdc7a9",
+   "in_source_manifest": true
+  },
+  {
+   "path": "source/.research/attempts/018-no-free-residual-six/read-all-l1.preliminary-pre-audit-fix.json",
+   "bytes": 4463586,
+   "sha256": "7ea069d3c78b896885059588b15a3f6a623d12de05d42dbd9b8ddc3b23da9c82",
+   "in_source_manifest": true
+  }
+ ]
+}

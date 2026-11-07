@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "status": "FROZEN_COMPLETE_INVENTORY_PENDING_INDEPENDENT1512",
+  "inventory": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-tip-inventory-cycle1511.json",
+    "sha256": "696491d88a6866113e7da69767712d3b25b3b647ce8eb8c73e17e9b48ae21e2c",
+    "bytes": 91630
+  },
+  "validation": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-tip-inventory-validation-cycle1511.json",
+    "sha256": "88a2968baf27b2da0de0b9bc7707c11e060c29344b3f75cbfedbf9714e169958",
+    "bytes": 4298
+  },
+  "plan": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-tip-source-plan-cycle1511.json",
+    "sha256": "244bfd094a1e2ad73c1bb14eab41ff9dd476c54dcc2eb9269fa5e35810a6ac25",
+    "bytes": 10506
+  },
+  "written_plan": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-tip-inventory-plan-cycle1511.md",
+    "sha256": "52b377a4c7ff91628e543e8106b123d963bd15ae1f569e1edbd436a91ad43832",
+    "bytes": 5912
+  },
+  "report": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-tip-inventory-results-cycle1511.md",
+    "sha256": "45a0862272e0defc36de3237480ef78073e645272f539cec515e050d453f9bc0",
+    "bytes": 2980
+  },
+  "reader_schema": "contexts original accepted order; added_rows native row format; zero-based indices; sources list; named premise_bindings",
+  "scope": "Necessary consequences for genuine signed-star objects; old raw row entailment is not established",
+  "prototype_only_no_target_propagation": true,
+  "exact_degree7_refinement_included": false,
+  "proposed_pilot": {
+    "model_id": {
+      "constant": 1,
+      "native_identity": {
+        "catalog_sha256": "df2dd7cc5c4ba26a5dde0736c3ec8c6d9f33292dfdd66f067badb0d67ea0e879",
+        "order": 8,
+        "original_index": 3
+      }
+    },
+    "original_variables": 1079,
+    "original_rows": 12512,
+    "added_rows": 2,
+    "extended_rows": 12514,
+    "added_terms": 13,
+    "original_terms": 838967,
+    "new_row_ids": [
+      12512,
+      12513
+    ],
+    "previous_generation_CPU_seconds": 1.2478069340000002,
+    "previous_setup_CPU_seconds": 2.945168025,
+    "previous_peak_RSS_bytes": 257097728,
+    "forecast_kind": "Historical same-dimension scheduling prior, not a target propagation runtime guarantee.",
+    "proposed_generation_CPU_budget_seconds": 10,
+    "proposed_setup_stop_CPU_seconds": 4,
+    "proposed_total_process_CPU_soft_seconds": 14,
+    "proposed_total_process_CPU_hard_seconds": 15,
+    "proposed_wall_seconds": 40,
+    "proposed_AS_bytes": 536870912,
+    "propagation_authorized": false,
+    "independent_inventory_gate_required": "cycle1512",
+    "parent_authorization_required": true
+  },
+  "publication_readiness": "Internal reproducible consequence inventory; no separate novelty or archival contribution claimed",
+  "source_refs_rehashed": 27,
+  "global_goal_complete": false
+}

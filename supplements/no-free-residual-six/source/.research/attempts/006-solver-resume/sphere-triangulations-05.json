@@ -1,0 +1,41 @@
+{
+  "status": "COMPLETE_INVERSE_CONTRACTION_COVER",
+  "wall_seconds": 0.0006469259969890118,
+  "order": 5,
+  "classes": [
+    {
+      "index": 0,
+      "face_masks": [
+        13,
+        14,
+        21,
+        22,
+        25,
+        26
+      ]
+    }
+  ],
+  "previous": {
+    "base": "The boundary of a tetrahedron",
+    "faces": [
+      7,
+      11,
+      13,
+      14
+    ]
+  },
+  "coverage": {
+    "path": "sphere-triangulations-05.coverage.json.gz",
+    "sha256": "987bf3b1e1b6a2a6c08235bd0f6c72ba6619aabb71b1f4c84091bfd2b720ef17",
+    "row_schema": [
+      "parent",
+      "vertex",
+      "left",
+      "right",
+      "target",
+      "permutation"
+    ]
+  },
+  "transition_count": 12,
+  "scope": "All combinatorial sphere triangulations of this order, conditional on the elementary contractible-edge induction proof."
+}

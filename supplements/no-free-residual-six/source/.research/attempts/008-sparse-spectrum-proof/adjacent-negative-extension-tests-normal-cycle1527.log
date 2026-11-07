@@ -1,0 +1,12 @@
+test_complete_case_binding_rejects_omission_and_alias (__main__.TinyControls.test_complete_case_binding_rejects_omission_and_alias) ... ok
+test_cross_degree_price_and_limit_guard (__main__.TinyControls.test_cross_degree_price_and_limit_guard) ... ok
+test_exact_intervals_against_all_assignments (__main__.TinyControls.test_exact_intervals_against_all_assignments) ... ok
+test_literal_root_and_bad_metadata (__main__.TinyControls.test_literal_root_and_bad_metadata) ... ok
+test_schema_and_optimization_safe_failure (__main__.TinyControls.test_schema_and_optimization_safe_failure) ... ok
+test_semantic_cofaces_and_global_count_rejection (__main__.TinyControls.test_semantic_cofaces_and_global_count_rejection) ... ok
+test_valid_opposite_value_and_final_contradiction (__main__.TinyControls.test_valid_opposite_value_and_final_contradiction) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.002s
+
+OK

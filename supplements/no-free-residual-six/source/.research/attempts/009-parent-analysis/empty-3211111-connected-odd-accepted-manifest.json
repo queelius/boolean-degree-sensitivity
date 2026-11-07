@@ -1,0 +1,63 @@
+{
+  "status": "INDEPENDENTLY_ACCEPTED_CONNECTED_ODD3211111_EXCLUSION",
+  "global_status": "UNRESOLVED",
+  "whole_pattern_excluded": false,
+  "scope": "Empty3211111 with six odd-weight negative supports Johnson-four connected",
+  "additional_universal_consequence": "The magnitude-three and magnitude-two supports intersect",
+  "cases": 1920,
+  "tests_passed": 3,
+  "coverage": {
+    "covered_lines": 132,
+    "num_statements": 132,
+    "percent_covered": 100.0,
+    "percent_covered_display": "100",
+    "missing_lines": 0,
+    "excluded_lines": 0,
+    "percent_statements_covered": 100.0,
+    "percent_statements_covered_display": "100",
+    "num_branches": 30,
+    "num_partial_branches": 0,
+    "covered_branches": 30,
+    "missing_branches": 0,
+    "percent_branches_covered": 100.0,
+    "percent_branches_covered_display": "100"
+  },
+  "files": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/empty-3211111-connected-odd-manifest.json",
+      "sha256": "ab60ca6a386ad9bbe989703f703bd90715337b4b59854b4895906a61c1b8d146"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/audit_empty_3211111_connected_odd.py",
+      "sha256": "f61923bd1bdf9ba3365784e862cee6b9dfecc18396a69a111e93fe7fc7472ad2"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_empty_3211111_connected_odd_audit.py",
+      "sha256": "70d698ca93b8a730c3dd314705baa2aa204564ff099e0ddb0fc6a499c3fec452"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/empty-3211111-connected-odd-independent-verification.json",
+      "sha256": "880debfdd194ae540eeac7c4d94aa2bba1cb4101f7f53a1f1df95573b81357a4"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/empty-3211111-connected-odd-independent-coverage.json",
+      "sha256": "d65f5a7dacad56e0809c7e6c3f7d41c54aa750362342b04dc46b77bfa4ade6c0"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/empty-3211111-connected-odd-parent-audit.md",
+      "sha256": "e5d059e4727c91465492f99cb32dc85fb7f659ea5f71db7e5fd701b1d75c2ca6"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/g13-near-catalog-reproduced.json",
+      "sha256": "afda6ad06ea10a3966c79eb04605401122f1f882c3108a1b4fe7476ade212e40"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/g13-missing-cyclic11-witness.json",
+      "sha256": "29a12e376a49008d43a791b2e533a09131e605fe72e573620bafbcd050822bc5"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/007-literature-audit/markstrom-k4m-n13.txt",
+      "sha256": "74e93af8e98eb340aeadab156fd37cd78c653f42b99cef26637ec13f970f1548"
+    }
+  ]
+}

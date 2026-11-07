@@ -1,0 +1,1072 @@
+{
+ "schema_version": 1,
+ "scope": "TWO_NEGATIVE_FREE_COORDINATES_SIGNED_STAR_GENUINE_CONTEXTS",
+ "predecessor": {
+  "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-genuine-frontier-cycle1510.json",
+  "sha256": "3621b82295391042e64d4ba49091e98ab74170801a36af9ee19a211efc722da2"
+ },
+ "new_certificate": {
+  "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/signed-star-raw-certificates.json",
+  "sha256": "e0b59e18cc01e9267c0cf453f9eaaf6be9fd94b338eaa271672ed5049cab0774"
+ },
+ "acceptance": {
+  "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-two-free-acceptance-cycle1531.json",
+  "sha256": "e68505e3d465b90fac10265994b9840c5153cc879e2280fb861598d4f82cb85c"
+ },
+ "entries": [
+  {
+   "model_id": {
+    "native_identity": {
+     "catalog_sha256": "b6f27899b2b9830758119abb9f38d92705663852cbc1e54c56e5ffe7cda0aec7",
+     "order": 7,
+     "original_index": 0
+    },
+    "constant": 1
+   },
+   "raw_row_model_status": "EXCLUDED",
+   "raw_row_exclusion_authority": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/native-unsat-parent-authority-cycle1476.json",
+    "sha256": "e625592a4c31e4fc45150f8879a88afcba2a7dde202a7b1c5b8dcff67d303005"
+   },
+   "genuine_context_status": "EXCLUDED",
+   "genuine_exclusion_authority": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/native-unsat-parent-authority-cycle1476.json",
+    "sha256": "e625592a4c31e4fc45150f8879a88afcba2a7dde202a7b1c5b8dcff67d303005"
+   }
+  },
+  {
+   "model_id": {
+    "native_identity": {
+     "catalog_sha256": "b6f27899b2b9830758119abb9f38d92705663852cbc1e54c56e5ffe7cda0aec7",
+     "order": 7,
+     "original_index": 0
+    },
+    "constant": 2
+   },
+   "raw_row_model_status": "OPEN",
+   "raw_row_exclusion_authority": null,
+   "genuine_context_status": "EXCLUDED",
+   "genuine_exclusion_authority": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/independent-lrat-authority-cycle1501.json",
+    "sha256": "495f8c5fec2673aab7e0d7f2e2d4ec771426300516ed048475c99f0fefc1f28e"
+   }
+  },
+  {
+   "model_id": {
+    "native_identity": {
+     "catalog_sha256": "df2dd7cc5c4ba26a5dde0736c3ec8c6d9f33292dfdd66f067badb0d67ea0e879",
+     "order": 8,
+     "original_index": 3
+    },
+    "constant": 1
+   },
+   "raw_row_model_status": "EXCLUDED",
+   "raw_row_exclusion_authority": {
+    "certificates": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/signed-star-raw-certificates.json",
+     "sha256": "e0b59e18cc01e9267c0cf453f9eaaf6be9fd94b338eaa271672ed5049cab0774"
+    },
+    "acceptance": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-two-free-acceptance-cycle1531.json",
+     "sha256": "e68505e3d465b90fac10265994b9840c5153cc879e2280fb861598d4f82cb85c"
+    }
+   },
+   "genuine_context_status": "EXCLUDED",
+   "genuine_exclusion_authority": {
+    "certificates": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/signed-star-raw-certificates.json",
+     "sha256": "e0b59e18cc01e9267c0cf453f9eaaf6be9fd94b338eaa271672ed5049cab0774"
+    },
+    "acceptance": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-two-free-acceptance-cycle1531.json",
+     "sha256": "e68505e3d465b90fac10265994b9840c5153cc879e2280fb861598d4f82cb85c"
+    }
+   }
+  },
+  {
+   "model_id": {
+    "native_identity": {
+     "catalog_sha256": "df2dd7cc5c4ba26a5dde0736c3ec8c6d9f33292dfdd66f067badb0d67ea0e879",
+     "order": 8,
+     "original_index": 3
+    },
+    "constant": 2
+   },
+   "raw_row_model_status": "EXCLUDED",
+   "raw_row_exclusion_authority": {
+    "certificates": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/signed-star-raw-certificates.json",
+     "sha256": "e0b59e18cc01e9267c0cf453f9eaaf6be9fd94b338eaa271672ed5049cab0774"
+    },
+    "acceptance": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-two-free-acceptance-cycle1531.json",
+     "sha256": "e68505e3d465b90fac10265994b9840c5153cc879e2280fb861598d4f82cb85c"
+    }
+   },
+   "genuine_context_status": "EXCLUDED",
+   "genuine_exclusion_authority": {
+    "certificates": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/signed-star-raw-certificates.json",
+     "sha256": "e0b59e18cc01e9267c0cf453f9eaaf6be9fd94b338eaa271672ed5049cab0774"
+    },
+    "acceptance": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-two-free-acceptance-cycle1531.json",
+     "sha256": "e68505e3d465b90fac10265994b9840c5153cc879e2280fb861598d4f82cb85c"
+    }
+   }
+  },
+  {
+   "model_id": {
+    "native_identity": {
+     "catalog_sha256": "df2dd7cc5c4ba26a5dde0736c3ec8c6d9f33292dfdd66f067badb0d67ea0e879",
+     "order": 8,
+     "original_index": 7
+    },
+    "constant": 1
+   },
+   "raw_row_model_status": "EXCLUDED",
+   "raw_row_exclusion_authority": {
+    "certificates": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/signed-star-raw-certificates.json",
+     "sha256": "e0b59e18cc01e9267c0cf453f9eaaf6be9fd94b338eaa271672ed5049cab0774"
+    },
+    "acceptance": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-two-free-acceptance-cycle1531.json",
+     "sha256": "e68505e3d465b90fac10265994b9840c5153cc879e2280fb861598d4f82cb85c"
+    }
+   },
+   "genuine_context_status": "EXCLUDED",
+   "genuine_exclusion_authority": {
+    "certificates": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/signed-star-raw-certificates.json",
+     "sha256": "e0b59e18cc01e9267c0cf453f9eaaf6be9fd94b338eaa271672ed5049cab0774"
+    },
+    "acceptance": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-two-free-acceptance-cycle1531.json",
+     "sha256": "e68505e3d465b90fac10265994b9840c5153cc879e2280fb861598d4f82cb85c"
+    }
+   }
+  },
+  {
+   "model_id": {
+    "native_identity": {
+     "catalog_sha256": "df2dd7cc5c4ba26a5dde0736c3ec8c6d9f33292dfdd66f067badb0d67ea0e879",
+     "order": 8,
+     "original_index": 7
+    },
+    "constant": 2
+   },
+   "raw_row_model_status": "EXCLUDED",
+   "raw_row_exclusion_authority": {
+    "certificates": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/signed-star-raw-certificates.json",
+     "sha256": "e0b59e18cc01e9267c0cf453f9eaaf6be9fd94b338eaa271672ed5049cab0774"
+    },
+    "acceptance": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-two-free-acceptance-cycle1531.json",
+     "sha256": "e68505e3d465b90fac10265994b9840c5153cc879e2280fb861598d4f82cb85c"
+    }
+   },
+   "genuine_context_status": "EXCLUDED",
+   "genuine_exclusion_authority": {
+    "certificates": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/signed-star-raw-certificates.json",
+     "sha256": "e0b59e18cc01e9267c0cf453f9eaaf6be9fd94b338eaa271672ed5049cab0774"
+    },
+    "acceptance": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-two-free-acceptance-cycle1531.json",
+     "sha256": "e68505e3d465b90fac10265994b9840c5153cc879e2280fb861598d4f82cb85c"
+    }
+   }
+  },
+  {
+   "model_id": {
+    "native_identity": {
+     "catalog_sha256": "8c707c48b4daecbf613fa5d31152e5c0606206a9f8543a8a37dd60f955349eff",
+     "order": 9,
+     "original_index": 33
+    },
+    "constant": 1
+   },
+   "raw_row_model_status": "EXCLUDED",
+   "raw_row_exclusion_authority": {
+    "certificates": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/signed-star-raw-certificates.json",
+     "sha256": "e0b59e18cc01e9267c0cf453f9eaaf6be9fd94b338eaa271672ed5049cab0774"
+    },
+    "acceptance": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-two-free-acceptance-cycle1531.json",
+     "sha256": "e68505e3d465b90fac10265994b9840c5153cc879e2280fb861598d4f82cb85c"
+    }
+   },
+   "genuine_context_status": "EXCLUDED",
+   "genuine_exclusion_authority": {
+    "certificates": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/signed-star-raw-certificates.json",
+     "sha256": "e0b59e18cc01e9267c0cf453f9eaaf6be9fd94b338eaa271672ed5049cab0774"
+    },
+    "acceptance": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-two-free-acceptance-cycle1531.json",
+     "sha256": "e68505e3d465b90fac10265994b9840c5153cc879e2280fb861598d4f82cb85c"
+    }
+   }
+  },
+  {
+   "model_id": {
+    "native_identity": {
+     "catalog_sha256": "8c707c48b4daecbf613fa5d31152e5c0606206a9f8543a8a37dd60f955349eff",
+     "order": 9,
+     "original_index": 33
+    },
+    "constant": 2
+   },
+   "raw_row_model_status": "EXCLUDED",
+   "raw_row_exclusion_authority": {
+    "certificates": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/signed-star-raw-certificates.json",
+     "sha256": "e0b59e18cc01e9267c0cf453f9eaaf6be9fd94b338eaa271672ed5049cab0774"
+    },
+    "acceptance": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-two-free-acceptance-cycle1531.json",
+     "sha256": "e68505e3d465b90fac10265994b9840c5153cc879e2280fb861598d4f82cb85c"
+    }
+   },
+   "genuine_context_status": "EXCLUDED",
+   "genuine_exclusion_authority": {
+    "certificates": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/signed-star-raw-certificates.json",
+     "sha256": "e0b59e18cc01e9267c0cf453f9eaaf6be9fd94b338eaa271672ed5049cab0774"
+    },
+    "acceptance": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-two-free-acceptance-cycle1531.json",
+     "sha256": "e68505e3d465b90fac10265994b9840c5153cc879e2280fb861598d4f82cb85c"
+    }
+   }
+  },
+  {
+   "model_id": {
+    "native_identity": {
+     "catalog_sha256": "8c707c48b4daecbf613fa5d31152e5c0606206a9f8543a8a37dd60f955349eff",
+     "order": 9,
+     "original_index": 35
+    },
+    "constant": 1
+   },
+   "raw_row_model_status": "EXCLUDED",
+   "raw_row_exclusion_authority": {
+    "certificates": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/signed-star-raw-certificates.json",
+     "sha256": "e0b59e18cc01e9267c0cf453f9eaaf6be9fd94b338eaa271672ed5049cab0774"
+    },
+    "acceptance": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-two-free-acceptance-cycle1531.json",
+     "sha256": "e68505e3d465b90fac10265994b9840c5153cc879e2280fb861598d4f82cb85c"
+    }
+   },
+   "genuine_context_status": "EXCLUDED",
+   "genuine_exclusion_authority": {
+    "certificates": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/signed-star-raw-certificates.json",
+     "sha256": "e0b59e18cc01e9267c0cf453f9eaaf6be9fd94b338eaa271672ed5049cab0774"
+    },
+    "acceptance": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-two-free-acceptance-cycle1531.json",
+     "sha256": "e68505e3d465b90fac10265994b9840c5153cc879e2280fb861598d4f82cb85c"
+    }
+   }
+  },
+  {
+   "model_id": {
+    "native_identity": {
+     "catalog_sha256": "8c707c48b4daecbf613fa5d31152e5c0606206a9f8543a8a37dd60f955349eff",
+     "order": 9,
+     "original_index": 35
+    },
+    "constant": 2
+   },
+   "raw_row_model_status": "EXCLUDED",
+   "raw_row_exclusion_authority": {
+    "certificates": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/signed-star-raw-certificates.json",
+     "sha256": "e0b59e18cc01e9267c0cf453f9eaaf6be9fd94b338eaa271672ed5049cab0774"
+    },
+    "acceptance": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-two-free-acceptance-cycle1531.json",
+     "sha256": "e68505e3d465b90fac10265994b9840c5153cc879e2280fb861598d4f82cb85c"
+    }
+   },
+   "genuine_context_status": "EXCLUDED",
+   "genuine_exclusion_authority": {
+    "certificates": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/signed-star-raw-certificates.json",
+     "sha256": "e0b59e18cc01e9267c0cf453f9eaaf6be9fd94b338eaa271672ed5049cab0774"
+    },
+    "acceptance": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-two-free-acceptance-cycle1531.json",
+     "sha256": "e68505e3d465b90fac10265994b9840c5153cc879e2280fb861598d4f82cb85c"
+    }
+   }
+  },
+  {
+   "model_id": {
+    "native_identity": {
+     "catalog_sha256": "0884454b75c491e2c47a14e9eea4e34752f24a0a3f59ddcf4b54ae5010bd690a",
+     "order": 10,
+     "original_index": 38
+    },
+    "constant": 1
+   },
+   "raw_row_model_status": "EXCLUDED",
+   "raw_row_exclusion_authority": {
+    "certificates": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/signed-star-raw-certificates.json",
+     "sha256": "e0b59e18cc01e9267c0cf453f9eaaf6be9fd94b338eaa271672ed5049cab0774"
+    },
+    "acceptance": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-two-free-acceptance-cycle1531.json",
+     "sha256": "e68505e3d465b90fac10265994b9840c5153cc879e2280fb861598d4f82cb85c"
+    }
+   },
+   "genuine_context_status": "EXCLUDED",
+   "genuine_exclusion_authority": {
+    "certificates": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/signed-star-raw-certificates.json",
+     "sha256": "e0b59e18cc01e9267c0cf453f9eaaf6be9fd94b338eaa271672ed5049cab0774"
+    },
+    "acceptance": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-two-free-acceptance-cycle1531.json",
+     "sha256": "e68505e3d465b90fac10265994b9840c5153cc879e2280fb861598d4f82cb85c"
+    }
+   }
+  },
+  {
+   "model_id": {
+    "native_identity": {
+     "catalog_sha256": "0884454b75c491e2c47a14e9eea4e34752f24a0a3f59ddcf4b54ae5010bd690a",
+     "order": 10,
+     "original_index": 38
+    },
+    "constant": 2
+   },
+   "raw_row_model_status": "EXCLUDED",
+   "raw_row_exclusion_authority": {
+    "certificates": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/signed-star-raw-certificates.json",
+     "sha256": "e0b59e18cc01e9267c0cf453f9eaaf6be9fd94b338eaa271672ed5049cab0774"
+    },
+    "acceptance": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-two-free-acceptance-cycle1531.json",
+     "sha256": "e68505e3d465b90fac10265994b9840c5153cc879e2280fb861598d4f82cb85c"
+    }
+   },
+   "genuine_context_status": "EXCLUDED",
+   "genuine_exclusion_authority": {
+    "certificates": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/signed-star-raw-certificates.json",
+     "sha256": "e0b59e18cc01e9267c0cf453f9eaaf6be9fd94b338eaa271672ed5049cab0774"
+    },
+    "acceptance": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-two-free-acceptance-cycle1531.json",
+     "sha256": "e68505e3d465b90fac10265994b9840c5153cc879e2280fb861598d4f82cb85c"
+    }
+   }
+  },
+  {
+   "model_id": {
+    "native_identity": {
+     "catalog_sha256": "0884454b75c491e2c47a14e9eea4e34752f24a0a3f59ddcf4b54ae5010bd690a",
+     "order": 10,
+     "original_index": 113
+    },
+    "constant": 1
+   },
+   "raw_row_model_status": "EXCLUDED",
+   "raw_row_exclusion_authority": {
+    "certificates": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/signed-star-raw-certificates.json",
+     "sha256": "e0b59e18cc01e9267c0cf453f9eaaf6be9fd94b338eaa271672ed5049cab0774"
+    },
+    "acceptance": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-two-free-acceptance-cycle1531.json",
+     "sha256": "e68505e3d465b90fac10265994b9840c5153cc879e2280fb861598d4f82cb85c"
+    }
+   },
+   "genuine_context_status": "EXCLUDED",
+   "genuine_exclusion_authority": {
+    "certificates": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/signed-star-raw-certificates.json",
+     "sha256": "e0b59e18cc01e9267c0cf453f9eaaf6be9fd94b338eaa271672ed5049cab0774"
+    },
+    "acceptance": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-two-free-acceptance-cycle1531.json",
+     "sha256": "e68505e3d465b90fac10265994b9840c5153cc879e2280fb861598d4f82cb85c"
+    }
+   }
+  },
+  {
+   "model_id": {
+    "native_identity": {
+     "catalog_sha256": "0884454b75c491e2c47a14e9eea4e34752f24a0a3f59ddcf4b54ae5010bd690a",
+     "order": 10,
+     "original_index": 113
+    },
+    "constant": 2
+   },
+   "raw_row_model_status": "EXCLUDED",
+   "raw_row_exclusion_authority": {
+    "certificates": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/signed-star-raw-certificates.json",
+     "sha256": "e0b59e18cc01e9267c0cf453f9eaaf6be9fd94b338eaa271672ed5049cab0774"
+    },
+    "acceptance": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-two-free-acceptance-cycle1531.json",
+     "sha256": "e68505e3d465b90fac10265994b9840c5153cc879e2280fb861598d4f82cb85c"
+    }
+   },
+   "genuine_context_status": "EXCLUDED",
+   "genuine_exclusion_authority": {
+    "certificates": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/signed-star-raw-certificates.json",
+     "sha256": "e0b59e18cc01e9267c0cf453f9eaaf6be9fd94b338eaa271672ed5049cab0774"
+    },
+    "acceptance": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-two-free-acceptance-cycle1531.json",
+     "sha256": "e68505e3d465b90fac10265994b9840c5153cc879e2280fb861598d4f82cb85c"
+    }
+   }
+  },
+  {
+   "model_id": {
+    "native_identity": {
+     "catalog_sha256": "0884454b75c491e2c47a14e9eea4e34752f24a0a3f59ddcf4b54ae5010bd690a",
+     "order": 10,
+     "original_index": 116
+    },
+    "constant": 1
+   },
+   "raw_row_model_status": "EXCLUDED",
+   "raw_row_exclusion_authority": {
+    "certificates": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/signed-star-raw-certificates.json",
+     "sha256": "e0b59e18cc01e9267c0cf453f9eaaf6be9fd94b338eaa271672ed5049cab0774"
+    },
+    "acceptance": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-two-free-acceptance-cycle1531.json",
+     "sha256": "e68505e3d465b90fac10265994b9840c5153cc879e2280fb861598d4f82cb85c"
+    }
+   },
+   "genuine_context_status": "EXCLUDED",
+   "genuine_exclusion_authority": {
+    "certificates": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/signed-star-raw-certificates.json",
+     "sha256": "e0b59e18cc01e9267c0cf453f9eaaf6be9fd94b338eaa271672ed5049cab0774"
+    },
+    "acceptance": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-two-free-acceptance-cycle1531.json",
+     "sha256": "e68505e3d465b90fac10265994b9840c5153cc879e2280fb861598d4f82cb85c"
+    }
+   }
+  },
+  {
+   "model_id": {
+    "native_identity": {
+     "catalog_sha256": "0884454b75c491e2c47a14e9eea4e34752f24a0a3f59ddcf4b54ae5010bd690a",
+     "order": 10,
+     "original_index": 116
+    },
+    "constant": 2
+   },
+   "raw_row_model_status": "EXCLUDED",
+   "raw_row_exclusion_authority": {
+    "certificates": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/signed-star-raw-certificates.json",
+     "sha256": "e0b59e18cc01e9267c0cf453f9eaaf6be9fd94b338eaa271672ed5049cab0774"
+    },
+    "acceptance": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-two-free-acceptance-cycle1531.json",
+     "sha256": "e68505e3d465b90fac10265994b9840c5153cc879e2280fb861598d4f82cb85c"
+    }
+   },
+   "genuine_context_status": "EXCLUDED",
+   "genuine_exclusion_authority": {
+    "certificates": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/signed-star-raw-certificates.json",
+     "sha256": "e0b59e18cc01e9267c0cf453f9eaaf6be9fd94b338eaa271672ed5049cab0774"
+    },
+    "acceptance": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-two-free-acceptance-cycle1531.json",
+     "sha256": "e68505e3d465b90fac10265994b9840c5153cc879e2280fb861598d4f82cb85c"
+    }
+   }
+  },
+  {
+   "model_id": {
+    "native_identity": {
+     "catalog_sha256": "0884454b75c491e2c47a14e9eea4e34752f24a0a3f59ddcf4b54ae5010bd690a",
+     "order": 10,
+     "original_index": 180
+    },
+    "constant": 1
+   },
+   "raw_row_model_status": "EXCLUDED",
+   "raw_row_exclusion_authority": {
+    "certificates": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/signed-star-raw-certificates.json",
+     "sha256": "e0b59e18cc01e9267c0cf453f9eaaf6be9fd94b338eaa271672ed5049cab0774"
+    },
+    "acceptance": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-two-free-acceptance-cycle1531.json",
+     "sha256": "e68505e3d465b90fac10265994b9840c5153cc879e2280fb861598d4f82cb85c"
+    }
+   },
+   "genuine_context_status": "EXCLUDED",
+   "genuine_exclusion_authority": {
+    "certificates": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/signed-star-raw-certificates.json",
+     "sha256": "e0b59e18cc01e9267c0cf453f9eaaf6be9fd94b338eaa271672ed5049cab0774"
+    },
+    "acceptance": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-two-free-acceptance-cycle1531.json",
+     "sha256": "e68505e3d465b90fac10265994b9840c5153cc879e2280fb861598d4f82cb85c"
+    }
+   }
+  },
+  {
+   "model_id": {
+    "native_identity": {
+     "catalog_sha256": "0884454b75c491e2c47a14e9eea4e34752f24a0a3f59ddcf4b54ae5010bd690a",
+     "order": 10,
+     "original_index": 180
+    },
+    "constant": 2
+   },
+   "raw_row_model_status": "EXCLUDED",
+   "raw_row_exclusion_authority": {
+    "certificates": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/signed-star-raw-certificates.json",
+     "sha256": "e0b59e18cc01e9267c0cf453f9eaaf6be9fd94b338eaa271672ed5049cab0774"
+    },
+    "acceptance": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-two-free-acceptance-cycle1531.json",
+     "sha256": "e68505e3d465b90fac10265994b9840c5153cc879e2280fb861598d4f82cb85c"
+    }
+   },
+   "genuine_context_status": "EXCLUDED",
+   "genuine_exclusion_authority": {
+    "certificates": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/signed-star-raw-certificates.json",
+     "sha256": "e0b59e18cc01e9267c0cf453f9eaaf6be9fd94b338eaa271672ed5049cab0774"
+    },
+    "acceptance": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-two-free-acceptance-cycle1531.json",
+     "sha256": "e68505e3d465b90fac10265994b9840c5153cc879e2280fb861598d4f82cb85c"
+    }
+   }
+  },
+  {
+   "model_id": {
+    "native_identity": {
+     "catalog_sha256": "120a8e03f8ca63a5432275be5ca65ec705062e2937a5e8b71eb401924b369ce2",
+     "order": 11,
+     "original_index": 185
+    },
+    "constant": 1
+   },
+   "raw_row_model_status": "EXCLUDED",
+   "raw_row_exclusion_authority": {
+    "certificates": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/signed-star-raw-certificates.json",
+     "sha256": "e0b59e18cc01e9267c0cf453f9eaaf6be9fd94b338eaa271672ed5049cab0774"
+    },
+    "acceptance": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-two-free-acceptance-cycle1531.json",
+     "sha256": "e68505e3d465b90fac10265994b9840c5153cc879e2280fb861598d4f82cb85c"
+    }
+   },
+   "genuine_context_status": "EXCLUDED",
+   "genuine_exclusion_authority": {
+    "certificates": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/signed-star-raw-certificates.json",
+     "sha256": "e0b59e18cc01e9267c0cf453f9eaaf6be9fd94b338eaa271672ed5049cab0774"
+    },
+    "acceptance": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-two-free-acceptance-cycle1531.json",
+     "sha256": "e68505e3d465b90fac10265994b9840c5153cc879e2280fb861598d4f82cb85c"
+    }
+   }
+  },
+  {
+   "model_id": {
+    "native_identity": {
+     "catalog_sha256": "120a8e03f8ca63a5432275be5ca65ec705062e2937a5e8b71eb401924b369ce2",
+     "order": 11,
+     "original_index": 185
+    },
+    "constant": 2
+   },
+   "raw_row_model_status": "EXCLUDED",
+   "raw_row_exclusion_authority": {
+    "certificates": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/signed-star-raw-certificates.json",
+     "sha256": "e0b59e18cc01e9267c0cf453f9eaaf6be9fd94b338eaa271672ed5049cab0774"
+    },
+    "acceptance": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-two-free-acceptance-cycle1531.json",
+     "sha256": "e68505e3d465b90fac10265994b9840c5153cc879e2280fb861598d4f82cb85c"
+    }
+   },
+   "genuine_context_status": "EXCLUDED",
+   "genuine_exclusion_authority": {
+    "certificates": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/signed-star-raw-certificates.json",
+     "sha256": "e0b59e18cc01e9267c0cf453f9eaaf6be9fd94b338eaa271672ed5049cab0774"
+    },
+    "acceptance": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-two-free-acceptance-cycle1531.json",
+     "sha256": "e68505e3d465b90fac10265994b9840c5153cc879e2280fb861598d4f82cb85c"
+    }
+   }
+  },
+  {
+   "model_id": {
+    "native_identity": {
+     "catalog_sha256": "120a8e03f8ca63a5432275be5ca65ec705062e2937a5e8b71eb401924b369ce2",
+     "order": 11,
+     "original_index": 257
+    },
+    "constant": 1
+   },
+   "raw_row_model_status": "EXCLUDED",
+   "raw_row_exclusion_authority": {
+    "certificates": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/signed-star-raw-certificates.json",
+     "sha256": "e0b59e18cc01e9267c0cf453f9eaaf6be9fd94b338eaa271672ed5049cab0774"
+    },
+    "acceptance": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-two-free-acceptance-cycle1531.json",
+     "sha256": "e68505e3d465b90fac10265994b9840c5153cc879e2280fb861598d4f82cb85c"
+    }
+   },
+   "genuine_context_status": "EXCLUDED",
+   "genuine_exclusion_authority": {
+    "certificates": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/signed-star-raw-certificates.json",
+     "sha256": "e0b59e18cc01e9267c0cf453f9eaaf6be9fd94b338eaa271672ed5049cab0774"
+    },
+    "acceptance": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-two-free-acceptance-cycle1531.json",
+     "sha256": "e68505e3d465b90fac10265994b9840c5153cc879e2280fb861598d4f82cb85c"
+    }
+   }
+  },
+  {
+   "model_id": {
+    "native_identity": {
+     "catalog_sha256": "120a8e03f8ca63a5432275be5ca65ec705062e2937a5e8b71eb401924b369ce2",
+     "order": 11,
+     "original_index": 257
+    },
+    "constant": 2
+   },
+   "raw_row_model_status": "EXCLUDED",
+   "raw_row_exclusion_authority": {
+    "certificates": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/signed-star-raw-certificates.json",
+     "sha256": "e0b59e18cc01e9267c0cf453f9eaaf6be9fd94b338eaa271672ed5049cab0774"
+    },
+    "acceptance": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-two-free-acceptance-cycle1531.json",
+     "sha256": "e68505e3d465b90fac10265994b9840c5153cc879e2280fb861598d4f82cb85c"
+    }
+   },
+   "genuine_context_status": "EXCLUDED",
+   "genuine_exclusion_authority": {
+    "certificates": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/signed-star-raw-certificates.json",
+     "sha256": "e0b59e18cc01e9267c0cf453f9eaaf6be9fd94b338eaa271672ed5049cab0774"
+    },
+    "acceptance": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-two-free-acceptance-cycle1531.json",
+     "sha256": "e68505e3d465b90fac10265994b9840c5153cc879e2280fb861598d4f82cb85c"
+    }
+   }
+  },
+  {
+   "model_id": {
+    "native_identity": {
+     "catalog_sha256": "120a8e03f8ca63a5432275be5ca65ec705062e2937a5e8b71eb401924b369ce2",
+     "order": 11,
+     "original_index": 691
+    },
+    "constant": 1
+   },
+   "raw_row_model_status": "EXCLUDED",
+   "raw_row_exclusion_authority": {
+    "certificates": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/signed-star-raw-certificates.json",
+     "sha256": "e0b59e18cc01e9267c0cf453f9eaaf6be9fd94b338eaa271672ed5049cab0774"
+    },
+    "acceptance": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-two-free-acceptance-cycle1531.json",
+     "sha256": "e68505e3d465b90fac10265994b9840c5153cc879e2280fb861598d4f82cb85c"
+    }
+   },
+   "genuine_context_status": "EXCLUDED",
+   "genuine_exclusion_authority": {
+    "certificates": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/signed-star-raw-certificates.json",
+     "sha256": "e0b59e18cc01e9267c0cf453f9eaaf6be9fd94b338eaa271672ed5049cab0774"
+    },
+    "acceptance": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-two-free-acceptance-cycle1531.json",
+     "sha256": "e68505e3d465b90fac10265994b9840c5153cc879e2280fb861598d4f82cb85c"
+    }
+   }
+  },
+  {
+   "model_id": {
+    "native_identity": {
+     "catalog_sha256": "120a8e03f8ca63a5432275be5ca65ec705062e2937a5e8b71eb401924b369ce2",
+     "order": 11,
+     "original_index": 691
+    },
+    "constant": 2
+   },
+   "raw_row_model_status": "EXCLUDED",
+   "raw_row_exclusion_authority": {
+    "certificates": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/signed-star-raw-certificates.json",
+     "sha256": "e0b59e18cc01e9267c0cf453f9eaaf6be9fd94b338eaa271672ed5049cab0774"
+    },
+    "acceptance": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-two-free-acceptance-cycle1531.json",
+     "sha256": "e68505e3d465b90fac10265994b9840c5153cc879e2280fb861598d4f82cb85c"
+    }
+   },
+   "genuine_context_status": "EXCLUDED",
+   "genuine_exclusion_authority": {
+    "certificates": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/signed-star-raw-certificates.json",
+     "sha256": "e0b59e18cc01e9267c0cf453f9eaaf6be9fd94b338eaa271672ed5049cab0774"
+    },
+    "acceptance": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-two-free-acceptance-cycle1531.json",
+     "sha256": "e68505e3d465b90fac10265994b9840c5153cc879e2280fb861598d4f82cb85c"
+    }
+   }
+  },
+  {
+   "model_id": {
+    "native_identity": {
+     "catalog_sha256": "0f783e580e0555f85cf42ff460a947082d37e5699bdbf9feb4aa1da85150b04c",
+     "order": 12,
+     "original_index": 1697
+    },
+    "constant": 1
+   },
+   "raw_row_model_status": "EXCLUDED",
+   "raw_row_exclusion_authority": {
+    "certificates": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/signed-star-raw-certificates.json",
+     "sha256": "e0b59e18cc01e9267c0cf453f9eaaf6be9fd94b338eaa271672ed5049cab0774"
+    },
+    "acceptance": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-two-free-acceptance-cycle1531.json",
+     "sha256": "e68505e3d465b90fac10265994b9840c5153cc879e2280fb861598d4f82cb85c"
+    }
+   },
+   "genuine_context_status": "EXCLUDED",
+   "genuine_exclusion_authority": {
+    "certificates": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/signed-star-raw-certificates.json",
+     "sha256": "e0b59e18cc01e9267c0cf453f9eaaf6be9fd94b338eaa271672ed5049cab0774"
+    },
+    "acceptance": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-two-free-acceptance-cycle1531.json",
+     "sha256": "e68505e3d465b90fac10265994b9840c5153cc879e2280fb861598d4f82cb85c"
+    }
+   }
+  },
+  {
+   "model_id": {
+    "native_identity": {
+     "catalog_sha256": "0f783e580e0555f85cf42ff460a947082d37e5699bdbf9feb4aa1da85150b04c",
+     "order": 12,
+     "original_index": 1697
+    },
+    "constant": 2
+   },
+   "raw_row_model_status": "EXCLUDED",
+   "raw_row_exclusion_authority": {
+    "certificates": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/signed-star-raw-certificates.json",
+     "sha256": "e0b59e18cc01e9267c0cf453f9eaaf6be9fd94b338eaa271672ed5049cab0774"
+    },
+    "acceptance": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-two-free-acceptance-cycle1531.json",
+     "sha256": "e68505e3d465b90fac10265994b9840c5153cc879e2280fb861598d4f82cb85c"
+    }
+   },
+   "genuine_context_status": "EXCLUDED",
+   "genuine_exclusion_authority": {
+    "certificates": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/signed-star-raw-certificates.json",
+     "sha256": "e0b59e18cc01e9267c0cf453f9eaaf6be9fd94b338eaa271672ed5049cab0774"
+    },
+    "acceptance": {
+     "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-two-free-acceptance-cycle1531.json",
+     "sha256": "e68505e3d465b90fac10265994b9840c5153cc879e2280fb861598d4f82cb85c"
+    }
+   }
+  }
+ ],
+ "roots": [
+  {
+   "native_identity": {
+    "catalog_sha256": "0884454b75c491e2c47a14e9eea4e34752f24a0a3f59ddcf4b54ae5010bd690a",
+    "order": 10,
+    "original_index": 113
+   },
+   "constants": [
+    {
+     "constant": 1,
+     "status": "EXCLUDED"
+    },
+    {
+     "constant": 2,
+     "status": "EXCLUDED"
+    }
+   ],
+   "genuine_status": "EXCLUDED"
+  },
+  {
+   "native_identity": {
+    "catalog_sha256": "0884454b75c491e2c47a14e9eea4e34752f24a0a3f59ddcf4b54ae5010bd690a",
+    "order": 10,
+    "original_index": 116
+   },
+   "constants": [
+    {
+     "constant": 1,
+     "status": "EXCLUDED"
+    },
+    {
+     "constant": 2,
+     "status": "EXCLUDED"
+    }
+   ],
+   "genuine_status": "EXCLUDED"
+  },
+  {
+   "native_identity": {
+    "catalog_sha256": "0884454b75c491e2c47a14e9eea4e34752f24a0a3f59ddcf4b54ae5010bd690a",
+    "order": 10,
+    "original_index": 180
+   },
+   "constants": [
+    {
+     "constant": 1,
+     "status": "EXCLUDED"
+    },
+    {
+     "constant": 2,
+     "status": "EXCLUDED"
+    }
+   ],
+   "genuine_status": "EXCLUDED"
+  },
+  {
+   "native_identity": {
+    "catalog_sha256": "0884454b75c491e2c47a14e9eea4e34752f24a0a3f59ddcf4b54ae5010bd690a",
+    "order": 10,
+    "original_index": 38
+   },
+   "constants": [
+    {
+     "constant": 1,
+     "status": "EXCLUDED"
+    },
+    {
+     "constant": 2,
+     "status": "EXCLUDED"
+    }
+   ],
+   "genuine_status": "EXCLUDED"
+  },
+  {
+   "native_identity": {
+    "catalog_sha256": "0f783e580e0555f85cf42ff460a947082d37e5699bdbf9feb4aa1da85150b04c",
+    "order": 12,
+    "original_index": 1697
+   },
+   "constants": [
+    {
+     "constant": 1,
+     "status": "EXCLUDED"
+    },
+    {
+     "constant": 2,
+     "status": "EXCLUDED"
+    }
+   ],
+   "genuine_status": "EXCLUDED"
+  },
+  {
+   "native_identity": {
+    "catalog_sha256": "120a8e03f8ca63a5432275be5ca65ec705062e2937a5e8b71eb401924b369ce2",
+    "order": 11,
+    "original_index": 185
+   },
+   "constants": [
+    {
+     "constant": 1,
+     "status": "EXCLUDED"
+    },
+    {
+     "constant": 2,
+     "status": "EXCLUDED"
+    }
+   ],
+   "genuine_status": "EXCLUDED"
+  },
+  {
+   "native_identity": {
+    "catalog_sha256": "120a8e03f8ca63a5432275be5ca65ec705062e2937a5e8b71eb401924b369ce2",
+    "order": 11,
+    "original_index": 257
+   },
+   "constants": [
+    {
+     "constant": 1,
+     "status": "EXCLUDED"
+    },
+    {
+     "constant": 2,
+     "status": "EXCLUDED"
+    }
+   ],
+   "genuine_status": "EXCLUDED"
+  },
+  {
+   "native_identity": {
+    "catalog_sha256": "120a8e03f8ca63a5432275be5ca65ec705062e2937a5e8b71eb401924b369ce2",
+    "order": 11,
+    "original_index": 691
+   },
+   "constants": [
+    {
+     "constant": 1,
+     "status": "EXCLUDED"
+    },
+    {
+     "constant": 2,
+     "status": "EXCLUDED"
+    }
+   ],
+   "genuine_status": "EXCLUDED"
+  },
+  {
+   "native_identity": {
+    "catalog_sha256": "8c707c48b4daecbf613fa5d31152e5c0606206a9f8543a8a37dd60f955349eff",
+    "order": 9,
+    "original_index": 33
+   },
+   "constants": [
+    {
+     "constant": 1,
+     "status": "EXCLUDED"
+    },
+    {
+     "constant": 2,
+     "status": "EXCLUDED"
+    }
+   ],
+   "genuine_status": "EXCLUDED"
+  },
+  {
+   "native_identity": {
+    "catalog_sha256": "8c707c48b4daecbf613fa5d31152e5c0606206a9f8543a8a37dd60f955349eff",
+    "order": 9,
+    "original_index": 35
+   },
+   "constants": [
+    {
+     "constant": 1,
+     "status": "EXCLUDED"
+    },
+    {
+     "constant": 2,
+     "status": "EXCLUDED"
+    }
+   ],
+   "genuine_status": "EXCLUDED"
+  },
+  {
+   "native_identity": {
+    "catalog_sha256": "b6f27899b2b9830758119abb9f38d92705663852cbc1e54c56e5ffe7cda0aec7",
+    "order": 7,
+    "original_index": 0
+   },
+   "constants": [
+    {
+     "constant": 1,
+     "status": "EXCLUDED"
+    },
+    {
+     "constant": 2,
+     "status": "EXCLUDED"
+    }
+   ],
+   "genuine_status": "EXCLUDED"
+  },
+  {
+   "native_identity": {
+    "catalog_sha256": "df2dd7cc5c4ba26a5dde0736c3ec8c6d9f33292dfdd66f067badb0d67ea0e879",
+    "order": 8,
+    "original_index": 3
+   },
+   "constants": [
+    {
+     "constant": 1,
+     "status": "EXCLUDED"
+    },
+    {
+     "constant": 2,
+     "status": "EXCLUDED"
+    }
+   ],
+   "genuine_status": "EXCLUDED"
+  },
+  {
+   "native_identity": {
+    "catalog_sha256": "df2dd7cc5c4ba26a5dde0736c3ec8c6d9f33292dfdd66f067badb0d67ea0e879",
+    "order": 8,
+    "original_index": 7
+   },
+   "constants": [
+    {
+     "constant": 1,
+     "status": "EXCLUDED"
+    },
+    {
+     "constant": 2,
+     "status": "EXCLUDED"
+    }
+   ],
+   "genuine_status": "EXCLUDED"
+  }
+ ],
+ "raw_row_counts": {
+  "EXCLUDED": 25,
+  "OPEN": 1
+ },
+ "genuine_context_counts": {
+  "EXCLUDED": 26
+ },
+ "genuine_root_counts": {
+  "EXCLUDED": 13
+ },
+ "raw_row_UNSAT_for_c2_claimed": false,
+ "whole_patterns_changed": 0,
+ "global_goal_complete": false
+}

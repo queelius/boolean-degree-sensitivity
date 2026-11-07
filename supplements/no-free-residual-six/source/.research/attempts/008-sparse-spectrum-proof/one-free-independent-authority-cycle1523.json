@@ -1,0 +1,110 @@
+{
+  "accepted": {
+    "TypeI_endpoint_degrees": [
+      11,
+      12
+    ],
+    "TypeI_missing_triangles_through_exceptional_edge_at_least": 2,
+    "complete_incident_allocation_complement_norms": "P=60+6c,Q=196-6c for c0,1,2,3, under complete negative cost22/incident-allocation guards",
+    "fixed_P_annihilator_linearity_only": true,
+    "one_free_residual_at_most_six_trichotomy": [
+      "I: c1/2, sole incident cubic -3",
+      "II: c1/2, three incident nonsingleton cost-two departures",
+      "III: c0/3 singleton at free coordinate plus two incident nonsingleton cost-two departures"
+    ],
+    "representative_selfduality_not_original_function_selfduality": true
+  },
+  "assistance": "Substantial OpenAI Codex assistance; independent AI mathematical review and small exact computation.",
+  "author": "Alexander Richard Towell",
+  "canonical_ledgers_edited": false,
+  "checker": {
+    "bytes": 17893,
+    "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/one_free_independent_cycle1523.py",
+    "sha256": "cf6dd1d31515976fc30259a3b155d44d8ad6435549d82ade91741fa4f3e224ce"
+  },
+  "corrected": {
+    "amplitude_bound": 13,
+    "c1_P_Q_norms": [
+      66,
+      190
+    ],
+    "c2_P_Q_norms": [
+      72,
+      184
+    ],
+    "native_CNF_LRAT_affected": false,
+    "ordinary_active_valence_five_numerator": -1,
+    "ordinary_active_valence_four_numerator": 0,
+    "source_receipt": {
+      "bytes": 2753,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/fourier-extension-norm-correction-cycle1513.json",
+      "sha256": "90d16eff2efad32ebbd625b24a85e7f5e4808b291b5d5463c1bd2d7ca4ecd17f"
+    },
+    "superseded_c2_source_only_norms": [
+      96,
+      160
+    ],
+    "support_bounds": [
+      190,
+      184
+    ]
+  },
+  "created_at": "2026-10-21T23:26:48.419995+00:00",
+  "formal_verification": false,
+  "global_goal_complete": false,
+  "guard_gap_is_future_unproved_work_not_identified_accepted_ledger_defect": true,
+  "human_review": false,
+  "inherited_catalogs_and_certificates_replayed": false,
+  "native_checker_invocations": 0,
+  "novelty_established": false,
+  "pending": [
+    "Extension of the two-nonsingleton local exclusion to c0/3; Type III is retained.",
+    "Existence or exclusion of retained one-free types.",
+    "Whole-complex manifold claim in the sole -3 branch.",
+    "Any whole-pattern or original Boolean14 conclusion."
+  ],
+  "publication_actions": 0,
+  "publication_readiness": "Source-bound correction and conditional contribution ready for the next coherent existing research-record version, retaining historical premises and AI disclosure; no publication action here.",
+  "schema_version": 1,
+  "small_controls": {
+    "allocations": 61,
+    "endpoint_interior_set_pairs": 25,
+    "incidence_constant_cases": 530
+  },
+  "solver_queries": 0,
+  "source_handoff": {
+    "bytes": 7209,
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/one-free-source-handoff-cycle1513.json",
+    "sha256": "b53cc1c87160b14800c0f66ffdec7c81ea253e68a6f86ad5c8cbfaff1cf9f163"
+  },
+  "source_hashes_checked": 38,
+  "source_manifest": {
+    "bytes": 6701,
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/one-free-source-manifest-cycle1513.json",
+    "sha256": "e41c57eb57ffd4226dd9c88efc1823c36546f1af7c32fdd9c5388f0dbcac66b9"
+  },
+  "source_proof": {
+    "bytes": 10798,
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/one-free-residual-six-and-extension-audit-cycle1513.md",
+    "sha256": "e30a88eae5d15641bc4566938380702baab415ced2b0226295a541a8d4f08c22"
+  },
+  "status": "INDEPENDENTLY_ACCEPTED_ONE_FREE_RESIDUAL6_NECESSARY_TYPES_AND_C7_ENDPOINT_REDUCTION",
+  "target_catalog_enumerations": 0,
+  "tests": {
+    "bytes": 5477,
+    "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/test_one_free_independent_cycle1523.py",
+    "sha256": "e78b2b3cb63b77049153ce17476a4213cf27eb5854193c53d084f1f411c8d008"
+  },
+  "validation": {
+    "bytes": 2464,
+    "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/one-free-independent-validation-cycle1523.json",
+    "sha256": "640df56000fcd765d0655d5e74343870f6e34650f3c5f40bd51d65f5874d1d18"
+  },
+  "whole_patterns_after": 29,
+  "whole_patterns_before": 29,
+  "written_review": {
+    "bytes": 12555,
+    "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/one-free-independent-review-cycle1523.md",
+    "sha256": "63186046c5b3809fe645a97d0add07b7a2fc0cab60d3e6e57a791e52d3a756b8"
+  }
+}

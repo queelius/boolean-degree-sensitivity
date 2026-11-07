@@ -1,0 +1,88 @@
+{
+  "status": "INDEPENDENT_EXACT_INVENTORY_CONTROLS_PASS_TARGET_PENDING",
+  "sources": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/exact_tip_inventory_reader_cycle1519.py",
+      "sha256": "d0663727c183a292070b24fb1f3b9b6f75508d02b9f044d9d075ba3416ba76f7",
+      "bytes": 4035
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/read_exact_tip_inventory_cycle1519.py",
+      "sha256": "fed7d4b1133648e1461518da6b599f7d5708df0d559174259f72c6fad46f5ac3",
+      "bytes": 10107
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_exact_tip_inventory_reader_cycle1519.py",
+      "sha256": "3c48f944821cbfe765692f38952af680b91c3b7ea1347c3d0ec6320b3aa2b814",
+      "bytes": 5168
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/exact-tip-inventory-reader-plan-cycle1519.md",
+      "sha256": "c6ce85c890a92b826852dd86fce0db90ef28bc61454c89e0b55469c088589c83",
+      "bytes": 5588
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/exact-tip-inventory-red-cycle1519.log",
+      "sha256": "60350e048b658ee63d4fa5cb5aee2d158a8be42ed4b60f0e8a4581eb9a7d747e",
+      "bytes": 1013
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/exact-tip-ordinary-red-cycle1519.log",
+      "sha256": "4bba129f8fdae20d1b79cd4acabb0e532fbfa62b4779c160232e928fec2212ca",
+      "bytes": 3216
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/exact-tip-controls-normal-final-cycle1519.log",
+      "sha256": "2e98162af1813fcb3d211c183e789e20e36a23b60c904476a08e24bb58bddd81",
+      "bytes": 920
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/exact-tip-controls-optimized-final-cycle1519.log",
+      "sha256": "7d4eca9e273d4ddab9ae9c6a580f49a4565ac0def02897f51080e7d20a79423d",
+      "bytes": 920
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/exact-tip-controls-coverage-cycle1519.json",
+      "sha256": "1fa1901ba5e5a83764065dbb54b722a50bc442bda695dc77d6ba7cb47473bea8",
+      "bytes": 5867
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive_inventory_reader_cycle1512.py",
+      "sha256": "b894958054a9fb15f08e3aea330a83f297d08d4b36acfefff17b0a417248ba88",
+      "bytes": 2270
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/read_positive_inventory_cycle1512.py",
+      "sha256": "c33a68e0f09d2aa15bfbc4a30fa0d4fd57dddf4fc12028bbff99441b3ca56d70",
+      "bytes": 7710
+    }
+  ],
+  "normal_controls": 8,
+  "optimized_controls": 8,
+  "helper_coverage": {
+    "covered_lines": 49,
+    "num_statements": 49,
+    "percent_covered": 100.0,
+    "percent_covered_display": "100",
+    "missing_lines": 0,
+    "excluded_lines": 0,
+    "percent_statements_covered": 100.0,
+    "percent_statements_covered_display": "100",
+    "num_branches": 28,
+    "num_partial_branches": 0,
+    "covered_branches": 28,
+    "missing_branches": 0,
+    "percent_branches_covered": 100.0,
+    "percent_branches_covered_display": "100"
+  },
+  "ordinary_vectors_per_mode": 4096,
+  "exact_ordinary_vector_predicate": "degree != 11",
+  "ordinary_vectors_rejected_per_mode": 12,
+  "scope_revision": "Parent authorized optional ordinary linear conjunction before1518freeze",
+  "limits": {
+    "CPU_seconds": 5,
+    "memory_bytes": 536870912,
+    "wall_seconds": 15
+  },
+  "target_passes_attempted": 0
+}

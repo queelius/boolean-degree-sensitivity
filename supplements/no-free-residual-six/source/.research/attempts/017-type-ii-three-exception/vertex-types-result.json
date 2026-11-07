@@ -1,0 +1,405 @@
+{
+ "status": "VERTEX_TYPE_CLASSIFICATION",
+ "budget": 12,
+ "sphere_max": 12,
+ "rp2_max": 9,
+ "component_types": 53,
+ "rows": [
+  {
+   "c6": 0,
+   "split": 0,
+   "plus1": 1,
+   "configurations": 1,
+   "only_single_sphere": true,
+   "component_patterns": [
+    [
+     [
+      "S2",
+      7
+     ]
+    ]
+   ]
+  },
+  {
+   "c6": 0,
+   "split": 0,
+   "plus1": 2,
+   "configurations": 3,
+   "only_single_sphere": true,
+   "component_patterns": [
+    [
+     [
+      "S2",
+      5
+     ]
+    ],
+    [
+     [
+      "S2",
+      6
+     ]
+    ],
+    [
+     [
+      "S2",
+      8
+     ]
+    ]
+   ]
+  },
+  {
+   "c6": 0,
+   "split": 0,
+   "plus1": 3,
+   "configurations": 0,
+   "only_single_sphere": true,
+   "component_patterns": []
+  },
+  {
+   "c6": 0,
+   "split": 1,
+   "plus1": 0,
+   "configurations": 0,
+   "only_single_sphere": true,
+   "component_patterns": []
+  },
+  {
+   "c6": 0,
+   "split": 1,
+   "plus1": 1,
+   "configurations": 0,
+   "only_single_sphere": true,
+   "component_patterns": []
+  },
+  {
+   "c6": 0,
+   "split": 1,
+   "plus1": 2,
+   "configurations": 0,
+   "only_single_sphere": true,
+   "component_patterns": []
+  },
+  {
+   "c6": 0,
+   "split": 2,
+   "plus1": 0,
+   "configurations": 5,
+   "only_single_sphere": false,
+   "component_patterns": [
+    [
+     [
+      "S2",
+      5
+     ],
+     [
+      "S2",
+      5
+     ]
+    ],
+    [
+     [
+      "S2",
+      5
+     ],
+     [
+      "S2",
+      6
+     ]
+    ],
+    [
+     [
+      "S2",
+      5
+     ],
+     [
+      "S2",
+      8
+     ]
+    ],
+    [
+     [
+      "S2",
+      6
+     ],
+     [
+      "S2",
+      6
+     ]
+    ],
+    [
+     [
+      "S2",
+      6
+     ],
+     [
+      "S2",
+      8
+     ]
+    ]
+   ]
+  },
+  {
+   "c6": 0,
+   "split": 2,
+   "plus1": 1,
+   "configurations": 0,
+   "only_single_sphere": true,
+   "component_patterns": []
+  },
+  {
+   "c6": 0,
+   "split": 3,
+   "plus1": 0,
+   "configurations": 0,
+   "only_single_sphere": true,
+   "component_patterns": []
+  },
+  {
+   "c6": 1,
+   "split": 0,
+   "plus1": 0,
+   "configurations": 3,
+   "only_single_sphere": true,
+   "component_patterns": [
+    [
+     [
+      "S2",
+      9
+     ]
+    ],
+    [
+     [
+      "S2",
+      10
+     ]
+    ],
+    [
+     [
+      "S2",
+      11
+     ]
+    ]
+   ]
+  },
+  {
+   "c6": 1,
+   "split": 0,
+   "plus1": 1,
+   "configurations": 2,
+   "only_single_sphere": true,
+   "component_patterns": [
+    [
+     [
+      "S2",
+      8
+     ]
+    ],
+    [
+     [
+      "S2",
+      9
+     ]
+    ]
+   ]
+  },
+  {
+   "c6": 1,
+   "split": 0,
+   "plus1": 2,
+   "configurations": 2,
+   "only_single_sphere": true,
+   "component_patterns": [
+    [
+     [
+      "S2",
+      7
+     ]
+    ],
+    [
+     [
+      "S2",
+      8
+     ]
+    ]
+   ]
+  },
+  {
+   "c6": 1,
+   "split": 1,
+   "plus1": 0,
+   "configurations": 0,
+   "only_single_sphere": true,
+   "component_patterns": []
+  },
+  {
+   "c6": 1,
+   "split": 1,
+   "plus1": 1,
+   "configurations": 0,
+   "only_single_sphere": true,
+   "component_patterns": []
+  },
+  {
+   "c6": 1,
+   "split": 2,
+   "plus1": 0,
+   "configurations": 4,
+   "only_single_sphere": false,
+   "component_patterns": [
+    [
+     [
+      "S2",
+      5
+     ],
+     [
+      "S2",
+      7
+     ]
+    ],
+    [
+     [
+      "S2",
+      5
+     ],
+     [
+      "S2",
+      8
+     ]
+    ],
+    [
+     [
+      "S2",
+      6
+     ],
+     [
+      "S2",
+      7
+     ]
+    ],
+    [
+     [
+      "S2",
+      6
+     ],
+     [
+      "S2",
+      8
+     ]
+    ]
+   ]
+  },
+  {
+   "c6": 2,
+   "split": 0,
+   "plus1": 0,
+   "configurations": 5,
+   "only_single_sphere": true,
+   "component_patterns": [
+    [
+     [
+      "S2",
+      8
+     ]
+    ],
+    [
+     [
+      "S2",
+      9
+     ]
+    ],
+    [
+     [
+      "S2",
+      10
+     ]
+    ],
+    [
+     [
+      "S2",
+      11
+     ]
+    ],
+    [
+     [
+      "S2",
+      12
+     ]
+    ]
+   ]
+  },
+  {
+   "c6": 2,
+   "split": 0,
+   "plus1": 1,
+   "configurations": 4,
+   "only_single_sphere": true,
+   "component_patterns": [
+    [
+     [
+      "S2",
+      8
+     ]
+    ],
+    [
+     [
+      "S2",
+      9
+     ]
+    ],
+    [
+     [
+      "S2",
+      10
+     ]
+    ],
+    [
+     [
+      "S2",
+      11
+     ]
+    ]
+   ]
+  },
+  {
+   "c6": 2,
+   "split": 1,
+   "plus1": 0,
+   "configurations": 0,
+   "only_single_sphere": true,
+   "component_patterns": []
+  },
+  {
+   "c6": 3,
+   "split": 0,
+   "plus1": 0,
+   "configurations": 4,
+   "only_single_sphere": true,
+   "component_patterns": [
+    [
+     [
+      "S2",
+      9
+     ]
+    ],
+    [
+     [
+      "S2",
+      10
+     ]
+    ],
+    [
+     [
+      "S2",
+      11
+     ]
+    ],
+    [
+     [
+      "S2",
+      12
+     ]
+    ]
+   ]
+  }
+ ]
+}

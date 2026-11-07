@@ -1,0 +1,140 @@
+{
+ "runs": [
+  {
+   "name": "tests-014",
+   "argv": [
+    "/usr/local/bin/python",
+    "-m",
+    "pytest",
+    "-q",
+    "-p",
+    "no:cacheprovider"
+   ],
+   "returncode": 0,
+   "seconds": 5.2
+  },
+  {
+   "name": "tests-014-O",
+   "argv": [
+    "/usr/local/bin/python",
+    "-O",
+    "-m",
+    "pytest",
+    "-q",
+    "-p",
+    "no:cacheprovider"
+   ],
+   "returncode": 0,
+   "seconds": 5.4
+  },
+  {
+   "name": "tests-015",
+   "argv": [
+    "/usr/local/bin/python",
+    "-m",
+    "pytest",
+    "-q",
+    "-p",
+    "no:cacheprovider"
+   ],
+   "returncode": 0,
+   "seconds": 1.2
+  },
+  {
+   "name": "tests-015-O",
+   "argv": [
+    "/usr/local/bin/python",
+    "-O",
+    "-m",
+    "pytest",
+    "-q",
+    "-p",
+    "no:cacheprovider"
+   ],
+   "returncode": 0,
+   "seconds": 1.4
+  },
+  {
+   "name": "tests-016",
+   "argv": [
+    "/usr/local/bin/python",
+    "-m",
+    "pytest",
+    "-q",
+    "-p",
+    "no:cacheprovider"
+   ],
+   "returncode": 0,
+   "seconds": 118.5
+  },
+  {
+   "name": "tests-016-O",
+   "argv": [
+    "/usr/local/bin/python",
+    "-O",
+    "-m",
+    "pytest",
+    "-q",
+    "-p",
+    "no:cacheprovider"
+   ],
+   "returncode": 0,
+   "seconds": 116.2
+  },
+  {
+   "name": "tests-017",
+   "argv": [
+    "/usr/local/bin/python",
+    "-m",
+    "pytest",
+    "-q",
+    "-p",
+    "no:cacheprovider"
+   ],
+   "returncode": 0,
+   "seconds": 100.7
+  },
+  {
+   "name": "tests-017-O",
+   "argv": [
+    "/usr/local/bin/python",
+    "-O",
+    "-m",
+    "pytest",
+    "-q",
+    "-p",
+    "no:cacheprovider"
+   ],
+   "returncode": 0,
+   "seconds": 120.2
+  },
+  {
+   "name": "tests-018",
+   "argv": [
+    "/usr/local/bin/python",
+    "-m",
+    "pytest",
+    "-q",
+    "-p",
+    "no:cacheprovider"
+   ],
+   "returncode": 0,
+   "seconds": 13.2
+  },
+  {
+   "name": "tests-018-O",
+   "argv": [
+    "/usr/local/bin/python",
+    "-O",
+    "-m",
+    "pytest",
+    "-q",
+    "-p",
+    "no:cacheprovider"
+   ],
+   "returncode": 0,
+   "seconds": 11.0
+  }
+ ],
+ "seconds": 493.1
+}

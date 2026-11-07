@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "status": "EXTENDED_TRACE_INDEPENDENT_VALIDATION_PASSED",
+  "result": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/extended-trace-result-cycle1522.json",
+    "bytes": 87739,
+    "sha256": "a05934b218610989ddb5a8c23cd59e6006e94e8feba1b0a759d9d8fd4b32bf3e"
+  },
+  "config": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/extended-trace-config-cycle1522.json",
+    "bytes": 2826,
+    "sha256": "070410ae01982924b5da4b8be4b1b0e4e0792727d4f00ce045f1e534c9ac3337"
+  },
+  "preparation": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/extended-trace-preparation-cycle1522.json",
+    "bytes": 3778,
+    "sha256": "94e310263ab0705abbae44f3f9936d2b082d5a977f9a4e9735e4d23d02b0ff33"
+  },
+  "controls": {
+    "normal": 8,
+    "optimized": 8,
+    "coverage": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/extended-trace-coverage-cycle1522.json",
+      "bytes": 4820,
+      "sha256": "37c91a81f37d26cc6c4b3b53d3da31efa97f121460e51f65470f3820505a3e47"
+    }
+  },
+  "actual": {
+    "exec_session": 66550,
+    "observed_exit_code": 0,
+    "reader_CPU_seconds": 4.319921709,
+    "external_user_CPU_seconds": 4.07,
+    "external_system_CPU_seconds": 0.58,
+    "external_wall_seconds": 6.09,
+    "peak_RSS_KiB": 271528,
+    "log": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/extended-trace-actual-cycle1522.log",
+      "bytes": 379,
+      "sha256": "bd0ed82334b8020fd2840d87eb5075fe97b8f9d5ccff146380468f95ba3ac9a0"
+    },
+    "resources": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/extended-trace-resources-cycle1522.txt",
+      "bytes": 944,
+      "sha256": "f5db5f3fc89db5b91f64dcf21b4d3feefe3d2261366a4fd2d3dbb90eddee1b96"
+    }
+  },
+  "all_native_variable_masks_checked": true,
+  "source_ref_occurrences_rebound": 42,
+  "all_processes_terminal": true,
+  "source_changes_after_replay": false,
+  "receipt_finalizer_correction": "optional bytes fields; all hashes and declared sizes unchanged",
+  "reader_target_queries": 0,
+  "global_goal_complete": false
+}

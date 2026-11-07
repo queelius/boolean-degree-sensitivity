@@ -1,0 +1,23 @@
+	Command being timed: "timeout --signal=KILL 40s .research/venv-exact/bin/python .research/attempts/009-parent-analysis/run_tip_interval_pilot_cycle1521.py --plan .research/attempts/009-parent-analysis/tip-interval-plan-cycle1521.json --plan-sha256 2f870743cd7ca7ec802bd071a8aace71db6e5d9f7215bb66cecc9fcb6b48e3d7 --preflight .research/attempts/009-parent-analysis/tip-interval-preflight-cycle1521.json --preflight-sha256 24b07a51519dd90e3ecb2fe41e77321d28a0b1d25e77763b82197b3e8e684909"
+	User time (seconds): 2.61
+	System time (seconds): 0.31
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:02.94
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 271796
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 1
+	Minor (reclaiming a frame) page faults: 82609
+	Voluntary context switches: 4
+	Involuntary context switches: 76
+	Swaps: 0
+	File system inputs: 8
+	File system outputs: 384
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

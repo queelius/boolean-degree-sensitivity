@@ -1,0 +1,150 @@
+{
+  "schema_version": 1,
+  "kind": "UNRESOLVED_RESEARCH_STATUS",
+  "observed_at": "2026-10-21T22:57:59.657642+00:00",
+  "objective_scope": "normalized-n14-degree-at-most-5-full-origin-sensitivity",
+  "global_status": "OPEN",
+  "global_goal_complete": false,
+  "construction_verified": false,
+  "exhaustive_nonexistence_verified": false,
+  "global_completion_fraction": null,
+  "previous_snapshot": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/research-status-cycle1490.json",
+    "sha256": "ce1c90f629d931b37e29ec7b2aafb7e514966ceafdc829a1780a1a4031a86389"
+  },
+  "accepted_new_authorities": {
+    "certificate": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/independent-lrat-authority-cycle1501.json",
+      "sha256": "495f8c5fec2673aab7e0d7f2e2d4ec771426300516ed048475c99f0fefc1f28e"
+    },
+    "certificate_manifest": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/independent-lrat-manifest-cycle1501.json",
+      "sha256": "20219c7da21164d6edd85695006b094c03e519479c8e87a9bad50119c8bab2de"
+    },
+    "certificate_actual": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/independent-lrat-actual-cycle1501.json",
+      "sha256": "dd1038f1b3f6c5c8a48f9e2c01fbeb39d24b4ca979668125e357d61b7e15e3b2"
+    },
+    "cycle1490-late-scientific-handoff.json": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/cycle1490-late-scientific-handoff.json",
+      "sha256": "e9eb451732712c3212d3af2ab3f86f34c366939191df92b534a183462ba97f20"
+    },
+    "native-two-unit-handoff-cycle1498.json": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/native-two-unit-handoff-cycle1498.json",
+      "sha256": "882c3caab9cdd2dd9a0c8a85eb43e86e270a2b67186f9c51b4e19c9be8e31bf9"
+    },
+    "native-two-unit-manifest-cycle1498.json": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/native-two-unit-manifest-cycle1498.json",
+      "sha256": "903c13738e8628401a3b0c50a127d26420ff9f6e19a3501bd7dabd5009952302"
+    },
+    "two-unit-stream-authority-cycle1499.json": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/two-unit-stream-authority-cycle1499.json",
+      "sha256": "c5de5498ce3156e4547a92d947a7757f47b9157f90c98a62f08f0587d3290e57"
+    },
+    "two-unit-stream-manifest-cycle1499.json": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/two-unit-stream-manifest-cycle1499.json",
+      "sha256": "a2979c7c78c91b2947f368815a12912029b1095579f42a7e3d7c33f25ab5b321"
+    },
+    "two-unit-parent-query-authorization-cycle1500.json": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/two-unit-parent-query-authorization-cycle1500.json",
+      "sha256": "4a802aaa09ee493043ff91af25336c5309444d49e3f5237a0f15463d34e25c9e"
+    },
+    "two-unit-query-handoff-cycle1500.json": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/two-unit-query-handoff-cycle1500.json",
+      "sha256": "1daf3c83b074d130581ae6612d6a11e61e6dbc6b1a705f5ea193b748edb1b30c"
+    },
+    "two-unit-query-manifest-cycle1500.json": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/two-unit-query-manifest-cycle1500.json",
+      "sha256": "80199396b96eaeecf2f712e1b47579a7de0e17582f713b312732fb1f075eda2a"
+    },
+    "positive-opposite-parent-acceptance-cycle1508.json": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-opposite-parent-acceptance-cycle1508.json",
+      "sha256": "386b1afab141f35384be28afc640afee7f0c383a938c63ac9fd7a05118f8cbe5"
+    },
+    "filled-positive-link-independent-authority-cycle1508.json": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/filled-positive-link-independent-authority-cycle1508.json",
+      "sha256": "6db261927614dcf738a25166d87facd4668005bbb128b974a48a9212887ff933"
+    },
+    "filled-positive-link-independent-manifest-cycle1508.json": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/filled-positive-link-independent-manifest-cycle1508.json",
+      "sha256": "c4eada5254f037cd94fdf557d917a5f4b9c30549914719ecea952a0add6c8e66"
+    },
+    "meridian-cocycle-handoff-cycle1504.json": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/meridian-cocycle-handoff-cycle1504.json",
+      "sha256": "8440edd896774f431c79f7a3db7647ffc792a1fd28695aee316e8a76df00916d"
+    },
+    "fourier-extension-written-review-cycle1504.json": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/fourier-extension-written-review-cycle1504.json",
+      "sha256": "0b0c336a05e4c8ab183008ac85a0ff456f54d93b4373aa75087e9171d89a1c45"
+    },
+    "primary-hatcher-schoenflies-check-cycle1509.json": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/primary-hatcher-schoenflies-check-cycle1509.json",
+      "sha256": "8b3c8e031b4a8f96c6c21d86adf5cb33b469515cdb18c88f60cc5ebedf6129c6"
+    }
+  },
+  "active_original_pattern_ledger": {
+    "path": "/home/spinoza/github/math-theory/.research/findings/negative-quintic-pattern-cases-cycle1388.json",
+    "sha256": "5b94339365819a126c954e60529cb50b70c4ed7dd161f1be629ede1462039c12"
+  },
+  "original_patterns": {
+    "total": 73,
+    "excluded": 44,
+    "open": 29,
+    "statuses_changed_here": 0
+  },
+  "original_functions_assumed_selfdual": false,
+  "typed_signed_star_frontier": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-genuine-frontier-cycle1510.json",
+    "sha256": "3621b82295391042e64d4ba49091e98ab74170801a36af9ee19a211efc722da2"
+  },
+  "raw_row_model_counts": {
+    "EXCLUDED": 1,
+    "OPEN": 25
+  },
+  "genuine_context_counts": {
+    "EXCLUDED": 2,
+    "OPEN": 24
+  },
+  "genuine_root_counts": {
+    "OPEN": 12,
+    "EXCLUDED": 1
+  },
+  "complete_root7_genuine_exclusion": true,
+  "new_general_positive_opposite_triangle_theorem": true,
+  "geometry25_frontier": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/g25-first-scalar-frontier-cycle1300.json",
+    "sha256": "5019c1c58b6c82a4ae9fa288598ef36db0243ebc14d7ad276237d92b0ef4f849"
+  },
+  "geometry25_counts": {
+    "direct": 193,
+    "original_excluded": 224,
+    "original_total": 492,
+    "coarsened_excluded": 118,
+    "coarsened_total": 266,
+    "raw_scalars_excluded": 2588,
+    "raw_scalars_total": 5160,
+    "whole_geometry_excluded": false
+  },
+  "G25_fresh_raw_recount": false,
+  "publication": {
+    "version": "1.4.0",
+    "version_doi": "10.5281/zenodo.23544931",
+    "central_commit": "7932d439ed17f809d421661620d2b603ea6010bb",
+    "central_record_url": "https://github.com/queelius/research-records/tree/7932d439ed17f809d421661620d2b603ea6010bb/records/boolean-degree-five-spectral-exclusions",
+    "all65_public_bodies_verified": true,
+    "seven_central_public_files_verified": true,
+    "current1490_findings_in_version1_4": false,
+    "later_readiness": "Signed-star topology/missing-triangle and exact local exclusion are candidates for a coherent portable existing-family successor. Preserve local/historical premises, source pins, countercontrols and AI disclosure; no new deposit authorized by this checkpoint."
+  },
+  "current1510_findings_in_public1_4": false,
+  "next_scientific_gate": "Structured all-positive-unit extraction and costed propagation for an OPEN order8 context; no target query authorized.",
+  "processes_claimed_live": false,
+  "execution": {
+    "goal_turn_classification": "PROGRESS",
+    "reason": "Independent complete c2 proof closes root7 for genuine objects; general positive-edge triangle theorem covers every root order.",
+    "scientific_external_blocker": false
+  },
+  "bookkeeping_replays_mathematics": false,
+  "older_transitive_closure_rehashed": false,
+  "cross_scope_counts_additive": false
+}

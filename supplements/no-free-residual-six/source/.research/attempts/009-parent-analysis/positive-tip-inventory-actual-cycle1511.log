@@ -1,0 +1,1 @@
+{"status": "PROPOSED_COMPLETE_POSITIVE_TIP_CONSTRAINT_INVENTORY", "model_count": 26, "positive_tip_count": 20, "added_row_count": 40, "genuine_context_counts": {"EXCLUDED": 2, "OPEN": 24}, "source_only_CPU_seconds": 0.91057002, "peak_RSS_bytes": 193847296}

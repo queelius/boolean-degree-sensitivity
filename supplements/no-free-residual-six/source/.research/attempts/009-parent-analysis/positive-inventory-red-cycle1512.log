@@ -1,0 +1,18 @@
+test_positive_inventory_reader_cycle1512 (unittest.loader._FailedTest) ... ERROR
+
+======================================================================
+ERROR: test_positive_inventory_reader_cycle1512 (unittest.loader._FailedTest)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: test_positive_inventory_reader_cycle1512
+Traceback (most recent call last):
+  File "/home/spinoza/.local/share/uv/python/cpython-3.10-linux-x86_64-gnu/lib/python3.10/unittest/loader.py", line 154, in loadTestsFromName
+    module = __import__(module_name)
+  File "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_positive_inventory_reader_cycle1512.py", line 2, in <module>
+    from positive_inventory_reader_cycle1512 import native_order,derive,transport
+ModuleNotFoundError: No module named 'positive_inventory_reader_cycle1512'
+
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+FAILED (errors=1)

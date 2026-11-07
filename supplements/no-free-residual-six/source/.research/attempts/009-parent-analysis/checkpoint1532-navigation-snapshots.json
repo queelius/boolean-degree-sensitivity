@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "status": "IMMUTABLE_NAVIGATION_SNAPSHOT",
+  "purpose": "Preserve the CLAUDE.md bytes pinned by cycle1532-parent-manifest.json before the entry document is updated. Documentation snapshot, not mathematical evidence.",
+  "snapshots": [
+    {
+      "original_navigation_path": "/home/spinoza/github/math-theory/CLAUDE.md",
+      "snapshot": {
+        "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/claude-entry-cycle1532.md",
+        "sha256": "06d105b24d6036cdedfbb52b3bedde056d31d16b65786f4085c2002597dc3fee"
+      }
+    }
+  ]
+}

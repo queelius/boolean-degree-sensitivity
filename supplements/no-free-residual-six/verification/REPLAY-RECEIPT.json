@@ -1,0 +1,240 @@
+{
+ "schema_version": 1,
+ "kind": "V1_5_0_REPLAY_RECEIPT",
+ "started": "2026-11-06T07:34:36.615377+00:00",
+ "finished": "2026-11-06T08:36:04.285892+00:00",
+ "complete": true,
+ "stages": [
+  "sources",
+  "store",
+  "c014",
+  "c017",
+  "c018",
+  "controls",
+  "tests"
+ ],
+ "jobs": 2,
+ "python": "3.10.20 (main, Aug  5 2026, 01:14:04) [GCC 12.2.0]",
+ "driver_sha256": "7909a86687a293883fafe24a6aaea8a9783b27243adafc08ac06760953ad1091",
+ "manifests": {
+  "SOURCE-MANIFEST.json": "65c268ec7b87f74f38b46507d00d6db83a1d54fccecb83c644643dd1b08eb422",
+  "CERTIFICATE-MANIFEST.json": "932ebb99a6ec824fe60258cbc1d9855613403b673adb660293ec9fec49b75fd1"
+ },
+ "controls_sha256": "1a134b24e481db77d4bf0d33484311fed8866d99b33c9305635fea53c5baedc2",
+ "summary": {
+  "sources": {
+   "files": 580,
+   "bytes": 102303937,
+   "seconds": 0.1
+  },
+  "store": {
+   "files": 41304,
+   "stored_bytes": 17828321925,
+   "original_bytes": 100838384116,
+   "seconds": 39.6
+  },
+  "c014": {
+   "certificates": 26,
+   "contexts_1531": 24,
+   "root7_c2_1533": 1,
+   "root7_c1_control": 1,
+   "seconds": 55.1
+  },
+  "c017": {
+   "status": "ALL_CASES_VERIFIED",
+   "certificates": 3184,
+   "rejected": 0,
+   "missing": 0,
+   "results_equal_archived": true,
+   "seconds": 362.9,
+   "receipt": "read-all-017.json",
+   "receipt_sha256": "6585026e5ff5b15a91fa43ecf4b08470d53c0fba1387564daff9e01fe6f0b015"
+  },
+  "c018": {
+   "status": "ALL_L1_CASES_VERIFIED",
+   "certificates": 3662,
+   "rejected": 0,
+   "missing": 0,
+   "results_equal_archived": true,
+   "seconds": 2667.6,
+   "receipt": "read-all-018.json",
+   "receipt_sha256": "6852c6c95c54a701b5e490b4ce37b9f58bbe3f60ff2b60ee0128b18935cdc7a9"
+  },
+  "controls": {
+   "runs": [
+    {
+     "name": "controls",
+     "argv": [
+      "/usr/local/bin/python",
+      "/packet/run_controls.py"
+     ],
+     "returncode": 0,
+     "seconds": 34.7
+    },
+    {
+     "name": "controls-O",
+     "argv": [
+      "/usr/local/bin/python",
+      "-O",
+      "/packet/run_controls.py"
+     ],
+     "returncode": 0,
+     "seconds": 34.5
+    }
+   ],
+   "receipts": [
+    {
+     "controls": 15,
+     "passed": 15,
+     "optimized": false
+    },
+    {
+     "controls": 15,
+     "passed": 15,
+     "optimized": true
+    }
+   ],
+   "seconds": 69.2
+  },
+  "tests": {
+   "runs": [
+    {
+     "name": "tests-014",
+     "argv": [
+      "/usr/local/bin/python",
+      "-m",
+      "pytest",
+      "-q",
+      "-p",
+      "no:cacheprovider"
+     ],
+     "returncode": 0,
+     "seconds": 5.2
+    },
+    {
+     "name": "tests-014-O",
+     "argv": [
+      "/usr/local/bin/python",
+      "-O",
+      "-m",
+      "pytest",
+      "-q",
+      "-p",
+      "no:cacheprovider"
+     ],
+     "returncode": 0,
+     "seconds": 5.4
+    },
+    {
+     "name": "tests-015",
+     "argv": [
+      "/usr/local/bin/python",
+      "-m",
+      "pytest",
+      "-q",
+      "-p",
+      "no:cacheprovider"
+     ],
+     "returncode": 0,
+     "seconds": 1.2
+    },
+    {
+     "name": "tests-015-O",
+     "argv": [
+      "/usr/local/bin/python",
+      "-O",
+      "-m",
+      "pytest",
+      "-q",
+      "-p",
+      "no:cacheprovider"
+     ],
+     "returncode": 0,
+     "seconds": 1.4
+    },
+    {
+     "name": "tests-016",
+     "argv": [
+      "/usr/local/bin/python",
+      "-m",
+      "pytest",
+      "-q",
+      "-p",
+      "no:cacheprovider"
+     ],
+     "returncode": 0,
+     "seconds": 118.5
+    },
+    {
+     "name": "tests-016-O",
+     "argv": [
+      "/usr/local/bin/python",
+      "-O",
+      "-m",
+      "pytest",
+      "-q",
+      "-p",
+      "no:cacheprovider"
+     ],
+     "returncode": 0,
+     "seconds": 116.2
+    },
+    {
+     "name": "tests-017",
+     "argv": [
+      "/usr/local/bin/python",
+      "-m",
+      "pytest",
+      "-q",
+      "-p",
+      "no:cacheprovider"
+     ],
+     "returncode": 0,
+     "seconds": 100.7
+    },
+    {
+     "name": "tests-017-O",
+     "argv": [
+      "/usr/local/bin/python",
+      "-O",
+      "-m",
+      "pytest",
+      "-q",
+      "-p",
+      "no:cacheprovider"
+     ],
+     "returncode": 0,
+     "seconds": 120.2
+    },
+    {
+     "name": "tests-018",
+     "argv": [
+      "/usr/local/bin/python",
+      "-m",
+      "pytest",
+      "-q",
+      "-p",
+      "no:cacheprovider"
+     ],
+     "returncode": 0,
+     "seconds": 13.2
+    },
+    {
+     "name": "tests-018-O",
+     "argv": [
+      "/usr/local/bin/python",
+      "-O",
+      "-m",
+      "pytest",
+      "-q",
+      "-p",
+      "no:cacheprovider"
+     ],
+     "returncode": 0,
+     "seconds": 11.0
+    }
+   ],
+   "seconds": 493.1
+  }
+ }
+}

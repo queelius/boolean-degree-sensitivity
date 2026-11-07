@@ -1,0 +1,89 @@
+{
+  "status": "INDEPENDENT_READER_PREPARED_NO_NATIVE_PASS",
+  "normal_controls": 8,
+  "optimized_controls": 8,
+  "adapter_coverage": {
+    "covered_lines": 28,
+    "num_statements": 28,
+    "percent_covered": 100.0,
+    "percent_covered_display": "100",
+    "missing_lines": 0,
+    "excluded_lines": 0,
+    "percent_statements_covered": 100.0,
+    "percent_statements_covered_display": "100",
+    "num_branches": 2,
+    "num_partial_branches": 0,
+    "covered_branches": 2,
+    "missing_branches": 0,
+    "percent_branches_covered": 100.0,
+    "percent_branches_covered_display": "100"
+  },
+  "initial_red": "ModuleNotFoundError before adapter implementation; observed tool exit1, no targetIO",
+  "sources": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/extended_trace_reader_cycle1522.py",
+      "bytes": 1948,
+      "sha256": "306a6e6d02543fe7da9f679173b6cd76116c758894591557e22476f6cc946aa2"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/read_extended_trace_cycle1522.py",
+      "bytes": 6632,
+      "sha256": "a8d5a0dc07763b27d7bc8a4ba657d09d69cde64b3d98c0b7a5c71a4215d9c938"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_extended_trace_reader_cycle1522.py",
+      "bytes": 3744,
+      "sha256": "3b8a9e6641ac97252c6144eb8b705491c2587d1254968e2a4f30acaab15734d8"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/extended-trace-controls-normal-cycle1522.log",
+      "bytes": 748,
+      "sha256": "1ac23905b79ace7fe9abe55818f7b26667aefc4c951700e8978a2c2eb9548aab"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/extended-trace-controls-optimized-cycle1522.log",
+      "bytes": 748,
+      "sha256": "1ac23905b79ace7fe9abe55818f7b26667aefc4c951700e8978a2c2eb9548aab"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/extended-trace-covered-controls-cycle1522.log",
+      "bytes": 106,
+      "sha256": "60bb849356ffbc091f601e17fc6ae0b2eb5e26d734d433da020c6e775efbf97f"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/extended-trace-coverage-cycle1522.json",
+      "bytes": 4820,
+      "sha256": "37c91a81f37d26cc6c4b3b53d3da31efa97f121460e51f65470f3820505a3e47"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/gap_transcript_reader_cycle1436.py",
+      "bytes": 7701,
+      "sha256": "da0d90208ab9b77d4ce607d13ecc7f233e6729b7b1638abb75ceda34d96bf56c"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/exact_tip_inventory_reader_cycle1519.py",
+      "bytes": 4035,
+      "sha256": "d0663727c183a292070b24fb1f3b9b6f75508d02b9f044d9d075ba3416ba76f7"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive_inventory_reader_cycle1512.py",
+      "bytes": 2270,
+      "sha256": "b894958054a9fb15f08e3aea330a83f297d08d4b36acfefff17b0a417248ba88"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/read_positive_inventory_cycle1512.py",
+      "bytes": 7710,
+      "sha256": "c33a68e0f09d2aa15bfbc4a30fa0d4fd57dddf4fc12028bbff99441b3ca56d70"
+    }
+  ],
+  "limits": {
+    "CPU_soft": 10,
+    "CPU_hard": 11,
+    "wall_seconds": 30,
+    "AS_bytes": 536870912
+  },
+  "forecast": "Historical independent1436 full838k-term check3.22CPU; added1946terms and fresh1519cut reconstruction expected within10CPU. Not a convergence/solver forecast.",
+  "target_passes": 0,
+  "target_queries": 0,
+  "global_goal_complete": false
+}

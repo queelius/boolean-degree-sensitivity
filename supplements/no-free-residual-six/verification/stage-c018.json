@@ -1,0 +1,10 @@
+{
+ "status": "ALL_L1_CASES_VERIFIED",
+ "certificates": 3662,
+ "rejected": 0,
+ "missing": 0,
+ "results_equal_archived": true,
+ "seconds": 2667.6,
+ "receipt": "read-all-018.json",
+ "receipt_sha256": "6852c6c95c54a701b5e490b4ce37b9f58bbe3f60ff2b60ee0128b18935cdc7a9"
+}

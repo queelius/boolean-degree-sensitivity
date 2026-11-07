@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "status": "PROPOSED_CONSTANT0_3_EXTENSION_PENDING_INDEPENDENT_REPLAY",
+  "recorded_at": "2026-10-21T23:25:49.154080+00:00",
+  "sources": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/adjacent-two-negative-constant-extension-cycle1526.md",
+      "sha256": "f08efaee4026d47ce3be2c1ad167dfcc65893aedd1696d3e3dc4e6071998f78b",
+      "bytes": 6977
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/independent-math-audit/two-adjacent-negative-cubic-audit.md",
+      "sha256": "546e79961ae26f13c72b2f2e947ea9e9cc47a7945e0462d53d9773dd50dd4094",
+      "bytes": 7627
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/independent-math-audit/two-adjacent-negative-cubic-independent-verification.json",
+      "sha256": "12f650e0fcfc141de7195d46641342704cea93255093c20e43dbfaea4db6c090",
+      "bytes": 17463
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/two-negative-cubic-ordinary-compact-proofs.json",
+      "sha256": "d98b5ca81b5b848dd36977b637c658284edc9138aa093132ac88ceae6d1e7d50",
+      "bytes": 790659
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/independent-math-audit/verify_two_adjacent_negative_cubic.py",
+      "sha256": "6db23989679164111afdc5507ad08de8070a79ddf49311e054f94e2eb816a854",
+      "bytes": 22291
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/two-adjacent-negative-cubic-structural-audit.md",
+      "sha256": "2cb774d0cc4b21cfde077038ca9fd5f64b63c2e4dff7b275cd65821ce1c4d9ca",
+      "bytes": 3575
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/one-free-source-handoff-cycle1513.json",
+      "sha256": "b53cc1c87160b14800c0f66ffdec7c81ea253e68a6f86ad5c8cbfaff1cf9f163",
+      "bytes": 7209
+    }
+  ],
+  "source_summary": {
+    "compact_cases": 9,
+    "literal_rows": 945,
+    "deductions": 1111,
+    "retained_global_face_count_rows": 0
+  },
+  "new_structural_bound": {
+    "cross_edges_upper": 10,
+    "if_all_good_cross_degree_at_least2_lower": 11,
+    "good_cross_degree1_forces_cross_edges_lower": 11
+  },
+  "fresh_compact_replay_performed": false,
+  "old_sphere_cover_replayed": false,
+  "target_queries": 0,
+  "original_patterns_open": 29,
+  "global_goal_complete": false
+}

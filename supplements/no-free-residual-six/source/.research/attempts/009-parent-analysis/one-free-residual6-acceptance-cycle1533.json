@@ -1,0 +1,223 @@
+{
+ "status": "ACCEPTED_CONDITIONAL_ONE_FREE_RESIDUAL6_EXCLUDED",
+ "cycle": 1533,
+ "author": "Alexander Richard Towell; substantial AI assistance (OpenAI Codex for cycles <= 1530 and as reviewer in 017, Claude Code Opus 5.5 for 014 to 017)",
+ "statement": "In the selfdual existence representative, the one-free residual-six case (residual Fourier defect <= 6 with exactly one negative-free coordinate) has no Boolean function: Types I and III were excluded in 1532, and the 24 Type II shape classes left open there are excluded by 3184 case certificates (LRAT, independent reader) over an independently checked cover, each valid at c = 1 and c = 2. Also: the root-7 signed-star context o7-i0-c2 has infeasible raw rows without the 1497 unit clauses (014 raw pipeline, LRAT, 014 reader), so all 26 signed-star contexts are excluded on raw rows.",
+ "conditional_on": [
+  "everything checkpoint 1532 accepts for Types I and III, and the 1513/1523 trichotomy with its premises",
+  "the written lemmas VERTEX-TYPES.md, CROSS-EDGES.md, NEAR-FLAG.md, SPECIAL-SHAPES.md (AI-reviewed)",
+  "the 015 sphere enumeration (Steinitz-Rademacher contractible edges, pynauty certificates, Whitney uniqueness); CaDiCaL 3.0.1 and the pinned lrat-trim",
+  "for o7-i0-c2: the 009 native raw rows and the 1409 premises, as for the other signed-star contexts"
+ ],
+ "evidence": {
+  "frontier": {
+   "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/one-free-residual6-frontier-cycle1533.json",
+   "sha256": "d202579c43e1d45cd0b4fe7533959f7e010cb6fbd85f990812729be5954f00bd"
+  },
+  "previous_frontier": {
+   "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/one-free-residual6-frontier-cycle1532.json",
+   "sha256": "75d9b96f8d642177775c82dbbfe414c174701de6777b6660ff0a5879edfae71b"
+  },
+  "assembly": {
+   "path": "/home/spinoza/github/math-theory/.research/attempts/017-type-ii-three-exception/read-all-result.json",
+   "sha256": "6585026e5ff5b15a91fa43ecf4b08470d53c0fba1387564daff9e01fe6f0b015"
+  },
+  "notes": [
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/017-type-ii-three-exception/PLAN.md",
+    "sha256": "74e48712f8de3fcdaeb5b09a7b317e24043e4592f64402b85262e73e9db74647"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/017-type-ii-three-exception/VERTEX-TYPES.md",
+    "sha256": "59a23f35673a8e769ad410fc4ce0b5cf395d383c3bc3916fde0546ee40a457fa"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/017-type-ii-three-exception/CROSS-EDGES.md",
+    "sha256": "600e39e69bf5182ee3c849d3c219d23ad80a20bd89808d31c4a1d9abb440f29e"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/017-type-ii-three-exception/NEAR-FLAG.md",
+    "sha256": "51fa5b8d3f123e90633aa211775087e212b7bd81b8188c90b1d421c6d9be6c30"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/017-type-ii-three-exception/SPECIAL-SHAPES.md",
+    "sha256": "ba0d94e9b429bac345b42ba72d03ae1157da792b59911f604a825b42d17a3441"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/017-type-ii-three-exception/CERTIFICATES.md",
+    "sha256": "5efed79e0d7c0a32626b16d4c24d94ed340d5ffb64d93935bdda228feae045e3"
+   }
+  ],
+  "reviews": [
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/017-type-ii-three-exception/REVIEW-vertex-types.md",
+    "sha256": "2affe3381787774114de9d94dabf3cc117a2f5c28fe2ce72556bf15b8c264f3e"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/017-type-ii-three-exception/REVIEW-vertex-types-codex.md",
+    "sha256": "c9b0c3aa0e41d422d4e14b6defd001ec68082e7f49c291588359e54f7f4cf319"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/017-type-ii-three-exception/REVIEW-cross-edges-codex.md",
+    "sha256": "595d89afe503eec696acd88cc180e8856cb47ed5bfd2ebd3d5ac7477010d6431"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/017-type-ii-three-exception/REVIEW-chain-codex.md",
+    "sha256": "7fb10e564d3d192ff1e8f49a741cbddb8a34372b61f9b27d57e9403263055f3d"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/017-type-ii-three-exception/REVIEW-special-codex.md",
+    "sha256": "cf167bba00e364c0531e024050074193d5f9595d6b7516c597d75e74e3f0dc4c"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/017-type-ii-three-exception/REVIEW-final-codex.md",
+    "sha256": "6ac2c330715ee30e4057ec14c02aeb6c2d583e4809e2066926b4e2cc7d5e2566"
+   }
+  ],
+  "data": [
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/017-type-ii-three-exception/vertex-types-result.json",
+    "sha256": "ebc88161c69c6c170b0e9699c260328f260cbcd381251d5daed2f6612cec965d"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/017-type-ii-three-exception/roots-catalog.json",
+    "sha256": "41e7cfdada8e0b67b842557dec0141af1c8b660bd8cc48e8337ed72f93aca4f5"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/017-type-ii-three-exception/deltahedra.json",
+    "sha256": "d15f99accfaee57106d4f9992f7b2c4e94461e50273c7047fba1d70b11468c06"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/017-type-ii-three-exception/near-flag-result.json",
+    "sha256": "79847588116eabe9e094cdfd876873591d31fc19babd261a6ef95d15b39490c4"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/017-type-ii-three-exception/cover-cases.json",
+    "sha256": "2208c3fafc3950c82df6bf505f28ebc08e25209bb02e6c0d22e221e51f41211c"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/017-type-ii-three-exception/triangle-cover.json",
+    "sha256": "83f60263fa1c9174f122cf9e2207667861ad62d7c06649c94d7caaf7e70e968f"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/017-type-ii-three-exception/shape1-cover.json",
+    "sha256": "b48aa9234a2e7d13e3e38a996daa8d25eb33a826d550634c3ebdb744423eef02"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/017-type-ii-three-exception/read-all-result.json",
+    "sha256": "6585026e5ff5b15a91fa43ecf4b08470d53c0fba1387564daff9e01fe6f0b015"
+   }
+  ],
+  "scripts": [
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/017-type-ii-three-exception/surfaces.py",
+    "sha256": "ade612edeb0158e79683943aed24d818b91d3c3840ff007f196ce50d09ae7c7c"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/017-type-ii-three-exception/vertex_types.py",
+    "sha256": "63da20dec85a16a4f8b2b40adf93422ce13f151b686ad7d824a0da4cb61f1394"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/017-type-ii-three-exception/step4_count.py",
+    "sha256": "bdd675fbe6af8309742c8e303804192274a6f5e200087835e7ff626a5429c794"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/017-type-ii-three-exception/roots.py",
+    "sha256": "90e48b02810fb5fb62780f2b4ac171fba6a36d35bb411409bc3970a122bde32b"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/017-type-ii-three-exception/near_flag.py",
+    "sha256": "101132945e6e2295eb05903d3b04215dcfd7d3a3c92996837220aff70e12a5a2"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/017-type-ii-three-exception/cases.py",
+    "sha256": "8c4613ebf6fac5f4c7a28b41748470d750686b3f66d378d89185bc65535e6131"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/017-type-ii-three-exception/cover_reader.py",
+    "sha256": "d95f2ec6c18a1e9ddd7a000f04955fb3d6c505514ca28d182cedfacf5cce1ec0"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/017-type-ii-three-exception/model.py",
+    "sha256": "9ae686bacfd12e5f481cb3a3fc41beccaff40e07e856edafd880ac1e1d6bfe1e"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/017-type-ii-three-exception/solve_cases.py",
+    "sha256": "d20a1877156815fe4b14928837276debaf093155b74bd2dedcd8ed70164766d4"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/017-type-ii-three-exception/certify017.py",
+    "sha256": "30b72c92b76d7e09596f5dd0c0b3d5d8951f1b91163a9b38a984a97416d640b6"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/017-type-ii-three-exception/reader017.py",
+    "sha256": "15f563ac231b57e0604f9ddb7be7b6f25440ed9c87fe575c9daea7c1dcccdeec"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/017-type-ii-three-exception/run_cover.py",
+    "sha256": "05f4ed806cf86da7d814715dd614afc8c92b8d271e0e807eff6ab7270006ecce"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/017-type-ii-three-exception/read_all.py",
+    "sha256": "110f114999179422bc5c05cffed413a18142ade958a60c01b45b844e471d659a"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/017-type-ii-three-exception/make_acceptance_1533.py",
+    "sha256": "9425823f1f03212b5118188f14d54ea129c16091343fc093d84523c27c938266"
+   }
+  ],
+  "tests": [
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/017-type-ii-three-exception/test_surfaces_vertex_types.py",
+    "sha256": "0f9b4fab0755a3ae798db5df8cee4f792a9fcf3f320d0e8c18a362a1ff2d7212"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/017-type-ii-three-exception/test_step4_count.py",
+    "sha256": "9ba30d9c162f8627e0374a0185df4639c1cb12880e65d8c45cca582c104d8c51"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/017-type-ii-three-exception/test_reader017.py",
+    "sha256": "cec4d6537990e33458eebe026fe218e504279509d6ee2586e565d0f67f83faab"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/017-type-ii-three-exception/test_cover.py",
+    "sha256": "598d24c13b9531c8c000437249bc6ddb515d9b00f1181c060341d159166f7465"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/017-type-ii-three-exception/test_assembly.py",
+    "sha256": "9c4c33def675ff5fe215f5cca16da1f750d2e945aebf14307a41cedad8c3c6ff"
+   }
+  ],
+  "root7_c2": {
+   "note": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/ROOT7-C2-RAW.md",
+    "sha256": "bbf259f348e3ad448f4b961e57af0bbb3845c07bc4e84d697387c67442573529"
+   },
+   "certificate": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/certs/raw-1.json",
+    "sha256": "25c83a652ed92d5f67936c8fa9ba5dfde23dff6f18bebcb02348dbbec595d58c"
+   },
+   "reader_result": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/certs/raw-1.verify.json",
+    "sha256": "88a4fac36a9b2f6fb136e099bdd680cf179ae5c8c5f242e238f948da5803a972"
+   },
+   "core": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/cores/raw-1.json",
+    "sha256": "1a5afe830077bc8fcdc995977ed3eb7123be98a91e93d1f2c47c2d1880c8b534"
+   }
+  },
+  "previous_acceptance": {
+   "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/one-free-residual6-acceptance-cycle1532.json",
+   "sha256": "20cfb7d08f50b2496e36b6a28795381205d9fdac09f05e22903e77fe47d230fb"
+  }
+ },
+ "review_kind": "written lemmas and code reviewed by OpenAI Codex (four reviews plus an end-to-end audit with a sampled certificate re-check) and a Claude subagent; exact checks and 44 tests in normal and -O mode; certificates checked by an independent reader and lrat-trim; not human peer review or formal verification",
+ "still_open": [
+  "the no-free residual-six case",
+  "residual Fourier defect above six"
+ ],
+ "whole_patterns_changed": 0,
+ "open_patterns": 29,
+ "global_goal_complete": false,
+ "global_status": "OPEN"
+}

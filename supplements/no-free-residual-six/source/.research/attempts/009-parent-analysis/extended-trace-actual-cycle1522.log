@@ -1,0 +1,1 @@
+{"status": "INDEPENDENT_EXTENDED_PREFIX_ACCEPTED_INCONCLUSIVE", "result": {"path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/extended-trace-result-cycle1522.json", "sha256": "a05934b218610989ddb5a8c23cd59e6006e94e8feba1b0a759d9d8fd4b32bf3e", "bytes": 87739}, "CPU_seconds": 4.319921709, "fixed_variables": 344, "steps": 344, "contradiction": null}

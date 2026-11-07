@@ -1,0 +1,17 @@
+E
+======================================================================
+ERROR: test_augmented_interval_pilot_cycle1521 (unittest.loader._FailedTest)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: test_augmented_interval_pilot_cycle1521
+Traceback (most recent call last):
+  File "/home/spinoza/.local/share/uv/python/cpython-3.10-linux-x86_64-gnu/lib/python3.10/unittest/loader.py", line 154, in loadTestsFromName
+    module = __import__(module_name)
+  File "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_augmented_interval_pilot_cycle1521.py", line 8, in <module>
+    import augmented_interval_pilot_cycle1521 as pilot
+ModuleNotFoundError: No module named 'augmented_interval_pilot_cycle1521'
+
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+FAILED (errors=1)

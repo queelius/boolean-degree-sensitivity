@@ -1,0 +1,36 @@
+{
+ "runs": [
+  {
+   "name": "controls",
+   "argv": [
+    "/usr/local/bin/python",
+    "/packet/run_controls.py"
+   ],
+   "returncode": 0,
+   "seconds": 34.7
+  },
+  {
+   "name": "controls-O",
+   "argv": [
+    "/usr/local/bin/python",
+    "-O",
+    "/packet/run_controls.py"
+   ],
+   "returncode": 0,
+   "seconds": 34.5
+  }
+ ],
+ "receipts": [
+  {
+   "controls": 15,
+   "passed": 15,
+   "optimized": false
+  },
+  {
+   "controls": 15,
+   "passed": 15,
+   "optimized": true
+  }
+ ],
+ "seconds": 69.2
+}

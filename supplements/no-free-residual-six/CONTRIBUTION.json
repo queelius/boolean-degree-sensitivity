@@ -1,0 +1,93 @@
+{
+ "schema_version": 1,
+ "contribution_id": "boolean-degree-five-spectral-exclusions",
+ "version": "1.5.0",
+ "reserved_version_doi": "10.5281/zenodo.23999933",
+ "concept_doi": "10.5281/zenodo.23496541",
+ "title": "Degree-five Boolean candidates: residual six with a negative-free coordinate excluded and two whole negative-quintic patterns excluded",
+ "global_problem_status": "OPEN",
+ "actual_boolean_construction": false,
+ "exhaustive_nonexistence_proof": false,
+ "normalization": "existence-preserving self-dual empty-pair representative; arbitrary f not assumed self-dual",
+ "checkpoints": [
+  {
+   "cycle": 1531,
+   "authority": "source/.research/attempts/009-parent-analysis/signed-star-two-free-acceptance-cycle1531.json",
+   "result": "residual <= 6 with >= 2 negative-free coordinates excluded (26 signed-star contexts)"
+  },
+  {
+   "cycle": 1532,
+   "authority": "source/.research/attempts/009-parent-analysis/one-free-residual6-acceptance-cycle1532.json",
+   "result": "one-free residual six: Types I and III excluded, Type II reduced to 24 shape classes"
+  },
+  {
+   "cycle": 1533,
+   "authority": "source/.research/attempts/009-parent-analysis/one-free-residual6-acceptance-cycle1533.json",
+   "result": "one-free residual six excluded (3,184 certificates); o7-i0-c2 excluded on raw rows"
+  },
+  {
+   "cycle": 1534,
+   "authority": "source/.research/attempts/009-parent-analysis/no-free-residual6-acceptance-cycle1534.json",
+   "result": "lemma L1; whole patterns (2,2,2,2) and (2,2,2,2,1) excluded (3,662 certificates, 2,221 cases, 4,442 obligations)"
+  }
+ ],
+ "open_patterns_after": 27,
+ "original_patterns": 73,
+ "verification": {
+  "staged_container_replay": "PASSED",
+  "receipt": "verification/REPLAY-RECEIPT.json",
+  "source_files_verified": 580,
+  "certificate_files_verified": 41304,
+  "c014_certificates": 26,
+  "c017": {
+   "status": "ALL_CASES_VERIFIED",
+   "certificates": 3184,
+   "rejected": 0,
+   "missing": 0
+  },
+  "c018": {
+   "status": "ALL_L1_CASES_VERIFIED",
+   "certificates": 3662,
+   "rejected": 0,
+   "missing": 0
+  },
+  "controls": [
+   {
+    "controls": 15,
+    "passed": 15,
+    "optimized": false
+   },
+   {
+    "controls": 15,
+    "passed": 15,
+    "optimized": true
+   }
+  ],
+  "written_reductions_checked_by_replay": false,
+  "review": "AI review (OpenAI Codex, Claude subagents); not human peer review",
+  "proof_assistant_formalization": false,
+  "novelty_assessed": false
+ },
+ "excluded": "work after checkpoint 1534 (attempt 019 and later), which is not accepted",
+ "disclosure": {
+  "private_research_records": "2026-10-23 to 2026-10-24 (checkpoints 1531 to 1534, unpublished research tree)",
+  "first_public_disclosure": "this archive; its date is the Zenodo publication date",
+  "previous_public_source": "https://github.com/queelius/boolean-degree-sensitivity (last commit 2026-10-21, v1.4.0 scope; does not contain these results)"
+ },
+ "restored_pinned_bytes": [
+  "/home/spinoza/github/math-theory/.research/attempts/018-no-free-residual-six/README.md"
+ ],
+ "authors": [
+  {
+   "name": "Alexander Richard Towell",
+   "orcid": "0000-0001-6443-9897",
+   "affiliation": "Southern Illinois University Edwardsville"
+  }
+ ],
+ "ai_assistance": "substantial: OpenAI Codex (cycles <= 1530; reviewer and auditor for 017 and 018), Claude Code with Claude Opus 5.5 (attempts 011 to 018, this packet)",
+ "licenses": {
+  "code": "MIT",
+  "notes_certificates_data": "CC-BY-4.0",
+  "bundled_lrat_trim": "MIT (Armin Biere)"
+ }
+}

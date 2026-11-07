@@ -1,0 +1,160 @@
+{
+ "status": "NEAR_FLAG_CHECK",
+ "rows": [
+  {
+   "minus2": 0,
+   "plus1": 0,
+   "spheres": 6,
+   "flag": 6,
+   "near_flag": 6,
+   "orders": [
+    6,
+    7,
+    8,
+    9,
+    10,
+    12
+   ],
+   "all_near_flag": true
+  },
+  {
+   "minus2": 0,
+   "plus1": 1,
+   "spheres": 1,
+   "flag": 0,
+   "near_flag": 1,
+   "orders": [
+    7
+   ],
+   "all_near_flag": true
+  },
+  {
+   "minus2": 0,
+   "plus1": 2,
+   "spheres": 3,
+   "flag": 0,
+   "near_flag": 3,
+   "orders": [
+    5,
+    6,
+    8
+   ],
+   "all_near_flag": true
+  },
+  {
+   "minus2": 0,
+   "plus1": 3,
+   "spheres": 0,
+   "flag": 0,
+   "near_flag": 0,
+   "orders": [],
+   "all_near_flag": true
+  },
+  {
+   "minus2": 1,
+   "plus1": 0,
+   "spheres": 3,
+   "flag": 3,
+   "near_flag": 3,
+   "orders": [
+    9,
+    10,
+    11
+   ],
+   "all_near_flag": true
+  },
+  {
+   "minus2": 1,
+   "plus1": 1,
+   "spheres": 2,
+   "flag": 0,
+   "near_flag": 2,
+   "orders": [
+    8,
+    9
+   ],
+   "all_near_flag": true
+  },
+  {
+   "minus2": 1,
+   "plus1": 2,
+   "spheres": 2,
+   "flag": 0,
+   "near_flag": 1,
+   "orders": [
+    7,
+    8
+   ],
+   "all_near_flag": false
+  },
+  {
+   "minus2": 2,
+   "plus1": 0,
+   "spheres": 9,
+   "flag": 9,
+   "near_flag": 9,
+   "orders": [
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "all_near_flag": true
+  },
+  {
+   "minus2": 2,
+   "plus1": 1,
+   "spheres": 6,
+   "flag": 0,
+   "near_flag": 5,
+   "orders": [
+    8,
+    9,
+    10,
+    11
+   ],
+   "all_near_flag": false
+  },
+  {
+   "minus2": 3,
+   "plus1": 0,
+   "spheres": 11,
+   "flag": 10,
+   "near_flag": 10,
+   "orders": [
+    9,
+    10,
+    11,
+    12
+   ],
+   "all_near_flag": false
+  }
+ ],
+ "near_flag_types": [
+  [
+   0,
+   0
+  ],
+  [
+   0,
+   1
+  ],
+  [
+   0,
+   2
+  ],
+  [
+   1,
+   0
+  ],
+  [
+   1,
+   1
+  ],
+  [
+   2,
+   0
+  ]
+ ]
+}

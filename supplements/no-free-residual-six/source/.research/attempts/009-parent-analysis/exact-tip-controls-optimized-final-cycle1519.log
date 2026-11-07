@@ -1,0 +1,13 @@
+test_all4096_ordinary_vectors_and_only_ordinary_vertices (test_exact_tip_inventory_reader_cycle1519.Tests) ... ok
+test_boolean_control_alias_rejected (test_exact_tip_inventory_reader_cycle1519.Tests) ... ok
+test_conditional_row_includes_absent_edge_zero (test_exact_tip_inventory_reader_cycle1519.Tests) ... ok
+test_disconnected_negative_link_rejected (test_exact_tip_inventory_reader_cycle1519.Tests) ... ok
+test_exact_degree_and_fixed_five_reject_weakening (test_exact_tip_inventory_reader_cycle1519.Tests) ... ok
+test_exact_rows_shared_pair_and_all_physical_slots (test_exact_tip_inventory_reader_cycle1519.Tests) ... ok
+test_negative_only_then_ordinary_complement (test_exact_tip_inventory_reader_cycle1519.Tests) ... ok
+test_relabel_preserves_native_semantics (test_exact_tip_inventory_reader_cycle1519.Tests) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.628s
+
+OK

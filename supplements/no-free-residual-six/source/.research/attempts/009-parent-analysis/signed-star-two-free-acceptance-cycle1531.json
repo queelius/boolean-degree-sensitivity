@@ -1,0 +1,54 @@
+{
+ "status": "ACCEPTED_CONDITIONAL_TWO_FREE_RESIDUAL6_SIGNED_STAR_EXCLUSION",
+ "cycle": 1531,
+ "author": "Alexander Richard Towell; substantial AI assistance (OpenAI Codex for cycles <= 1530, Claude Code Opus 5.5 for 014/015)",
+ "statement": "In the selfdual existence representative, the case residual Fourier defect <= 6 with at least two negative-free coordinates has no Boolean function: the 26 native signed-star contexts are exhaustive for it, their raw rows are necessary, and every context is excluded (24 by 014 raw LRAT certificates, 2 by 009 cycles 1476/1497/1501).",
+ "conditional_on": [
+  "H/two-free-independent-review-cycle1409.md and every premise it inherits (selfdual representative, defect accounting, old local exclusions in its guard table, its two-free minus-three and doubled-quintic arguments); not re-reviewed in 015",
+  "pynauty certificate correctness; Steinitz-Rademacher contractible-edge lemma; Whitney embedding uniqueness"
+ ],
+ "replaced_inherited_premise": "006 inverse-contraction cover (179,583 transitions) replaced for this branch by the 015 independent vertex-split enumeration",
+ "evidence": {
+  "certificates": {
+   "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/signed-star-raw-certificates.json",
+   "sha256": "e0b59e18cc01e9267c0cf453f9eaaf6be9fd94b338eaa271672ed5049cab0774"
+  },
+  "verifier_review": {
+   "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/REVIEW-verifier.md",
+   "sha256": "43dc3fcb29075c144a53e838fb4539ff442f0dc0b299f28e2e51208097ec83d0"
+  },
+  "pricing_notes": {
+   "path": "/home/spinoza/github/math-theory/.research/attempts/014-context-pricing/NOTES.md",
+   "sha256": "d4c4f55756255c47cee8c96c1eb661472fd2c088944d20980329287c8194b757"
+  },
+  "catalog_audit": {
+   "path": "/home/spinoza/github/math-theory/.research/attempts/015-sphere-catalog-audit/audit-result.json",
+   "sha256": "b4e58e4dcd1afb929e4e4221b5d003b7664a46c4a414838b23e68ca293a435e6"
+  },
+  "chain_review": {
+   "path": "/home/spinoza/github/math-theory/.research/attempts/015-sphere-catalog-audit/REVIEW.md",
+   "sha256": "fad78b74140825ef0d7fd2e5df0c86fe977f84df1f36417034b9357bf3f7302c"
+  },
+  "previous_frontier": {
+   "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-genuine-frontier-cycle1510.json",
+   "sha256": "3621b82295391042e64d4ba49091e98ab74170801a36af9ee19a211efc722da2"
+  },
+  "row_authority_1431": {
+   "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-native-rows-authority-cycle1431.json",
+   "sha256": "b6eb54bca5b3b31c5c700f484ada8c78e99925b07f9f380b4d813fd1a84c195f"
+  },
+  "domain_authority_1424": {
+   "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-reader-authority-cycle1424.json",
+   "sha256": "4b39afb36dc5feaa630d1e101c1246902aabc8763907bd3f024f5b890225388f"
+  },
+  "local_theorem_1413": {
+   "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-independent-authority-cycle1413.json",
+   "sha256": "b619eb4af9aa82efba81cec00e54c07e602b1e2045458696be04e7e314d599cb"
+  }
+ },
+ "review_kind": "AI review by a different model family plus fresh finite computation and an independent adversarial subagent; not human peer review or formal verification",
+ "whole_patterns_changed": 0,
+ "open_patterns": 29,
+ "global_goal_complete": false,
+ "global_status": "OPEN"
+}

@@ -1,0 +1,130 @@
+{
+ "status": "ACCEPTED_CONDITIONAL_ONE_FREE_RESIDUAL6_TYPES_I_III_EXCLUDED_TYPE_II_REDUCED",
+ "cycle": 1532,
+ "author": "Alexander Richard Towell; substantial AI assistance (OpenAI Codex for cycles <= 1530, Claude Code Opus 5.5 for 014 to 016)",
+ "statement": "In the one-free residual-six case (residual Fourier defect <= 6 with exactly one negative-free coordinate u, classified by the 1513/1523 trichotomy), Type III (c in {0,3}) and Type I (sole -3 cubic) have no realization, and Type II (c in {1,2}, three cost-two departures through u) is reduced from 136 departure-shape classes to 24 open ones: 23 three-pair shapes and the doubled-quartic shape -2{0,1}, -2{2,3}, Q2{0,1,2,3}. These are statements about one derivative p = Delta_u f.",
+ "conditional_on": [
+  "the 1513/1523 one-free trichotomy and every premise it inherits (selfdual representative, defect accounting)",
+  "Type III: the accepted local premises of each two-exception source theorem (one-six-edge and one-three-edge arguments, six-vertex and pentagon lemmas, endpoint sphere catalogs and their inherited inverse-cover completeness), the 1526/1527 acceptance, the 76-record scan and the completeness of the Frick 2015 Theorem 3.10 catalog for (+1,+1), the 015 enumeration for L7/L8",
+  "Type I: the 1395 local argument from its displayed form onward; the endpoint lemma is a hand proof at all orders",
+  "Type II: the 006 private-vertex argument (two-exception-positive-extension.md and its accepted audit), the parity and weight identities of TYPE-II-RIGID-SHAPES.md, small-sphere facts S3, S4, S6 (exhaustive to 12 vertices and by curvature), pynauty for the producer shape list (the reader does not use it)"
+ ],
+ "evidence": {
+  "frontier": {
+   "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/one-free-residual6-frontier-cycle1532.json",
+   "sha256": "75d9b96f8d642177775c82dbbfe414c174701de6777b6660ff0a5879edfae71b"
+  },
+  "frontier_reader_result": {
+   "path": "/home/spinoza/github/math-theory/.research/attempts/016-one-free-type-iii/one-free-frontier-reader-result.json",
+   "sha256": "bab04988cd2447f0b911e6285dbd83d94b2514b00106c91128f07d5dbb0897d9"
+  },
+  "notes": {
+   "path": "/home/spinoza/github/math-theory/.research/attempts/016-one-free-type-iii/NOTES.md",
+   "sha256": "a7899f34ebf135a6a70adab667754177fd5e0d1e751a5cbf6736b96513837d55"
+  },
+  "pricing": {
+   "path": "/home/spinoza/github/math-theory/.research/attempts/016-one-free-type-iii/TYPE-II-PRICING.md",
+   "sha256": "fefa9eec2ca9e0182b5d140e8ac64353f77a54616b5957e2d880d469770127d3"
+  },
+  "scripts": [
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/016-one-free-type-iii/link_lemmas.py",
+    "sha256": "5a6556c2ff5d83616dac4db3b653518f78304502617c4d9b90e79f9f439de693"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/016-one-free-type-iii/one_seven_spheres.py",
+    "sha256": "508ee07301eb2eedb352f184a8614fce383529bfa42c6dbf33fdff2cb4c365ea"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/016-one-free-type-iii/type2_shapes.py",
+    "sha256": "d592f37500d895f5ebf79908111730829009495a9395d7691c1d64eef907ee98"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/016-one-free-type-iii/rigid_shape_facts.py",
+    "sha256": "fea0d34b5d6c6ad8b6393a91c6e4066e7f8d564dcbe80b0d1377647b6bc181d8"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/016-one-free-type-iii/vertex_type_screen.py",
+    "sha256": "f3ef091f752ef35dfd0f89096adc854776e913590ac45d0da20f65c66019afd5"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/016-one-free-type-iii/one_free_frontier.py",
+    "sha256": "caa5da22d69f1ea08119ff2d7b83fed027b3dc1c0381b4990689d42efb630aae"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/016-one-free-type-iii/one_free_frontier_reader.py",
+    "sha256": "faf1bb2bdd37107a1a965f78188467ab4928206bd4c53cca6f089ecea859b7bc"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/016-one-free-type-iii/make_acceptance.py",
+    "sha256": "3a78d9e5373805e13fcfad664bc5e3ee3f5430fa0d3305a696f9a9f5ccecf386"
+   }
+  ],
+  "tests": [
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/016-one-free-type-iii/test_link_lemmas.py",
+    "sha256": "584a47c15d2751f49f34713d4686fd0e3f047f5a968f7e3b15b5a6b34c4e375f"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/016-one-free-type-iii/test_one_seven_spheres.py",
+    "sha256": "0dabea3d15367016084f886976263cdd62812963a25c147ef2c2efba55e3bea6"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/016-one-free-type-iii/test_type2_shapes.py",
+    "sha256": "e0cea423143135d7056e9f19abcdd5ee5e28bedb378f22f33ade665c4814fe0b"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/016-one-free-type-iii/test_rigid_shape_facts.py",
+    "sha256": "d86965ee69855efa4390fb40504614987a5f62f4741551a0b90376d80be58414"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/016-one-free-type-iii/test_vertex_type_screen.py",
+    "sha256": "f47326d8224453dcfb1a4f8043a43fe9d895a50d0ae1470f0581c8e5e94fd5ce"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/016-one-free-type-iii/test_one_free_frontier.py",
+    "sha256": "19f68a94f91f4d0a9c77652c8c2e65ff8e54efb4e269856ffdead2cef640213e"
+   }
+  ],
+  "catalog_audit": {
+   "path": "/home/spinoza/github/math-theory/.research/attempts/015-sphere-catalog-audit/audit-result.json",
+   "sha256": "b4e58e4dcd1afb929e4e4221b5d003b7664a46c4a414838b23e68ca293a435e6"
+  },
+  "previous_acceptance": {
+   "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-two-free-acceptance-cycle1531.json",
+   "sha256": "e68505e3d465b90fac10265994b9840c5153cc879e2280fb861598d4f82cb85c"
+  },
+  "premise_sources": [
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/one-free-residual-six-and-extension-audit-cycle1513.md",
+    "sha256": "e30a88eae5d15641bc4566938380702baab415ced2b0226295a541a8d4f08c22"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/one-free-parent-acceptance-cycle1523.json",
+    "sha256": "deab902dc0fd5a1c062b5062d8e3b56b2b22b899fb91ac21dcfdcbaffc0010b9"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/minus-three-links-independent-review-cycle1395.md",
+    "sha256": "493f918da500ed13fef16d398d75f8fccb10456cf255eee8adaf0b242ca5f81e"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/two-exception-positive-extension.md",
+    "sha256": "99ed5ab7f2c89b4223c355d37135c0db40ef9d2dad5c86e210b5ef78dbfe02fd"
+   },
+   {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/independent-math-audit/connected-six-unit-exclusion-audit.md",
+    "sha256": "55440bcc3237efafe494a176d6bc731ba2a1a9b8173df3bd187bdd677b1dd06c"
+   }
+  ]
+ },
+ "review_kind": "written arguments, each reviewed by a fresh AI subagent (Claude) that re-derived it and replayed or rebuilt its finite checks in scratch files; small exact checks with tests in normal and -O mode; not human peer review or formal verification",
+ "open_after": [
+  "Type II: 24 shape classes (frontier rows with status OPEN)",
+  "the no-free residual-six case",
+  "residual Fourier defect above six"
+ ],
+ "whole_patterns_changed": 0,
+ "open_patterns": 29,
+ "global_goal_complete": false,
+ "global_status": "OPEN"
+}

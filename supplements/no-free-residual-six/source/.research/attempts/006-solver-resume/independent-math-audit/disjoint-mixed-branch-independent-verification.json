@@ -1,0 +1,650 @@
+{
+  "status": "VERIFIED_REMAINING_28_DISJOINT_MIXED_ORDINARY_BRANCH_CONTRADICTIONS",
+  "global_goal": "OPEN",
+  "scope": "Thirteen-coordinate ternary derivative with c1/2, unit values zero, binary quartics, all ordinary quadratics0/1, exactly two disjoint Fourier-pair exceptions -2/-2 or -2/+1.",
+  "authoritative_case_key": [
+    "root_index",
+    "second_pair",
+    "second_value"
+  ],
+  "new_case_keys": [
+    [
+      0,
+      34,
+      1
+    ],
+    [
+      0,
+      96,
+      1
+    ],
+    [
+      0,
+      130,
+      1
+    ],
+    [
+      0,
+      160,
+      1
+    ],
+    [
+      0,
+      384,
+      1
+    ],
+    [
+      0,
+      1056,
+      1
+    ],
+    [
+      1,
+      48,
+      1
+    ],
+    [
+      1,
+      130,
+      1
+    ],
+    [
+      1,
+      132,
+      1
+    ],
+    [
+      1,
+      144,
+      1
+    ],
+    [
+      1,
+      192,
+      1
+    ],
+    [
+      1,
+      384,
+      1
+    ],
+    [
+      1,
+      2176,
+      1
+    ],
+    [
+      2,
+      24,
+      1
+    ],
+    [
+      2,
+      34,
+      1
+    ],
+    [
+      2,
+      36,
+      1
+    ],
+    [
+      2,
+      40,
+      1
+    ],
+    [
+      2,
+      130,
+      1
+    ],
+    [
+      2,
+      132,
+      1
+    ],
+    [
+      2,
+      136,
+      1
+    ],
+    [
+      2,
+      144,
+      1
+    ],
+    [
+      2,
+      160,
+      1
+    ],
+    [
+      2,
+      192,
+      1
+    ],
+    [
+      2,
+      384,
+      1
+    ],
+    [
+      2,
+      640,
+      1
+    ],
+    [
+      2,
+      768,
+      1
+    ],
+    [
+      2,
+      4128,
+      1
+    ],
+    [
+      2,
+      4224,
+      1
+    ]
+  ],
+  "cases": [
+    {
+      "root_index": 0,
+      "second_pair": 34,
+      "second_value": 1,
+      "full_rows": 15242,
+      "full_row_sha256": "c4c2d95c239bc7d14896e068ac4fa57b4233bb48c88e68cda4ef3b97cd201fc5",
+      "nodes": 3,
+      "leaves": 2,
+      "rows": 148,
+      "deductions": 147,
+      "depth": 1
+    },
+    {
+      "root_index": 0,
+      "second_pair": 96,
+      "second_value": 1,
+      "full_rows": 15242,
+      "full_row_sha256": "120bb9fa08470285d230aec48d935f27afe98c72613412e750a1ef3ea9f5292c",
+      "nodes": 19,
+      "leaves": 10,
+      "rows": 742,
+      "deductions": 754,
+      "depth": 7
+    },
+    {
+      "root_index": 0,
+      "second_pair": 130,
+      "second_value": 1,
+      "full_rows": 15242,
+      "full_row_sha256": "aaa3bf7f71c17b03690e8882024cc1eb412e060f1b8e4f0f69c6c9e5f51f27e2",
+      "nodes": 3,
+      "leaves": 2,
+      "rows": 65,
+      "deductions": 66,
+      "depth": 1
+    },
+    {
+      "root_index": 0,
+      "second_pair": 160,
+      "second_value": 1,
+      "full_rows": 15242,
+      "full_row_sha256": "209934274143f3d3d0c432db81cec4fda30c38c5632940429faa8d89a24c5f3b",
+      "nodes": 5,
+      "leaves": 3,
+      "rows": 161,
+      "deductions": 160,
+      "depth": 2
+    },
+    {
+      "root_index": 0,
+      "second_pair": 384,
+      "second_value": 1,
+      "full_rows": 15242,
+      "full_row_sha256": "d1b5315d4cd0595d0517f21cd146c17cfb530adef3ae3a873cdd81c9c9d01559",
+      "nodes": 1,
+      "leaves": 1,
+      "rows": 97,
+      "deductions": 111,
+      "depth": 0
+    },
+    {
+      "root_index": 0,
+      "second_pair": 1056,
+      "second_value": 1,
+      "full_rows": 15242,
+      "full_row_sha256": "2a2f1f4580a09c61786fc6b52946823bee21e238d6f6759844463c3478ff30cd",
+      "nodes": 1,
+      "leaves": 1,
+      "rows": 115,
+      "deductions": 118,
+      "depth": 0
+    },
+    {
+      "root_index": 1,
+      "second_pair": 48,
+      "second_value": 1,
+      "full_rows": 15242,
+      "full_row_sha256": "d7e215c11c4492ab54791e3bb39cd8846f67cd83d312c6e03a06efb7d5d20bd1",
+      "nodes": 11,
+      "leaves": 6,
+      "rows": 295,
+      "deductions": 312,
+      "depth": 5
+    },
+    {
+      "root_index": 1,
+      "second_pair": 130,
+      "second_value": 1,
+      "full_rows": 15242,
+      "full_row_sha256": "57514fe93ab8e0958781ad35abe0f7904715c63375b2a7b6354e9582348d5e42",
+      "nodes": 1,
+      "leaves": 1,
+      "rows": 39,
+      "deductions": 39,
+      "depth": 0
+    },
+    {
+      "root_index": 1,
+      "second_pair": 132,
+      "second_value": 1,
+      "full_rows": 15242,
+      "full_row_sha256": "707b1e3ff573b4596c6373ce7f789e970532ed9f05bc6f06eda72d77a7ba77a9",
+      "nodes": 3,
+      "leaves": 2,
+      "rows": 100,
+      "deductions": 101,
+      "depth": 1
+    },
+    {
+      "root_index": 1,
+      "second_pair": 144,
+      "second_value": 1,
+      "full_rows": 15242,
+      "full_row_sha256": "ac0c09ae6d6a9e52a87d30e7972c2a138f7128a20f4730026dc1e29b7eed4ce3",
+      "nodes": 3,
+      "leaves": 2,
+      "rows": 100,
+      "deductions": 101,
+      "depth": 1
+    },
+    {
+      "root_index": 1,
+      "second_pair": 192,
+      "second_value": 1,
+      "full_rows": 15242,
+      "full_row_sha256": "5fa49bf52e7fb15fc8e849f14237a9ab0b9c854eb4a5408d80963bfaac57f8de",
+      "nodes": 1,
+      "leaves": 1,
+      "rows": 182,
+      "deductions": 197,
+      "depth": 0
+    },
+    {
+      "root_index": 1,
+      "second_pair": 384,
+      "second_value": 1,
+      "full_rows": 15242,
+      "full_row_sha256": "304ceccf5a44566bd2856919a2c319ff034bb6978432190ae26f7520a0c4bcb0",
+      "nodes": 1,
+      "leaves": 1,
+      "rows": 157,
+      "deductions": 174,
+      "depth": 0
+    },
+    {
+      "root_index": 1,
+      "second_pair": 2176,
+      "second_value": 1,
+      "full_rows": 15242,
+      "full_row_sha256": "f89c35abc41fcd84bb58978f48a892dd2b5d47c778a81c6a940633d745a30a5f",
+      "nodes": 1,
+      "leaves": 1,
+      "rows": 39,
+      "deductions": 39,
+      "depth": 0
+    },
+    {
+      "root_index": 2,
+      "second_pair": 24,
+      "second_value": 1,
+      "full_rows": 15242,
+      "full_row_sha256": "5831382ec1d2ef9e72ea8c0edad7a176d4914f287ba207868b2d093527f82d1a",
+      "nodes": 3,
+      "leaves": 2,
+      "rows": 170,
+      "deductions": 173,
+      "depth": 1
+    },
+    {
+      "root_index": 2,
+      "second_pair": 34,
+      "second_value": 1,
+      "full_rows": 15242,
+      "full_row_sha256": "2be1dfc801d4274675bbd611141b3381b474daea3d3f8617a03586ee58358fac",
+      "nodes": 3,
+      "leaves": 2,
+      "rows": 153,
+      "deductions": 156,
+      "depth": 1
+    },
+    {
+      "root_index": 2,
+      "second_pair": 36,
+      "second_value": 1,
+      "full_rows": 15242,
+      "full_row_sha256": "3ec32dcc4f67983874edad42bae0ff57c1d90aa3a136aa7ac4c62b16784beedd",
+      "nodes": 1,
+      "leaves": 1,
+      "rows": 39,
+      "deductions": 39,
+      "depth": 0
+    },
+    {
+      "root_index": 2,
+      "second_pair": 40,
+      "second_value": 1,
+      "full_rows": 15242,
+      "full_row_sha256": "9c781bf430a035cba5620f170eeb7ac5c729b8355bc63611c05e6a4265bcd3ea",
+      "nodes": 3,
+      "leaves": 2,
+      "rows": 144,
+      "deductions": 147,
+      "depth": 1
+    },
+    {
+      "root_index": 2,
+      "second_pair": 130,
+      "second_value": 1,
+      "full_rows": 15242,
+      "full_row_sha256": "2f6027df62df3a65bfc95dc7254d442eaea402d7912ae9ccfdd755925fe8249e",
+      "nodes": 9,
+      "leaves": 5,
+      "rows": 344,
+      "deductions": 348,
+      "depth": 4
+    },
+    {
+      "root_index": 2,
+      "second_pair": 132,
+      "second_value": 1,
+      "full_rows": 15242,
+      "full_row_sha256": "920cd3a805bb4e937514dced8b380a8d11daa33e76af230984e1d1676fcf8781",
+      "nodes": 1,
+      "leaves": 1,
+      "rows": 108,
+      "deductions": 133,
+      "depth": 0
+    },
+    {
+      "root_index": 2,
+      "second_pair": 136,
+      "second_value": 1,
+      "full_rows": 15242,
+      "full_row_sha256": "4733da358112d320d018afe6864335ccdad4fe11af9d7c101780904df4143ff9",
+      "nodes": 1,
+      "leaves": 1,
+      "rows": 55,
+      "deductions": 56,
+      "depth": 0
+    },
+    {
+      "root_index": 2,
+      "second_pair": 144,
+      "second_value": 1,
+      "full_rows": 15242,
+      "full_row_sha256": "87d434d7cce16216c869db7e661f0702068cf3f480f985c5348bc0e37a84abc4",
+      "nodes": 7,
+      "leaves": 4,
+      "rows": 331,
+      "deductions": 336,
+      "depth": 3
+    },
+    {
+      "root_index": 2,
+      "second_pair": 160,
+      "second_value": 1,
+      "full_rows": 15242,
+      "full_row_sha256": "9435d350112ce61ab9311c476f213d99e65da38a600da9a54a5b3ccd41379ce1",
+      "nodes": 9,
+      "leaves": 5,
+      "rows": 250,
+      "deductions": 252,
+      "depth": 3
+    },
+    {
+      "root_index": 2,
+      "second_pair": 192,
+      "second_value": 1,
+      "full_rows": 15242,
+      "full_row_sha256": "dbe2dc00459e590d43e506b731b13644ee9eac6004d43b8bb85d7106e09beb12",
+      "nodes": 1,
+      "leaves": 1,
+      "rows": 55,
+      "deductions": 56,
+      "depth": 0
+    },
+    {
+      "root_index": 2,
+      "second_pair": 384,
+      "second_value": 1,
+      "full_rows": 15242,
+      "full_row_sha256": "5f21c3fe3cc416f8bfc42f5a1092be8e45646b5e29b03c8bcaf1bad0c75a7847",
+      "nodes": 1,
+      "leaves": 1,
+      "rows": 78,
+      "deductions": 81,
+      "depth": 0
+    },
+    {
+      "root_index": 2,
+      "second_pair": 640,
+      "second_value": 1,
+      "full_rows": 15242,
+      "full_row_sha256": "9abb6d573ee43bc7409d47be3e2263ac2d713008af1573a4994db8006b760fa2",
+      "nodes": 1,
+      "leaves": 1,
+      "rows": 198,
+      "deductions": 223,
+      "depth": 0
+    },
+    {
+      "root_index": 2,
+      "second_pair": 768,
+      "second_value": 1,
+      "full_rows": 15242,
+      "full_row_sha256": "2458db153373341e5def81f786458114d34107a088f5bb5014401bc2827683bd",
+      "nodes": 15,
+      "leaves": 8,
+      "rows": 375,
+      "deductions": 371,
+      "depth": 7
+    },
+    {
+      "root_index": 2,
+      "second_pair": 4128,
+      "second_value": 1,
+      "full_rows": 15242,
+      "full_row_sha256": "29f262dcb9ae322ca9c5b58fa275537ecf07d42e3aed9b11790ddba8367af376",
+      "nodes": 1,
+      "leaves": 1,
+      "rows": 39,
+      "deductions": 39,
+      "depth": 0
+    },
+    {
+      "root_index": 2,
+      "second_pair": 4224,
+      "second_value": 1,
+      "full_rows": 15242,
+      "full_row_sha256": "0699205817cfe47001bea8a188b94ffdf032e7e4b9dcec1a8093849bb48608d6",
+      "nodes": 1,
+      "leaves": 1,
+      "rows": 69,
+      "deductions": 71,
+      "depth": 0
+    }
+  ],
+  "totals": {
+    "nodes": 110,
+    "leaves": 69,
+    "rows": 4648,
+    "deductions": 4800
+  },
+  "selected_reason_counts": {
+    "downward": 628,
+    "root_link": 2200,
+    "induced_euler": 324,
+    "ordinary_edge_four_or_five": 573,
+    "ordinary_vertex_link_flag": 399,
+    "negative_endpoint_flag": 140,
+    "branch_assumption": 124,
+    "exceptional_edge_present": 32,
+    "triangle_two_tetrahedra": 180,
+    "exceptional_edge_valence": 3,
+    "positive_endpoint_exact_order": 36,
+    "no_independent_triple": 3,
+    "vertex_link_edges": 2,
+    "vertex_link_order": 4
+  },
+  "positive_endpoint_sphere_classes": [
+    [
+      7,
+      2
+    ]
+  ],
+  "constants_verified": [
+    1,
+    2
+  ],
+  "face_count_used": false,
+  "positive_endpoint_flag_assumed": false,
+  "complete_ordinary_minus_minus_cases": 47,
+  "complete_ordinary_mixed_cases": 47,
+  "previous_certified_cases": 66,
+  "newly_certified_cases": 28,
+  "unresolved_ordinary_cases": [],
+  "controls": {
+    "two_branch_exact_control": "PASS",
+    "integer_gap_control": "PASS",
+    "missing_child": "REJECTED",
+    "duplicated_zero_branch": "REJECTED",
+    "bounded_leaf": "REJECTED",
+    "wrong_case_key": "REJECTED",
+    "missing_case": "REJECTED",
+    "duplicate_case": "REJECTED",
+    "altered_leaf_coefficient": "REJECTED",
+    "degree_seven_at_negative_endpoint": "REJECTED"
+  },
+  "producer_unit_tests": {
+    "passed": 8,
+    "seconds": 1.76
+  },
+  "producer_imports": false,
+  "research_solver_used": false,
+  "seconds": 8.834515759001079,
+  "dependencies": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/independent-math-audit/verify_disjoint_mixed_branches.py",
+      "sha256": "cfc45025481a07ad53fa1994dbab085b200a09b7b8b5646e93be159ebe6f7525"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/independent-math-audit/verify_disjoint_cubic_compact.py",
+      "sha256": "2f319a248dc0664a176e2f2db4302591ae9cbbc66e2dd536bd169d3e32b4d9c6"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/independent-math-audit/verify_two_mixed_cubic.py",
+      "sha256": "aaf58ec0ab75e6a55dec367d1958f4391f89919eac839c44445f8da59301b20f"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/independent-math-audit/verify_two_adjacent_negative_cubic.py",
+      "sha256": "6db23989679164111afdc5507ad08de8070a79ddf49311e054f94e2eb816a854"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/independent-math-audit/disjoint-cubic-ordinary-compact-independent-verification.json",
+      "sha256": "705db31832b8118ea364b185f8b52cac701202a7929ace3f046d19667ffcaea6"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/independent-math-audit/disjoint-cubic-root-link-cover-independent-verification.json",
+      "sha256": "414f022a2e0c99e37014b935beb50a0d795a60934881092c3f869552c22c19d8"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/disjoint-mixed-constant-independent-branch-proofs.json",
+      "sha256": "0ab532896e1f95b4fe20c8e6f53fc678d745bd33147fe5b8a546e73e51d6fbeb"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/disjoint-cubic-root-link-cover.json",
+      "sha256": "15f7fe1e9c0258afef6424afecd69c8ecf09d44ff654b0e73ea515e241bff26e"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/disjoint-cubic-ordinary-full-interval-probe.json",
+      "sha256": "e1b2405fde137233d340621c18d1c134ffb0a96122901a4934a063b703bb1afe"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/disjoint_mixed_degree_seven.py",
+      "sha256": "78e48104fbef2a6b080bb6ccca8959d58b39e28f5e87a873e1cefe389a6887fa"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/binary_branch_certificates.py",
+      "sha256": "7cf4f784469d9f1149ed6983c9931b8fdf91e408192e121c7204d3bed2e6a270"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/exact_binary_gap_propagation.py",
+      "sha256": "eb423a01a7bba42767e88493465e0594f9f0210dd1e8496af1ff764e55f2ec76"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/run_disjoint_mixed_branches.py",
+      "sha256": "68def9b91b41f03bd6083b884e87fbb6dcda48e6270eb4d09e7e4291c1c1cced"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/test_binary_branch_certificates.py",
+      "sha256": "e0b50ff541a05838bfb761993898946a22560fd909286837280891bd88be978b"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/test_exact_binary_gap_propagation.py",
+      "sha256": "a8a1f7eb62661232de9954c3e6bdd5bc385f44833cdf0c3ca91d3b5c6b8a6a05"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/test_compact_disjoint_branches.py",
+      "sha256": "5250d05e3e259b1dbd801f4d17d7d7900e9647cd34ed4a5b465e46a3d4e30385"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/test_disjoint_mixed_degree_seven.py",
+      "sha256": "7210db3f3711d78d764b3b6abc73f5658fc6c6a17ecbced576e19dba8c55045e"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-05.json",
+      "sha256": "71ed49b8f21d0a1efbd78d8e73c7b681e3238020e77d8c6f5ed3bc773c19fb11"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-06.json",
+      "sha256": "e02f1965d9c0e1e4d4ce0e95907b6af53af1e590d8fc32e4d10b95178798b9e9"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-07.json",
+      "sha256": "b6f27899b2b9830758119abb9f38d92705663852cbc1e54c56e5ffe7cda0aec7"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-08.json",
+      "sha256": "df2dd7cc5c4ba26a5dde0736c3ec8c6d9f33292dfdd66f067badb0d67ea0e879"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-09.json",
+      "sha256": "8c707c48b4daecbf613fa5d31152e5c0606206a9f8543a8a37dd60f955349eff"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-10.json",
+      "sha256": "0884454b75c491e2c47a14e9eea4e34752f24a0a3f59ddcf4b54ae5010bd690a"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-11.json",
+      "sha256": "120a8e03f8ca63a5432275be5ca65ec705062e2937a5e8b71eb401924b369ce2"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/sphere-triangulations-12.json",
+      "sha256": "0f783e580e0555f85cf42ff460a947082d37e5699bdbf9feb4aa1da85150b04c"
+    }
+  ]
+}

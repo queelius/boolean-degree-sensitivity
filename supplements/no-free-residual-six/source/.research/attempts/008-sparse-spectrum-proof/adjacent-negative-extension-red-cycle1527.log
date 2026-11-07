@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/test_adjacent_negative_extension_cycle1527.py", line 8, in <module>
+    import adjacent_negative_extension_cycle1527 as a
+ModuleNotFoundError: No module named 'adjacent_negative_extension_cycle1527'

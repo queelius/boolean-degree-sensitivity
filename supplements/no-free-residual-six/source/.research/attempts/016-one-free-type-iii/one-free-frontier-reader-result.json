@@ -1,0 +1,21 @@
+{
+ "status": "ONE_FREE_FRONTIER_READER_PASS",
+ "classes": 136,
+ "open": 24,
+ "by_reason": {
+  "NEEDS_THREE_EXCEPTION_MODEL": 24,
+  "PRIVATE_VERTEX_DOUBLED_QUARTIC": 105,
+  "RIGID_SHAPE_LOCAL_ARGUMENT": 6,
+  "THREE_PLUS_ONE_STAR": 1
+ },
+ "pinned_files_checked": 13,
+ "checks": "class bijection by Venn signature, status rules, counts, pins; not the written arguments",
+ "frontier": {
+  "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/one-free-residual6-frontier-cycle1532.json",
+  "sha256": "75d9b96f8d642177775c82dbbfe414c174701de6777b6660ff0a5879edfae71b"
+ },
+ "reader": {
+  "path": "/home/spinoza/github/math-theory/.research/attempts/016-one-free-type-iii/one_free_frontier_reader.py",
+  "sha256": "faf1bb2bdd37107a1a965f78188467ab4928206bd4c53cca6f089ecea859b7bc"
+ }
+}

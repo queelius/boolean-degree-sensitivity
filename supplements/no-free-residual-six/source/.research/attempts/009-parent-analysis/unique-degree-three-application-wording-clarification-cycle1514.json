@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "status": "FRESH_WORDING_CLARIFICATION_FROZEN_PROOF_UNCHANGED",
+  "observed_at": "2026-10-21T23:10:35.614720+00:00",
+  "proof": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/unique-degree-three-sphere-proof-cycle1514.md",
+    "sha256": "4a6346e2970567e93177fb330005ceed123ba5548d10c4aad1480239bd94a35c",
+    "bytes": 8176
+  },
+  "affected_section": 4,
+  "literal_phrase": "Removing a from L_b leaves an octahedron on A and an opposite three-set B",
+  "precise_reading": "Delete degree3vertex a and CAP its triangular boundary A; the resulting closed sphere is the octahedron on A union B. Literal deletion alone leaves that octahedron minus the face A, a disk.",
+  "A_and_B_opposite_faces_refer_to": "The capped octahedral sphere, not the punctured disk.",
+  "original_K_or_Lb_modified": false,
+  "degree7_and_valence5_A_valence4_B_conclusions_changed": false,
+  "proof_induction_changed": false,
+  "new_native_rows": 0,
+  "global_goal_complete": false
+}

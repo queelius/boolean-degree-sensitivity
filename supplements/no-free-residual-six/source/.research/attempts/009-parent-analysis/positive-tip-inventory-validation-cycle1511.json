@@ -1,0 +1,111 @@
+{
+  "schema_version": 1,
+  "status": "COMPLETE_SOURCE_ONLY_INVENTORY_CONTROLS_AND_EXECUTION",
+  "inventory": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-tip-inventory-cycle1511.json",
+    "sha256": "696491d88a6866113e7da69767712d3b25b3b647ce8eb8c73e17e9b48ae21e2c",
+    "bytes": 91630
+  },
+  "plan": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-tip-source-plan-cycle1511.json",
+    "sha256": "244bfd094a1e2ad73c1bb14eab41ff9dd476c54dcc2eb9269fa5e35810a6ac25",
+    "bytes": 10506
+  },
+  "written_plan": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-tip-inventory-plan-cycle1511.md",
+    "sha256": "52b377a4c7ff91628e543e8106b123d963bd15ae1f569e1edbd436a91ad43832",
+    "bytes": 5912
+  },
+  "report": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-tip-inventory-results-cycle1511.md",
+    "sha256": "45a0862272e0defc36de3237480ef78073e645272f539cec515e050d453f9bc0",
+    "bytes": 2980
+  },
+  "normal_controls": 9,
+  "optimized_controls": 9,
+  "tests": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-tip-final-tests-normal-cycle1511.log",
+      "sha256": "88e99df14c79b2b8b54e19bfe748593fc04331b4abf62e48aa612a926eb90bb4",
+      "bytes": 107
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-tip-final-tests-optimized-cycle1511.log",
+      "sha256": "25660486d75d5f4b9efa5b4fdd11e9e694dfc634802c6601b239be93e2d13722",
+      "bytes": 107
+    }
+  ],
+  "coverage": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-tip-coverage-cycle1511.json",
+    "sha256": "70562585bcfbc7e4aae2210ab20dc2d4d558c31fbffc46e38fabd9f59af07755",
+    "bytes": 10513
+  },
+  "coverage_summaries": {
+    ".research/attempts/009-parent-analysis/make_positive_tip_inventory_cycle1511.py": {
+      "covered_lines": 21,
+      "num_statements": 55,
+      "percent_covered": 36.0655737704918,
+      "percent_covered_display": "36",
+      "missing_lines": 34,
+      "excluded_lines": 0,
+      "percent_statements_covered": 38.18181818181818,
+      "percent_statements_covered_display": "38",
+      "num_branches": 6,
+      "num_partial_branches": 1,
+      "covered_branches": 1,
+      "missing_branches": 5,
+      "percent_branches_covered": 16.666666666666668,
+      "percent_branches_covered_display": "17"
+    },
+    ".research/attempts/009-parent-analysis/positive_tip_inventory_cycle1511.py": {
+      "covered_lines": 68,
+      "num_statements": 68,
+      "percent_covered": 100.0,
+      "percent_covered_display": "100",
+      "missing_lines": 0,
+      "excluded_lines": 0,
+      "percent_statements_covered": 100.0,
+      "percent_statements_covered_display": "100",
+      "num_branches": 10,
+      "num_partial_branches": 0,
+      "covered_branches": 10,
+      "missing_branches": 0,
+      "percent_branches_covered": 100.0,
+      "percent_branches_covered_display": "100"
+    }
+  },
+  "native_CLI_repeated_for_coverage": false,
+  "actual_exec_session": 82984,
+  "actual_exit_code": 0,
+  "actual_log": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-tip-inventory-actual-cycle1511.log",
+    "sha256": "5f813729536e4aa9b0fe167856c6c87705fe3cc713ce79559caacf6448b03f81",
+    "bytes": 257
+  },
+  "resource_log": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-tip-inventory-resources-cycle1511.txt",
+    "sha256": "a3f2be4e29c3660ed2c8d24578bc3e6d6521c7d53a719c18e8a4f45965d7cd85",
+    "bytes": 1137
+  },
+  "measured_CPU_before_postrun": 0.91057002,
+  "external_user_CPU_seconds": 0.96,
+  "external_system_CPU_seconds": 0.25,
+  "external_wall_seconds": 1.23,
+  "peak_RSS_bytes": 193847296,
+  "model_count": 26,
+  "positive_tip_instances": 20,
+  "derived_row_instances": 40,
+  "genuine_counts": {
+    "EXCLUDED": 2,
+    "OPEN": 24
+  },
+  "raw_counts": {
+    "EXCLUDED": 1,
+    "OPEN": 25
+  },
+  "independent_inventory_gate": "PENDING1512",
+  "target_propagation_queries": 0,
+  "target_solver_queries": 0,
+  "new_context_exclusions": 0,
+  "global_goal_complete": false
+}

@@ -1,0 +1,280 @@
+{
+  "schema_version": 1,
+  "status": "INDEPENDENT_NECESSARY_EXTENDED_MODEL_PREFIX_ACCEPTED_INCONCLUSIVE",
+  "recorded_at": "2026-10-21T23:40:10.891439+00:00",
+  "model_id": {
+    "constant": 1,
+    "native_identity": {
+      "catalog_sha256": "df2dd7cc5c4ba26a5dde0736c3ec8c6d9f33292dfdd66f067badb0d67ea0e879",
+      "order": 8,
+      "original_index": 3
+    }
+  },
+  "candidate": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/tip-interval-pilot-cycle1521.json",
+    "bytes": 185475,
+    "sha256": "6cdf1fb1262763a0b8857fbc92abd1c74e6b01b644e2c2e9fc247f8faa2ba6ed"
+  },
+  "producer_terminal": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/tip-interval-terminal-cycle1521.json",
+    "bytes": 1792,
+    "sha256": "e8b27945e95bdc7a6939a778f6d9eec2e5195ec33a33d500e6350d9b9f5c638e"
+  },
+  "result": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/extended-trace-result-cycle1522.json",
+    "bytes": 87739,
+    "sha256": "a05934b218610989ddb5a8c23cd59e6006e94e8feba1b0a759d9d8fd4b32bf3e"
+  },
+  "validation": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/extended-trace-validation-cycle1522.json",
+    "bytes": 2223,
+    "sha256": "5c88919e6ab109fe77ea226b9d2e07b0eb289e49b85145789166b66693a2fd03"
+  },
+  "review": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/extended-trace-independent-review-cycle1522.md",
+    "bytes": 2773,
+    "sha256": "3cc3169475fd0a455e32d0bde3d11504dc93d8988f130a6b25d64591a8265020"
+  },
+  "model_binding": {
+    "schema_version": 1,
+    "header_sha256": "737e75fb5aa6db21d773fb2507b447f93f31de74916cdb38aac6178cf3790596",
+    "variables_sha256": "a5aad19d6cf9eae10ae0cc1b9b855d45dfa730622ada85a4be903c178567b0b4",
+    "rows_sha256": "dfef0b1f94f0d2a01674ab2ca45db63adafbd2b00c61f531ab0aced9fd8ac97e",
+    "variables": 1079,
+    "rows": 12635
+  },
+  "sources": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/extended_trace_reader_cycle1522.py",
+      "bytes": 1948,
+      "sha256": "306a6e6d02543fe7da9f679173b6cd76116c758894591557e22476f6cc946aa2"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/read_extended_trace_cycle1522.py",
+      "bytes": 6632,
+      "sha256": "a8d5a0dc07763b27d7bc8a4ba657d09d69cde64b3d98c0b7a5c71a4215d9c938"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/gap_transcript_reader_cycle1436.py",
+      "bytes": 7701,
+      "sha256": "da0d90208ab9b77d4ce607d13ecc7f233e6729b7b1638abb75ceda34d96bf56c"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/exact_tip_inventory_reader_cycle1519.py",
+      "bytes": 4035,
+      "sha256": "d0663727c183a292070b24fb1f3b9b6f75508d02b9f044d9d075ba3416ba76f7"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive_inventory_reader_cycle1512.py",
+      "bytes": 2270,
+      "sha256": "b894958054a9fb15f08e3aea330a83f297d08d4b36acfefff17b0a417248ba88"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/read_positive_inventory_cycle1512.py",
+      "bytes": 7710,
+      "sha256": "c33a68e0f09d2aa15bfbc4a30fa0d4fd57dddf4fc12028bbff99441b3ca56d70"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/exact-tip-inventory-manifest-cycle1519.json",
+      "bytes": 20849,
+      "sha256": "652e4b872d18382696d5c5342b209880a81fbd5057aff27bc3ac36328535cce3"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/extended-trace-preparation-cycle1522.json",
+      "bytes": 3778,
+      "sha256": "94e310263ab0705abbae44f3f9936d2b082d5a977f9a4e9735e4d23d02b0ff33"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/tip-interval-parent-authorization-cycle1520.json",
+      "bytes": 49286,
+      "sha256": "0a43aedf58c5e16b376b9706cde4858748d1e4bbc79596acd8d3ba3c47f5dcd5"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-native-rows-authority-cycle1431.json",
+      "sha256": "b6eb54bca5b3b31c5c700f484ada8c78e99925b07f9f380b4d813fd1a84c195f",
+      "bytes": 25443
+    },
+    {
+      "bytes": 8721546,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-native-common-cycle1432.json",
+      "sha256": "c798def0613ef0d8caad8af0bd7c3d97e4851315d2c72ebede58fe5f5843804f"
+    },
+    {
+      "bytes": 2179719,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-native-contexts-cycle1432.json",
+      "sha256": "dfe5de4b3083673b6aa1cfdfa1c9167d80ba9ed6d6a5c5c7d75a9cb0de290059"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/exact-tip-inventory-authority-cycle1519.json",
+      "sha256": "0c076a6a3acdcbbd0d02f8d26c4d1dc6e62d4a47b797e8e24c1b377ce08c3abb",
+      "bytes": 16912
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/tip-structure-inventory-cycle1518.json",
+      "sha256": "b6f48ab8c35d95211abdf399e1ca2fc0a113302ad3e05236a0c8ddee61fd250a",
+      "bytes": 5558762
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/exact-tip-inventory-result-cycle1519.json",
+      "sha256": "212bc5f35e92720e07662d9af000aa0d8ac6207bcc2b22df43b5a1dea859b49d",
+      "bytes": 5536835
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/tip-interval-pilot-cycle1521.json",
+      "bytes": 185475,
+      "sha256": "6cdf1fb1262763a0b8857fbc92abd1c74e6b01b644e2c2e9fc247f8faa2ba6ed"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/tip-interval-terminal-cycle1521.json",
+      "bytes": 1792,
+      "sha256": "e8b27945e95bdc7a6939a778f6d9eec2e5195ec33a33d500e6350d9b9f5c638e"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/tip-interval-plan-cycle1521.json",
+      "sha256": "2f870743cd7ca7ec802bd071a8aace71db6e5d9f7215bb66cecc9fcb6b48e3d7"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/tip-interval-preflight-cycle1521.json",
+      "sha256": "24b07a51519dd90e3ecb2fe41e77321d28a0b1d25e77763b82197b3e8e684909"
+    },
+    {
+      "bytes": 49286,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/tip-interval-parent-authorization-cycle1520.json",
+      "sha256": "0a43aedf58c5e16b376b9706cde4858748d1e4bbc79596acd8d3ba3c47f5dcd5"
+    },
+    {
+      "bytes": 5558762,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/tip-structure-inventory-cycle1518.json",
+      "sha256": "b6f48ab8c35d95211abdf399e1ca2fc0a113302ad3e05236a0c8ddee61fd250a"
+    },
+    {
+      "bytes": 12227,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/tip-structure-manifest-cycle1518.json",
+      "sha256": "d5fa2fa43d1b42d5d2d06a663c41eaef94d70aa34b461b20df4b5e19716fd262"
+    },
+    {
+      "bytes": 16912,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/exact-tip-inventory-authority-cycle1519.json",
+      "sha256": "0c076a6a3acdcbbd0d02f8d26c4d1dc6e62d4a47b797e8e24c1b377ce08c3abb"
+    },
+    {
+      "bytes": 20849,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/exact-tip-inventory-manifest-cycle1519.json",
+      "sha256": "652e4b872d18382696d5c5342b209880a81fbd5057aff27bc3ac36328535cce3"
+    },
+    {
+      "bytes": 35888,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/link-math-parent-acceptance-cycle1520.json",
+      "sha256": "23597a30f2385371e0ad534b96cdee9827205710c79541f48d849a6e7eb35012"
+    },
+    {
+      "bytes": 8721546,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-native-common-cycle1432.json",
+      "sha256": "c798def0613ef0d8caad8af0bd7c3d97e4851315d2c72ebede58fe5f5843804f"
+    },
+    {
+      "bytes": 2179719,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-native-contexts-cycle1432.json",
+      "sha256": "dfe5de4b3083673b6aa1cfdfa1c9167d80ba9ed6d6a5c5c7d75a9cb0de290059"
+    },
+    {
+      "bytes": 25443,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-native-rows-authority-cycle1431.json",
+      "sha256": "b6eb54bca5b3b31c5c700f484ada8c78e99925b07f9f380b4d813fd1a84c195f"
+    },
+    {
+      "bytes": 8692,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/run_tip_interval_pilot_cycle1521.py",
+      "sha256": "bd1805dd0555f4bff9b8f6573536981bc71a895bc6a7818a5f77d02e099d886d"
+    },
+    {
+      "bytes": 1317,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/augmented_interval_pilot_cycle1521.py",
+      "sha256": "d120e6c54c2b072997c4c857785cb5bc325480f3ad37ed6223d74dcb1e4c978e"
+    },
+    {
+      "bytes": 2198,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/context_first_rows_cycle1438.py",
+      "sha256": "fd0ff07d48ed1b9951fdce137d06751bb8922b0600e8c76cd3a564786319e750"
+    },
+    {
+      "bytes": 7701,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/gap_transcript_reader_cycle1436.py",
+      "sha256": "da0d90208ab9b77d4ce607d13ecc7f233e6729b7b1638abb75ceda34d96bf56c"
+    },
+    {
+      "bytes": 7853,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/native_sat_pilot_io_cycle1457.py",
+      "sha256": "e0238f632d8c648c3527a2c4be1be8c4801032411441b317824f0315502cc054"
+    },
+    {
+      "bytes": 5051,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/run_context_first_controls_cycle1438.py",
+      "sha256": "1246641feda25426936d9ee1429003b934cea5781553f6182491377d962ea8f0"
+    },
+    {
+      "bytes": 9640,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed_star_rows_independent_cycle1431.py",
+      "sha256": "55e9438ae00b2ae949526ae9d3fca322b1f3f6318f6871516c2f3a256ddc71e5"
+    },
+    {
+      "bytes": 3058,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/exact_binary_row_propagation.py",
+      "sha256": "6f01e230b88384aa0142798639aeae602d74e0473cd26c6e1df54cc2d183e491"
+    },
+    {
+      "bytes": 2510,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/exact_binary_gap_propagation.py",
+      "sha256": "eb423a01a7bba42767e88493465e0594f9f0210dd1e8496af1ff764e55f2ec76"
+    },
+    {
+      "bytes": 3824,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_augmented_interval_pilot_cycle1521.py",
+      "sha256": "70deaca2c468386b51a8ca8cf4d7a5c64c5178adbe7b00e5bdaf95b0ccc681c1"
+    },
+    {
+      "bytes": 1551,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_tip_interval_wrapper_cycle1521.py",
+      "sha256": "e17b60c62a4ee211da0d2f74e53ec21b6f809a7818b26cdc2adda51f86bd438d"
+    },
+    {
+      "bytes": 106,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/tip-interval-final-tests-normal-cycle1521.log",
+      "sha256": "1b5e2e3544bc939d5c6a9c389db5ca925451ad0eeeed0074c710573927106b84"
+    },
+    {
+      "bytes": 106,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/tip-interval-final-tests-optimized-cycle1521.log",
+      "sha256": "5a27ace593e1c038941ba1868ae46867cb3183efdb551a7ba07f6351a0a38ad3"
+    },
+    {
+      "bytes": 211946,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/context-first-controls-cycle1438.json",
+      "sha256": "c9b4799ab89194e4154e9114e656dc66fb99a66444a2684b06febd073eec37e8"
+    }
+  ],
+  "native_variables": 1079,
+  "original_rows": 12512,
+  "added_rows": 123,
+  "extended_rows": 12635,
+  "extended_terms": 840913,
+  "steps_checked": 344,
+  "fixed_variables": 344,
+  "full_row_bijection_and_inverse_checked": true,
+  "all_opposite_values_independently_checked": true,
+  "complete_original_rows_preserved": true,
+  "added_constraints_independently_reconstructed": true,
+  "contradiction": null,
+  "nonexistence_proved": false,
+  "fixedpoint_completeness_certified": false,
+  "genuine_projection_only": true,
+  "raw_original_rows_entail_added_constraints_claimed": false,
+  "generator_evaluations_diagnostic_only": 13305,
+  "native_queries": 0,
+  "case_excluded": false,
+  "whole_pattern_excluded": false,
+  "global_goal_complete": false,
+  "human_review": false,
+  "formal_verification": false,
+  "novelty_established": false
+}

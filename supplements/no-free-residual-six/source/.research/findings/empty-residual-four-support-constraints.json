@@ -1,0 +1,334 @@
+{
+  "status": "ACCEPTED_NECESSARY_SUPPORT_CONSTRAINTS",
+  "global_goal": "OPEN",
+  "whole_patterns_excluded": 0,
+  "authority": {
+    "path": ".research/attempts/009-parent-analysis/empty-residual-four-accepted-manifest.json",
+    "sha256": "ccd297c7413f38f1de78ef8c8dd30d5550a3fc17aa2bba7cf8a23eda8aa43bf6"
+  },
+  "pattern_ledger_snapshot": {
+    "path": ".research/attempts/006-solver-resume/empty-residual-four-ledger-input.json",
+    "sha256": "76d6a4c8e2ff10a38494105db6b926a475a15354fb8ce9050b417c31db3392ed"
+  },
+  "covered_open_patterns": [
+    {
+      "negative_magnitudes": [
+        3,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "remaining_defect": 0,
+      "necessary_negative_union_size": 14,
+      "necessary_johnson_components": 2,
+      "new_relative_to_residual_two_theorem": false
+    },
+    {
+      "negative_magnitudes": [
+        3,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "remaining_defect": 4,
+      "necessary_negative_union_size": 14,
+      "necessary_johnson_components": 2,
+      "new_relative_to_residual_two_theorem": true
+    },
+    {
+      "negative_magnitudes": [
+        3,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "remaining_defect": 2,
+      "necessary_negative_union_size": 14,
+      "necessary_johnson_components": 2,
+      "new_relative_to_residual_two_theorem": false
+    },
+    {
+      "negative_magnitudes": [
+        3,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "remaining_defect": 0,
+      "necessary_negative_union_size": 14,
+      "necessary_johnson_components": 2,
+      "new_relative_to_residual_two_theorem": false
+    },
+    {
+      "negative_magnitudes": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "remaining_defect": 4,
+      "necessary_negative_union_size": 14,
+      "necessary_johnson_components": 3,
+      "new_relative_to_residual_two_theorem": true
+    },
+    {
+      "negative_magnitudes": [
+        2,
+        2,
+        2,
+        2,
+        1
+      ],
+      "remaining_defect": 2,
+      "necessary_negative_union_size": 14,
+      "necessary_johnson_components": 3,
+      "new_relative_to_residual_two_theorem": false
+    },
+    {
+      "negative_magnitudes": [
+        2,
+        2,
+        2,
+        2,
+        1,
+        1
+      ],
+      "remaining_defect": 0,
+      "necessary_negative_union_size": 14,
+      "necessary_johnson_components": 3,
+      "new_relative_to_residual_two_theorem": false
+    },
+    {
+      "negative_magnitudes": [
+        2,
+        2,
+        2,
+        1,
+        1,
+        1
+      ],
+      "remaining_defect": 4,
+      "necessary_negative_union_size": 14,
+      "necessary_johnson_components": 3,
+      "new_relative_to_residual_two_theorem": true
+    },
+    {
+      "negative_magnitudes": [
+        2,
+        2,
+        2,
+        1,
+        1,
+        1,
+        1
+      ],
+      "remaining_defect": 2,
+      "necessary_negative_union_size": 14,
+      "necessary_johnson_components": 2,
+      "new_relative_to_residual_two_theorem": false
+    },
+    {
+      "negative_magnitudes": [
+        2,
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "remaining_defect": 0,
+      "necessary_negative_union_size": 14,
+      "necessary_johnson_components": 2,
+      "new_relative_to_residual_two_theorem": false
+    },
+    {
+      "negative_magnitudes": [
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "remaining_defect": 4,
+      "necessary_negative_union_size": 14,
+      "necessary_johnson_components": 2,
+      "new_relative_to_residual_two_theorem": true
+    },
+    {
+      "negative_magnitudes": [
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "remaining_defect": 2,
+      "necessary_negative_union_size": 14,
+      "necessary_johnson_components": 2,
+      "new_relative_to_residual_two_theorem": false
+    },
+    {
+      "negative_magnitudes": [
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "remaining_defect": 0,
+      "necessary_negative_union_size": 14,
+      "necessary_johnson_components": 1,
+      "new_relative_to_residual_two_theorem": false
+    },
+    {
+      "negative_magnitudes": [
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "remaining_defect": 4,
+      "necessary_negative_union_size": 14,
+      "necessary_johnson_components": 1,
+      "new_relative_to_residual_two_theorem": true
+    },
+    {
+      "negative_magnitudes": [
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "remaining_defect": 2,
+      "necessary_negative_union_size": 14,
+      "necessary_johnson_components": 1,
+      "new_relative_to_residual_two_theorem": false
+    },
+    {
+      "negative_magnitudes": [
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "remaining_defect": 0,
+      "necessary_negative_union_size": 14,
+      "necessary_johnson_components": 1,
+      "new_relative_to_residual_two_theorem": false
+    },
+    {
+      "negative_magnitudes": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "remaining_defect": 4,
+      "necessary_negative_union_size": 14,
+      "necessary_johnson_components": 1,
+      "new_relative_to_residual_two_theorem": true
+    },
+    {
+      "negative_magnitudes": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "remaining_defect": 2,
+      "necessary_negative_union_size": 14,
+      "necessary_johnson_components": 1,
+      "new_relative_to_residual_two_theorem": false
+    },
+    {
+      "negative_magnitudes": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "remaining_defect": 0,
+      "necessary_negative_union_size": 14,
+      "necessary_johnson_components": 1,
+      "new_relative_to_residual_two_theorem": false
+    }
+  ],
+  "newly_covered_open_pattern_count": 6
+}

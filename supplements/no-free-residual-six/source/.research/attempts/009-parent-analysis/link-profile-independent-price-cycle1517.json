@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "status": "LARGEST_LITERAL_SPHERE_CONTROL_PRICE_NO_CATALOG_SCAN",
+  "literal_order": 12,
+  "literal_face_masks": [
+    26,
+    38,
+    50,
+    70,
+    74,
+    196,
+    292,
+    385,
+    388,
+    536,
+    1096,
+    1153,
+    1216,
+    1537,
+    1544,
+    2096,
+    2305,
+    2336,
+    2561,
+    2576
+  ],
+  "repetitions": 128,
+  "CPU_seconds": 0.017956434999999993,
+  "forecast_9146_plus_half_second_setup": 1.7830433946093744,
+  "forecast_is_not_resource_guarantee": true,
+  "actual_catalog_scans": 0,
+  "peak_RSS_bytes": 30498816
+}

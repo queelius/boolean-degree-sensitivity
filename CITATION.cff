@@ -1,31 +1,26 @@
 cff-version: 1.2.0
-message: "Cite this exact version for the retained results and the graph-locality supplement; the Boolean problem remains open."
-title: "Exact spectral exclusions, singleton components and graph locality for degree-five Boolean candidates"
-type: software
+message: "Cite the exact archived version by its DOI. The global question remains open; the results are conditional on the premises stated in supplements/no-free-residual-six/REPORT.md (v1.5.0) and REPORT.md (earlier exclusions)."
+type: dataset
+title: "Degree-five Boolean candidates: residual six with a negative-free coordinate excluded and two whole negative-quintic patterns excluded, with LRAT certificates"
+version: "1.5.0"
+doi: "10.5281/zenodo.23999933"
+date-released: "2026-11-06"
 authors:
   - family-names: Towell
     given-names: Alexander Richard
     orcid: "https://orcid.org/0000-0001-6443-9897"
     affiliation: "Southern Illinois University Edwardsville"
-doi: "10.5281/zenodo.23539867"
-version: "1.3.0"
-date-released: "2026-10-21"
-repository-code: "https://github.com/queelius/boolean-degree-sensitivity"
-commit: "81e6f434d44ee67610a88aab18a2ed7438510bfc"
-url: "https://doi.org/10.5281/zenodo.23539867"
 license:
   - MIT
   - CC-BY-4.0
+abstract: "Conditional local exclusions for a degree-at-most-five Boolean function on 14 variables with full sensitivity at the origin, in the existence-preserving self-dual empty-pair normal form: every residual-defect-at-most-six instance with a negative-free coordinate is excluded (checkpoints 1531 to 1533; 20 residual-at-most-six patterns remain open with negative-support union 14), and lemma L1 excludes the whole magnitude patterns (2,2,2,2) and (2,2,2,2,1) (checkpoint 1534), with 6,871 LRAT case certificates checked by independent readers. Written reductions were reviewed by AI models only. Substantial AI assistance. The global problem remains open; no human peer review, formalization or novelty is claimed."
 keywords:
   - Boolean functions
-  - hypergraphs
+  - polynomial degree
+  - sensitivity
+  - sparse Fourier analysis
+  - SAT
+  - LRAT certificates
   - exact verification
-  - reproducibility
-abstract: >-
-  A reproducible positive-obstruction locality lemma for free124-edge fourteen-vertex
-  3-graphs, relative to Markstrom-Talbot's published75-class count, and its minimum-six-repair
-  corollary supplement the retained spectral exclusions and singleton classifications.
-  Two distinct standard-library verifiers and all75 literal graphs are included.
-  The Boolean application has additional unbundled premises; the original question
-  remains open. Substantial AI assistance; novelty, formal verification and human
-  peer review are not established.
+repository-code: "https://github.com/queelius/boolean-degree-sensitivity"
+url: "https://doi.org/10.5281/zenodo.23999933"

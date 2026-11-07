@@ -1,0 +1,329 @@
+{
+  "schema_version": 1,
+  "status": "INDEPENDENT_COMPLETE_ALL26_POSITIVE_CONSTRAINT_INVENTORY_ACCEPTED",
+  "observed_at": "2026-10-21T23:12:26.322311+00:00",
+  "result": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-inventory-result-cycle1512.json",
+    "sha256": "e221d9f72a92b351b612e1395b7b91803d5b5ef1e877078790480f25ad5dbbb6",
+    "bytes": 68079
+  },
+  "review": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-inventory-independent-review-cycle1512.md",
+    "sha256": "4944aa88e7cdff6aff0575bddda51d9f830d70ebb7145c4d476a839b1e1e8f20",
+    "bytes": 5316
+  },
+  "validation": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-inventory-validation-cycle1512.json",
+    "sha256": "ce94eb696fcac11ea7f05ff55eee4359417afc90d3720ac8dc0dce505de2bb7a",
+    "bytes": 1120
+  },
+  "terminal": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-inventory-terminal-cycle1512.json",
+    "sha256": "0f3f8ae4b1919be53fd0a733c239b94cbf6596d7cbc82659879ecc308713e6b2",
+    "bytes": 1330
+  },
+  "sources": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-inventory-config-cycle1512.json",
+      "sha256": "313dee83ae296d36b99b7978d4b64f4ed99dadb881308517ba3465f3631e0e47",
+      "bytes": 2883
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-native-rows-authority-cycle1431.json",
+      "sha256": "b6eb54bca5b3b31c5c700f484ada8c78e99925b07f9f380b4d813fd1a84c195f",
+      "bytes": 25443
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/filled-positive-link-independent-authority-cycle1508.json",
+      "sha256": "6db261927614dcf738a25166d87facd4668005bbb128b974a48a9212887ff933",
+      "bytes": 4517
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-opposite-parent-acceptance-cycle1508.json",
+      "sha256": "386b1afab141f35384be28afc640afee7f0c383a938c63ac9fd7a05118f8cbe5",
+      "bytes": 5261
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/root-seven-filled-link-independent-authority-cycle1497.json",
+      "sha256": "51703596cba350bea954657437e8b4f16958cd7c8928e1ee02912d7d8a8b4d67",
+      "bytes": 5021
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/root-seven-forcing-parent-acceptance-cycle1497.json",
+      "sha256": "10dba5d83f6c353e7d4d9882b9e91012c1a212ad82318bf4f286970e6d2e8018",
+      "bytes": 4346
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-genuine-frontier-cycle1510.json",
+      "sha256": "3621b82295391042e64d4ba49091e98ab74170801a36af9ee19a211efc722da2",
+      "bytes": 17637
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-tip-inventory-cycle1511.json",
+      "sha256": "696491d88a6866113e7da69767712d3b25b3b647ce8eb8c73e17e9b48ae21e2c",
+      "bytes": 91630
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-inventory-preflight-cycle1512.json",
+      "sha256": "af33da622e37e3f6df9486b2ca8e8738ea8e68f482052a8c161d170cdb895626",
+      "bytes": 2843
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-tip-inventory-validation-cycle1511.json",
+      "sha256": "88a2968baf27b2da0de0b9bc7707c11e060c29344b3f75cbfedbf9714e169958",
+      "bytes": 4298
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-tip-inventory-handoff-cycle1511.json",
+      "sha256": "84e6388317b3cb23b515dd8d67218ee8e01b2f0cd19b429bace2e9b5e878eebf",
+      "bytes": 3009
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-tip-inventory-manifest-cycle1511.json",
+      "sha256": "85befd39514e4b27f61e5ff3f4e96ce053bc6c8e68afa2b5737f773b7d7bfadb",
+      "bytes": 12751
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive_inventory_reader_cycle1512.py",
+      "sha256": "b894958054a9fb15f08e3aea330a83f297d08d4b36acfefff17b0a417248ba88",
+      "bytes": 2270
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/read_positive_inventory_cycle1512.py",
+      "sha256": "c33a68e0f09d2aa15bfbc4a30fa0d4fd57dddf4fc12028bbff99441b3ca56d70",
+      "bytes": 7710
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_positive_inventory_reader_cycle1512.py",
+      "sha256": "f2c20350d08f585d740260ac6b36b1507a06bfe22ce11c98c6d8a64ea1b31734",
+      "bytes": 3202
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-inventory-reader-plan-cycle1512.md",
+      "sha256": "5ccaa4eaa4408c5c1819ccd5e9cf5770d06969675815cac3a85d83708bb2b9ef",
+      "bytes": 3342
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-inventory-red-cycle1512.log",
+      "sha256": "6d6024a0400ce991ca4f5b5dd2336141d7593f1f336c7060c6db9ed6c8f526d9",
+      "bytes": 1016
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-inventory-normal-complete-cycle1512.log",
+      "sha256": "bf3b7f0e155ca8e7a64bb7b91a9c4c3449aaa0246cfd79740c7197cf4c10bcc3",
+      "bytes": 733
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-inventory-optimized-complete-cycle1512.log",
+      "sha256": "9a865b605f1fb37db00cb81dc43300d35e73d070104c7ed9ec8d2af99b4e5798",
+      "bytes": 733
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-inventory-coverage-complete-cycle1512.json",
+      "sha256": "1e6fcf415b565040e99332c1be659e0725aa9f31c3026f452328bf34b516cadf",
+      "bytes": 5568
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-inventory-result-cycle1512.json",
+      "sha256": "e221d9f72a92b351b612e1395b7b91803d5b5ef1e877078790480f25ad5dbbb6",
+      "bytes": 68079
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-native-common-cycle1432.json",
+      "sha256": "c798def0613ef0d8caad8af0bd7c3d97e4851315d2c72ebede58fe5f5843804f",
+      "bytes": 8721546
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-native-contexts-cycle1432.json",
+      "sha256": "dfe5de4b3083673b6aa1cfdfa1c9167d80ba9ed6d6a5c5c7d75a9cb0de290059",
+      "bytes": 2179719
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/context-first-native-terminal-cycle1438.json",
+      "sha256": "3bce8ad265ef7f9beb9d1c2519dbc792b4fe2fab3aaa9b8ae121c88d53e3822f",
+      "bytes": 2845
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/cycle1510-parent-manifest.json",
+      "sha256": "3c6fd1173bcf96c1663517f30967bbb656f87adec38d61edd942467e82b38cf4",
+      "bytes": 91248
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/filled-positive-link-independent-review-cycle1508.md",
+      "sha256": "a977975a5823163b4eb073fd1915a39e873f48a43786b1a23f8247f5f91ede0a",
+      "bytes": 13460
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/gap_transcript_reader_cycle1436.py",
+      "sha256": "da0d90208ab9b77d4ce607d13ecc7f233e6729b7b1638abb75ceda34d96bf56c",
+      "bytes": 7701
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/make_positive_tip_inventory_cycle1511.py",
+      "sha256": "e44e059da423fa39b1bbd3e479b51554eed4d5172f2918085421e350633263bf",
+      "bytes": 6836
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-opposite-triangle-proof-cycle1507.md",
+      "sha256": "ac58e2c620c96d9496c39a01cf1776d96b75f3012c02fe865dc91eb8efbf2046",
+      "bytes": 9847
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-tip-coverage-cycle1511.json",
+      "sha256": "70562585bcfbc7e4aae2210ab20dc2d4d558c31fbffc46e38fabd9f59af07755",
+      "bytes": 10513
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-tip-final-tests-normal-cycle1511.log",
+      "sha256": "88e99df14c79b2b8b54e19bfe748593fc04331b4abf62e48aa612a926eb90bb4",
+      "bytes": 107
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-tip-final-tests-optimized-cycle1511.log",
+      "sha256": "25660486d75d5f4b9efa5b4fdd11e9e694dfc634802c6601b239be93e2d13722",
+      "bytes": 107
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-tip-inventory-plan-cycle1511.md",
+      "sha256": "52b377a4c7ff91628e543e8106b123d963bd15ae1f569e1edbd436a91ad43832",
+      "bytes": 5912
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive_tip_inventory_cycle1511.py",
+      "sha256": "8e5db425865e5e1d3c634ad621eda5fb3bb4e3ce2e376c3c9cd00963edf3798e",
+      "bytes": 7900
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/root-seven-filled-link-independent-review-cycle1497.md",
+      "sha256": "4ecd272ae45f8fe825c3920b46906737f9868bb1cd0a827c31ee900b3f666bf9",
+      "bytes": 8849
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-independent-authority-cycle1413.json",
+      "sha256": "b619eb4af9aa82efba81cec00e54c07e602b1e2045458696be04e7e314d599cb",
+      "bytes": 6841
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-manifold-parent-acceptance-cycle1453.json",
+      "sha256": "26e71d45248d01e5b4b668327f814fb8100e6c1a41867149f311ff5ca1a608e0",
+      "bytes": 10728
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-native-rows-validation-cycle1431.json",
+      "sha256": "28a631481bd40ef4e6d624a350027941586a3045dc2b1c2170b28461903b23c4",
+      "bytes": 9860
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_positive_tip_inventory_cycle1511.py",
+      "sha256": "2218724abc8637a499816ea345fa83263d1b3e8b3152f8a703b1391cf700010f",
+      "bytes": 7202
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_positive_tip_source_cycle1511.py",
+      "sha256": "9939d782af1217d362777f89d09b53ac6c31fab5bbd55bdc03d376a2d694bfa9",
+      "bytes": 1303
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/two-free-independent-authority-cycle1409.json",
+      "sha256": "effc1e4e3e98e0f63fc347195175df63a9682f5f26ac31b33aa17b8e826d19a7",
+      "bytes": 5275
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-tip-source-plan-cycle1511.json",
+      "sha256": "244bfd094a1e2ad73c1bb14eab41ff9dd476c54dcc2eb9269fa5e35810a6ac25",
+      "bytes": 10506
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/native-unsat-parent-authority-cycle1476.json",
+      "sha256": "e625592a4c31e4fc45150f8879a88afcba2a7dde202a7b1c5b8dcff67d303005",
+      "bytes": 8779
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/independent-lrat-authority-cycle1501.json",
+      "sha256": "495f8c5fec2673aab7e0d7f2e2d4ec771426300516ed048475c99f0fefc1f28e",
+      "bytes": 8507
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/.coverage-cycle1511",
+      "sha256": "f3b3612d99c289c48f3465e3a48ad451f049b85f632a3851024e2df5ff7bb23f",
+      "bytes": 53248
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-tip-covered-tests-cycle1511.log",
+      "sha256": "c1b0f817a01ac2377a757e6b3fe238628cbafdeefc9d213086439ae136729f20",
+      "bytes": 107
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-tip-inventory-actual-cycle1511.log",
+      "sha256": "5f813729536e4aa9b0fe167856c6c87705fe3cc713ce79559caacf6448b03f81",
+      "bytes": 257
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-tip-inventory-alias-red-cycle1511.log",
+      "sha256": "f94b1b2061a0c9909370d0ee3deb01153548b39e014c730604530ba971833f5d",
+      "bytes": 701
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-tip-inventory-red-cycle1511.log",
+      "sha256": "fde74411a5c788612b8237faec26cafcef01628c03bfeaaceb9d83b32aadd226",
+      "bytes": 897
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-tip-inventory-resources-cycle1511.txt",
+      "sha256": "a3f2be4e29c3660ed2c8d24578bc3e6d6521c7d53a719c18e8a4f45965d7cd85",
+      "bytes": 1137
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-tip-inventory-results-cycle1511.md",
+      "sha256": "45a0862272e0defc36de3237480ef78073e645272f539cec515e050d453f9bc0",
+      "bytes": 2980
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-tip-inventory-tests-normal-cycle1511.log",
+      "sha256": "b5985bb5d4095da848c1e4e38b9358c2d452a471f0f3fb2fd143db7544944125",
+      "bytes": 105
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/positive-tip-inventory-tests-optimized-cycle1511.log",
+      "sha256": "e19a86747084065fc6026e9e5463e2291a2e56061843e8a27e0424f4fed284be",
+      "bytes": 105
+    }
+  ],
+  "contexts_checked": 26,
+  "native_variable_order_checked": 1079,
+  "positive_tip_instances": 20,
+  "zero_triangle_units": 20,
+  "degree_lower_bound_rows": 20,
+  "rows_per_tip": 2,
+  "native_indices_zero_based": true,
+  "DIMACS_indices_used": false,
+  "genuine_contexts_skipped": 2,
+  "genuine_contexts_remaining": 24,
+  "active_positive_tip_instances": 16,
+  "active_contexts_with_rows": 14,
+  "active_contexts_without_rows": 10,
+  "raw_c2_root7_UNSAT_claimed": false,
+  "degree_exact7_refinement_included": false,
+  "pilot_recommendation": {
+    "order": 8,
+    "original_index": 3,
+    "constant": 1,
+    "setup_stop_CPU_seconds": 4,
+    "generation_CPU_budget_seconds": 10,
+    "total_CPU_soft_seconds": 14,
+    "total_CPU_hard_seconds": 15,
+    "wall_seconds": 40,
+    "memory_bytes": 536870912,
+    "forecast_type": "Bounded proposal from inherited same-dimension prior, not target convergence prediction",
+    "pilot_run_by_this_reader": false,
+    "independent_trace_gate_required_for_acceptance": true
+  },
+  "native_propagation_performed": false,
+  "solver_queries": 0,
+  "new_native_exclusions": 0,
+  "whole_pattern_excluded": false,
+  "human_review": false,
+  "formal_verification": false,
+  "novelty_established": false,
+  "global_goal_complete": false
+}

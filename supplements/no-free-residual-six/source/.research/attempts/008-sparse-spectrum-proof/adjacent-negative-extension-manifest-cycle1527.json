@@ -1,0 +1,134 @@
+{
+  "authority": {
+    "bytes": 4385,
+    "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/adjacent-negative-extension-authority-cycle1527.json",
+    "sha256": "02cbc1e8621ab06eb048ce96f8cb4e584a168cfe4acf203f89e8d8c5a71901f1"
+  },
+  "entries": [
+    {
+      "bytes": 16027,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/adjacent_negative_extension_cycle1527.py",
+      "sha256": "dfd188a84e6f69144f44b3ef07093e297a7d07220a9c9b1def0d5e7499a8c317"
+    },
+    {
+      "bytes": 5128,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/test_adjacent_negative_extension_cycle1527.py",
+      "sha256": "00d2eeaa6be8a8381579ad042758fa71125ff6088456b34348afa53388822727"
+    },
+    {
+      "bytes": 11082,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/adjacent-negative-extension-independent-review-cycle1527.md",
+      "sha256": "ff41d227fe788d78ae9c6b19f6466f10685989ced2a7997325bd9edf36710387"
+    },
+    {
+      "bytes": 8813,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/adjacent-negative-extension-independent-normal-cycle1527.json",
+      "sha256": "d2f9287adee0050684f9cabcfe3c2cb1414c1c6709ecda8f0c1962d4572cc16b"
+    },
+    {
+      "bytes": 8822,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/adjacent-negative-extension-independent-optimized-cycle1527.json",
+      "sha256": "ab109b9fe5310c2388054048ddb479f2fa20cb957329588e0b3c1c07a0d01969"
+    },
+    {
+      "bytes": 8814,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/adjacent-negative-extension-independent-covered-cycle1527.json",
+      "sha256": "072da21205bff9afa42f33283bfd35a381e4e6431d95d0b45feff2f4223f60af"
+    },
+    {
+      "bytes": 16916,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/adjacent-negative-extension-coverage-cycle1527.json",
+      "sha256": "ef89d123e63af003671633ad6b49f6ad8c246c7ed6432fb0a3026dac8741eaa5"
+    },
+    {
+      "bytes": 320,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/adjacent-negative-extension-red-cycle1527.log",
+      "sha256": "1b2563a40b95a1f21779970aa4e9a17711686c22aa6157bf30e38b4c8a333bde"
+    },
+    {
+      "bytes": 806,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/adjacent-negative-extension-first-controls-cycle1527.log",
+      "sha256": "73cd05f60d7b46460b345468c544d1296b4ea834d132048997ce6723ce6df45d"
+    },
+    {
+      "bytes": 945,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/adjacent-negative-extension-tests-normal-cycle1527.log",
+      "sha256": "0cc9ee3c822e69abf232967e912d86bbfc1689a8f803c363d96c095afcf0f73a"
+    },
+    {
+      "bytes": 945,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/adjacent-negative-extension-tests-optimized-cycle1527.log",
+      "sha256": "0cc9ee3c822e69abf232967e912d86bbfc1689a8f803c363d96c095afcf0f73a"
+    },
+    {
+      "bytes": 945,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/adjacent-negative-extension-covered-tests-cycle1527.log",
+      "sha256": "e7de7bbcf84c1fdadb07fe24197a90ac5e1516580b419e197461c3bc74815e09"
+    },
+    {
+      "bytes": 2757,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/adjacent-negative-extension-validation-cycle1527.json",
+      "sha256": "d153bec5044c6d1098eb5afe0b4126a377a341edd9c5385dff5aa61df86c16c0"
+    },
+    {
+      "bytes": 4385,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/008-sparse-spectrum-proof/adjacent-negative-extension-authority-cycle1527.json",
+      "sha256": "02cbc1e8621ab06eb048ce96f8cb4e584a168cfe4acf203f89e8d8c5a71901f1"
+    }
+  ],
+  "global_goal_complete": false,
+  "inherited_source_bindings": [
+    {
+      "bytes": 2478,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/adjacent-two-negative-extension-handoff-cycle1526.json",
+      "sha256": "e6bb82b7832d7e9298c9b7aeb6602d04e32bb925670cfadefb1b785727a4a5cf"
+    },
+    {
+      "bytes": 1957,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/two-adjacent-negative-cubic-accepted-manifest.json",
+      "sha256": "47a0c56e5d0f345d02d7a095dd6fb4de49a802935fe0d80cb2cfa8e42eb2b94b"
+    },
+    {
+      "bytes": 6977,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/adjacent-two-negative-constant-extension-cycle1526.md",
+      "sha256": "f08efaee4026d47ce3be2c1ad167dfcc65893aedd1696d3e3dc4e6071998f78b"
+    },
+    {
+      "bytes": 7627,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/independent-math-audit/two-adjacent-negative-cubic-audit.md",
+      "sha256": "546e79961ae26f13c72b2f2e947ea9e9cc47a7945e0462d53d9773dd50dd4094"
+    },
+    {
+      "bytes": 17463,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/independent-math-audit/two-adjacent-negative-cubic-independent-verification.json",
+      "sha256": "12f650e0fcfc141de7195d46641342704cea93255093c20e43dbfaea4db6c090"
+    },
+    {
+      "bytes": 790659,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/two-negative-cubic-ordinary-compact-proofs.json",
+      "sha256": "d98b5ca81b5b848dd36977b637c658284edc9138aa093132ac88ceae6d1e7d50"
+    },
+    {
+      "bytes": 22291,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/independent-math-audit/verify_two_adjacent_negative_cubic.py",
+      "sha256": "6db23989679164111afdc5507ad08de8070a79ddf49311e054f94e2eb816a854"
+    },
+    {
+      "bytes": 3575,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/two-adjacent-negative-cubic-structural-audit.md",
+      "sha256": "2cb774d0cc4b21cfde077038ca9fd5f64b63c2e4dff7b275cd65821ce1c4d9ca"
+    },
+    {
+      "bytes": 7209,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/one-free-source-handoff-cycle1513.json",
+      "sha256": "b53cc1c87160b14800c0f66ffdec7c81ea253e68a6f86ad5c8cbfaff1cf9f163"
+    },
+    {
+      "bytes": 4290,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/independent-math-audit/d10-normalization-spheres-independent-verification.json",
+      "sha256": "6ac411bfc80c7fc8002e0f78bb9ef45483d71ff8ba8ce6e06d24079f8e9c7544"
+    }
+  ],
+  "schema_version": 1,
+  "status": "FROZEN_ACCEPTED_LOCAL_CONSTANT_EXTENSION"
+}

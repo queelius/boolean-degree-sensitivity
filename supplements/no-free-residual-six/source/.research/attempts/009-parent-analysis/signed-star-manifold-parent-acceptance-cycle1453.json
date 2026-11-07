@@ -1,0 +1,229 @@
+{
+  "schema_version": 1,
+  "status": "PARENT_ACCEPTED_SIGNED_STAR_CONNECTED_3SPHERE_NECESSARY_THEOREM",
+  "observed_at": "2026-10-21T20:49:37.311969+00:00",
+  "proof": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-manifold-proof-cycle1443.md",
+    "sha256": "800f6c0e5fbfd5b211a3c81ac0ef0987d8f1aa0fc9b72f727b0d35a871250b6e"
+  },
+  "review": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-manifold-parent-review-cycle1453.md",
+    "sha256": "1582e8d7851e16d1a5184f72c187681918ad1d46140f752ca2c9f883f479fa5e"
+  },
+  "producer_manifest": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-manifold-manifest-cycle1443.json",
+    "sha256": "100a9f1c00205051a800f0dd173f47d41ec17419d528e64551a788456b7c304e"
+  },
+  "producer_handoff": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-manifold-handoff-cycle1443.json",
+    "sha256": "2c21bf5c4c8077bebdee283bda8fa54736c80dc3df77fa126f55bbd44fbb34d0"
+  },
+  "inherited_local_authority": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-independent-authority-cycle1413.json",
+    "sha256": "b619eb4af9aa82efba81cec00e54c07e602b1e2045458696be04e7e314d599cb"
+  },
+  "primary_Walkup": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/walkup-primary-refresh-cycle1445.json",
+    "sha256": "238d64206c92bcdc4d1ef1196ab2855208f1894934924f9cb7a0df25908427cb"
+  },
+  "scope": {
+    "physical_coordinates": 13,
+    "constant": [
+      1,
+      2
+    ],
+    "ordinary_quadratic_coefficients": [
+      0,
+      1
+    ],
+    "exceptional_pairs": "Exactly three distinct pairs forming one star, numerator-2/+1",
+    "quartic_numerators": [
+      0,
+      1
+    ],
+    "range": [
+      -1,
+      0,
+      1
+    ],
+    "origin": 1,
+    "unit_values": 0
+  },
+  "deductions": {
+    "all_vertex_links": "S2",
+    "K_connected": true,
+    "K_closed_3manifold": true,
+    "K_underlying_space": "S3",
+    "f_vectors": [
+      [
+        13,
+        50,
+        74,
+        37
+      ],
+      [
+        13,
+        51,
+        76,
+        38
+      ]
+    ],
+    "g2": [
+      8,
+      9
+    ]
+  },
+  "root_exclusions": 0,
+  "whole_pattern_excluded": false,
+  "original_patterns_open": 29,
+  "actual_derivative_constructed": false,
+  "Boolean14_witness": false,
+  "global_goal_complete": false,
+  "formal_verification": false,
+  "human_review": false,
+  "novelty_established": false,
+  "AI_review_is_not_independent_rediscovery": true,
+  "historical_classifications_replayed": false,
+  "sources": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/accept_signed_star_manifold_cycle1453.py",
+      "sha256": "82c58f46c65ec1cf297740ba4b8f1a48ccceea8101092958976e27769d28424e"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/checkpoint1455-project-tests.log",
+      "sha256": "23e847854cb5090ffb0d54e389411ff1ad816748fe33f63aaac4e8d20d28d4a1"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/heptagon-disk-interiors-proof-cycle1399.md",
+      "sha256": "8d7f8b0061dd7eb1ffe3300b26523d18060c910b8b917e87b6dc32057efbf711"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-common-link-proof-cycle1412.md",
+      "sha256": "2843895f65ce16919502b84e4813933d1d364e91358396aefe2bcf31d958313a"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-full-p-row-proof-cycle1425.md",
+      "sha256": "59499f3af8acc734804100085c8191ef16bc57c3ebe075e484612488dedf594a"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-independent-authority-cycle1413.json",
+      "sha256": "b619eb4af9aa82efba81cec00e54c07e602b1e2045458696be04e7e314d599cb"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-independent-controls-cycle1413.json",
+      "sha256": "c26dbd3ce9d6a161b39524764fddbbe594d882335a49a792ae896208bfc1bfae"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-independent-review-cycle1413.md",
+      "sha256": "a976608e4b4c0989a7185b482429d8229a1058fd503278b437c21710645958db"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-independent-source-audit-cycle1413.json",
+      "sha256": "1eb637f3a019686ba8befbecd1a61be56d5bd2c6ee83503162eead787ff0cd7a"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-manifest-cycle1412.json",
+      "sha256": "30ef3132b7334a5bad8eb14737b3f1f79396d2e09ec258ca060fc4530b434195"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-manifold-controls-normal-cycle1443.log",
+      "sha256": "0c397a2c42cc5801b1341781f4b99366af6e9d3ee1b610aa7d3672060d3a1a20"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-manifold-controls-optimized-cycle1443.log",
+      "sha256": "d5f42551f74389cc74f0545c0c1b4e3cf94bb81a4e5b39d7db83e8be21500634"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-manifold-coverage-cycle1443.json",
+      "sha256": "e206f1bb27ec3dfc7a5e9231eaaf359712a3173e0319167b4018ff1386bc93c1"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-manifold-covered-controls-cycle1443.log",
+      "sha256": "84b448c556ae35ccf9f5eaaaa4bc694b39a1274400bd10cd6c67e25f688bbc7f"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-manifold-handoff-cycle1443.json",
+      "sha256": "2c21bf5c4c8077bebdee283bda8fa54736c80dc3df77fa126f55bbd44fbb34d0"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-manifold-manifest-cycle1443.json",
+      "sha256": "100a9f1c00205051a800f0dd173f47d41ec17419d528e64551a788456b7c304e"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-manifold-parent-controls-cycle1453.log",
+      "sha256": "e686a79d98db3371bf20abeb2597dc04d257c42b14e82993cbfa94c98aa70b40"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-manifold-parent-controls-optimized-cycle1453.log",
+      "sha256": "eb20363a1aa47a34a473bc791a0878172ed5024698f31f91ad302599aad6db6d"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-manifold-parent-review-cycle1453.md",
+      "sha256": "1582e8d7851e16d1a5184f72c187681918ad1d46140f752ca2c9f883f479fa5e"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-manifold-proof-cycle1443.md",
+      "sha256": "800f6c0e5fbfd5b211a3c81ac0ef0987d8f1aa0fc9b72f727b0d35a871250b6e"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-manifold-red-cycle1443.log",
+      "sha256": "4c1a825bcaac50ddd3b513ecec87e27c8dd42224ecace3865f9b1b00b547ce69"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-manifold-small-actual-cycle1443.log",
+      "sha256": "8934945aae49c1bc97611bbd03e29c4803ce2c70e7128d6ecc41ffdc96d75414"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-manifold-small-controls-cycle1443.json",
+      "sha256": "bbf80bcca5d14c5fe0daaa511fb619cde39b6833528ce2e85bbc1af5df8a25f2"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-manifold-small-resources-cycle1443.txt",
+      "sha256": "a169cb8d28c365f3dcb1b042222d51ebe133390fd06281ec04b7a04927c92247"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-manifold-validation-cycle1443.json",
+      "sha256": "e6cdd56ddf3431f04227bc46f33b2eaeb1308c125ae27ce44f42643c8450ca91"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-native-rows-authority-cycle1431.json",
+      "sha256": "b6eb54bca5b3b31c5c700f484ada8c78e99925b07f9f380b4d813fd1a84c195f"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed_star_independent_cycle1413.py",
+      "sha256": "147e36dcfade697a82356af09f60d12c511d290c1e72fe18c8f978d7725153f8"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed_star_manifold_controls_cycle1443.py",
+      "sha256": "cd57af61f12ad3bffbac3c34298c4a82b0e755daa4541000e2a98db204ad54a9"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_signed_star_manifold_cycle1443.py",
+      "sha256": "aa85e2b594e09c28886725a29e65e806d9ffacd37075cdd5fa62673e80e3e44b"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/two-free-independent-authority-cycle1409.json",
+      "sha256": "effc1e4e3e98e0f63fc347195175df63a9682f5f26ac31b33aa17b8e826d19a7"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/walkup-primary-cycle1445.pdf",
+      "sha256": "f70df49dd623564755ead1ced86aecce2cb63d2239b9dc7acad099b79b2b9992"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/walkup-primary-cycle1445.txt",
+      "sha256": "48f6cf04d6b62abb62247c630a390e2b0496bafbde1d5d5b3cf74deffff195ca"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/walkup-primary-refresh-cycle1445.json",
+      "sha256": "238d64206c92bcdc4d1ef1196ab2855208f1894934924f9cb7a0df25908427cb"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/walkup-sphere-corollary-cycle1445.md",
+      "sha256": "9d0efe465fa4293a3ed234d050f803e09990080bb6cdba9ad77ca0b6ce954049"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/walkup-theorems-page76-cycle1445.png",
+      "sha256": "4ab350db706721729f31705462fd7400991b52c76213b99542451d76dc594c68"
+    }
+  ]
+}

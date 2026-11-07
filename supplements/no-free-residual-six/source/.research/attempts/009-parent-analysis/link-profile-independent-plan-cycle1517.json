@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "status": "AUTHORIZED_ONE_INDEPENDENT_LITERAL_CATALOG_READ",
+  "proposal": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/link-profile-inspection-cycle1516.json",
+    "sha256": "6e7345f92f49f40d061c80f30b58a623b4d4ebef461f0a549c985b9e52a1d3c9",
+    "bytes": 6410
+  },
+  "catalog_authority": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-reader-authority-cycle1424.json",
+    "sha256": "4b39afb36dc5feaa630d1e101c1246902aabc8763907bd3f024f5b890225388f",
+    "bytes": 24631
+  },
+  "sources": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/link-profile-inspection-cycle1516.json",
+      "sha256": "6e7345f92f49f40d061c80f30b58a623b4d4ebef461f0a549c985b9e52a1d3c9",
+      "bytes": 6410
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-reader-authority-cycle1424.json",
+      "sha256": "4b39afb36dc5feaa630d1e101c1246902aabc8763907bd3f024f5b890225388f",
+      "bytes": 24631
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/link-profile-manifest-cycle1516.json",
+      "sha256": "ae449948c955947e14d34d5f8bcd5a9097a2e556d60389087e90b9ca4ab635c1",
+      "bytes": 4236
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/006-solver-resume/independent-math-audit/d10-normalization-spheres-independent-verification.json",
+      "sha256": "6ac411bfc80c7fc8002e0f78bb9ef45483d71ff8ba8ce6e06d24079f8e9c7544"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/link_profile_reader_cycle1517.py",
+      "sha256": "97af1d2332eaef73245d59fc4ad9095da123575d1b60936ef3fef91357ab126b",
+      "bytes": 2389
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/verify_link_profiles_cycle1517.py",
+      "sha256": "816f69c4cd2acc4bb83231f3d5fb4970aa3ab71422e07bfa62c3eadbcb168b7a",
+      "bytes": 6243
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_link_profile_reader_cycle1517.py",
+      "sha256": "5eeb7043d73d57adda71153dbc319a5313ad20feedbeee89d9e12427bd49cb1f",
+      "bytes": 3896
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/link-profile-independent-price-cycle1517.json",
+      "sha256": "145042baba63e2cadd565a99041c64f630d133bb5e6db91a4c94151abfd927b1",
+      "bytes": 560
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/link-profile-independent-scope-cycle1517.md",
+      "sha256": "168daa8be4f70a013aac14e740353de013f8daa9a9e698b22c9a8dcf9d4a4660",
+      "bytes": 3886
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/link-profile-final-tests-normal-cycle1517.log",
+      "sha256": "74c03fc16fde9a2dfeff03db0ec8f472a5a8dfed04e9e982a912b4b7f64faee3",
+      "bytes": 105
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/link-profile-final-tests-optimized-cycle1517.log",
+      "sha256": "74c03fc16fde9a2dfeff03db0ec8f472a5a8dfed04e9e982a912b4b7f64faee3",
+      "bytes": 105
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/link-profile-coverage-cycle1517.json",
+      "sha256": "d284691cd607166edc57075c0025a2faffe04e601f394cedfb06a1e4899db1c4",
+      "bytes": 11899
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/root-seven-filled-link-independent-authority-cycle1497.json",
+      "sha256": "51703596cba350bea954657437e8b4f16958cd7c8928e1ee02912d7d8a8b4d67",
+      "bytes": 5021
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/root-seven-forcing-parent-acceptance-cycle1497.json",
+      "sha256": "10dba5d83f6c353e7d4d9882b9e91012c1a212ad82318bf4f286970e6d2e8018",
+      "bytes": 4346
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/root-seven-filled-link-independent-review-cycle1497.md",
+      "sha256": "4ecd272ae45f8fe825c3920b46906737f9868bb1cd0a827c31ee900b3f666bf9",
+      "bytes": 8849
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-manifold-parent-acceptance-cycle1453.json",
+      "sha256": "26e71d45248d01e5b4b668327f814fb8100e6c1a41867149f311ff5ca1a608e0",
+      "bytes": 10728
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-independent-authority-cycle1413.json",
+      "sha256": "b619eb4af9aa82efba81cec00e54c07e602b1e2045458696be04e7e314d599cb",
+      "bytes": 6841
+    }
+  ],
+  "limits": {
+    "CPU_seconds": 4,
+    "wall_seconds": 10,
+    "AS_bytes": 536870912
+  },
+  "price": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/link-profile-independent-price-cycle1517.json",
+    "sha256": "145042baba63e2cadd565a99041c64f630d133bb5e6db91a4c94151abfd927b1",
+    "bytes": 560
+  },
+  "catalog_cover_replay": false,
+  "target_model_queries": 0,
+  "global_goal_complete": false
+}

@@ -1,0 +1,282 @@
+{
+  "schema_version": 1,
+  "status": "FINAL_VALIDATION_COMPLETE_NATIVE26_ROW_ENCODING",
+  "authority": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-native-rows-authority-cycle1431.json",
+    "sha256": "b6eb54bca5b3b31c5c700f484ada8c78e99925b07f9f380b4d813fd1a84c195f",
+    "bytes": 25443
+  },
+  "written_mathematical_review": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-native-rows-review-cycle1431.md",
+    "sha256": "aa1a68af69787ff78870abe289b3c25f05179786f26092a1cb2334006ad7217a",
+    "bytes": 9960
+  },
+  "source_bindings": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-native-rows-source-bindings-cycle1431.json",
+    "sha256": "68b0b443508f815ef795a069a06066f17ced58256eefb7ef02525a6763c2d6fb",
+    "bytes": 16632
+  },
+  "storage_contract": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-native-storage-contract-cycle1431.json",
+    "sha256": "199f53515988cd88d21170390f9b6cd428f26df6f062a40983f8bfc1e007b307",
+    "bytes": 14151
+  },
+  "separate_one_in_three_written_review": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/one-in-three-independent-review-cycle1431.md",
+    "sha256": "fb0fac0109dbaada1d702af858becdb8a557882a60fb8a18e11a7a6e11038f60",
+    "bytes": 3073
+  },
+  "one_in_three_projection_execution_performed": false,
+  "normal_controls": 14,
+  "optimized_controls": 14,
+  "project_tests": 13,
+  "CLI_pre_IO_rejection_modes": [
+    "-O",
+    "-OO"
+  ],
+  "meaningful_positive_controls": [
+    {
+      "complex": "C4*C4",
+      "n": 8,
+      "Fourier_constant_numerator": 0,
+      "cube_inputs": 256,
+      "direct_Walsh_coefficients": 256
+    },
+    {
+      "complex": "C5*C5",
+      "n": 10,
+      "Fourier_constant_numerator": 1,
+      "cube_inputs": 1024,
+      "direct_Walsh_coefficients": 1024
+    }
+  ],
+  "meaningful_rejection_controls": [
+    "missing facet",
+    "wrong Fourier constant",
+    "forged degree/sign",
+    "noninvolutive physical transport",
+    "duplicate/root/bool alias",
+    "changed coefficient",
+    "native row omission/reordering",
+    "actual through-root zero flip",
+    "native context c1 versus c2",
+    "zero-budget OPEN prefix"
+  ],
+  "coverage": {
+    "source": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-rows-coverage-cycle1431.json",
+      "sha256": "30298e2e15115f4061357ed5ab31bd0c523483b9492a63d0e95f353a6eb7a3b8",
+      "bytes": 29219
+    },
+    "totals": {
+      "covered_lines": 263,
+      "num_statements": 300,
+      "percent_covered": 88.37837837837837,
+      "percent_covered_display": "88",
+      "missing_lines": 37,
+      "excluded_lines": 0,
+      "percent_statements_covered": 87.66666666666667,
+      "percent_statements_covered_display": "88",
+      "num_branches": 70,
+      "num_partial_branches": 2,
+      "covered_branches": 64,
+      "missing_branches": 6,
+      "percent_branches_covered": 91.42857142857143,
+      "percent_branches_covered_display": "91"
+    },
+    "files": {
+      ".research/attempts/009-parent-analysis/signed_star_rows_independent_cycle1431.py": {
+        "summary": {
+          "covered_lines": 156,
+          "num_statements": 156,
+          "percent_covered": 100.0,
+          "percent_covered_display": "100",
+          "missing_lines": 0,
+          "excluded_lines": 0,
+          "percent_statements_covered": 100.0,
+          "percent_statements_covered_display": "100",
+          "num_branches": 42,
+          "num_partial_branches": 0,
+          "covered_branches": 42,
+          "missing_branches": 0,
+          "percent_branches_covered": 100.0,
+          "percent_branches_covered_display": "100"
+        },
+        "missing_lines": [],
+        "missing_branches": []
+      },
+      ".research/attempts/009-parent-analysis/verify_signed_star_rows_cycle1431.py": {
+        "summary": {
+          "covered_lines": 107,
+          "num_statements": 144,
+          "percent_covered": 75.0,
+          "percent_covered_display": "75",
+          "missing_lines": 37,
+          "excluded_lines": 0,
+          "percent_statements_covered": 74.30555555555556,
+          "percent_statements_covered_display": "74",
+          "num_branches": 28,
+          "num_partial_branches": 2,
+          "covered_branches": 22,
+          "missing_branches": 6,
+          "percent_branches_covered": 78.57142857142857,
+          "percent_branches_covered_display": "79"
+        },
+        "missing_lines": [
+          137,
+          138,
+          142,
+          143,
+          144,
+          145,
+          146,
+          147,
+          148,
+          149,
+          156,
+          157,
+          158,
+          159,
+          160,
+          161,
+          162,
+          164,
+          165,
+          166,
+          168,
+          180,
+          181,
+          182,
+          183,
+          184,
+          185,
+          186,
+          187,
+          188,
+          190,
+          194,
+          195,
+          196,
+          197,
+          198,
+          202
+        ],
+        "missing_branches": [
+          [
+            34,
+            -33
+          ],
+          [
+            146,
+            147
+          ],
+          [
+            146,
+            165
+          ],
+          [
+            194,
+            195
+          ],
+          [
+            194,
+            196
+          ],
+          [
+            201,
+            202
+          ]
+        ]
+      }
+    },
+    "actual_full_CLI_was_normal_unprofiled": true,
+    "full_comparison_not_rerun_for_coverage": true
+  },
+  "actual": {
+    "terminal_exit_code": 0,
+    "models": 26,
+    "stored_rows": 22062,
+    "stored_terms": 982592,
+    "root_fixes": 7748,
+    "zero_root_fixes": 6496,
+    "CPU_seconds": 4.820061205,
+    "peak_RSS_bytes": 187846656,
+    "soft_CPU_limit": 15,
+    "hard_CPU_limit": 20,
+    "memory_limit_bytes": 536870912
+  },
+  "reproducible_fresh_output_command": "/home/spinoza/github/math-theory/.research/venv-exact/bin/python /home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/verify_signed_star_rows_cycle1431.py --output /ABSOLUTE/FRESH/OUTPUT.json",
+  "logs": {
+    "builder_normal": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-rows-tests-normal-cycle1431.log",
+      "sha256": "28915225c58fd90a15be8938abb8127068b65d2f4e44d30fe0871fbc5779cdca",
+      "bytes": 105
+    },
+    "builder_optimized": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-rows-tests-optimized-cycle1431.log",
+      "sha256": "91930cf8233dca75933c501426c0df314f2f50fc7b1299fde88fe0aa9b4879b0",
+      "bytes": 105
+    },
+    "packet_normal": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-packet-tests-normal-cycle1431.log",
+      "sha256": "2a17df6789b54c86ff88d4418111f2f2fec8bc492d46e0244daa92c4ddb0a37a",
+      "bytes": 102
+    },
+    "packet_optimized": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-packet-tests-optimized-cycle1431.log",
+      "sha256": "34f735ceb440c2533c14766f530ddf65b6381310d70f2485e7702ee7fe9ad130",
+      "bytes": 102
+    },
+    "actual_tamper_normal": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-native-tamper-normal-cycle1431.log",
+      "sha256": "a1df78c8a234528cbfdf24efabc8934b3d05decc50636a1d0e8a0a7909f5f247",
+      "bytes": 101
+    },
+    "actual_tamper_optimized": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-native-tamper-optimized-cycle1431.log",
+      "sha256": "6778f2198c2c014b5ecdd24f51767d1997fd13b59e177a38794e869113808260",
+      "bytes": 101
+    },
+    "project": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-rows-project-tests-cycle1431.log",
+      "sha256": "9d33c8640dbbf31be16f695b885c13586520e5c5c5afe98b9fade87344640ab6",
+      "bytes": 99
+    },
+    "covered_controls": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-rows-covered-tests-cycle1431.log",
+      "sha256": "d06577b270af796fedc8aafb393091fad4533d31add6a1c43c00bcc71a409e93",
+      "bytes": 113
+    },
+    "actual_complete_comparison": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-native-rows-actual-cycle1431.log",
+      "sha256": "137a6412900881b445b71b83426fa24f921c3071fd742811c1a8eaeb8c9e6163",
+      "bytes": 227
+    },
+    "builder_red": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-rows-red-cycle1431.log",
+      "sha256": "65a417d70cb411140d67566a5e92a6a9f6acef9f3f93032f50d0b333a9f0e059",
+      "bytes": 3991
+    },
+    "packet_red": {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-packet-red-cycle1431.log",
+      "sha256": "d7f0d8aa02cc189de3621325ed2652ad1fd6a1b3bde089c0dd3300aa5ea55c1d",
+      "bytes": 2246
+    }
+  },
+  "new_propagation_queries": 0,
+  "new_projection_queries": 0,
+  "new_feasibility_queries": 0,
+  "actual_derivative_constructed": false,
+  "whole_pattern_excluded": false,
+  "global_goal_complete": false,
+  "evidence_kinds": [
+    "written mathematical review",
+    "exact integer native row comparison",
+    "meaningful finite controls",
+    "source-hash rebind"
+  ],
+  "formal_verification": false,
+  "human_review_claimed": false,
+  "novelty_claimed": false,
+  "publication_readiness": "Reproducible scoped encoding audit available; no publication performed and no standalone novelty or global result asserted."
+}

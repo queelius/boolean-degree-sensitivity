@@ -1,0 +1,772 @@
+{
+  "status": "INDEPENDENTLY_VERIFIED_NATIVE26_SIGNED_STAR_FULL_P_ROWS",
+  "models_compared": 26,
+  "variable_count": 1079,
+  "common_block": {
+    "rows": 12130,
+    "terms": 833222,
+    "families": {
+      "DOWNWARD": 3718,
+      "TRIANGLE_COFACES": 286,
+      "VERTEX_QUARTICS": 13,
+      "VERTEX_TRIANGLES": 13,
+      "INDUCED_EULER": 8100
+    }
+  },
+  "contexts": [
+    {
+      "model_id": {
+        "native_identity": {
+          "catalog_sha256": "b6f27899b2b9830758119abb9f38d92705663852cbc1e54c56e5ffe7cda0aec7",
+          "order": 7,
+          "original_index": 0
+        },
+        "constant": 1
+      },
+      "rows": 382,
+      "terms": 5745,
+      "families": {
+        "EDGE_VALENCE": 78,
+        "SPECIAL_PRESENT": 3,
+        "GLOBAL_COUNT": 3,
+        "FIX_ROOT": 298
+      },
+      "zero_through_root_fixes": 266,
+      "one_through_root_fixes": 32
+    },
+    {
+      "model_id": {
+        "native_identity": {
+          "catalog_sha256": "b6f27899b2b9830758119abb9f38d92705663852cbc1e54c56e5ffe7cda0aec7",
+          "order": 7,
+          "original_index": 0
+        },
+        "constant": 2
+      },
+      "rows": 382,
+      "terms": 5745,
+      "families": {
+        "EDGE_VALENCE": 78,
+        "SPECIAL_PRESENT": 3,
+        "GLOBAL_COUNT": 3,
+        "FIX_ROOT": 298
+      },
+      "zero_through_root_fixes": 266,
+      "one_through_root_fixes": 32
+    },
+    {
+      "model_id": {
+        "native_identity": {
+          "catalog_sha256": "df2dd7cc5c4ba26a5dde0736c3ec8c6d9f33292dfdd66f067badb0d67ea0e879",
+          "order": 8,
+          "original_index": 3
+        },
+        "constant": 1
+      },
+      "rows": 382,
+      "terms": 5745,
+      "families": {
+        "EDGE_VALENCE": 78,
+        "SPECIAL_PRESENT": 3,
+        "GLOBAL_COUNT": 3,
+        "FIX_ROOT": 298
+      },
+      "zero_through_root_fixes": 260,
+      "one_through_root_fixes": 38
+    },
+    {
+      "model_id": {
+        "native_identity": {
+          "catalog_sha256": "df2dd7cc5c4ba26a5dde0736c3ec8c6d9f33292dfdd66f067badb0d67ea0e879",
+          "order": 8,
+          "original_index": 3
+        },
+        "constant": 2
+      },
+      "rows": 382,
+      "terms": 5745,
+      "families": {
+        "EDGE_VALENCE": 78,
+        "SPECIAL_PRESENT": 3,
+        "GLOBAL_COUNT": 3,
+        "FIX_ROOT": 298
+      },
+      "zero_through_root_fixes": 260,
+      "one_through_root_fixes": 38
+    },
+    {
+      "model_id": {
+        "native_identity": {
+          "catalog_sha256": "df2dd7cc5c4ba26a5dde0736c3ec8c6d9f33292dfdd66f067badb0d67ea0e879",
+          "order": 8,
+          "original_index": 7
+        },
+        "constant": 1
+      },
+      "rows": 382,
+      "terms": 5745,
+      "families": {
+        "EDGE_VALENCE": 78,
+        "SPECIAL_PRESENT": 3,
+        "GLOBAL_COUNT": 3,
+        "FIX_ROOT": 298
+      },
+      "zero_through_root_fixes": 260,
+      "one_through_root_fixes": 38
+    },
+    {
+      "model_id": {
+        "native_identity": {
+          "catalog_sha256": "df2dd7cc5c4ba26a5dde0736c3ec8c6d9f33292dfdd66f067badb0d67ea0e879",
+          "order": 8,
+          "original_index": 7
+        },
+        "constant": 2
+      },
+      "rows": 382,
+      "terms": 5745,
+      "families": {
+        "EDGE_VALENCE": 78,
+        "SPECIAL_PRESENT": 3,
+        "GLOBAL_COUNT": 3,
+        "FIX_ROOT": 298
+      },
+      "zero_through_root_fixes": 260,
+      "one_through_root_fixes": 38
+    },
+    {
+      "model_id": {
+        "native_identity": {
+          "catalog_sha256": "8c707c48b4daecbf613fa5d31152e5c0606206a9f8543a8a37dd60f955349eff",
+          "order": 9,
+          "original_index": 33
+        },
+        "constant": 1
+      },
+      "rows": 382,
+      "terms": 5745,
+      "families": {
+        "EDGE_VALENCE": 78,
+        "SPECIAL_PRESENT": 3,
+        "GLOBAL_COUNT": 3,
+        "FIX_ROOT": 298
+      },
+      "zero_through_root_fixes": 254,
+      "one_through_root_fixes": 44
+    },
+    {
+      "model_id": {
+        "native_identity": {
+          "catalog_sha256": "8c707c48b4daecbf613fa5d31152e5c0606206a9f8543a8a37dd60f955349eff",
+          "order": 9,
+          "original_index": 33
+        },
+        "constant": 2
+      },
+      "rows": 382,
+      "terms": 5745,
+      "families": {
+        "EDGE_VALENCE": 78,
+        "SPECIAL_PRESENT": 3,
+        "GLOBAL_COUNT": 3,
+        "FIX_ROOT": 298
+      },
+      "zero_through_root_fixes": 254,
+      "one_through_root_fixes": 44
+    },
+    {
+      "model_id": {
+        "native_identity": {
+          "catalog_sha256": "8c707c48b4daecbf613fa5d31152e5c0606206a9f8543a8a37dd60f955349eff",
+          "order": 9,
+          "original_index": 35
+        },
+        "constant": 1
+      },
+      "rows": 382,
+      "terms": 5745,
+      "families": {
+        "EDGE_VALENCE": 78,
+        "SPECIAL_PRESENT": 3,
+        "GLOBAL_COUNT": 3,
+        "FIX_ROOT": 298
+      },
+      "zero_through_root_fixes": 254,
+      "one_through_root_fixes": 44
+    },
+    {
+      "model_id": {
+        "native_identity": {
+          "catalog_sha256": "8c707c48b4daecbf613fa5d31152e5c0606206a9f8543a8a37dd60f955349eff",
+          "order": 9,
+          "original_index": 35
+        },
+        "constant": 2
+      },
+      "rows": 382,
+      "terms": 5745,
+      "families": {
+        "EDGE_VALENCE": 78,
+        "SPECIAL_PRESENT": 3,
+        "GLOBAL_COUNT": 3,
+        "FIX_ROOT": 298
+      },
+      "zero_through_root_fixes": 254,
+      "one_through_root_fixes": 44
+    },
+    {
+      "model_id": {
+        "native_identity": {
+          "catalog_sha256": "0884454b75c491e2c47a14e9eea4e34752f24a0a3f59ddcf4b54ae5010bd690a",
+          "order": 10,
+          "original_index": 38
+        },
+        "constant": 1
+      },
+      "rows": 382,
+      "terms": 5745,
+      "families": {
+        "EDGE_VALENCE": 78,
+        "SPECIAL_PRESENT": 3,
+        "GLOBAL_COUNT": 3,
+        "FIX_ROOT": 298
+      },
+      "zero_through_root_fixes": 248,
+      "one_through_root_fixes": 50
+    },
+    {
+      "model_id": {
+        "native_identity": {
+          "catalog_sha256": "0884454b75c491e2c47a14e9eea4e34752f24a0a3f59ddcf4b54ae5010bd690a",
+          "order": 10,
+          "original_index": 38
+        },
+        "constant": 2
+      },
+      "rows": 382,
+      "terms": 5745,
+      "families": {
+        "EDGE_VALENCE": 78,
+        "SPECIAL_PRESENT": 3,
+        "GLOBAL_COUNT": 3,
+        "FIX_ROOT": 298
+      },
+      "zero_through_root_fixes": 248,
+      "one_through_root_fixes": 50
+    },
+    {
+      "model_id": {
+        "native_identity": {
+          "catalog_sha256": "0884454b75c491e2c47a14e9eea4e34752f24a0a3f59ddcf4b54ae5010bd690a",
+          "order": 10,
+          "original_index": 113
+        },
+        "constant": 1
+      },
+      "rows": 382,
+      "terms": 5745,
+      "families": {
+        "EDGE_VALENCE": 78,
+        "SPECIAL_PRESENT": 3,
+        "GLOBAL_COUNT": 3,
+        "FIX_ROOT": 298
+      },
+      "zero_through_root_fixes": 248,
+      "one_through_root_fixes": 50
+    },
+    {
+      "model_id": {
+        "native_identity": {
+          "catalog_sha256": "0884454b75c491e2c47a14e9eea4e34752f24a0a3f59ddcf4b54ae5010bd690a",
+          "order": 10,
+          "original_index": 113
+        },
+        "constant": 2
+      },
+      "rows": 382,
+      "terms": 5745,
+      "families": {
+        "EDGE_VALENCE": 78,
+        "SPECIAL_PRESENT": 3,
+        "GLOBAL_COUNT": 3,
+        "FIX_ROOT": 298
+      },
+      "zero_through_root_fixes": 248,
+      "one_through_root_fixes": 50
+    },
+    {
+      "model_id": {
+        "native_identity": {
+          "catalog_sha256": "0884454b75c491e2c47a14e9eea4e34752f24a0a3f59ddcf4b54ae5010bd690a",
+          "order": 10,
+          "original_index": 116
+        },
+        "constant": 1
+      },
+      "rows": 382,
+      "terms": 5745,
+      "families": {
+        "EDGE_VALENCE": 78,
+        "SPECIAL_PRESENT": 3,
+        "GLOBAL_COUNT": 3,
+        "FIX_ROOT": 298
+      },
+      "zero_through_root_fixes": 248,
+      "one_through_root_fixes": 50
+    },
+    {
+      "model_id": {
+        "native_identity": {
+          "catalog_sha256": "0884454b75c491e2c47a14e9eea4e34752f24a0a3f59ddcf4b54ae5010bd690a",
+          "order": 10,
+          "original_index": 116
+        },
+        "constant": 2
+      },
+      "rows": 382,
+      "terms": 5745,
+      "families": {
+        "EDGE_VALENCE": 78,
+        "SPECIAL_PRESENT": 3,
+        "GLOBAL_COUNT": 3,
+        "FIX_ROOT": 298
+      },
+      "zero_through_root_fixes": 248,
+      "one_through_root_fixes": 50
+    },
+    {
+      "model_id": {
+        "native_identity": {
+          "catalog_sha256": "0884454b75c491e2c47a14e9eea4e34752f24a0a3f59ddcf4b54ae5010bd690a",
+          "order": 10,
+          "original_index": 180
+        },
+        "constant": 1
+      },
+      "rows": 382,
+      "terms": 5745,
+      "families": {
+        "EDGE_VALENCE": 78,
+        "SPECIAL_PRESENT": 3,
+        "GLOBAL_COUNT": 3,
+        "FIX_ROOT": 298
+      },
+      "zero_through_root_fixes": 248,
+      "one_through_root_fixes": 50
+    },
+    {
+      "model_id": {
+        "native_identity": {
+          "catalog_sha256": "0884454b75c491e2c47a14e9eea4e34752f24a0a3f59ddcf4b54ae5010bd690a",
+          "order": 10,
+          "original_index": 180
+        },
+        "constant": 2
+      },
+      "rows": 382,
+      "terms": 5745,
+      "families": {
+        "EDGE_VALENCE": 78,
+        "SPECIAL_PRESENT": 3,
+        "GLOBAL_COUNT": 3,
+        "FIX_ROOT": 298
+      },
+      "zero_through_root_fixes": 248,
+      "one_through_root_fixes": 50
+    },
+    {
+      "model_id": {
+        "native_identity": {
+          "catalog_sha256": "120a8e03f8ca63a5432275be5ca65ec705062e2937a5e8b71eb401924b369ce2",
+          "order": 11,
+          "original_index": 185
+        },
+        "constant": 1
+      },
+      "rows": 382,
+      "terms": 5745,
+      "families": {
+        "EDGE_VALENCE": 78,
+        "SPECIAL_PRESENT": 3,
+        "GLOBAL_COUNT": 3,
+        "FIX_ROOT": 298
+      },
+      "zero_through_root_fixes": 242,
+      "one_through_root_fixes": 56
+    },
+    {
+      "model_id": {
+        "native_identity": {
+          "catalog_sha256": "120a8e03f8ca63a5432275be5ca65ec705062e2937a5e8b71eb401924b369ce2",
+          "order": 11,
+          "original_index": 185
+        },
+        "constant": 2
+      },
+      "rows": 382,
+      "terms": 5745,
+      "families": {
+        "EDGE_VALENCE": 78,
+        "SPECIAL_PRESENT": 3,
+        "GLOBAL_COUNT": 3,
+        "FIX_ROOT": 298
+      },
+      "zero_through_root_fixes": 242,
+      "one_through_root_fixes": 56
+    },
+    {
+      "model_id": {
+        "native_identity": {
+          "catalog_sha256": "120a8e03f8ca63a5432275be5ca65ec705062e2937a5e8b71eb401924b369ce2",
+          "order": 11,
+          "original_index": 257
+        },
+        "constant": 1
+      },
+      "rows": 382,
+      "terms": 5745,
+      "families": {
+        "EDGE_VALENCE": 78,
+        "SPECIAL_PRESENT": 3,
+        "GLOBAL_COUNT": 3,
+        "FIX_ROOT": 298
+      },
+      "zero_through_root_fixes": 242,
+      "one_through_root_fixes": 56
+    },
+    {
+      "model_id": {
+        "native_identity": {
+          "catalog_sha256": "120a8e03f8ca63a5432275be5ca65ec705062e2937a5e8b71eb401924b369ce2",
+          "order": 11,
+          "original_index": 257
+        },
+        "constant": 2
+      },
+      "rows": 382,
+      "terms": 5745,
+      "families": {
+        "EDGE_VALENCE": 78,
+        "SPECIAL_PRESENT": 3,
+        "GLOBAL_COUNT": 3,
+        "FIX_ROOT": 298
+      },
+      "zero_through_root_fixes": 242,
+      "one_through_root_fixes": 56
+    },
+    {
+      "model_id": {
+        "native_identity": {
+          "catalog_sha256": "120a8e03f8ca63a5432275be5ca65ec705062e2937a5e8b71eb401924b369ce2",
+          "order": 11,
+          "original_index": 691
+        },
+        "constant": 1
+      },
+      "rows": 382,
+      "terms": 5745,
+      "families": {
+        "EDGE_VALENCE": 78,
+        "SPECIAL_PRESENT": 3,
+        "GLOBAL_COUNT": 3,
+        "FIX_ROOT": 298
+      },
+      "zero_through_root_fixes": 242,
+      "one_through_root_fixes": 56
+    },
+    {
+      "model_id": {
+        "native_identity": {
+          "catalog_sha256": "120a8e03f8ca63a5432275be5ca65ec705062e2937a5e8b71eb401924b369ce2",
+          "order": 11,
+          "original_index": 691
+        },
+        "constant": 2
+      },
+      "rows": 382,
+      "terms": 5745,
+      "families": {
+        "EDGE_VALENCE": 78,
+        "SPECIAL_PRESENT": 3,
+        "GLOBAL_COUNT": 3,
+        "FIX_ROOT": 298
+      },
+      "zero_through_root_fixes": 242,
+      "one_through_root_fixes": 56
+    },
+    {
+      "model_id": {
+        "native_identity": {
+          "catalog_sha256": "0f783e580e0555f85cf42ff460a947082d37e5699bdbf9feb4aa1da85150b04c",
+          "order": 12,
+          "original_index": 1697
+        },
+        "constant": 1
+      },
+      "rows": 382,
+      "terms": 5745,
+      "families": {
+        "EDGE_VALENCE": 78,
+        "SPECIAL_PRESENT": 3,
+        "GLOBAL_COUNT": 3,
+        "FIX_ROOT": 298
+      },
+      "zero_through_root_fixes": 236,
+      "one_through_root_fixes": 62
+    },
+    {
+      "model_id": {
+        "native_identity": {
+          "catalog_sha256": "0f783e580e0555f85cf42ff460a947082d37e5699bdbf9feb4aa1da85150b04c",
+          "order": 12,
+          "original_index": 1697
+        },
+        "constant": 2
+      },
+      "rows": 382,
+      "terms": 5745,
+      "families": {
+        "EDGE_VALENCE": 78,
+        "SPECIAL_PRESENT": 3,
+        "GLOBAL_COUNT": 3,
+        "FIX_ROOT": 298
+      },
+      "zero_through_root_fixes": 236,
+      "one_through_root_fixes": 62
+    }
+  ],
+  "expanded_rows_per_model": 12512,
+  "stored_rows_checked": 22062,
+  "stored_nonzero_coefficients_checked": 982592,
+  "through_root_fixes_checked": 7748,
+  "zero_through_root_fixes_checked": 6496,
+  "boolean_tautologies_per_model": 92,
+  "native_variable_positions_and_model_identities_preserved": true,
+  "root_embedding": "center0, source coordinate i maps to i+1, unused physical slots retained",
+  "proof_scope": "Exact row system for the necessary local signed-star problem; no feasibility or original Boolean extension is asserted.",
+  "producer_or_legacy_constructor_imports": false,
+  "propagation_queries": 0,
+  "projection_queries": 0,
+  "feasibility_queries": 0,
+  "actual_derivative_constructed": false,
+  "whole_pattern_excluded": false,
+  "global_goal_complete": false,
+  "schema_version": 1,
+  "sources": [
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-construction-handoff-cycle1432.json",
+      "sha256": "c207bb873350c59380a78756aca8003ba694ce5bb759604f87e942f66904ca58"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-construction-manifest-cycle1432.json",
+      "sha256": "57cb35b00dda2ffeeb0e8ce2658d7deb137e4efdf56d5591a9e1da27ccac3d40",
+      "bytes": 6350
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/check_signed_star_construction_cycle1432.py",
+      "sha256": "b0524c33d415750e9533fbe16bb260ebd6dbc9001354a318ccfdd8e3998c0fea",
+      "bytes": 5355
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/construct_signed_star_models_cycle1432.py",
+      "sha256": "4f1c6cf58b446e7d233b456a4626f989b56458f92f342113a7f61e812bb11312",
+      "bytes": 9045
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/coverage-data-cycle1432",
+      "sha256": "6bf8eb70913e2b7e1b642dda1a50bf3e77f3ea37a69d55c466ff9c0de9c493b5",
+      "bytes": 53248
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-construction-actual-controls-normal-cycle1432.log",
+      "sha256": "70d0a61fafda3fcdb8a9e23992f0eb5af91e639e9248d26c42f8bf3d18965d41",
+      "bytes": 322
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-construction-actual-controls-optimized-cycle1432.log",
+      "sha256": "9e524ab100951eada5307f28892369e29061ee8029700a1ae63b7741ef2b5376",
+      "bytes": 322
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-construction-actual-cycle1432.log",
+      "sha256": "ada4f553fb7586407f1225eb81406c45d7f163d725f921033c32fece5c1a8951",
+      "bytes": 181
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-construction-authorization-cycle1432.json",
+      "sha256": "5e6c3341e270333e13df1b0158709f0e33fa6b0e56d93aede236ec0ace394aa1",
+      "bytes": 1283
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-construction-coverage-cycle1432.json",
+      "sha256": "f05eb0c03ee84ff16ae68d6e00881ae6efeb4f4c4a329b5aa0dbb21b57fb091c",
+      "bytes": 12768
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-construction-coverage-json-cycle1432.log",
+      "sha256": "43e2f1613b5535c95ddf2cf0098fcef26138dbca2c54d1583671629b3fde4571",
+      "bytes": 70
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-construction-final-normal-tests-cycle1432.log",
+      "sha256": "5deab3d5e46cfcaf5760662a4603478a6ec010eacddb6469aed2fea57dc979cf",
+      "bytes": 998
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-construction-final-optimized-tests-cycle1432.log",
+      "sha256": "ba270e02d019883746e765183d03a667720b6f6e927830f1042391483811bdbf",
+      "bytes": 998
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-construction-final-self-QA-cycle1432.json",
+      "sha256": "a48d5985bbc140954ff49564a302f387b00354332dd2e82848cb651491853ca7",
+      "bytes": 5322
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-construction-normal-tests-cycle1432.log",
+      "sha256": "ecc98a64e57ce4f83d198aa27f93fa0b4caf472232ddad9fc6ccb133cbb56100",
+      "bytes": 998
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-construction-optimized-tests-cycle1432.log",
+      "sha256": "7d781f99f2383292f6103bfdd368d12242c8598814035efff46f4ad50e93e159",
+      "bytes": 998
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-construction-red-cycle1432.log",
+      "sha256": "e87bc39839488c36cb1fdae0c2286327840ba38821f2e32e21bde35340a7a1f3",
+      "bytes": 909
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-construction-resources-cycle1432.txt",
+      "sha256": "ee2f408c3f0cb583fc834e41c3ac25d5e4082463f7d9869f63ae05b56c811364",
+      "bytes": 17
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-construction-result-cycle1432.json",
+      "sha256": "b7f80ada370656d209bf1302a4b843bc84976f2a9c537b58bbe6bb02c035de99",
+      "bytes": 3041
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-construction-self-QA-cycle1432.json",
+      "sha256": "a48d5985bbc140954ff49564a302f387b00354332dd2e82848cb651491853ca7",
+      "bytes": 5322
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-construction-unit-coverage-cycle1432.log",
+      "sha256": "c9040e8db4df859f740ddc6d5e6180f45f0bd54d4bb7b539b3c29ba2d1e3bc7f",
+      "bytes": 103
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-construction-validation-cycle1432.json",
+      "sha256": "0ce7eb0682ced151446f5c1534dfa8ee08d06bbbea6a8a9524757222be943458",
+      "bytes": 2423
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-native-common-cycle1432.json",
+      "sha256": "c798def0613ef0d8caad8af0bd7c3d97e4851315d2c72ebede58fe5f5843804f",
+      "bytes": 8721546
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-native-contexts-cycle1432.json",
+      "sha256": "dfe5de4b3083673b6aa1cfdfa1c9167d80ba9ed6d6a5c5c7d75a9cb0de290059",
+      "bytes": 2179719
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_signed_star_construction_actual_cycle1432.py",
+      "sha256": "de0e0d20c31c32b72e43e4289747a2ef2abfed7ab33d7a1e8191a5e86fdc67c2",
+      "bytes": 931
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/test_signed_star_construction_cycle1432.py",
+      "sha256": "e80b1fca65fa7ce18384e34f67f560c8841b359403f1d959e7c7f588c8e04df4",
+      "bytes": 2132
+    },
+    {
+      "bytes": 13877,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-thirteen-root-domain-cycle1422.json",
+      "sha256": "56f02a6a823727c25d54ea1ea95ec0e2168ce9b378e9b8fce2492448e3593307"
+    },
+    {
+      "bytes": 6841,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-independent-authority-cycle1413.json",
+      "sha256": "b619eb4af9aa82efba81cec00e54c07e602b1e2045458696be04e7e314d599cb"
+    },
+    {
+      "bytes": 10393,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-full-p-row-proof-cycle1425.md",
+      "sha256": "59499f3af8acc734804100085c8191ef16bc57c3ebe075e484612488dedf594a"
+    },
+    {
+      "bytes": 7100,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed_star_model_cycle1425.py",
+      "sha256": "a0ea801c4cf4a3cabe784e47ee0494cda0cd6a15b1e70c4b18fa142ec70df8f7"
+    },
+    {
+      "bytes": 24631,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-reader-authority-cycle1424.json",
+      "sha256": "4b39afb36dc5feaa630d1e101c1246902aabc8763907bd3f024f5b890225388f"
+    },
+    {
+      "bytes": 13749,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-reader-manifest-cycle1424.json",
+      "sha256": "c320d5e796c7f6fc3275bffb994c7670450bb57b60e11cc938a600b79e237abe"
+    },
+    {
+      "bytes": 1283,
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-construction-authorization-cycle1432.json",
+      "sha256": "5e6c3341e270333e13df1b0158709f0e33fa6b0e56d93aede236ec0ace394aa1"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed_star_rows_independent_cycle1431.py",
+      "sha256": "55e9438ae00b2ae949526ae9d3fca322b1f3f6318f6871516c2f3a256ddc71e5"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed_star_reader_cycle1424.py",
+      "sha256": "259376d53585da7f7923eda3d5f73cbbf31327cd0a66180737a9f3cbed63c4bb"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/two-free-independent-authority-cycle1409.json",
+      "sha256": "effc1e4e3e98e0f63fc347195175df63a9682f5f26ac31b33aa17b8e826d19a7"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-rows-preflight-cycle1431.json",
+      "sha256": "76a5a13dbaf2b854a62172b246c99b1b31faa9d122babde4df91cb71d4218d32"
+    },
+    {
+      "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-reader-authorization-cycle1431.json",
+      "sha256": "15199e0af045e0d265f27234ad78d9b6fc2beac0c3b33e3befd971af957cd1c0",
+      "bytes": 1419
+    }
+  ],
+  "common_source": {
+    "bytes": 8721546,
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-native-common-cycle1432.json",
+    "sha256": "c798def0613ef0d8caad8af0bd7c3d97e4851315d2c72ebede58fe5f5843804f"
+  },
+  "context_source": {
+    "bytes": 2179719,
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-native-contexts-cycle1432.json",
+    "sha256": "dfe5de4b3083673b6aa1cfdfa1c9167d80ba9ed6d6a5c5c7d75a9cb0de290059"
+  },
+  "global_c1_c2_premise": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/two-free-independent-authority-cycle1409.json",
+    "sha256": "effc1e4e3e98e0f63fc347195175df63a9682f5f26ac31b33aa17b8e826d19a7"
+  },
+  "parent_authorization": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-reader-authorization-cycle1431.json",
+    "sha256": "15199e0af045e0d265f27234ad78d9b6fc2beac0c3b33e3befd971af957cd1c0",
+    "bytes": 1419
+  },
+  "independent_price": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/signed-star-rows-preflight-cycle1431.json",
+    "sha256": "76a5a13dbaf2b854a62172b246c99b1b31faa9d122babde4df91cb71d4218d32"
+  },
+  "reader_source": {
+    "path": "/home/spinoza/github/math-theory/.research/attempts/009-parent-analysis/verify_signed_star_rows_cycle1431.py",
+    "sha256": "1f60d9df17f374a75a5829718fd9b96f886196a6aa992f044820885bf44c088b",
+    "bytes": 14182
+  },
+  "CPU_seconds": 4.820061205,
+  "peak_RSS_bytes": 187846656
+}

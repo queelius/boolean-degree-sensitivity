@@ -1,0 +1,1632 @@
+{
+  "updated_at": "2026-10-15T05:45:22.065378+00:00",
+  "scope": "Exhaustive necessary negative-quintic magnitude partitions from exact Fourier defect budgets. Open rows include all support placements unless a more specific audited subcase is cited. No row is a Boolean witness.",
+  "generator": "attempts/006-solver-resume/oneedge_three_one_one.py:negative_patterns",
+  "one_edge": {
+    "defect_budget": 16,
+    "patterns": [
+      {
+        "negative_magnitudes": [],
+        "negative_defect": 0,
+        "remaining_defect": 16,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/009-parent-analysis/oneedge-local-exceptions.md",
+          "attempts/008-sparse-spectrum-proof/g98-four-restorations-audit.md"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          3
+        ],
+        "negative_defect": 12,
+        "remaining_defect": 4,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/009-parent-analysis/oneedge-local-exceptions.md",
+          "attempts/008-sparse-spectrum-proof/g98-four-restorations-audit.md"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          3,
+          1
+        ],
+        "negative_defect": 14,
+        "remaining_defect": 2,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/009-parent-analysis/oneedge-local-exceptions.md",
+          "attempts/008-sparse-spectrum-proof/g98-four-restorations-audit.md"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          3,
+          1,
+          1
+        ],
+        "negative_defect": 16,
+        "remaining_defect": 0,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/006-solver-resume/oneedge-three-one-one-exclusion.md",
+          "attempts/006-solver-resume/independent-math-audit/onepair-311-exclusion-audit.md"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          2
+        ],
+        "negative_defect": 6,
+        "remaining_defect": 10,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/009-parent-analysis/oneedge-local-exceptions.md",
+          "attempts/008-sparse-spectrum-proof/g98-four-restorations-audit.md"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          2,
+          2
+        ],
+        "negative_defect": 12,
+        "remaining_defect": 4,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/009-parent-analysis/oneedge-local-exceptions.md",
+          "attempts/008-sparse-spectrum-proof/g98-four-restorations-audit.md"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          2,
+          2,
+          1
+        ],
+        "negative_defect": 14,
+        "remaining_defect": 2,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/009-parent-analysis/oneedge-three-negative-transfers.md",
+          "attempts/006-solver-resume/independent-math-audit/onepair-211-221-root-transfer-audit.md"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          2,
+          2,
+          1,
+          1
+        ],
+        "negative_defect": 16,
+        "remaining_defect": 0,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/009-parent-analysis/oneedge-2211-complete-exclusion.md",
+          "attempts/006-solver-resume/independent-math-audit/onepair-2211-outside-u-audit.md",
+          "attempts/006-solver-resume/independent-math-audit/onepair-2211-private-full-audit.md"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          2,
+          1
+        ],
+        "negative_defect": 8,
+        "remaining_defect": 8,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/009-parent-analysis/oneedge-local-exceptions.md",
+          "attempts/008-sparse-spectrum-proof/g98-four-restorations-audit.md"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          2,
+          1,
+          1
+        ],
+        "negative_defect": 10,
+        "remaining_defect": 6,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/009-parent-analysis/oneedge-three-negative-transfers.md",
+          "attempts/006-solver-resume/independent-math-audit/onepair-211-221-root-transfer-audit.md"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          2,
+          1,
+          1,
+          1
+        ],
+        "negative_defect": 12,
+        "remaining_defect": 4,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/009-parent-analysis/oneedge-2111-complete-exclusion.md",
+          "attempts/009-parent-analysis/oneedge-2111-complete-exclusion-manifest.json"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          2,
+          1,
+          1,
+          1,
+          1
+        ],
+        "negative_defect": 14,
+        "remaining_defect": 2,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/009-parent-analysis/oneedge-21111-complete-exclusion-manifest.json"
+        ],
+        "connected_support_reduction": {
+          "status": "independently_verified_partial_reduction",
+          "remaining": 26,
+          "explicit_zero_pairs": 668,
+          "necessary_conclusion": "Unique quartic U has a_U=2, H[U]=4 and f(U)=0; the seven nonnegative quintic extensions vanish.",
+          "proof_refs": [
+            "attempts/009-parent-analysis/connected-21111-full-quartic-audit.md",
+            "attempts/009-parent-analysis/connected-21111-full-quartic-independent-verification.json"
+          ]
+        }
+      },
+      {
+        "negative_magnitudes": [
+          2,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "negative_defect": 16,
+        "remaining_defect": 0,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/006-solver-resume/heavy-five-nine-case-reduction-manifest.json",
+          "attempts/008-sparse-spectrum-proof/heavy-triangle-complete-pair-links.md",
+          "attempts/009-parent-analysis/heavy-triangle-complete-exclusion-accepted-manifest.json"
+        ],
+        "support_coverage": {
+          "cycle": 68,
+          "ledger": "attempts/006-solver-resume/oneedge-support-coverage-cycle66.json",
+          "connected_status": "EXCLUDED",
+          "connected_remaining": 0,
+          "connected_literal_pairs": 0,
+          "disconnected_status": "EXCLUDED",
+          "disconnected_remaining_classes": 0,
+          "disconnected_remaining_pairs": 0,
+          "accepted_reduction": "attempts/006-solver-resume/heavy-five-nine-case-reduction-manifest.json",
+          "accepted_complete_exclusion": "attempts/009-parent-analysis/heavy-triangle-complete-exclusion-accepted-manifest.json"
+        },
+        "historical_support_reductions": [
+          {
+            "status": "independently_verified_partial_reduction",
+            "remaining": 186,
+            "conditional_full_quartics": 168,
+            "scope": "Connected supports; marked heavy placements where applicable. Disconnected families remain separate.",
+            "decision_file": "attempts/006-solver-resume/connected-heavy2-fiveunit-localized-current.json",
+            "manifest": "attempts/006-solver-resume/localized-repair-and-forcing-manifest.json"
+          }
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          1
+        ],
+        "negative_defect": 2,
+        "remaining_defect": 14,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/009-parent-analysis/oneedge-local-exceptions.md",
+          "attempts/008-sparse-spectrum-proof/g98-four-restorations-audit.md"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          1,
+          1
+        ],
+        "negative_defect": 4,
+        "remaining_defect": 12,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/009-parent-analysis/oneedge-local-exceptions.md",
+          "attempts/008-sparse-spectrum-proof/g98-four-restorations-audit.md"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          1,
+          1,
+          1
+        ],
+        "negative_defect": 6,
+        "remaining_defect": 10,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/009-parent-analysis/oneedge-three-unit-exclusion.md"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "negative_defect": 8,
+        "remaining_defect": 8,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/006-solver-resume/four-unit-exclusion.md",
+          "attempts/006-solver-resume/independent-math-audit/four-unit-exclusion-audit.md"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "negative_defect": 10,
+        "remaining_defect": 6,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/006-solver-resume/five-unit-exclusion.md",
+          "attempts/006-solver-resume/independent-math-audit/five-unit-final-exclusion-audit.md"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "negative_defect": 12,
+        "remaining_defect": 4,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/006-solver-resume/six-negative-units-complete-exclusion.md",
+          "attempts/006-solver-resume/six-negative-units-complete-exclusion-manifest.json",
+          "attempts/006-solver-resume/independent-math-audit/complete-two-star-and-six-unit-audit.md"
+        ],
+        "support_coverage": {
+          "cycle": 65,
+          "ledger": "attempts/006-solver-resume/oneedge-support-coverage-cycle65.json",
+          "connected_status": "EXCLUDED",
+          "connected_remaining": 0,
+          "connected_literal_pairs": 0,
+          "disconnected_status": "EXCLUDED"
+        }
+      },
+      {
+        "negative_magnitudes": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "negative_defect": 14,
+        "remaining_defect": 2,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/009-parent-analysis/seven-negative-units-complete-exclusion-manifest.json"
+        ],
+        "support_coverage": {
+          "cycle": 68,
+          "ledger": "attempts/006-solver-resume/oneedge-support-coverage-cycle66.json",
+          "connected_status": "EXCLUDED",
+          "connected_remaining": 0,
+          "connected_literal_pairs": 0,
+          "disconnected_status": "EXCLUDED",
+          "remaining_candidate_component_partitions": [],
+          "disconnected_remaining_classes": 0,
+          "disconnected_remaining_pairs": 0,
+          "accepted_complete_exclusion": "attempts/009-parent-analysis/seven-negative-units-complete-exclusion-manifest.json"
+        },
+        "historical_support_reductions": [
+          {
+            "status": "independently_verified_partial_reduction",
+            "remaining": 28,
+            "conditional_full_quartics": 13,
+            "scope": "Connected supports; marked heavy placements where applicable. Disconnected families remain separate.",
+            "decision_file": "attempts/006-solver-resume/connected-unit7-localized-current.json",
+            "manifest": "attempts/006-solver-resume/localized-repair-and-forcing-manifest.json"
+          }
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "negative_defect": 16,
+        "remaining_defect": 0,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/006-solver-resume/oneedge-complete-assembly.md",
+          "attempts/006-solver-resume/oneedge-complete-assembly-manifest.json"
+        ],
+        "support_coverage": {
+          "cycle": 76,
+          "ledger": "attempts/006-solver-resume/oneedge-support-coverage-cycle76.json",
+          "connected_remaining": 0,
+          "connected_literal_pairs": 0,
+          "disconnected_remaining_classes": 0,
+          "disconnected_remaining_pairs": 0,
+          "disconnected_candidate_partitions": 10
+        },
+        "historical_support_reductions": [
+          {
+            "status": "independently_verified_partial_reduction",
+            "remaining": 2807,
+            "conditional_full_quartics": 267,
+            "scope": "Connected supports; marked heavy placements where applicable. Disconnected families remain separate.",
+            "decision_file": "attempts/006-solver-resume/connected-unit8-localized-current.json",
+            "manifest": "attempts/006-solver-resume/localized-repair-and-forcing-manifest.json"
+          },
+          {
+            "cycle": 68,
+            "ledger": "attempts/006-solver-resume/oneedge-support-coverage-cycle68.json",
+            "connected_status": "EXCLUDED",
+            "connected_remaining": 0,
+            "connected_literal_pairs": 0,
+            "disconnected_status": "OPEN_PARTIAL_RELATIVE_PLACEMENT_COVERS",
+            "excluded_component_partitions": [
+              [
+                5,
+                2,
+                1
+              ],
+              [
+                4,
+                2,
+                2
+              ]
+            ]
+          }
+        ],
+        "support_checkpoint": {
+          "path": "attempts/006-solver-resume/nine-partition-exclusions-cycle72-manifest.json",
+          "sha256": "9884ff1d40e1502b3e36a13f4a1e92378daf0f07afd20d95bc51e792b20e966e"
+        },
+        "acceptance": {
+          "path": ".research/attempts/006-solver-resume/oneedge-complete-assembly-manifest.json",
+          "sha256": "1925924f0e1ac3865db3164a975a60d0a5d29f65ffd7a4d2892cd419be546c1d"
+        }
+      }
+    ],
+    "open_count": 0
+  },
+  "empty_pair": {
+    "defect_budget": 28,
+    "patterns": [
+      {
+        "negative_magnitudes": [],
+        "negative_defect": 0,
+        "remaining_defect": 28,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/008-sparse-spectrum-proof/asymmetric-negative-quintics.md",
+          "attempts/008-sparse-spectrum-proof/empty-asymmetric-r1-exclusion.md"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          4
+        ],
+        "negative_defect": 20,
+        "remaining_defect": 8,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/008-sparse-spectrum-proof/asymmetric-negative-quintics.md",
+          "attempts/008-sparse-spectrum-proof/empty-asymmetric-r1-exclusion.md"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          4,
+          2
+        ],
+        "negative_defect": 26,
+        "remaining_defect": 2,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/008-sparse-spectrum-proof/asymmetric-negative-quintics.md",
+          "attempts/008-sparse-spectrum-proof/empty-asymmetric-r1-exclusion.md"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          4,
+          2,
+          1
+        ],
+        "negative_defect": 28,
+        "remaining_defect": 0,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/008-sparse-spectrum-proof/empty-three-mixed-negatives.md",
+          "attempts/009-parent-analysis/empty-three-mixed-parent-audit.md"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          4,
+          1
+        ],
+        "negative_defect": 22,
+        "remaining_defect": 6,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/008-sparse-spectrum-proof/asymmetric-negative-quintics.md",
+          "attempts/008-sparse-spectrum-proof/empty-asymmetric-r1-exclusion.md"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          4,
+          1,
+          1
+        ],
+        "negative_defect": 24,
+        "remaining_defect": 4,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/008-sparse-spectrum-proof/empty-three-mixed-negatives.md",
+          "attempts/009-parent-analysis/empty-three-mixed-parent-audit.md"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          4,
+          1,
+          1,
+          1
+        ],
+        "negative_defect": 26,
+        "remaining_defect": 2,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/009-parent-analysis/empty-four-parent-audit.md",
+          "attempts/009-parent-analysis/empty-four-parent-replay.json"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          4,
+          1,
+          1,
+          1,
+          1
+        ],
+        "negative_defect": 28,
+        "remaining_defect": 0,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/009-parent-analysis/empty-41111-parent-audit.md",
+          "attempts/009-parent-analysis/empty-41111-parent-independent-verification.json",
+          "attempts/008-sparse-spectrum-proof/empty-four-four-units-lp-independent-verification.json"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          3
+        ],
+        "negative_defect": 12,
+        "remaining_defect": 16,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/008-sparse-spectrum-proof/asymmetric-negative-quintics.md",
+          "attempts/008-sparse-spectrum-proof/empty-asymmetric-r1-exclusion.md"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          3,
+          3
+        ],
+        "negative_defect": 24,
+        "remaining_defect": 4,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/008-sparse-spectrum-proof/asymmetric-negative-quintics.md",
+          "attempts/008-sparse-spectrum-proof/empty-asymmetric-r1-exclusion.md"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          3,
+          3,
+          1
+        ],
+        "negative_defect": 26,
+        "remaining_defect": 2,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/008-sparse-spectrum-proof/empty-three-mixed-negatives.md",
+          "attempts/009-parent-analysis/empty-three-mixed-parent-audit.md"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          3,
+          3,
+          1,
+          1
+        ],
+        "negative_defect": 28,
+        "remaining_defect": 0,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/009-parent-analysis/empty-3211-3311-parent-audit.md",
+          "attempts/009-parent-analysis/empty-3211-3311-parent-replay.json"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          3,
+          2
+        ],
+        "negative_defect": 18,
+        "remaining_defect": 10,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/008-sparse-spectrum-proof/asymmetric-negative-quintics.md",
+          "attempts/008-sparse-spectrum-proof/empty-asymmetric-r1-exclusion.md"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          3,
+          2,
+          2
+        ],
+        "negative_defect": 24,
+        "remaining_defect": 4,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/008-sparse-spectrum-proof/empty-three-support-localization.md",
+          "attempts/009-parent-analysis/empty-three-support-parent-audit.md"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          3,
+          2,
+          2,
+          1
+        ],
+        "negative_defect": 26,
+        "remaining_defect": 2,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/009-parent-analysis/empty-3221-parent-audit.md",
+          "attempts/009-parent-analysis/empty-3221-parent-independent-verification.json"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          3,
+          2,
+          2,
+          1,
+          1
+        ],
+        "negative_defect": 28,
+        "remaining_defect": 0,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/009-parent-analysis/empty-32211-parent-audit.md",
+          "attempts/009-parent-analysis/empty-32211-parent-independent-verification.json"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          3,
+          2,
+          1
+        ],
+        "negative_defect": 20,
+        "remaining_defect": 8,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/008-sparse-spectrum-proof/empty-three-mixed-negatives.md",
+          "attempts/009-parent-analysis/empty-three-mixed-parent-audit.md"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          3,
+          2,
+          1,
+          1
+        ],
+        "negative_defect": 22,
+        "remaining_defect": 6,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/009-parent-analysis/empty-3211-3311-parent-audit.md",
+          "attempts/009-parent-analysis/empty-3211-3311-parent-replay.json"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          3,
+          2,
+          1,
+          1,
+          1
+        ],
+        "negative_defect": 24,
+        "remaining_defect": 4,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/008-sparse-spectrum-proof/empty-32111-exclusion.md",
+          "attempts/009-parent-analysis/empty-32111-parent-audit.md",
+          "attempts/009-parent-analysis/empty-32111-parent-independent-verification.json"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          3,
+          2,
+          1,
+          1,
+          1,
+          1
+        ],
+        "negative_defect": 26,
+        "remaining_defect": 2,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/009-parent-analysis/empty-321111-complete-accepted-manifest.json"
+        ],
+        "partial_reductions": [
+          {
+            "condition": "Accepted three-component allocation for exact321111.",
+            "necessary_conclusion": "Only the extra magnitude-two guarded triangle with two residual defect units remains; the extra magnitude-three baseline branch is excluded.",
+            "whole_pattern_excluded": false,
+            "remaining_local_cases": [
+              {
+                "extra_negative_magnitude": 2,
+                "remaining_defect": 2
+              }
+            ],
+            "proof_refs": [
+              "attempts/009-parent-analysis/empty-321111-weight-three-branch-excluded-manifest.json"
+            ],
+            "acceptance": {
+              "path": ".research/attempts/009-parent-analysis/empty-321111-weight-three-branch-excluded-manifest.json",
+              "sha256": "dbfe46245d9fb3a0eeb02dccd421f9d0e124c1e1f636950593b098645b0b4372"
+            }
+          }
+        ],
+        "acceptance": {
+          "path": ".research/attempts/009-parent-analysis/empty-321111-complete-accepted-manifest.json",
+          "sha256": "86484114658fea16fba6b8a32c81e1789b4fb3ec5206e7ae6396dd01c0aefd76"
+        },
+        "scope": "Complete exact magnitude pattern, including every prior conditional branch; independently audited literal final top-product cover."
+      },
+      {
+        "negative_magnitudes": [
+          3,
+          2,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "negative_defect": 28,
+        "remaining_defect": 0,
+        "status": "open",
+        "proof_refs": [],
+        "conditional_refinements": [
+          {
+            "path": "attempts/009-parent-analysis/empty-3211111-connected-odd-accepted-manifest.json",
+            "sha256": "24a81e2c8625928f06ee01cb0a6f9ac6e9a19835b4fafd4705314d303c20f799"
+          },
+          {
+            "path": "attempts/009-parent-analysis/empty-3211111-components-accepted-manifest.json",
+            "sha256": "5ea464a826bfb5a5e51d79f2d9cb0f81b7f30397bd43c29fa89fab52e80dda58"
+          },
+          {
+            "path": "attempts/009-parent-analysis/empty-clean-triangle-star-accepted-manifest.json",
+            "sha256": "8014398526af0e48218b26ace9cf2a84a29554bc47eb432dc1d0a615824e74c9"
+          },
+          {
+            "path": "attempts/009-parent-analysis/empty-disjoint-heavy-matching-accepted-manifest.json",
+            "sha256": "7749c5a9e3377faedfbaf6ec8c446548ad5687c972f41e36daba9b712011c1ad"
+          },
+          {
+            "path": "attempts/009-parent-analysis/empty-3211111-disjoint-heavy-accepted-manifest.json",
+            "sha256": "2311738117d092a8d29f9fa53cbe3d7c7a86c1fa90f390fc64d99396c5793325"
+          }
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          3,
+          1
+        ],
+        "negative_defect": 14,
+        "remaining_defect": 14,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/008-sparse-spectrum-proof/asymmetric-negative-quintics.md",
+          "attempts/008-sparse-spectrum-proof/empty-asymmetric-r1-exclusion.md"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          3,
+          1,
+          1
+        ],
+        "negative_defect": 16,
+        "remaining_defect": 12,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/008-sparse-spectrum-proof/empty-three-mixed-negatives.md",
+          "attempts/009-parent-analysis/empty-three-mixed-parent-audit.md"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          3,
+          1,
+          1,
+          1
+        ],
+        "negative_defect": 18,
+        "remaining_defect": 10,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/009-parent-analysis/empty-four-parent-audit.md",
+          "attempts/009-parent-analysis/empty-four-parent-replay.json"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          3,
+          1,
+          1,
+          1,
+          1
+        ],
+        "negative_defect": 20,
+        "remaining_defect": 8,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/008-sparse-spectrum-proof/empty-31111-exclusion.md",
+          "attempts/009-parent-analysis/empty-31111-parent-audit.md",
+          "attempts/009-parent-analysis/empty-31111-parent-independent-verification.json"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          3,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "negative_defect": 22,
+        "remaining_defect": 6,
+        "status": "open",
+        "proof_refs": []
+      },
+      {
+        "negative_magnitudes": [
+          3,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "negative_defect": 24,
+        "remaining_defect": 4,
+        "status": "open",
+        "proof_refs": []
+      },
+      {
+        "negative_magnitudes": [
+          3,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "negative_defect": 26,
+        "remaining_defect": 2,
+        "status": "open",
+        "proof_refs": []
+      },
+      {
+        "negative_magnitudes": [
+          3,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "negative_defect": 28,
+        "remaining_defect": 0,
+        "status": "open",
+        "proof_refs": []
+      },
+      {
+        "negative_magnitudes": [
+          2
+        ],
+        "negative_defect": 6,
+        "remaining_defect": 22,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/008-sparse-spectrum-proof/asymmetric-negative-quintics.md",
+          "attempts/008-sparse-spectrum-proof/empty-asymmetric-r1-exclusion.md"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          2,
+          2
+        ],
+        "negative_defect": 12,
+        "remaining_defect": 16,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/008-sparse-spectrum-proof/asymmetric-negative-quintics.md",
+          "attempts/008-sparse-spectrum-proof/empty-asymmetric-r1-exclusion.md"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          2,
+          2,
+          2
+        ],
+        "negative_defect": 18,
+        "remaining_defect": 10,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/008-sparse-spectrum-proof/empty-three-support-localization.md",
+          "attempts/009-parent-analysis/empty-three-support-parent-audit.md"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "negative_defect": 24,
+        "remaining_defect": 4,
+        "status": "open",
+        "proof_refs": [],
+        "partial_reductions": [
+          {
+            "condition": "The four heavy supports share a common pair.",
+            "necessary_conclusion": "Both common singleton Fourier numerators are zero; the four residual defect units are exhausted.",
+            "proof_refs": [
+              "attempts/009-parent-analysis/empty-2222-pair-singletons-parent-audit.md",
+              "attempts/009-parent-analysis/empty-2222-pair-singletons-independent-verification.json"
+            ]
+          },
+          {
+            "condition": "The four heavy supports share a common pair.",
+            "necessary_conclusion": "The common-pair zero-triple codegree is at most four.",
+            "proof_refs": [
+              "attempts/009-parent-analysis/empty-2222-core-d5-parent-audit.md",
+              "attempts/009-parent-analysis/empty-2222-core-d5-parent-independent-verification.json",
+              "attempts/009-parent-analysis/empty-2222-core-d6-parent-audit.md",
+              "attempts/009-parent-analysis/empty-2222-core-d6-parent-independent-verification.json"
+            ]
+          }
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          2,
+          2,
+          2,
+          2,
+          1
+        ],
+        "negative_defect": 26,
+        "remaining_defect": 2,
+        "status": "open",
+        "proof_refs": [],
+        "partial_reductions": [
+          {
+            "excluded_condition": "The four magnitude-two supports have common intersection of size at least two.",
+            "remaining_conditions": [
+              "Heavy support common intersection size zero.",
+              "Heavy support common intersection size one."
+            ],
+            "proof_refs": [
+              "attempts/009-parent-analysis/empty-22221-common-pair-parent-audit.md",
+              "attempts/009-parent-analysis/empty-22221-common-pair-independent-verification.json"
+            ]
+          },
+          {
+            "condition": "The four heavy supports have exactly one common vertex.",
+            "necessary_conclusion": "The common singleton Fourier numerator is zero; the two residual defect units are exhausted.",
+            "proof_refs": [
+              "attempts/009-parent-analysis/empty-2222-pair-singletons-parent-audit.md"
+            ]
+          }
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          2,
+          2,
+          2,
+          2,
+          1,
+          1
+        ],
+        "negative_defect": 28,
+        "remaining_defect": 0,
+        "status": "open",
+        "proof_refs": []
+      },
+      {
+        "negative_magnitudes": [
+          2,
+          2,
+          2,
+          1
+        ],
+        "negative_defect": 20,
+        "remaining_defect": 8,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/009-parent-analysis/empty-four-parent-audit.md",
+          "attempts/009-parent-analysis/empty-four-parent-replay.json"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          2,
+          2,
+          2,
+          1,
+          1
+        ],
+        "negative_defect": 22,
+        "remaining_defect": 6,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/008-sparse-spectrum-proof/empty-22211-exclusion.md",
+          "attempts/006-solver-resume/independent-math-audit/empty22211-complete-audit.md",
+          "attempts/006-solver-resume/independent-math-audit/empty22211-complete-independent-verification.json"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          2,
+          2,
+          2,
+          1,
+          1,
+          1
+        ],
+        "negative_defect": 24,
+        "remaining_defect": 4,
+        "status": "open",
+        "proof_refs": []
+      },
+      {
+        "negative_magnitudes": [
+          2,
+          2,
+          2,
+          1,
+          1,
+          1,
+          1
+        ],
+        "negative_defect": 26,
+        "remaining_defect": 2,
+        "status": "open",
+        "proof_refs": []
+      },
+      {
+        "negative_magnitudes": [
+          2,
+          2,
+          2,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "negative_defect": 28,
+        "remaining_defect": 0,
+        "status": "open",
+        "proof_refs": []
+      },
+      {
+        "negative_magnitudes": [
+          2,
+          2,
+          1
+        ],
+        "negative_defect": 14,
+        "remaining_defect": 14,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/008-sparse-spectrum-proof/empty-three-mixed-negatives.md",
+          "attempts/009-parent-analysis/empty-three-mixed-parent-audit.md"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          2,
+          2,
+          1,
+          1
+        ],
+        "negative_defect": 16,
+        "remaining_defect": 12,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/009-parent-analysis/empty-four-parent-audit.md",
+          "attempts/009-parent-analysis/empty-four-parent-replay.json"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          2,
+          2,
+          1,
+          1,
+          1
+        ],
+        "negative_defect": 18,
+        "remaining_defect": 10,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/008-sparse-spectrum-proof/empty-22111-exclusion.md",
+          "attempts/009-parent-analysis/empty-22111-parent-audit.md",
+          "attempts/009-parent-analysis/empty-22111-parent-independent-verification.json"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          2,
+          2,
+          1,
+          1,
+          1,
+          1
+        ],
+        "negative_defect": 20,
+        "remaining_defect": 8,
+        "status": "open",
+        "proof_refs": []
+      },
+      {
+        "negative_magnitudes": [
+          2,
+          2,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "negative_defect": 22,
+        "remaining_defect": 6,
+        "status": "open",
+        "proof_refs": []
+      },
+      {
+        "negative_magnitudes": [
+          2,
+          2,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "negative_defect": 24,
+        "remaining_defect": 4,
+        "status": "open",
+        "proof_refs": []
+      },
+      {
+        "negative_magnitudes": [
+          2,
+          2,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "negative_defect": 26,
+        "remaining_defect": 2,
+        "status": "open",
+        "proof_refs": []
+      },
+      {
+        "negative_magnitudes": [
+          2,
+          2,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "negative_defect": 28,
+        "remaining_defect": 0,
+        "status": "open",
+        "proof_refs": []
+      },
+      {
+        "negative_magnitudes": [
+          2,
+          1
+        ],
+        "negative_defect": 8,
+        "remaining_defect": 20,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/008-sparse-spectrum-proof/asymmetric-negative-quintics.md",
+          "attempts/008-sparse-spectrum-proof/empty-asymmetric-r1-exclusion.md"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          2,
+          1,
+          1
+        ],
+        "negative_defect": 10,
+        "remaining_defect": 18,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/008-sparse-spectrum-proof/empty-three-mixed-negatives.md",
+          "attempts/009-parent-analysis/empty-three-mixed-parent-audit.md"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          2,
+          1,
+          1,
+          1
+        ],
+        "negative_defect": 12,
+        "remaining_defect": 16,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/009-parent-analysis/empty-four-parent-audit.md",
+          "attempts/009-parent-analysis/empty-four-parent-replay.json"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          2,
+          1,
+          1,
+          1,
+          1
+        ],
+        "negative_defect": 14,
+        "remaining_defect": 14,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/009-parent-analysis/empty-two-four-units-parent-audit.md",
+          "attempts/009-parent-analysis/empty-two-four-units-parent-independent-verification.json"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          2,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "negative_defect": 16,
+        "remaining_defect": 12,
+        "status": "open",
+        "proof_refs": []
+      },
+      {
+        "negative_magnitudes": [
+          2,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "negative_defect": 18,
+        "remaining_defect": 10,
+        "status": "open",
+        "proof_refs": []
+      },
+      {
+        "negative_magnitudes": [
+          2,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "negative_defect": 20,
+        "remaining_defect": 8,
+        "status": "open",
+        "proof_refs": []
+      },
+      {
+        "negative_magnitudes": [
+          2,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "negative_defect": 22,
+        "remaining_defect": 6,
+        "status": "open",
+        "proof_refs": []
+      },
+      {
+        "negative_magnitudes": [
+          2,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "negative_defect": 24,
+        "remaining_defect": 4,
+        "status": "open",
+        "proof_refs": []
+      },
+      {
+        "negative_magnitudes": [
+          2,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "negative_defect": 26,
+        "remaining_defect": 2,
+        "status": "open",
+        "proof_refs": []
+      },
+      {
+        "negative_magnitudes": [
+          2,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "negative_defect": 28,
+        "remaining_defect": 0,
+        "status": "open",
+        "proof_refs": []
+      },
+      {
+        "negative_magnitudes": [
+          1
+        ],
+        "negative_defect": 2,
+        "remaining_defect": 26,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/008-sparse-spectrum-proof/asymmetric-negative-quintics.md",
+          "attempts/008-sparse-spectrum-proof/empty-asymmetric-r1-exclusion.md"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          1,
+          1
+        ],
+        "negative_defect": 4,
+        "remaining_defect": 24,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/008-sparse-spectrum-proof/asymmetric-negative-quintics.md",
+          "attempts/008-sparse-spectrum-proof/empty-asymmetric-r1-exclusion.md"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          1,
+          1,
+          1
+        ],
+        "negative_defect": 6,
+        "remaining_defect": 22,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/008-sparse-spectrum-proof/empty-three-mixed-negatives.md",
+          "attempts/009-parent-analysis/empty-three-mixed-parent-audit.md"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "negative_defect": 8,
+        "remaining_defect": 20,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/009-parent-analysis/empty-four-parent-audit.md",
+          "attempts/009-parent-analysis/empty-four-parent-replay.json"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "negative_defect": 10,
+        "remaining_defect": 18,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/009-parent-analysis/empty-five-units-parent-audit.md",
+          "attempts/009-parent-analysis/empty-five-units-parent-independent-verification.json"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "negative_defect": 12,
+        "remaining_defect": 16,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/008-sparse-spectrum-proof/empty-six-units.md",
+          "attempts/009-parent-analysis/empty-six-units-parent-audit.md",
+          "attempts/009-parent-analysis/empty-six-units-parent-independent-verification.json"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "negative_defect": 14,
+        "remaining_defect": 14,
+        "status": "excluded",
+        "proof_refs": [
+          "attempts/008-sparse-spectrum-proof/empty-seven-units.md",
+          "attempts/009-parent-analysis/empty-seven-units-parent-audit.md",
+          "attempts/009-parent-analysis/empty-seven-units-connected-parent-independent-verification.json",
+          "attempts/009-parent-analysis/empty-seven-units-disconnected-parent-independent-verification.json"
+        ]
+      },
+      {
+        "negative_magnitudes": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "negative_defect": 16,
+        "remaining_defect": 12,
+        "status": "open",
+        "proof_refs": []
+      },
+      {
+        "negative_magnitudes": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "negative_defect": 18,
+        "remaining_defect": 10,
+        "status": "open",
+        "proof_refs": []
+      },
+      {
+        "negative_magnitudes": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "negative_defect": 20,
+        "remaining_defect": 8,
+        "status": "open",
+        "proof_refs": []
+      },
+      {
+        "negative_magnitudes": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "negative_defect": 22,
+        "remaining_defect": 6,
+        "status": "open",
+        "proof_refs": []
+      },
+      {
+        "negative_magnitudes": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "negative_defect": 24,
+        "remaining_defect": 4,
+        "status": "open",
+        "proof_refs": []
+      },
+      {
+        "negative_magnitudes": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "negative_defect": 26,
+        "remaining_defect": 2,
+        "status": "open",
+        "proof_refs": []
+      },
+      {
+        "negative_magnitudes": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "negative_defect": 28,
+        "remaining_defect": 0,
+        "status": "open",
+        "proof_refs": []
+      }
+    ],
+    "open_count": 30
+  }
+}
