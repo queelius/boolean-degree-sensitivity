@@ -61,7 +61,8 @@ class CheckTests(unittest.TestCase):
                dict(n=2, terms=[], truth_table='0000'), dict(n=2, terms=[dict(vars=[0, 0], coef=1)]),
                dict(n=2, terms=[dict(vars=[2], coef=1)]), dict(n=2, terms=[dict(vars=[0], coef=True)]),
                dict(n=2, terms=[dict(vars=[0], coef=1.0)]), dict(n=2, terms=[dict(vars=[0], coef=1, x=1)]),
-               dict(n=2, truth_table='012'), dict(n=2, truth_table='0102')]
+               dict(n=2, truth_table='012'), dict(n=2, truth_table='0102'), dict(n=2, terms=None),
+               dict(n=2, terms={}), dict(n=2, terms='x'), dict(n=2, terms=[[0]]), dict(n=2, terms=[dict(vars=0, coef=1)])]
         for c in bad:
             with self.subTest(c=c), self.assertRaises(C.InvalidCandidate):
                 C.check(c)
@@ -81,12 +82,18 @@ class CheckTests(unittest.TestCase):
                 json.dump(KUSHILEVITZ, f)
             with open(bad, 'w') as f:
                 f.write('{')
-            run = lambda p: subprocess.run([sys.executable, script, p], capture_output=True, text=True)
+            with open(os.path.join(d, 'null.json'), 'w') as f:
+                json.dump(dict(n=2, terms=None), f)
+            flags = ['-O'] * sys.flags.optimize  # the CLI runs in the same mode as the tests
+            run = lambda p: subprocess.run([sys.executable, *flags, script, p], capture_output=True, text=True)
             r = run(good)
             self.assertEqual(r.returncode, 1)
             self.assertEqual(json.loads(r.stdout)['degree'], 3)
             self.assertEqual(run(bad).returncode, 2)
             self.assertEqual(run(os.path.join(d, 'missing.json')).returncode, 2)
+            null = run(os.path.join(d, 'null.json'))
+            self.assertEqual(null.returncode, 2)
+            self.assertIn('terms must be a list', null.stdout)
 
 
     def test_main_in_process(self):

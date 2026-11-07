@@ -110,8 +110,11 @@ them is distinct from checking the ten large certificates.
 Use [CITATION.cff](CITATION.cff) to cite the current exact archive, version
 **1.5.0**, [10.5281/zenodo.23999933](https://doi.org/10.5281/zenodo.23999933),
 published on 6 November 2026 (see the no-free residual-six supplement below).
-All 79 public files were verified after publication
-([receipt](supplements/no-free-residual-six/PUBLIC-ZENODO-v1.5.0.json)).
+All 79 public files were checked after publication
+([receipt](supplements/no-free-residual-six/PUBLIC-ZENODO-v1.5.0.json)): files up to
+64 MiB by full anonymous download, larger files by the public listing (size and
+server-side MD5) against local hashes plus an anonymous 1 MiB prefix read.
+The large parts were not downloaded in full.
 Version **1.4.0**, [10.5281/zenodo.23544931](https://doi.org/10.5281/zenodo.23544931),
 archives the residual-six derivative and disk supplement.
 
@@ -206,7 +209,11 @@ The certificates (17.8 GB stored) and the 14 packet files larger than 1 MiB
 are only in the Zenodo archive,
 [10.5281/zenodo.23999933](https://doi.org/10.5281/zenodo.23999933).
 [OMITTED-FROM-GIT.json](supplements/no-free-residual-six/OMITTED-FROM-GIT.json)
-gives the size and SHA-256 of each omitted file.
+gives the size and SHA-256 of each omitted file. The packed sources are
+byte-identical to the archive, so they keep the absolute paths of the machine
+that produced them (`/home/spinoza/...`, and a few `/tmp/claude-...` scratch
+scripts cited in an attempt-017 review note that were never archived). Read
+those paths relative to `source/`; the scratch checks are not available.
 
 ## Contributing
 

@@ -30,6 +30,8 @@ class InvalidCandidate(ValueError):
 
 
 def values_from_terms(n, terms):
+    if not isinstance(terms, list):
+        raise InvalidCandidate('terms must be a list')
     coeffs = {}
     for t in terms:
         if not isinstance(t, dict) or set(t) != {'vars', 'coef'}:

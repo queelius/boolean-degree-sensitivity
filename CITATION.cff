@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "Cite the exact archived version by its DOI. The global question remains open; the results are conditional on the premises stated in REPORT.md."
+message: "Cite the exact archived version by its DOI. The global question remains open; the results are conditional on the premises stated in supplements/no-free-residual-six/REPORT.md (v1.5.0) and REPORT.md (earlier exclusions)."
 type: dataset
 title: "Degree-five Boolean candidates: residual six with a negative-free coordinate excluded and two whole negative-quintic patterns excluded, with LRAT certificates"
 version: "1.5.0"
